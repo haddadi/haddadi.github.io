@@ -1,0 +1,16 @@
+---
+layout: post
+title: Our response to VPN providers' request & reactions
+---
+
+We have had a lot of interest in some of our recent work: “A Glance through the VPN Looking Glass: IPv6 Leakage and DNS Hijacking in Commercial VPN Clients”, which has just been published at the Privacy Enhancing Technologies Symposium in Philadelphia. We’re delighted this has made a positive impact, with many VPNs announcing fixes to deal with the issues we raised and notified them all months before publishing the paper. However, we wanted to add a few extra comments in light of the statements made in recent days.
+
+ A few of the VPN providers say that our paper is out-of-date and they have deployed fixes. This is great news to hear, and something that we were obviously hoping for. We were fastidious about contacting all VPN providers before publication to give them the opportunity to deploy their fixes before the results were made public. In many cases, the VPN providers have explicitly acknowledged us as being responsible for them deploying the fix. Upon contacting them, some of the companies ignored our mail. We therefore refute claims that we were irresponsible in the disclosure of this work - any VPNs who remain vulnerable are solely responsible for their own infrastructure and the privacy and security of their customers.
+
+ We’ve been contacted by several VPNs that we did not include in the study. Further, some of the VPNs that we did study have dismissed our findings, stating that they are not vulnerable. Whereas some have now deployed fixes, we are exceedingly confident in the veracity of the experiments prior to this. We also want to thank the VPNs that came out and acknowledged our work as being accurate, rather than denying it. One way in which companies have claimed our experiments are wrong is by saying that the number of exit points we reported were incorrect. This is misleading. We were explicit in saying that these numbers were those observed by our vantage point. We never claimed to have a comprehensive view over all their exit points. Further, this in no way relates to the security attacks discussed, so it is rather irrelevant. Sadly, we cannot continue to repeatedly test all the VPNs contacting us as we simply don’t have the manpower. However, we encourage all VPNs to repeat the tests detailed in the paper, and to deploy fixes if the vulnerabilities are found. 
+
+ Lastly, we want to emphasise the key point of our study: VPNs are not designed to give comprehensive anonymity. We were glad to see that some of companies were very candid about this, and publicly spoke of the benefits of Tor and the limitations of anonymity capabilities offered by a VPN. If you are genuinely concerned about your online privacy, then a service such as Tor is more appropriate. If you simply want to gain an IP address in another country then, sure, a VPN is perfectly suitable.
+
+ (Source)[http://netsocionomics.blogspot.com/2015/07/our-joint-response-to-vpn-providers.html]:
+
+ Vasile Claudiu Perta, Marco Valerio Barbera, Gareth Tyson, Hamed Haddadi, Alessandro Mei, "A Glance through the VPN Looking Glass: IPv6 Leakage and DNS Hijacking in Commercial VPN clients”,  The 15th Privacy Enhancing Technologies Symposium (PETS 2015), June 30 – July 2, 2015, Philadelphia, PA, USA (paper, HackerNews, The Register, Tech times). 
