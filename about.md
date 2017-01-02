@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Well, My name is [Hamed Haddadi](http://www.eecs.qmul.ac.uk/~hamed/)
 
-### More Information
+### Who am I?
 
-A place to include any other types of information that you'd like to include about yourself.
+I'm an academic researcher, based in London, UK. I primarily work on the [Databox project](http://www.databoxproject.uk/) 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[hamed.haddadi@qmul.ac.uk](mailto:hamed.haddadi@qmul.ac.uk)
