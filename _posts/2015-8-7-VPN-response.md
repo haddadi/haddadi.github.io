@@ -11,6 +11,6 @@ We have had a lot of interest in some of our recent work: “A Glance through th
 
  Lastly, we want to emphasise the key point of our study: VPNs are not designed to give comprehensive anonymity. We were glad to see that some of companies were very candid about this, and publicly spoke of the benefits of Tor and the limitations of anonymity capabilities offered by a VPN. If you are genuinely concerned about your online privacy, then a service such as Tor is more appropriate. If you simply want to gain an IP address in another country then, sure, a VPN is perfectly suitable.
 
- (Source)[http://netsocionomics.blogspot.com/2015/07/our-joint-response-to-vpn-providers.html]:
+ [Source[(http://netsocionomics.blogspot.com/2015/07/our-joint-response-to-vpn-providers.html)
 
- Vasile Claudiu Perta, Marco Valerio Barbera, Gareth Tyson, Hamed Haddadi, Alessandro Mei, "A Glance through the VPN Looking Glass: IPv6 Leakage and DNS Hijacking in Commercial VPN clients”,  The 15th Privacy Enhancing Technologies Symposium (PETS 2015), June 30 – July 2, 2015, Philadelphia, PA, USA (paper, HackerNews, The Register, Tech times). 
+ Vasile Claudiu Perta, Marco Valerio Barbera, Gareth Tyson, Hamed Haddadi, Alessandro Mei, "[A Glance through the VPN Looking Glass: IPv6 Leakage and DNS Hijacking in Commercial VPN clients](http://www.eecs.qmul.ac.uk/%7Ehamed/papers/PETS2015VPN.pdf)”,  The 15th Privacy Enhancing Technologies Symposium (PETS 2015), June 30 – July 2, 2015, Philadelphia, PA, USA (paper, HackerNews, The Register, Tech times). 
