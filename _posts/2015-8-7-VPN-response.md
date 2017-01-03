@@ -13,4 +13,4 @@ We have had a lot of interest in some of our recent work: “A Glance through th
 
  [Source](http://netsocionomics.blogspot.com/2015/07/our-joint-response-to-vpn-providers.html "http://netsocionomics.blogspot.com/2015/07/our-joint-response-to-vpn-providers.html")
 
- Vasile Claudiu Perta, Marco Valerio Barbera, Gareth Tyson, Hamed Haddadi, Alessandro Mei, "[A Glance through the VPN Looking Glass: IPv6 Leakage and DNS Hijacking in Commercial VPN clients](http://www.eecs.qmul.ac.uk/%7Ehamed/papers/PETS2015VPN.pdf)”,  The 15th Privacy Enhancing Technologies Symposium (PETS 2015), June 30 – July 2, 2015, Philadelphia, PA, USA (paper, HackerNews, The Register, Tech times). 
+ Vasile Claudiu Perta, Marco Valerio Barbera, Gareth Tyson, Hamed Haddadi, Alessandro Mei, "[A Glance through the VPN Looking Glass: IPv6 Leakage and DNS Hijacking in Commercial VPN clients](http://www.eecs.qmul.ac.uk/%7Ehamed/papers/PETS2015VPN.pdf "http://www.eecs.qmul.ac.uk/%7Ehamed/papers/PETS2015VPN.pdf" )”,  The 15th Privacy Enhancing Technologies Symposium (PETS 2015), June 30 – July 2, 2015, Philadelphia, PA, USA (paper, HackerNews, The Register, Tech times). 
