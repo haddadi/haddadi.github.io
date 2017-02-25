@@ -3,7 +3,7 @@ layout: post
 title: Databox Open Source Software Community Launch
 ---
 
-[(https://www.eventbrite.com/e/databox-open-source-community-launch-tickets-32288471688](https://www.eventbrite.com/e/databox-open-source-community-launch-tickets-32288471688)
+[https://www.eventbrite.com/e/databox-open-source-community-launch-tickets-32288471688](https://www.eventbrite.com/e/databox-open-source-community-launch-tickets-32288471688)
 
 Databox Open Source Software Community Launch
 
