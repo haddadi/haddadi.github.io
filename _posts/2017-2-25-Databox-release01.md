@@ -3,7 +3,7 @@ layout: post
 title: Databox Open Source Software Community Launch
 ---
 
-(https://www.eventbrite.com/e/databox-open-source-community-launch-tickets-32288471688)
+[(https://www.eventbrite.com/e/databox-open-source-community-launch-tickets-32288471688](https://www.eventbrite.com/e/databox-open-source-community-launch-tickets-32288471688)
 
 Databox Open Source Software Community Launch
 
@@ -11,7 +11,7 @@ Dear Open Source Software enthusiasts
 
 We are inviting you to join us in the open-source community launch of the Databox project on Friday 24th of March at Darwin College in Cambridge, UK.
 
-[Databox](http://www.databoxproject.uk/), started in October 2017 with generous funding by EPSRC, envisions an open-source personal networked device, augmented by cloud-hosted services, that collates, curates, and mediates access to an individual’s personal data by verified and audited, locally-executable, third party applications and services. The Databox will form the heart of an individual’s personal data processing ecosystem, providing a platform for managing secure access to data and enabling authorised third parties to provide the owner with authenticated services, including services that may be accessed while roaming outside the home environment. You can find out more about the project on (http://www.databoxproject.uk/) and view the in-progress code at (https://github.com/me-box/).
+[Databox](http://www.databoxproject.uk/), started in October 2017 with generous funding by EPSRC, envisions an open-source personal networked device, augmented by cloud-hosted services, that collates, curates, and mediates access to an individual’s personal data by verified and audited, locally-executable, third party applications and services. The Databox will form the heart of an individual’s personal data processing ecosystem, providing a platform for managing secure access to data and enabling authorised third parties to provide the owner with authenticated services, including services that may be accessed while roaming outside the home environment. You can find out more about the project on [http://www.databoxproject.uk/](http://www.databoxproject.uk/) and view the in-progress code at [(https://github.com/me-box/](https://github.com/me-box/).
 
 We will present the initial release of a working open source Databox platform, which can be run on any device capable of running Docker containers. We endeavour to provide support for ARM devices such as the Raspberry Pi 3 for this release. This initial release will have basic data collection support through mobile sensing libraries and selected APIs, will provide basic data flow policing and privacy policy enforcement, and will support installation and operation of simple personal data processing apps. At this event we want to introduce the Databox to you, and then we hope to engage with security & privacy enthusiasts, data visualisation & analytics fans, and potential app developers to begin building a community and ecosystem around the Databox. We’re open to contributions of all kinds, from improvements to core components, to helping you integrate your favourite IoT devices, to brainstorming what apps and devices you want to see the Databox support!
 
