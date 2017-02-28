@@ -9,7 +9,7 @@ Databox Open Source Software Community Launch
 
 Dear Open Source Software enthusiasts
 
-We are inviting you to join us in the open-source community launch of the Databox project on Friday 24th of March at Darwin College in Cambridge, UK.
+We are inviting you to join us in the open-source community launch of the Databox project on Friday 24th of March at Darwin College in Cambridge, in co-operation with the [OCaml Labs](http://www.cl.cam.ac.uk/projects/ocamllabs/) in Cambridge..
 
 [Databox](http://www.databoxproject.uk/), started in October 2017 with generous funding by EPSRC, envisions an open-source personal networked device, augmented by cloud-hosted services, that collates, curates, and mediates access to an individual’s personal data by verified and audited, locally-executable, third party applications and services. The Databox will form the heart of an individual’s personal data processing ecosystem, providing a platform for managing secure access to data and enabling authorised third parties to provide the owner with authenticated services, including services that may be accessed while roaming outside the home environment. You can find out more about the project on [http://www.databoxproject.uk/](http://www.databoxproject.uk/) and view the in-progress code at [https://github.com/me-box/](https://github.com/me-box/).
 
