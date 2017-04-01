@@ -3,9 +3,6 @@ layout: post
 title: Privacy-Preserving Analytics using Edge Computing
 ---
 
-##  Privacy-Preserving Analytics using Edge Computing ##
-
-
 A recent [NSF report](http://iot.eng.wayne.edu/edge/NSF%20Edge%20Workshop%20Report.pdf) and a number of security and privacy disasters in the IoT space (see the [blog post](https://www.schneier.com/blog/archives/2017/02/security_and_pr.html) on Schneier's blog) highlighted the challenges and opportunities in Edge Computing, leveraging the high processing capabilities and low latency offered at the edge of the network (IoT devices, smartphones, cloudlets) for achieving scalable yet secure and private analytics. Recently we put two papers on ArXiv, focusing on Privacy-Preserving Analytics using smartphones and constrained devices on the network (such as a Raspberry Pi). I encourage the privacy, machine learning, and mobile computing enthusiasts to read these papers and kindly provide us with any feedback on the analytics which can improve the research efforts in this space.  
 
 
