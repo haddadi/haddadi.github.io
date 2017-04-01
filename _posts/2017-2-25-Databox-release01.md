@@ -5,8 +5,6 @@ title: Databox Open Source Software Community Launch
 
 [https://www.eventbrite.com/e/databox-open-source-community-launch-tickets-32288471688](https://www.eventbrite.com/e/databox-open-source-community-launch-tickets-32288471688)
 
-Databox Open Source Software Community Launch
-
 Dear Open Source Software enthusiasts
 
 We are inviting you to join us in the open-source community launch of the Databox project on Friday 24th of March at Darwin College, in co-operation with the [OCaml Labs](http://www.cl.cam.ac.uk/projects/ocamllabs/) in Cambridge.
