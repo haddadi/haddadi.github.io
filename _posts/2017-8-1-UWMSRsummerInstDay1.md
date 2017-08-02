@@ -38,7 +38,7 @@ CMU GIoTTO aims to enable an IoT ecology for enabling security & privacy, end-us
 Cloud latency, privacy, reliable connectivity, and security are important challenges in IoT for legal requirements, transmission costs, and user experience. Hence there is clear need for local processing and connectivity. Today’s workloads are based on data filtering and aggregation, but tomorrow this could be ML, computer vision, and security. More hardware manufacturers will support new features to enable this. Edge devices minimise transit latencies for many analysis types. AWS greengrass and Azure IoT edge are examples in this space. These challenges, in addition to the power requirements and performance overhead imposed by message-based APIs (container, API, crypto, etc) make the cloud-based approaches less appealing for critical applications. Will the two approaches (edge & cloud) be in contrast, or do we have to maintain both platforms for consumers, developers, and applications?
 
 ### Suman Banerjee, University of Wisconsin: [Intelligent Edge for Education](https://www.cs.washington.edu/mssi/2017/abstracts.html#banerjeetalk)
-![Suman Banerjee](/images/2017/IMG_3721.JPG)
+![Suman Banerjee](/images/2017/IMG_3721.jpg)
 
 Suman presented challenges in education and teaching resources, and how the teaching labs can be maintained by using a cloud-hosted platform to democratise software access. This browser-based system allows VM access over VPNs for software access.The platform can use any cloud offering, but currently is mostly hosted bat Microsoft Azure. This introduces new challenges as software systems use in scalability grow in needs of interactivity, complexity, and various types of dependencies. Various optimizations are possible that allow reduced costs for academic institutions.
 
@@ -102,5 +102,6 @@ Databox and apps ecosystem – personalize cooking program (demo); using analyti
 Data negotiability; app communicates with user about risks and benefits; 
 Discussion – who puts infrastructure for databox (it is setup-box provider) ; there is some regulation on what data we can collect; 
 
+![Panel](/images/2017/IMG_3724.jpg)
 
 
