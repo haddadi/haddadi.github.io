@@ -1,6 +1,6 @@
 ---
 layout: post
-title: UW Allen School MSR Summer Institute 2017
+title: UW Allen School MSR Summer Institute 2017 (Day 1)
 ---
 
 # Schedule and slides available on: https://www.cs.washington.edu/mssi/2017/schedule.html
