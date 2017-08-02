@@ -3,7 +3,7 @@ layout: post
 title: UW Allen School MSR Summer Institute 2017 (Day 1)
 ---
 
-# Schedule and slides available on: https://www.cs.washington.edu/mssi/2017/schedule.html
+# Schedule and slides available on: [https://www.cs.washington.edu/mssi/2017/schedule.html](https://www.cs.washington.edu/mssi/2017/schedule.html)
 
 ## Introductions Victor Bahl (MSR) & Shyam Gollakota (Allen School)
 
@@ -26,7 +26,7 @@ Edge computing was highlighted: constrained network resources, high latencies, u
 Presented a case for running machine learning models at the Edge of the network with an example from prior work at Samsung Research.  Also presented key challenges and brainstorming topics for learning new models at the Edge: decentralized learning algorithms, diverse device resource constraints, device-cloud security, soliciting feedback or labels from end users, and peer-to-peer device coordination to learn at the Edge. Closed with a note on hiring for Machine Learning at Amazon Alexa Smart Home.
 
 ### Anind Dey, Carnegie Mellon University: [GIoTTO: An Open-Source IoT Framework](https://www.cs.washington.edu/mssi/2017/abstracts.html#deytalk)
-CMU GIoTTO aims to enable an IoT ecology for enabling security & privacy, end-user programmability, machine learning, and large-scale deployability. The goal is to improve HCI and human interaction in user-driven queries, while supporting privacy with role-based ACL. Anind demoed a number of ubiquitous applications of the platform for training and performing inferences. See more on https://iotexpedition.org
+CMU GIoTTO aims to enable an IoT ecology for enabling security & privacy, end-user programmability, machine learning, and large-scale deployability. The goal is to improve HCI and human interaction in user-driven queries, while supporting privacy with role-based ACL. Anind demoed a number of ubiquitous applications of the platform for training and performing inferences. See more on [https://iotexpedition.org](https://iotexpedition.org)
 
 ### Artur Laksberg, Microsoft: [Programming IoT Edge Devices: Cloud-Client Duality](https://www.cs.washington.edu/mssi/2017/abstracts.html#laksbergtalk)
 Cloud latency, privacy, reliable connectivity, and security are important challenges in IoT for legal requirements, transmission costs, and user experience. Hence there is clear need for local processing and connectivity. Today’s workloads are based on data filtering and aggregation, but tomorrow this could be ML, computer vision, and security. More hardware manufacturers will support new features to enable this. Edge devices minimise transit latencies for many analysis types. AWS greengrass and Azure IoT edge are examples in this space. These challenges, in addition to the power requirements and performance overhead imposed by message-based APIs (container, API, crypto, etc) make the cloud-based approaches less appealing for critical applications. Will the two approaches (edge & cloud) be in contrast, or do we have to maintain both platforms for consumers, developers, and applications?
