@@ -1,6 +1,6 @@
 
 
-# Schedule and slides available on: (https://www.cs.washington.edu/mssi/2017/schedule.html)
+# Schedule and slides available on: https://www.cs.washington.edu/mssi/2017/schedule.html
 
 ## Introductions Victor Bahl (MSR) & Shyam Gollakota (Allen School)
 
