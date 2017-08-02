@@ -105,3 +105,139 @@ Discussion – who puts infrastructure for databox (it is setup-box provider) ; 
 
 
 
+
+## Panel #1: The Intelligent Edge (Scribed by [Justin Chan](https://homes.cs.washington.edu/~jucha/))
+ 
+David: How does the user know which devices he can take a picture of and which he cannot (referencing the Synthetic Sensors project)?
+ 
+Anind: In the future everything would be enabled. In practice we did a large advertising campaign listing which devices were enabled. You could also have a sticker marking each device.
+ 
+David: Why not put a QR code on each printer?
+ 
+Anind: QR codes are hard to scan for devices like a projector that is far away. They need to be scanned from the right angle and be in line of sight as a result putting QR code. With our method, a user can take a picture of the device from any angle without alignment, and bring up its interface.
+ 
+Suman: Maybe we could have a gesture based system. Make a gesture with phone and printer in proximity will print a document.
+ 
+Stefan: All pictures looks similar and sending it to all ambient devices makes it convenient to issue man in the middle attacks. We need strong notions of identities and integrity in the IoT space. This is incredibly insecure.
+ 
+Anind: We could make user friendly system first and let security experts to solve security problems later. There is almost no way to do both things at exactly the same time
+ 
+Steve: How can you build an application first and think about security later? Wouldn’t that result in an insecure system? It the system has security vulnerabilities, then I won't consider it to be really useful or human centered. E.g. a phone app very usable yet let others hackers steal your money.
+ 
+Artur: Security and usability are not mutually exclusive.
+ 
+Deepak: Would intelligent edge result in a glut of configuration rules and sensors. How do we simplify this vast space into a usable set of options for the user?
+ 
+Artur: You should be able to narrow down your machine learning algorithm based on the problem and other design constraints.
+ 
+Anind: We select options based on how humans respond to particular configurations.
+ 
+Jean Camp: Will edge computing harm the users? Aren't we shifting all the risk to the user.  Victims of smart cars: long distance truckers and old people. You have to think about usability and security at the same time.
+ 
+Hamad: How well can we train machine learning models for facial recognition and things like that, locally.
+ 
+Evan: Not all of it is done locally, a lot of processing is done on the cloud.
+ 
+Victor: There is a lot of work towards doing machine learning at the edge. But the state of the art is not quite there yet.
+ 
+AnonA: A lot of these is already happening. Recently developed DNN has been pushing these applications further. In addition, there are companies building devices with embedded DNN.
+ 
+Mat: I build consumer robots. Doing Speech recognition for children is very different for adults. Also answers for different age groups are also different. It is important to capture the context and provide answers accordingly.
+ 
+Victor: Will this architecture change in the future? What will it be?
+ 
+Kiara: What about sustainability in IoT. You might leave behind white elephants in smart cities. Electric companies deploy IoT every 5 to 10 years. What about adaptability? Do these systems evolve with time? Not every sector will develop at the same pace.
+ 
+Phil: Edge means something you're comfortable with, it can be a multi-core desktop that can run 802.11 or Bluetooth.
+ 
+Affan: In Azure IoT, SLA contracts support protocols for up to 20 years now in response to customer concerns (initial support was 7 years).
+ 
+Aakanksha: IoT architecutre is like reverse CDNs.
+ 
+Victor: Edge devices are not just storage or caches.
+ 
+Victor: How do you program these devices? Your abstractions need to take into account the system and user. What should be the developer learn and think when there is an edge concept.  
+ 
+Now there are 2 main trends, could and edge they may be other ways to solve computation for IoT.
+ 
+Evan: We need devices to be programmable by users. But we don't have a good solution to this. Programing by 3rd party developers, take Alexa for example, Alexa don't release anything internally that we don't also release to 3rd party developers which could support 3rd party to do stuff that we can. Customers programing can be more challenging. It is super hard to support end user with building applications.
+ 
+Anind: The end user does not care if there is an edge in the system.They care about the usability and applications. As a end user I just want a model that would be easy to understand and build an application.
+ 
+Krishna: Human body is complex. It is very similar current networked systems. Edge is almost like as our senses and brain as a low latency cloud. so I believe the current model of edge and cloud could be sustainable.
+ 
+Victor: Who owns the edge, the consumer or the service provider? How can we provide SLAs. Robots moving around, you have a edge dealing with mission critical applications. Can you build a mission critical service without the service company having full control from the cloud? If things are loaded to the edge, it is very challenging to maintain the same level of service and security. I would like to see an agenda that could providentially solve this issue
+ 
+Victor: How do we define what edge means?
+ 
+Suman: Edge of the infrastructure
+ 
+AnonA: The actual end devices that is facing the customer.
+ 
+AnonA: Any device that the customer has access
+ 
+Artur: An edge is any small computer. Any sensors with a small processor is a computer.
+ 
+AnonA: These additional things that are outside the cloud concept.
+ 
+ 
+## Panel #2: Prototyping & Connecting the Next Billion Devices (Scribed by [Justin Chan](https://homes.cs.washington.edu/~jucha/))
+
+AnonQ: Which is the best ambient signal to use as a source?
+ 
+Josh/Vamsi: Cell towers are the things that are scaling and growing smaller (5G, picocells, femtocells). So that seems like the most ubiquitous form of connectivity, compared to FM.
+ 
+Affan: Should we have specialized towers just for powering these passive devices?
+ 
+Deepak: Other than EPC-Gen2, should we have a new protocol for all these new applications.
+ 
+Vamsi: Yes. EPC-Gen2 is not made for sensing applications.
+ 
+Greg: We need a compelling business case for these applications for a new protocol.
+ 
+Klara: I am interested in all your stuff are really small, if the things that does not need to be small, will there be other opportunities open up? Is there any advantage to not miniaturizing things?
+ 
+Alanson: There is a sort of spatial diversity if you decide to work with larger sensors and tags. You could make higher gain antennas for example.
+ 
+Thomas: With 5G, what modifications are needed?
+ 
+Josh: Most modifications can be made on the firmware side.
+ 
+Vamsi: For any protocol, you can backscatter it. Including 5G.
+ 
+Victor:  What’s your endgame?
+ 
+Josh: If we can hit a couple of niches, that would help with wide deployment.
+ 
+Vamsi: We have some ideas on what are good niche markets, and we intend to build out examples for those markets. Then we will work on integrating them into more common standards.
+ 
+AnonQ: How do you see yourself winning by designing some products that save transmission energy?
+ 
+Vamsi: We intend to demonstrate a couple of applications and make it work really well, opportunities will open up from there. And of course we would keep marketing it and build great applications around it.
+ 
+Victor: You should discuss with people designing 5G if there is any way to in cooperate backscatter into their protocol. It's a pretty uphill battle to getting to the level of industry impact like P4 from Nick's group at Stanford. As an exercise, some companies send people to standards bodies and negotiate with them about new regulations.
+ 
+Putting the capability into the standard now is important or if it is deployed it will be extremely hard to incorporate your backscattered system into the next generation of wireless network.
+ 
+Phil: For IEEE, you need quite a bit of lead time to gain credibility, like a couple of years, before you can begin making any impact. So you'd need to think ahead.
+ 
+Vamsi: It would be a great thing to put backscatter into 5G but as a start up we have limited resources. We would be happy to get into contact with anyone who knows anyone within the 5G standards body.
+ 
+Deepak: Is backscatter a replacement for existing IoT applications, or is this an addition to enable new applications? I'm curious about the trends forward in terms of prototyping flexible devices that incorporate computing.
+ 
+Steve: We can't fundamentally print integrated electronic devices. But we could probably begin with printing particular modules. We need to think about scaling reliable devices that can work for a long time. 3D printing technologies are not at the stage where we can use it robustly. There's no silver bullet.
+ 
+Josh/Vikram: 3D printed things really kicks into the rapid prototype space. It will be fantastic to have a small form factor hardware with computation applicabilities. it is much easier to do 3d printing for prototyping and also add in value when you have a customized piece for your own special purposes.
+ 
+With 3D printing you can use it produce something that does not meet the economies of scale of large manufacturing orders.
+ 
+On a smaller scale, it is much easier to use a 3D printer for prototyping. You can use 3D printers to produce highly customized shapes.
+ 
+Josh: We recently visited BlueOrigin and we found they are actually flying a lot of 3D printed metal objects. It is actually fine quality for aircraft experimentations.
+ 
+Klara: I'm curious about flexible miniature electronics and wireless charging. Are you looking into that?
+ 
+Alanson: A challenge is how to interface a flexible fabric with a rigid sensing circuit. Printing conductors and transistors and printing sensors using screen or inkjet printed. There are fantastic technologies for printing customized electronic pieces. Though they are still not as good as the ones manufactured. If you look at flexible fabrics. The flexible things usually held back by the circuits and electronics which are not flexible at all.
+ 
+
+
