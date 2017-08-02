@@ -6,6 +6,7 @@ title: UW Allen School MSR Summer Institute 2017 (Day 1)
 # Schedule and slides available on: [https://www.cs.washington.edu/mssi/2017/schedule.html](https://www.cs.washington.edu/mssi/2017/schedule.html)
 
 ## Introductions Victor Bahl (MSR) & Shyam Gollakota (Allen School)
+![Introductions](/images/2017/IMG_3710.JPG)
 
 IoT as in interdisciplinary topic, hence a range of skills and expertise involved in this summer institute. Important to get interaction across disciplines. The industry is on a race to deployment, and academia is working on visionary projects. It is important to get conversation going between the two. 
 
