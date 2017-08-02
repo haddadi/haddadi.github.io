@@ -106,7 +106,7 @@ Discussion – who puts infrastructure for databox (it is setup-box provider) ; 
 
 
 
-## Panel #1: The Intelligent Edge (Scribed by [Justin Chan](https://homes.cs.washington.edu/~jucha/))
+## Panel #1: The Intelligent Edge (Scribed by [Justin Chan](https://homes.cs.washington.edu/~jucha/) and [Hanchuan Li](http://hanchuan.wixsite.com/resume))
  
 David: How does the user know which devices he can take a picture of and which he cannot (referencing the Synthetic Sensors project)?
  
@@ -181,7 +181,7 @@ Artur: An edge is any small computer. Any sensors with a small processor is a co
 AnonA: These additional things that are outside the cloud concept.
  
  
-## Panel #2: Prototyping & Connecting the Next Billion Devices (Scribed by [Justin Chan](https://homes.cs.washington.edu/~jucha/))
+## Panel #2: Prototyping & Connecting the Next Billion Devices (Scribed by [Justin Chan](https://homes.cs.washington.edu/~jucha/) and [Hanchuan Li](http://hanchuan.wixsite.com/resume))
 
 AnonQ: Which is the best ambient signal to use as a source?
  
