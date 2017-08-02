@@ -102,5 +102,5 @@ Databox and apps ecosystem – personalize cooking program (demo); using analyti
 Data negotiability; app communicates with user about risks and benefits; 
 Discussion – who puts infrastructure for databox (it is setup-box provider) ; there is some regulation on what data we can collect; 
 
-![panel](/images/2017/IMG_3724.JPG)
+
 
