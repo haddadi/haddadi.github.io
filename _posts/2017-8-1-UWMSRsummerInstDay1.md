@@ -39,6 +39,7 @@ Cloud latency, privacy, reliable connectivity, and security are important challe
 
 ### Suman Banerjee, University of Wisconsin: [Intelligent Edge for Education](https://www.cs.washington.edu/mssi/2017/abstracts.html#banerjeetalk)
 ![Suman Banerjee](/images/2017/IMG_3721.JPG)
+
 Suman presented challenges in education and teaching resources, and how the teaching labs can be maintained by using a cloud-hosted platform to democratise software access. This browser-based system allows VM access over VPNs for software access.The platform can use any cloud offering, but currently is mostly hosted bat Microsoft Azure. This introduces new challenges as software systems use in scalability grow in needs of interactivity, complexity, and various types of dependencies. Various optimizations are possible that allow reduced costs for academic institutions.
 
 ## Session 2: Prototyping & Connecting the Next Billion Devices
@@ -102,3 +103,4 @@ Data negotiability; app communicates with user about risks and benefits;
 Discussion – who puts infrastructure for databox (it is setup-box provider) ; there is some regulation on what data we can collect; 
 
 ![panel](/images/2017/IMG_3724.JPG)
+
