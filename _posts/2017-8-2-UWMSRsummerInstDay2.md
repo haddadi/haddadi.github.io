@@ -81,3 +81,4 @@ Moore’s law is no longer applicable in today as the transistor packing space i
 ## Invited Talk
 ### Ron Zahavi, Microsoft: [IoT Success Factors & Business Models](https://www.cs.washington.edu/mssi/2017/abstracts.html#zahavitalk)
 Abstract: In this session I will describe how IoT combines elements of existing and new capabilities into systems of systems that can be highly complex, involving many new business models. I will then review issues and pitfalls to avoid, different business models, and the elements existing organizations ongoing transformation, as well as startups, need to succeed in the new IoT connected world.
+![Ron Zahavi](/images/2017/IMG_3737.JPG)
