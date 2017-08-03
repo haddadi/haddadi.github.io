@@ -53,7 +53,8 @@ Battery takes up 50% of the volume and wireless hardware takes over 40% of board
 Updating devices and their maintenance in-person after firmware issues and leaks is a costly operation. The physical limitations of these systems make it difficult to do malware analytics or software checking easily or do policy verifications by the human operator. Missing the context and device state makes the application analytics challenging for event analytics. Hence a focus on bootloader and boot time code analysis per device was highlighted as a way of establishing identity and issuing certificates for devices. RIoT from MS brings more information on this.
 
 ## Invited Talk 
-Chris Diorio, CEO, Vice Chairman, and Founder at [Impinj](https://www.impinj.com/): [The Littlest Biggest Internet Opportunity](https://www.cs.washington.edu/mssi/2017/abstracts.html#dioriotalk)
+### Chris Diorio, CEO, Vice Chairman, and Founder at [Impinj](https://www.impinj.com/): [The Littlest Biggest Internet Opportunity](https://www.cs.washington.edu/mssi/2017/abstracts.html#dioriotalk)
+
 Abstract: We are fast approaching a day when trillions of everyday items are connected to the Internet. This connectivity presents both challenges and opportunities for the IoT. In this talk I will review RAIN RFID's significant role in connecting everyday items and will then propose a framework for addressing those IoT challenges and opportunities.
 
 Chris talked about motivations for connecting items, future visions, and opportunities and challenges. How would we go about connecting trillions of items in the near future? History, ownership and services will be recorded. RAIN RFID allows unique, small radio-identified battery-less tags. [RAIN RFID](http://rainrfid.org/) alliance has secured spectrum in many countries and is used by many industries. Each tag might be read 10s or 100s of times. The value is putting the data, context and analytics together. Billions of these tags are already used in industries, in consumer sectors like Delta bag tags (a $50m investment) and tracking marathon runners. 
@@ -77,4 +78,6 @@ Joe presented the CHAIN-API, an early version of JSON-based open standards for s
 ### Gregory Abowd, Georgia Tech: Extreme Ubiquity: [De-emphasizing the importance of Moore's Law](https://www.cs.washington.edu/mssi/2017/abstracts.html#abowdtalk
 Moore’s law is no longer applicable in today as the transistor packing space is saturating. However we can now move on to moving from silicon-based ICs to embedded sensors manufactured items, and computational material which can harvest information and compute, store data, and actuate. The aim of the [COSMOS project](http://ubicomp.cc.gatech.edu/research/) is to reach there soon!
 
-
+## Invited Talk
+### Ron Zahavi, Microsoft: [IoT Success Factors & Business Models](https://www.cs.washington.edu/mssi/2017/abstracts.html#zahavitalk)
+Abstract: In this session I will describe how IoT combines elements of existing and new capabilities into systems of systems that can be highly complex, involving many new business models. I will then review issues and pitfalls to avoid, different business models, and the elements existing organizations ongoing transformation, as well as startups, need to succeed in the new IoT connected world.
