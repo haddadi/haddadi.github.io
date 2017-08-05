@@ -3,7 +3,8 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
-## [Google Scholar Profile](http://scholar.google.com/citations?user=gkA7zvoAAAAJ&hl=en) [GitHub code](https://github.com/haddadi/)
+## [Google Scholar Profile](http://scholar.google.com/citations?user=gkA7zvoAAAAJ&hl=en) 
+## [GitHub code](https://github.com/haddadi/)
 
 ### 2017:
 
