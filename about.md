@@ -11,7 +11,7 @@ Well, My name is [Hamed Haddadi](http://www.eecs.qmul.ac.uk/~hamed/)
 I'm a Senior Lecturer (~Associate Professor) in the [Dyson School of Design Engineering](http://www.imperial.ac.uk/design-engineering/), at The [Faculty of Engineering](http://www.imperial.ac.uk/engineering/) at [Imperial College London](http://www.imperial.ac.uk)
 
 
-I primarily work on the [Databox project](http://www.databoxproject.uk/) 
+My research interest are centred around User-Centric Systems, Machine Learning, Privacy, IoT, and [Human-Data Interaction](http://hdiresearch.org). I lead the [Databox project](http://www.databoxproject.uk/). 
 
 ### Contact me
 
