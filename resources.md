@@ -1,3 +1,9 @@
+---
+layout: page
+title: Resources
+permalink: /resources/
+---
+
 If you have any material which you wish to be added here, please [email me](mailto:h.haddadi@imperial.ac.uk)
 
 How to do a systems PhD: [advice from Steven Hand](http://www.cl.cam.ac.uk/research/srg/netos/eurosys11dw/keynote/StevenHand.pdf)
