@@ -19,5 +19,5 @@ My research interest are in User-Centered Systems, IoT, Applied Machine Learning
 
 [h.haddadi@imperial.ac.uk](mailto:h.haddadi@imperial.ac.uk)
 
-
           
+{% twitter https://twitter.com/jekyllrb maxwidth=500 limit=5 %}
