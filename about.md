@@ -13,7 +13,7 @@ I'm a Senior Lecturer (~Associate Professor) in the [Dyson School of Design Engi
 
 My research interest are in User-Centered Systems, IoT, Applied Machine Learning, Privacy, and [Human-Data Interaction](http://hdiresearch.org). I lead the [Databox project](http://www.databoxproject.uk/). 
 
-[Bio](bio.txt)
+[Bio](bio.txt), [Calendar](https://www.google.com/calendar/embed?src=h.haddadi%40gmail.com), [Code](https://github.com/haddadi)
 
 ### Contact me
 
