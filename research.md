@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-# [Research](http://www.eecs.qmul.ac.uk/%7Ehamed/misc/haddadi_researchstatement.pdf) (better strategy [1](http://www.cs.virginia.edu/%7Erobins/YouAndYourResearch.html), [2](http://www.cl.cam.ac.uk/%7Ejac22/zen-lab.txt) & [3](http://greatresearch.org/))
+(better strategy [1](http://www.cs.virginia.edu/%7Erobins/YouAndYourResearch.html), [2](http://www.cl.cam.ac.uk/%7Ejac22/zen-lab.txt) & [3](http://greatresearch.org/))
 
 ## Current Projects
 
