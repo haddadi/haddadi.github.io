@@ -6,13 +6,9 @@ permalink: /research/
 
 # [Research](http://www.eecs.qmul.ac.uk/%7Ehamed/misc/haddadi_researchstatement.pdf) (better strategy [1](http://www.cs.virginia.edu/%7Erobins/YouAndYourResearch.html), [2](http://www.cl.cam.ac.uk/%7Ejac22/zen-lab.txt) & [3](http://greatresearch.org/))
 
-## [Centre for Intelligent Sensing](http://cis.eecs.qmul.ac.uk/) [Cognitive Science](http://cogsci.eecs.qmul.ac.uk) [Networks](http://networks.eecs.qmul.ac.uk)
-
 ## Current Projects
 
 *   EPSRC [Databox](http://www.databoxproject.uk): Privacy-Aware Infrastructure for Managing Personal Data ([EP/N028260/1](http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/N028260/1) £1,537,810.44 starting October 2016)  
-
-*   [Wearables for better health and lifestyle](http://qmwearables.eecs.qmul.ac.uk/)
 
 *   [Human-Data Interaction](http://hdiresearch.org/)
 
@@ -28,10 +24,9 @@ permalink: /research/
 
 *   [Katrin Hänsel](http://www.katrin-haensel.de/) (Wearable devices and mHealth, co-advised with [Akram Alomainy](http://www.eecs.qmul.ac.uk/%7Eakram/), funded by QMUL [CIS](http://cis.eecs.qmul.ac.uk/) Scholarship)
 
-
 *   [Kleomenis Katevas](http://minoskt.github.io/) (Analysing and influencing crowd behaviors using mobile sensing, co-advised with [Laurissa Tokarchuk](http://www.eecs.qmul.ac.uk/%7Elaurissa/), funded by DSTL)
 
-I am interested in hearing from potential PhD students in my areas of research interests. If you have interesting ideas and wish to discuss funding opportunities for next year, please send me an [email](mailto:hamed.haddadi@qmul.ac.uk) (no attachments please!)
+I am interested in hearing from potential PhD students in my areas of research interests. If you have interesting ideas and wish to discuss funding opportunities for next year, please send me an [email](mailto:h.haddadi@imperial.ac.uk) (no attachments please!)
 
 ## Past Projects/Grants
 
