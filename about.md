@@ -13,6 +13,8 @@ I'm a Senior Lecturer (~Associate Professor) in the [Dyson School of Design Engi
 
 My research interest are in User-Centered Systems, IoT, Applied Machine Learning, Privacy, and [Human-Data Interaction](http://hdiresearch.org). I lead the [Databox project](http://www.databoxproject.uk/). 
 
+[Bio](bio.txt)
+
 ### Contact me
 
 [h.haddadi@imperial.ac.uk](mailto:h.haddadi@imperial.ac.uk)
