@@ -56,7 +56,7 @@ I am interested in hearing from potential PhD students in my areas of research i
 
 ## Past Visitors/Staff/Students
 
-[Sara Heitlinger](http://saraheitlinger.net/) (Postdoctoral Research Associate on the [Connected Seeds and Sensors](http://www.connectedseeds.org/) project, 205-2017)
+[Dr Sara Heitlinger](http://saraheitlinger.net/) (Postdoctoral Research Associate on the [Connected Seeds and Sensors](http://www.connectedseeds.org/) project, 205-2017)
 
 [Dr Marjan Falahrastegar](http://www.eecs.qmul.ac.uk/%7Emarjan/) (Web Tracking Ecosystem, PhD student at QMUL EECS school, co-advised with [Steve Uhlig](http://www.eecs.qmul.ac.uk/%7Esteve/) and [Richard Mortier](http://www.cs.nott.ac.uk/%7Ermm/), graduated December 2016)
 
