@@ -19,7 +19,6 @@ My research interest are in User-Centered Systems, IoT, Applied Machine Learning
 
 [h.haddadi@imperial.ac.uk](mailto:h.haddadi@imperial.ac.uk)
 
-![GitHub Logo](http://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/Blue-on-white--tojpeg_1495792235526_x1.jpg)
-![http://www.imperial.ac.uk](http://www.imperial.ac.uk)
-
+<p align="center">
 <a href="http://www.imperial.ac.uk"><img src="http://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/Blue-on-white--tojpeg_1495792235526_x1.jpg" width="200"/>
+</p>
