@@ -73,8 +73,8 @@ ACM Transactions on the Web (TWEB), ACM SIGCOMM Computer Communications Review (
 
 ### See [Resource](http://www.eecs.qmul.ac.uk/%7Ehamed/Resources.html) pages for teaching material
 
-2015-2016: QMUL Digital Media and Social Networks (PG-UG)  
-2015-2016: QMUL 21st Century Networks with Steve Uhlig  
+2015-2017: QMUL Digital Media and Social Networks (PG-UG)  
+2015-2017: QMUL 21st Century Networks with Steve Uhlig  
 2013-2014: QMUL Digital Media and Social Networks (PG-UG)  
 2013-2014: BUPT Networks and Protocols (UG) with Michael Chai  
 2013-2014: QMUL 21st Century Networks with Steve Uhlig  
