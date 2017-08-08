@@ -78,7 +78,7 @@ ACM Transactions on the Web (TWEB), ACM SIGCOMM Computer Communications Review (
 2013-2014: QMUL Digital Media and Social Networks (PG-UG)  
 2013-2014: BUPT Networks and Protocols (UG) with Michael Chai  
 2013-2014: QMUL 21st Century Networks with Steve Uhlig  
-Cambridge University Computer Laboratory on MPhil course with Jon Crowcroft (Network Architecture) (Slides) Guest lectures 2010, 2011, 2012  
+Cambridge University Computer Laboratory on MPhil course with Jon Crowcroft, Network Architecture guest lectures 2010, 2011, 2012  
 2012-2013: QMUL Computer Systems and Networks (UG) with Graham White  
 2012-2013: QMUL Communications and Networks (UG) with Vindya Wijeratne  
 2012-2013: QMUL 21st Century Networks (PG) with Steve Uhlig  
@@ -138,7 +138,7 @@ PhD Committee Member for QMUL EPSRC/AHRC DTC for Media & Arts Technology
 * March 2008 - May 2008, Visiting researcher, [School of Mathematical Sciences, University of Adelaide](http://www.trc.adelaide.edu.au/)  
 * Winter 2005, Intel Research Cambridge, Research Scientist, [CoMo Project](http://como.sourceforge.net/)  
 * Summer 2003, UCL EE/BT Research, Sensor Networks Operating System for [Senceive](http://www.senceive.com/)  
-*Summer 2002 and 2001, Sony Europe, Embedded Systems Hardware Group, [ARM](http://www.arm.com/) Compliancy Test-Harness  
+* Summer 2002 and 2001, Sony Europe, Embedded Systems Hardware Group, [ARM](http://www.arm.com/) Compliancy Test-Harness  
 
 I studied for my PhD between Oct 2004-Oct 2008, investigating the [Topological Characteristics of IP Networks](http://www.eecs.qmul.ac.uk/%7Ehamed/papers/thesis.pdf), which I successfully defended on 31st October 2008. My examiners were [George Pavlou](http://www.ee.ucl.ac.uk/%7Egpavlou/) and [Christos Gkantsidis](http://research.microsoft.com/en-us/people/chrisgk/). I carried out my thesis research jointly between two great labs, the [NetOS Group](http://www.cl.cam.ac.uk/research/srg/netos/), Computer Laboratory, Cambridge University (userid: hh318), and Networks and Services Research Laboratory Group, UCL (supervised by: [Miguel Rio](http://www.ee.ucl.ac.uk/%7Emrio/), [Andrew Moore](http://www.cl.cam.ac.uk/%7Eawm22/) , [Richard Mortier](http://mort.io))  
 
