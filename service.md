@@ -7,7 +7,7 @@ permalink: /service/
 # Educational and Community Activities
 
 
-## [Invited Talks](http://www.eecs.qmul.ac.uk/%7Ehamed/talks.txt)
+## [Invited Talks](https://haddadi.github.io/talks.txt)
 
 ## Current Community Engagements (Program/Organising Committee)
 
