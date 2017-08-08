@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Services
+title: Educational and Community Activities
 permalink: /service/
 ---
 
