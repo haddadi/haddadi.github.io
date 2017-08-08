@@ -128,7 +128,8 @@ PhD Committee Member for QMUL EPSRC/AHRC DTC for Media & Arts Technology
 
 ## Extended Biography
 
-* May 2014-Dec 2015: Research Scientist, [Qatar Computing Research Institute](http://qcri.org/our-research/social-computing)  
+* Oct 2011 - Oct 2017: Lecturer and Senior Lecturer in Digital Media, [School of Electronic Engineering and Computer Science](http://www.eecs.qmul.ac.uk/), [Queen Mary University of London](http://www.qmul.ac.uk/) 
+* May 2014 - Dec 2015: Research Scientist, [Qatar Computing Research Institute](http://qcri.org/our-research/social-computing)  
 * Summers 2012 & 2013: Visiting researcher, [AT&T Research](http://www.research.att.com/), Floreham Park ([cycle route](http://www.youtube.com/watch?v=o_Tl7gbudaE))  
 * Jan 2010 - Sep 2011, postdoctoral researcher, [Royal Veterinary College](http://www.rvc.ac.uk/)/[University of Cambridge](http://www.phar.cam.ac.uk/research/morton/), [CHDI Project](http://www.rvc.ac.uk/SML/Projects/SheepHuntingtonsDisease.cfm)  
 * Jan 2009 - Dec 2009, Post-doctoral researcher, [Max Planck Institute for Software Systems](http://www.mpi-sws.org/),Germany  
