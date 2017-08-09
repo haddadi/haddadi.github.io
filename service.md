@@ -11,9 +11,6 @@ permalink: /service/
 
 *   [ACM SIGCOMM CoNext](http://www.sigcomm.org/events/conext-conference)conference Steering Committee Member (since August 2016)  
 
-*   [ACM Sensys](http://sensys.acm.org/) conference Steering Committee Member (since 2015)  
-
-
 *   [UK Next Generation Networking](http://coseners.net/) Steering Committee co-chair (since 2013, alongside [Iain Philips](http://www.lboro.ac.uk/departments/compsci/staff/dr-iain-phillips.html))  
 
 *   The Web Conference 2018 ([WWW 2018)](https://www2018.thewebconf.org/)
@@ -164,6 +161,8 @@ This list got too big to be useful, we have too many conferences and workshops (
 External Reviewer for ACM CSCW2015, IEEE WiMob (2011), IEEE/ACM MASCOTS,ACM SIGCOMM, IEEE INFOCOMM, IEEE/ACM ToN, USENIX NSDI, BCS HCI, ACM IMC, ACM UBICOMP, ACM ISWC  
 
 *   Information Services Director on [ACM](http://www.acm.org/) [SIGCOMM](http://sigcomm.org/) [Executive committee](http://sigcomm.org/about/people) (since July 2013, July 2017)
+
+*   [ACM Sensys](http://sensys.acm.org/) conference Steering Committee Member (2015-2017)  
 
 *   The 8th Annual Workshop on Simplifying Complex Networks for Practitioners ([SIMPLEX 2016](http://simplex16.weebly.com/))
 
