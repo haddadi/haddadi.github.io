@@ -4,9 +4,6 @@ title: Educational and Community Activities
 permalink: /service/
 ---
 
-# Educational and Community Activities
-
-
 ## [Invited Talks](https://haddadi.github.io/talks.txt)
 
 ## Current Community Engagements (Program/Organising Committee)
