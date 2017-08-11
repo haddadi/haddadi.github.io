@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm Hamed Haddadi, a Senior Lecturer (~Associate Professor) in the [Dyson School of Design Engineering](http://www.imperial.ac.uk/design-engineering/), at The [Faculty of Engineering](http://www.imperial.ac.uk/engineering/) at [Imperial College London](http://www.imperial.ac.uk)
+I'm Hamed Haddadi, a Senior Lecturer (~Associate Professor) in the [Dyson School of Design Engineering](http://www.imperial.ac.uk/design-engineering/), at The [Faculty of Engineering](http://www.imperial.ac.uk/engineering/) at [Imperial College London](http://www.imperial.ac.uk).
 
 
 My research interest are in User-Centered Systems, IoT, Applied Machine Learning, Privacy, and [Human-Data Interaction](http://hdiresearch.org). I lead the [Databox project](http://www.databoxproject.uk/). 
