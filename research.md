@@ -14,7 +14,6 @@ permalink: /research/
 
 ## Current Research Staff
 
-*   [Sandra Servia](http://sservia.github.io) (Postdoctoral Research Associate on the [Databox](http://www.technologyreview.com/view/534526/how-a-box-could-solve-the-personal-data-conundrum/) project)
 
 ## Current Research Students
 
@@ -55,6 +54,8 @@ I am interested in hearing from potential PhD students in my areas of research i
 *   Self-Organising Collegiate Sensor Networks (MSc student, [DTI SECOAS Project](http://www.lancaster.ac.uk/staff/marshai2/secoas/secoas.htm))
 
 ## Past Visitors/Staff/Students
+
+[Dr Sandra Servia](http://sservia.github.io) (Postdoctoral Research Associate on the Databox project)
 
 [Dr Sara Heitlinger](http://saraheitlinger.net/) (Postdoctoral Research Associate on the [Connected Seeds and Sensors](http://www.connectedseeds.org/) project, 205-2017)
 
