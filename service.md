@@ -9,7 +9,7 @@ permalink: /service/
 ## Current Community Engagements (Program/Organising Committee)
 
 
-*   [ACM SIGCOMM CoNext](http://www.sigcomm.org/events/conext-conference)conference Steering Committee Member (since August 2016)  
+*   [ACM SIGCOMM CoNext](http://www.sigcomm.org/events/conext-conference) conference Steering Committee Member (since August 2016)  
 
 *   [UK Next Generation Networking](http://coseners.net/) Steering Committee co-chair (since 2013, alongside [Iain Philips](http://www.lboro.ac.uk/departments/compsci/staff/dr-iain-phillips.html))  
 
