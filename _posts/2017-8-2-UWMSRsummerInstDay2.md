@@ -83,4 +83,4 @@ Moore’s law is no longer applicable in today as the transistor packing space i
 Abstract: In this session I will describe how IoT combines elements of existing and new capabilities into systems of systems that can be highly complex, involving many new business models. I will then review issues and pitfalls to avoid, different business models, and the elements existing organizations ongoing transformation, as well as startups, need to succeed in the new IoT connected world.
 ![Ron Zahavi](/images/2017/IMG_3737.JPG)
 
-![Introductions](/images/2017/20819379_10156445245820410_9096555085482526017_o.jpg)
+![Group](/images/2017/20819379_10156445245820410_9096555085482526017_o.jpg)
