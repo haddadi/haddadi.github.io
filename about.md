@@ -9,7 +9,15 @@ I'm a Senior Lecturer (~Associate Professor) in the [Dyson School of Design Engi
 
 My research interest are in User-Centered Systems, IoT, Applied Machine Learning, Privacy, and [Human-Data Interaction](http://hdiresearch.org){:target="_blank"}. I lead the [Databox project](http://www.databoxproject.uk/){:target="_blank"}. 
 
+I am keen to hear from strong students interested in pursuinga masters or PhD project with me, or postdoctoral fellows interested in being hosted at Imperial College London. Please get in touch! We are currently looking for exceptional candidates for the [President's PhD Scholarships](http://www.imperial.ac.uk/study/pg/fees-and-funding/scholarships/presidents-phd-scholarships/){:target="_blank"}
+
 [Bio](bio.txt){:target="_blank"}, [Calendar](https://www.google.com/calendar/embed?src=h.haddadi%40gmail.com){:target="_blank"}, [Code](https://github.com/haddadi){:target="_blank"}
+
+
+### News
+* We are hiring a postdoctoral researcher on the [Databox project](http://www.databoxproject.uk/){:target="_blank"} with a focus on Privacy Protocols and Machine Learning. Here is the [official advert](http://www.jobs.ac.uk/job/BEF403/research-associate-in-privacy-protocols-and-machine-learning/){:target="_blank"} (applications close 12 October 2017).
+
+* We are hiring a postdoctoral researcher on the [Databox project](http://www.databoxproject.uk/){:target="_blank"} with a focus on Data Sensing, Aggregation and Applications. Here is the [official advert](http://www.jobs.ac.uk/job/BEF410/research-associate-data-sensing-aggregation-and-applications/){:target="_blank"} (applications close 12 October 2017).
 
 ### Contact me
 
