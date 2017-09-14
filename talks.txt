@@ -1,3 +1,4 @@
+• “User-Centric Personal Data Analytics on the Edge", Workshop on Decentralized Machine Learning, Optimization and Privacy, INRIA Lille, France, September 2017
 • “User-Centric Personal Data Analytics on the Edge", 2nd Personal Data Systems workshop, UiT The Arctic University of Norway, August 2017
 • “Containing Personal Data Processing with the Databox", University of Washington Allen School MSR Summer Institute , Seattle, August 2017
 • “Containing Personal Data Processing with the Databox", BBC Tech Talk, London, July 2017
