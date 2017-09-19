@@ -11,7 +11,7 @@ My research interest are in User-Centered Systems, IoT, Applied Machine Learning
 
 I am keen to hear from strong students interested in doing their masters project or PhD research with me, or postdoctoral fellows interested in being hosted at Imperial College London. Please get in touch! We are currently looking for exceptional candidates for the [President's PhD Scholarships](http://www.imperial.ac.uk/study/pg/fees-and-funding/scholarships/presidents-phd-scholarships/){:target="_blank"}.
 
-[Bio](bio.txt){:target="_blank"}, [Calendar](https://www.google.com/calendar/embed?src=h.haddadi%40gmail.com){:target="_blank"}, [Code](https://github.com/haddadi){:target="_blank"}
+[Contact](http://www.imperial.ac.uk/design-engineering/people/academic--teaching-staff/){:target="_blank"},[Bio](bio.txt){:target="_blank"}, [Calendar](https://www.google.com/calendar/embed?src=h.haddadi%40gmail.com){:target="_blank"}, [Code](https://github.com/haddadi){:target="_blank"}
 
 
 ### News
