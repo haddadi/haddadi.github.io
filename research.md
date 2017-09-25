@@ -13,7 +13,7 @@ permalink: /research/
 *   [Human-Data Interaction](http://hdiresearch.org/)
 
 ## Current Research Staff
-Mr [Panagiotis Papadopoulos](http://users.ics.forth.gr/~panpap/){:target="_blank"} (Visiting PhD student, ICS-FORTH)
+*   Mr [Panagiotis Papadopoulos](http://users.ics.forth.gr/~panpap/){:target="_blank"} (Visiting PhD student, ICS-FORTH)
 
 ## Current Research Students
 
