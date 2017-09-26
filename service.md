@@ -110,8 +110,7 @@ Indo Swiss Joint Research Programme (ISJRP)
 
 ## Current External affiliations
 
-Visiting member, [NetOS Group](http://www.cl.cam.ac.uk/research/srg/netos/), Computer Lab, Cambridge  
-Visiting member, [CISG Group](http://www.ee.ucl.ac.uk/research/comminfosys/), UCL
+Visiting Lecturer, [CISG Group](http://www.ee.ucl.ac.uk/research/comminfosys/), UCL
 
 ## Administration
 
