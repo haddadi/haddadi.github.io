@@ -4,7 +4,7 @@ title: Hamed Haddadi
 permalink: /about/
 ---
 
-I am a Senior Lecturer (~Associate Professor) in the [Dyson School of Design Engineering](http://www.imperial.ac.uk/design-engineering/){:target="_blank"}, at The [Faculty of Engineering](http://www.imperial.ac.uk/engineering/){:target="_blank"} at [Imperial College London](http://www.imperial.ac.uk){:target="_blank"}. I am also an Academic Fellow of the [Data Science Institute](https://www.imperial.ac.uk/data-science/){:target="_blank"}. I am currently a Visiting Lecturer at the [Department of Electronic & Electrical Engineering, UCL](https://www.ee.ucl.ac.uk){:target="_blank"}.  
+I am a Senior Lecturer (~Associate Professor) in the [Dyson School of Design Engineering](http://www.imperial.ac.uk/design-engineering/){:target="_blank"}, at The [Faculty of Engineering](http://www.imperial.ac.uk/engineering/){:target="_blank"} at [Imperial College London](http://www.imperial.ac.uk){:target="_blank"}. I am also an Academic Fellow of the [Data Science Institute](https://www.imperial.ac.uk/data-science/){:target="_blank"}. 
 
 
 My research interest are in User-Centered Systems, IoT, Applied Machine Learning, Privacy, and [Human-Data Interaction](http://hdiresearch.org){:target="_blank"}. I lead the [Databox project](http://www.databoxproject.uk/){:target="_blank"}. 
