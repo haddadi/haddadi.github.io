@@ -88,6 +88,7 @@ I offer consultancy services on research project and patent disputes, social med
 ## PhD Examination
 
 Gregory Tsipenyuk, University of Cambridge, September 2017
+
 Liam Turner, Cardiff University, July 2017  
 Sultan Alanazi, University of Nottingham, May 2017  
 Noradila Nordin, University College London, May 2017  
