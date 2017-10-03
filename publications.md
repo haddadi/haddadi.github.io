@@ -8,6 +8,8 @@ permalink: /publications/
 
 ### 2017:
 
+*   Seyed Ali Osia, Ali Shahin Shamsabadi, Ali Taheri, Kleomenis Katevas, Hamid R. Rabiee, Nicholas D. Lane, Hamed Haddadi, "Privacy Preserving Deep Inference for Rich User Data on The Cloud", Available on ArXiv, October 2017\. ([paper](https://arxiv.org/))
+
 *   Alan Chamberlain, Andy Crabtree, Hamed Haddadi, Richard Mortier, "[Special theme on privacy and the Internet of things](https://link.springer.com/article/10.1007%2Fs00779-017-1066-5)", Personal and Ubiquitous Computing, August 2017 ([DOI](https://doi.org/10.1007/s0077)).
 
 *   Kleomenis Katevas, Laurissa Tokarchuk, Hamed Haddadi, Richard G. Clegg, Muhammad Irfan, "Demo: Detecting Group Formations using iBeacon Technology", [ACM MobiSys](http://www.sigmobile.org/mobisys/2017/workshops/wpa/index.html) 2017 Companion, Proceedings of the 15th Annual International Conference on Mobile Systems, Applications, and Services Companion (Demo), Niagara Falls, NY, USA, June 2017\. ([paper](https://haddadi.github.io/papers/sysd11-katevasA.pdf), video)
