@@ -17,7 +17,7 @@ permalink: /research/
 
 ## Current Research Students
 
-*   [Ali Shahin Shamsabadi](https://scholar.google.com/citations?user=1kVnWYwAAAAJ&hl=en), funded by QMUL [CIS](http://cis.eecs.qmul.ac.uk/) Scholarship).
+*   [Ali Shahin Shamsabadi](https://scholar.google.com/citations?user=1kVnWYwAAAAJ&hl=en), (Privacy-preserving Deep Learning, funded by QMUL [CIS](http://cis.eecs.qmul.ac.uk/) Scholarship).
 
 *   [Mohammad Malekzadeh](https://mmalekzadeh.github.io/) (Privacy-preserving personal data analytics on the [Databox](http://www.technologyreview.com/view/534526/how-a-box-could-solve-the-personal-data-conundrum/) project, funded by [QMUL Life Science Institute](http://www.qmul.ac.uk/lifesciences/)).
 
