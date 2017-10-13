@@ -17,13 +17,15 @@ permalink: /research/
 
 ## Current Research Students
 
-*   [Mohammad Malekzadeh](https://mmalekzadeh.github.io/) (privacy-preserving personal data analytics on the [Databox](http://www.technologyreview.com/view/534526/how-a-box-could-solve-the-personal-data-conundrum/) project, funded by [QMUL Life Science Institute](http://www.qmul.ac.uk/lifesciences/)).
+*   [Ali Shahin Shamsabadi](https://scholar.google.com/citations?user=1kVnWYwAAAAJ&hl=en), funded by QMUL [CIS](http://cis.eecs.qmul.ac.uk/) Scholarship).
 
-*   [Yousef Amar](http://yousefamar.com/) (Personal Data Analytics on the [Databox](http://www.technologyreview.com/view/534526/how-a-box-could-solve-the-personal-data-conundrum/), funded by QMUL [CIS](http://cis.eecs.qmul.ac.uk/) Scholarship)
+*   [Mohammad Malekzadeh](https://mmalekzadeh.github.io/) (Privacy-preserving personal data analytics on the [Databox](http://www.technologyreview.com/view/534526/how-a-box-could-solve-the-personal-data-conundrum/) project, funded by [QMUL Life Science Institute](http://www.qmul.ac.uk/lifesciences/)).
 
-*   [Katrin Hänsel](http://www.katrin-haensel.de/) (Wearable devices and mHealth, co-advised with [Akram Alomainy](http://www.eecs.qmul.ac.uk/%7Eakram/), funded by QMUL [CIS](http://cis.eecs.qmul.ac.uk/) Scholarship)
+*   [Yousef Amar](http://yousefamar.com/) (Personal Data Analytics on the [Databox](http://www.technologyreview.com/view/534526/how-a-box-could-solve-the-personal-data-conundrum/), funded by QMUL [CIS](http://cis.eecs.qmul.ac.uk/) Scholarship).
 
-*   [Kleomenis Katevas](http://minoskt.github.io/) (Analysing and influencing crowd behaviors using mobile sensing, co-advised with [Laurissa Tokarchuk](http://www.eecs.qmul.ac.uk/%7Elaurissa/), funded by DSTL)
+*   [Katrin Hänsel](http://www.katrin-haensel.de/) (Wearable devices and mHealth, co-advised with [Akram Alomainy](http://www.eecs.qmul.ac.uk/%7Eakram/), funded by QMUL [CIS](http://cis.eecs.qmul.ac.uk/) Scholarship).
+
+*   [Kleomenis Katevas](http://minoskt.github.io/) (Analysing and influencing crowd behaviors using mobile sensing, co-advised with [Laurissa Tokarchuk](http://www.eecs.qmul.ac.uk/%7Elaurissa/), funded by DSTL).
 
 I am interested in hearing from potential PhD students in my areas of research interests. If you have interesting ideas and wish to discuss funding opportunities for next year, please send me an [email](mailto:h.haddadi@imperial.ac.uk) (no attachments please!)
 
