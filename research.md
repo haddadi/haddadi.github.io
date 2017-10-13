@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-(better strategy [1](http://www.cs.virginia.edu/%7Erobins/YouAndYourResearch.html), [2](http://www.cl.cam.ac.uk/%7Ejac22/zen-lab.txt) & [3](http://greatresearch.org/))
+(Better strategy [1](http://www.cs.virginia.edu/%7Erobins/YouAndYourResearch.html), [2](http://www.cl.cam.ac.uk/%7Ejac22/zen-lab.txt) & [3](http://greatresearch.org/))
 
 ## Current Projects
 
@@ -13,7 +13,7 @@ permalink: /research/
 *   [Human-Data Interaction](http://hdiresearch.org/)
 
 ## Current Research Staff
-*   Mr [Panagiotis Papadopoulos](http://users.ics.forth.gr/~panpap/){:target="_blank"} (Visiting PhD student, ICS-FORTH)
+*   [Panagiotis Papadopoulos](http://users.ics.forth.gr/~panpap/){:target="_blank"} (Visiting PhD student, ICS-FORTH)
 
 ## Current Research Students
 
