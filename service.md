@@ -109,8 +109,8 @@ Indo Swiss Joint Research Programme (ISJRP)
 
 ## Current External affiliations
 
--Taught Programme External Examiner for UCL on Communications Programmes Board of Examiners
--Visiting Lecturer, [CISG Group](http://www.ee.ucl.ac.uk/research/comminfosys/), UCL
+* Taught Programme External Examiner for UCL on Communications Programmes Board of Examiners
+* Visiting Lecturer, [CISG Group](http://www.ee.ucl.ac.uk/research/comminfosys/), UCL
 
 ## Administration
 
