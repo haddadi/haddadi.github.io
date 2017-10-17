@@ -49,8 +49,6 @@ permalink: /service/
 
 *   [Royal Society Open Science](http://rsos.royalsocietypublishing.org/) [Editorial Board](http://rsos.royalsocietypublishing.org/editorial-board) (Computer Sciences section, March 2017 until December 2019)
 
-*   Topic Editor in Frontiers in Digital Health ([Research Topic: Digital Data for Nutrition, Healthy Eating and Exercise](http://journal.frontiersin.org/researchtopic/5186/digital-data-for-nutrition-healthy-eating-and-exercise))
-
 *   Big Data section in [Frontiers in ICT and Digital Humanities](http://journal.frontiersin.org/journal/digital-humanities) (since 2015)
 
 *   Springer Journal of Internet Services and Applications ([JISA](http://www.springer.com/computer/communication+networks/journal/13174) , since 2012)
@@ -58,7 +56,7 @@ permalink: /service/
 
 ## Journals (Reviewer)
 
-**Note: I no longer perform reviews for commercial journals** ****not supporting Open Access**, or those (like Elsevier) taking part in political sanctions against any country.**
+**I no longer perform reviews for commercial journals not supporting Open Access, or those (like Elsevier) taking part in political sanctions against any country.**
 
 ACM Transactions on the Web (TWEB), ACM SIGCOMM Computer Communications Review (CCR), PLOS ONE, Computers in Human Behavior, Transactions on Database Systems, IEEE JSAC Special issue on Measuring and Troubleshooting the Internet, IEEE Transactions on Parallel and Distributed Systems, IEEE Transactions on Mobile Computing, IEEE Internet Computing, IEEE Transactions on Knowledge and Data Engineering, IEEE Communications Letters, IEEE JSAC on Network Science, IEEE Network, IET Networks, World Wide Web Journal, International Journal of Human-Computer Studies, MDPI Entropy, Springer World Wide Web Journal, Elsevier COMNET, Elsevier Social Networks, Elsevier Computer Communications, Wiley's handbook on Computer Networks, Computer Communications Journal, Springer Journal of the Network and Systems Management, Springer book 'Cloud Computing for Enterprise Architectures', Kunstliche Intelligenz (Artificial Intelligence), China Communications, IEEE Signal Processing Magazine, Wireless Networks (WINET), Springer Social Network Analysis and Mining (SNAM), New Media & Society
 
@@ -109,7 +107,7 @@ Indo Swiss Joint Research Programme (ISJRP)
 
 ## Current External affiliations
 
-* Taught Programme External Examiner for UCL on Communications Programmes Board of Examiners
+* Taught Programme External Examiner for [UCL Telecommunications MSc](https://www.ucl.ac.uk/prospective-students/graduate/taught/degrees/telecommunications-msc) Programmes Board of Examiners
 * Visiting Lecturer, [CISG Group](http://www.ee.ucl.ac.uk/research/comminfosys/), UCL
 
 ## Administration
