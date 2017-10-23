@@ -83,8 +83,12 @@ I am also a Fellow of the [Higher Education Academy](https://www.heacademy.ac.uk
 
 I offer consultancy services on research project and patent disputes, social media strategy, online social network presence management, online advertising strategy, and systems approach to related areas. Please contact me for informal discussions about your requirements and projects.
 
-## PhD Examination
+## External examination
+* Taught Programme External Examiner for [UCL Telecommunications MSc](https://www.ucl.ac.uk/prospective-students/graduate/taught/degrees/telecommunications-msc) Programmes Board of Examiners (2017-2021)
 
+## PhD examination
+
+Valerio Ciotti, Queen Mary University London, October 2017
 Gregory Tsipenyuk, University of Cambridge, September 2017  
 Liam Turner, Cardiff University, July 2017  
 Sultan Alanazi, University of Nottingham, May 2017  
@@ -109,7 +113,6 @@ Indo Swiss Joint Research Programme (ISJRP)
 
 ## Current External affiliations
 
-* Taught Programme External Examiner for [UCL Telecommunications MSc](https://www.ucl.ac.uk/prospective-students/graduate/taught/degrees/telecommunications-msc) Programmes Board of Examiners
 * Visiting Lecturer, [CISG Group](http://www.ee.ucl.ac.uk/research/comminfosys/), UCL
 
 ## Administration
