@@ -144,7 +144,7 @@ I was also a scholar at [London Business School](http://www.london.edu/), under 
 My MPhil (transfer) Thesis investigated Network Traffic Inference Using Sampled Statistics [[pdf](http://www.eecs.qmul.ac.uk/%7Ehamed/papers/mphil.pdf)].  
 In 2004 I completed the MSc in Telecommunication Engineering with distinction. I was sponsored by EPSRC, Project: kOS “kind of Operating System” ([report](http://www.eecs.qmul.ac.uk/%7Ehamed/papers/MScThesis.pdf)). This work had contributions to technology spin-out [Senceive](http://www.senceive.com/).  
 
-Between 1999-2003 I studied for the BEng (Hons) Electronic & Electrical Engineering at UCL. My 2nd & final year were sponsored by Sony Europe. For my final year project I built a [stand-alone RDS Encoder (report)](haddadi.github.io/papers/RDSencoderHaddadi.pdf).  
+Between 1999-2003 I studied for the BEng (Hons) Electronic & Electrical Engineering at UCL. My 2nd & final year were sponsored by Sony Europe. For my final year project I built a [stand-alone RDS Encoder (report)](https://haddadi.github.io/papers/RDSencoderHaddadi.pdf).  
 
 Before that, I studied for A-Levels at [William Morris Academy](http://www.wma.ac.uk/).  
 
