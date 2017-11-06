@@ -17,11 +17,9 @@ permalink: /service/
 
 *   The Web Conference 2018 ([WWW 2018])(https://www2018.thewebconf.org/){:target="_blank"}
 
-*   Network Traffic Measurement and Analysis Conference ([TMA 2018](http://tma.ifip.org/2018/)){:target="_blank"}
+*   Network Traffic Measurement and Analysis Conference ([TMA 2018])(http://tma.ifip.org/2018/){:target="_blank"}
 
-
-*   3rd ACM/IEEE International Conference on Internet of Things Design and Implementation ([IoTDI 2018](http://conferences.computer.org/IoTDI/))[  
-    ](https://www2018.thewebconf.org/)
+*   3rd ACM/IEEE International Conference on Internet of Things Design and Implementation ([IoTDI 2018](http://conferences.computer.org/IoTDI/))
 
 *   ACM SIGCOMM Internet Measurement Conference 2017 ([IMC 2017)](http://conferences.sigcomm.org/imc/2017/)
 
