@@ -13,9 +13,12 @@ permalink: /service/
 
 *   [UK Next Generation Networking](http://coseners.net/) Steering Committee co-chair (since 2013, alongside [Iain Philips](http://www.lboro.ac.uk/departments/compsci/staff/dr-iain-phillips.html))  
 
-*   The International Teletraffic Congress ([ITC 30])(https://itc30.org/){:target="_blank"}.
+*   The International Teletraffic Congress ([ITC 30])(https://itc30.org/){:target="_blank"}
 
-*   The Web Conference 2018 ([WWW 2018)](https://www2018.thewebconf.org/)
+*   The Web Conference 2018 ([WWW 2018)](https://www2018.thewebconf.org/){:target="_blank"}
+
+*   Network Traffic Measurement and Analysis Conference ([TMA 2018](http://tma.ifip.org/2018/)){:target="_blank"}
+
 
 *   3rd ACM/IEEE International Conference on Internet of Things Design and Implementation ([IoTDI 2018](http://conferences.computer.org/IoTDI/))[  
     ](https://www2018.thewebconf.org/)
