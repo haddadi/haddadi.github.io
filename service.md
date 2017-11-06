@@ -15,7 +15,7 @@ permalink: /service/
 
 *   The International Teletraffic Congress ([ITC 30])(https://itc30.org/){:target="_blank"}
 
-*   The Web Conference 2018 ([WWW 2018)](https://www2018.thewebconf.org/){:target="_blank"}
+*   The Web Conference 2018 ([WWW 2018])(https://www2018.thewebconf.org/){:target="_blank"}
 
 *   Network Traffic Measurement and Analysis Conference ([TMA 2018](http://tma.ifip.org/2018/)){:target="_blank"}
 
