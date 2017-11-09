@@ -118,6 +118,8 @@ Indo Swiss Joint Research Programme (ISJRP)
 
 ## Administration
 
+Deputy Director of Research, Dyson School of Design Engineering, Imperial College London  
+Member of admissions team, Dyson School of Design Engineering, Imperial College London 
 Social Media Officer, QMUL EECS Communications & Admissions team  
 Member of QMUL EECS Networks and Systems Teaching Group  
 Member of QMUL EECS Music and Media Teaching Group  
