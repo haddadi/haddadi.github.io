@@ -52,7 +52,8 @@ permalink: /service/
 
 *   [Royal Society Open Science](http://rsos.royalsocietypublishing.org/) [Editorial Board](http://rsos.royalsocietypublishing.org/editorial-board) (Computer Sciences section, March 2017 until December 2019)
 
-*   Big Data section in [Frontiers in ICT and Digital Humanities](http://journal.frontiersin.org/journal/digital-humanities) (since 2015)
+*   ACM SIGCOMM [Computer Communication Review](https://ccronline.sigcomm.org){:target="_blank"} (Nov 2017-now)
+
 
 *   Springer Journal of Internet Services and Applications ([JISA](http://www.springer.com/computer/communication+networks/journal/13174) , since 2012)
 
