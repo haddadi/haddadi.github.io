@@ -13,7 +13,6 @@ permalink: /research/
 *   [Human-Data Interaction](http://hdiresearch.org/)
 
 ## Current Research Staff
-*   [Panagiotis Papadopoulos](http://users.ics.forth.gr/~panpap/){:target="_blank"} (Visiting PhD student, ICS-FORTH)
 
 ## Current Research Students
 
@@ -57,7 +56,9 @@ I am interested in hearing from potential PhD students in my areas of research i
 
 ## Past Visitors/Staff/Students
 
-[Dr Sandra Servia](http://sservia.github.io) (Postdoctoral Research Associate on the Databox project)
+[Panagiotis Papadopoulos](http://users.ics.forth.gr/~panpap/){:target="_blank"} (Visiting PhD student, ICS-FORTH) 
+
+[Dr Sandra Servia](http://sservia.github.io) (Postdoctoral Research Associate on the Databox project) 
 
 [Dr Sara Heitlinger](http://saraheitlinger.net/) (Postdoctoral Research Associate on the [Connected Seeds and Sensors](http://www.connectedseeds.org/) project, 205-2017)
 
