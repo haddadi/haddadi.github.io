@@ -1,3 +1,4 @@
+• “Privacy-Preserving Analytics on the Edge", Univrsity of Nottingham Seminar Series, Nottingham, UK, December 2017
 • “User-Centric Personal Data Analytics on the Edge", Privacy International, London, UK, September 2017
 • “User-Centric Personal Data Analytics on the Edge", Workshop on Decentralized Machine Learning, Optimization and Privacy, INRIA Lille, France, September 2017
 • “User-Centric Personal Data Analytics on the Edge", 2nd Personal Data Systems workshop, UiT The Arctic University of Norway, August 2017
