@@ -9,7 +9,7 @@ permalink: /publications/
 
 ### 2018:
 
-*   Katrin Hänsel, Hamed Haddadi, Akram Alomainy, "What to Put on the User: Sensing Technologies for Studies and Physiology Aware Systems", , Proceedings of the ACM Conference on Human Factors in Computing Systems ([ACM CHI'18](https://chi2018.acm.org)), Montréal, Canada • April 21-26, 2018. ([paper]())
+*   Katrin Hänsel, Romina Kettner, Hamed Haddadi, Akram Alomainy, "What to Put on the User: Sensing Technologies for Studies and Physiology Aware Systems", Proceedings of the ACM Conference on Human Factors in Computing Systems ([ACM CHI'18](https://chi2018.acm.org)), Montréal, Canada • April 21-26, 2018. ([paper]())
 
 
 ### 2017:
