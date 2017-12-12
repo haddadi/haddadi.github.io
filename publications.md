@@ -6,6 +6,12 @@ permalink: /publications/
 ## [Google Scholar Profile](http://scholar.google.com/citations?user=gkA7zvoAAAAJ&hl=en){:target="_blank"}
 ## [GitHub code](https://github.com/haddadi/){:target="_blank"}
 
+
+### 2018:
+
+*   Katrin Hänsel, Hamed Haddadi, Akram Alomainy, "What to Put on the User: Sensing Technologies for Studies and Physiology Aware Systems", , Proceedings of the ACM Conference on Human Factors in Computing Systems ([ACM CHI'18](https://chi2018.acm.org)), Montréal, Canada • April 21-26, 2018. ([paper]())
+
+
 ### 2017:
 
 *   Mohammad Malekzadeh, Richard G. Clegg, Hamed Haddadi, "Replacement AutoEncoder: A Privacy-Preserving Algorithm for Sensory Data Analysis", Available on ArXiv, October 2017\. ([paper](https://arxiv.org/abs/1710.06564){:target="_blank"}, [Code](https://github.com/mmalekzadeh/replacement-autoencoder){:target="_blank"})
