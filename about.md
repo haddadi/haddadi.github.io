@@ -19,7 +19,7 @@ I am keen to hear from strong students interested in doing their masters project
 Dec 2017: We have received a [Microsoft Azure Research Award](http://azure4research.com/){:target="_blank"} to support our Machine Learning research for the Databox project.  
 
 
-Dec 2017: Katrin Hänsel's paper has been accepted to CHI 2018! Congrats Katrin.
+Dec 2017: Katrin Hänsel's [paper](https://haddadi.github.io/papers/CHI2018sensing.pdf){:target="_blank"} has been accepted to ACM CHI 2018! Congrats Katrin.
 
 
 ### Contact me
