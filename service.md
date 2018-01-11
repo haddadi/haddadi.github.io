@@ -17,7 +17,7 @@ permalink: /service/
 
 *   The 8th ACM Digital Health conference ([DH 2018](http://www.acm-digitalhealth.org/){:target="_blank"})
 
-*   Decentralized Orchestration and Management of Distributed Heterogeneous Things   ([dominos 2018](https://sites.google.com/view/dominos2018/home){:target="_blank"})
+*   IEEE/IFIP International Workshop on Decentralized Orchestration and Management of Distributed Heterogeneous Things   ([dominos 2018](https://sites.google.com/view/dominos2018/home){:target="_blank"})
 
 *   The Web Conference 2018 ([WWW 2018](https://www2018.thewebconf.org/){:target="_blank"})
 
