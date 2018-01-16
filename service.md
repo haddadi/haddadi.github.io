@@ -13,7 +13,7 @@ permalink: /service/
 
 *   [UK Next Generation Networking](http://coseners.net/) Steering Committee co-chair (since 2013, alongside [Iain Philips](http://www.lboro.ac.uk/departments/compsci/staff/dr-iain-phillips.html))  
 
-*   ACM SIGCOMM 2018 Workshop on IoT Security and Privacy ([IoT S&P](https://conferences.sigcomm.org/sigcomm/2018/workshop-iotsp.html){:target="_blank"}
+*   ACM SIGCOMM 2018 Workshop on IoT Security and Privacy ([IoT S&P](https://conferences.sigcomm.org/sigcomm/2018/workshop-iotsp.html){:target="_blank"})
 
 *   The International Teletraffic Congress ([ITC 30](https://itc30.org/){:target="_blank"})
 
