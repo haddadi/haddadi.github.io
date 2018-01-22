@@ -16,7 +16,7 @@ I am keen to hear from strong students interested in doing their masters project
 
 
 ### News
-Jan 2017:We are hiring a [Research Associate on Data mining, Analytics, Privacy Protocols and Machine Learning on the Databox Project](https://www.imperial.ac.uk/jobs/description/ENG00170/research-associate){:target="_blank"} at Imperial College London (Fixed Term for 14 months, closes 19th Feb 2018).
+Jan 2017: We are hiring a [Research Associate on Data mining, Analytics, Privacy Protocols and Machine Learning on the Databox Project](https://www.imperial.ac.uk/jobs/description/ENG00170/research-associate){:target="_blank"} at Imperial College London (Fixed Term for 14 months, closes 19th Feb 2018).
 
 Dec 2017: We have received a [Microsoft Azure Research Award](http://azure4research.com/){:target="_blank"} to support our Machine Learning research for the Databox project.  
 
