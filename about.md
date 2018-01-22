@@ -18,7 +18,7 @@ I am keen to hear from strong students interested in doing their masters project
 ### News
 Jan 2018: We are hiring a [Research Associate on Data mining, Analytics, Privacy Protocols and Machine Learning on the Databox Project](https://www.imperial.ac.uk/jobs/description/ENG00170/research-associate){:target="_blank"} at Imperial College London (Fixed Term for 14 months, closes 19th Feb 2018).
 
-Jan 2018: Two papers on privacy in IoT applications have been accepted to the ACM/IEEE International Conference on Internet-of-Things Design and Implementation 2018. See [publications page](https://haddadi.github.io/publications/) for details.
+Jan 2018: Two papers on privacy in IoT applications have been accepted to the ACM/IEEE International Conference on Internet-of-Things Design and Implementation 2018. See [publications' page](https://haddadi.github.io/publications/) for details.
 
 Dec 2017: We have received a [Microsoft Azure Research Award](http://azure4research.com/){:target="_blank"} to support our Machine Learning research for the Databox project.  
 
