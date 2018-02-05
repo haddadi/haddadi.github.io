@@ -21,6 +21,8 @@ permalink: /service/
 
 *   The 1st ACM SIGMOBILE International Workshop on Edge Systems, Analytics and Networking ([EdgeSys 2018](https://www.sigmobile.org/mobisys/2018/workshops/edgesys18/){:target="_blank"})
 
+*   16th ACM International Conference on Mobile Systems, Applications, and Services ([MobiSys 2018 Poster session](https://www.sigmobile.org/mobisys/2018/cfposters/){:target="_blank"})
+
 *   The 8th ACM Digital Health conference ([DH 2018](http://www.acm-digitalhealth.org/){:target="_blank"})
 
 *   IEEE/IFIP International Workshop on Decentralized Orchestration and Management of Distributed Heterogeneous Things   ([dominos 2018](https://sites.google.com/view/dominos2018/home){:target="_blank"})
