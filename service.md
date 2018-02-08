@@ -15,6 +15,8 @@ permalink: /service/
 
 *   The 26th IEEE International Conference on Network Protocols ([ICNP 2018](http://icnp18.cs.ucr.edu/){:target="_blank"})
 
+*   The 24th ACM Annual International Conference on Mobile Computing and Networking ([ACM MobiCom 2018](https://sigmobile.org/mobicom/2018/){:target="_blank"})
+
 *   ACM SIGCOMM 2018 Workshop on IoT Security and Privacy ([IoT S&P](https://conferences.sigcomm.org/sigcomm/2018/workshop-iotsp.html){:target="_blank"})
 
 *   The International Teletraffic Congress ([ITC 30](https://itc30.org/){:target="_blank"})
