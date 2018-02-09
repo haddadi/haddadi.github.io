@@ -9,6 +9,8 @@ permalink: /publications/
 
 ### 2018:
 
+*   Seyed Ali Osia, Ali Taheri, Ali Shahin Shamsabadi, Kleomenis Katevas, Hamed Haddadi, Hamid R. Rabiee, "Deep Private-Feature Extraction", Available on [ArXiv](){:target="_blank"}, February 2018.
+
 *   Seyed Ali Osia, Ali Shahin Shamsabadi, Ali Taheri, Hamid R. Rabiee, Hamed Haddadi, "Private and Scalable Personal Data Analytics using a Hybrid Edge-Cloud Deep Learning", [IEEE Computer Magazine](https://publications.computer.org/computer-magazine/){:target="_blank"} Special Issue on Mobile and Embedded Deep Learning, To appear.
 
 *   Katrin Hänsel, Romina Kettner, Hamed Haddadi, Akram Alomainy, Albrecht Schmidt,  "What to Put on the User: Sensing Technologies for Studies and Physiology Aware Systems", Proceedings of the ACM Conference on Human Factors in Computing Systems ([ACM CHI'18](https://chi2018.acm.org)), Montréal, Canada, April 21-26, 2018. ([paper](https://haddadi.github.io/papers/CHI2018sensing.pdf){:target="_blank"})
