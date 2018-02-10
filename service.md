@@ -21,7 +21,7 @@ permalink: /service/
 
 *   ACM SIGCOMM 2018 Workshop on IoT Security and Privacy ([IoT S&P](https://conferences.sigcomm.org/sigcomm/2018/workshop-iotsp.html){:target="_blank"})
 
-*   The International Teletraffic Congress ([ITC 30](https://itc30.org/){:target="_blank"})
+*   The International Teletraffic Congress ([ITC 30](https://itc30.org/en/committees/area-2.html){:target="_blank"})
 
 *   The 1st ACM SIGMOBILE International Workshop on Edge Systems, Analytics and Networking ([EdgeSys 2018](https://www.sigmobile.org/mobisys/2018/workshops/edgesys18/){:target="_blank"})
 
