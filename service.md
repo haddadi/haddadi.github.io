@@ -13,6 +13,8 @@ permalink: /service/
 
 *   [UK Next Generation Networking](http://coseners.net/) Steering Committee co-chair (since 2013, alongside [Iain Philips](http://www.lboro.ac.uk/departments/compsci/staff/dr-iain-phillips.html))  
 
+*   ACM SIGCOMM Internet Measurement Conference 2018 ([IMC 2018)](http://conferences.sigcomm.org/imc/2018/)
+
 *   The 26th IEEE International Conference on Network Protocols ([ICNP 2018](http://icnp18.cs.ucr.edu/){:target="_blank"})
 
 *   The 24th ACM Annual International Conference on Mobile Computing and Networking ([ACM MobiCom 2018](https://sigmobile.org/mobicom/2018/){:target="_blank"})
