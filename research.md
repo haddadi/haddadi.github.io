@@ -32,7 +32,7 @@ I am interested in hearing from potential PhD students in my areas of research i
 
 *   EPSRC IoT research-in-the-wild: [Connected Seeds and Sensors](http://www.connectedseeds.org/) ([EP/L023504/1](http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/L023504/1) £ 321,053 October 2015- March 2017)
 
-*   [Microsoft Azure for Research](http://research.microsoft.com/en-us/projects/azure/default.aspx) Award CRM:0518581 (co-PI, $20k)  
+*   [Microsoft Azure for Research](http://research.microsoft.com/en-us/projects/azure/default.aspx) Award 2017 CRM:0518581 (co-PI, $20k)  
 
 *   [EPSRC IT as a Utility Network](http://www.itutility.ac.uk/)+ industrial secondment at AT&T Research (PI, £6k)
 
