@@ -6,10 +6,10 @@ permalink: /research/
 
 (Better strategy [1](http://www.cs.virginia.edu/%7Erobins/YouAndYourResearch.html), [2](http://www.cl.cam.ac.uk/%7Ejac22/zen-lab.txt) & [3](http://greatresearch.org/))
 
-## Current Projects
+## Current Projects and Grants
 
 *   EPSRC [Databox](http://www.databoxproject.uk): Privacy-Aware Infrastructure for Managing Personal Data ([EP/N028260/1](http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/N028260/1) £1,537,810.44 starting October 2016)  
-
+*   Microsoft Azure Research Award 2018 (CRM:0740917)
 *   [Human-Data Interaction](http://hdiresearch.org/)
 
 ## Current Research Staff
@@ -18,7 +18,7 @@ permalink: /research/
 
 *   [Ali Shahin Shamsabadi](https://scholar.google.com/citations?user=1kVnWYwAAAAJ&hl=en), (Privacy-preserving Deep Learning, funded by QMUL [CIS](http://cis.eecs.qmul.ac.uk/) Scholarship).
 
-*   [Mohammad Malekzadeh](https://mmalekzadeh.github.io/) (Privacy-preserving personal data analytics on the [Databox](http://www.technologyreview.com/view/534526/how-a-box-could-solve-the-personal-data-conundrum/) project, funded by [QMUL Life Science Institute](http://www.qmul.ac.uk/lifesciences/)).
+*   [Mohammad Malekzadeh](https://mmalekzadeh.github.io/) (Privacy-preserving personal data analytics on the [Databox](http://www.technologyreview.com/view/534526/how-a-box-could-solve-the-personal-data-conundrum/) project, funded by [QMUL Life Science Initiative](http://www.qmul.ac.uk/lifesciences/)).
 
 *   [Yousef Amar](http://yousefamar.com/) (Personal Data Analytics on the [Databox](http://www.technologyreview.com/view/534526/how-a-box-could-solve-the-personal-data-conundrum/), funded by QMUL [CIS](http://cis.eecs.qmul.ac.uk/) Scholarship).
 
