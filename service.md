@@ -53,7 +53,7 @@ permalink: /service/
 
 **I no longer perform reviews for commercial journals not supporting Open Access, or those (like Elsevier) taking part in political sanctions against any country.**
 
-ACM Transactions on the Web (TWEB), ACM SIGCOMM Computer Communications Review (CCR), PLOS ONE, Computers in Human Behavior, Transactions on Database Systems, IEEE JSAC Special issue on Measuring and Troubleshooting the Internet, IEEE Transactions on Parallel and Distributed Systems, IEEE Transactions on Mobile Computing, IEEE Internet Computing, IEEE Transactions on Knowledge and Data Engineering, IEEE Communications Letters, IEEE JSAC on Network Science, IEEE Network, IET Networks, World Wide Web Journal, International Journal of Human-Computer Studies, MDPI Entropy, Springer World Wide Web Journal, Elsevier COMNET, Elsevier Social Networks, Elsevier Computer Communications, Wiley's handbook on Computer Networks, Computer Communications Journal, Springer Journal of the Network and Systems Management, Springer book 'Cloud Computing for Enterprise Architectures', Kunstliche Intelligenz (Artificial Intelligence), China Communications, IEEE Signal Processing Magazine, Wireless Networks (WINET), Springer Social Network Analysis and Mining (SNAM), New Media & Society
+IEEE Signal Processing Magazine, ACM Transactions on the Web (TWEB), ACM SIGCOMM Computer Communications Review (CCR), PLOS ONE, Computers in Human Behavior, Transactions on Database Systems, IEEE JSAC Special issue on Measuring and Troubleshooting the Internet, IEEE Transactions on Parallel and Distributed Systems, IEEE Transactions on Mobile Computing, IEEE Internet Computing, IEEE Transactions on Knowledge and Data Engineering, IEEE Communications Letters, IEEE JSAC on Network Science, IEEE Network, IET Networks, World Wide Web Journal, International Journal of Human-Computer Studies, MDPI Entropy, Springer World Wide Web Journal, Elsevier COMNET, Elsevier Social Networks, Elsevier Computer Communications, Wiley's handbook on Computer Networks, Computer Communications Journal, Springer Journal of the Network and Systems Management, Springer book 'Cloud Computing for Enterprise Architectures', Kunstliche Intelligenz (Artificial Intelligence), China Communications, IEEE Signal Processing Magazine, Wireless Networks (WINET), Springer Social Network Analysis and Mining (SNAM), New Media & Society
 
 
 ## Teaching
@@ -81,6 +81,7 @@ I offer consultancy services on research project and patent disputes, social med
 
 ## PhD examination
 
+Yang Liu, University of Oxford, February 2018     
 Valerio Ciotti, Queen Mary University London, October 2017     
 Gregory Tsipenyuk, University of Cambridge, September 2017  
 Liam Turner, Cardiff University, July 2017  
