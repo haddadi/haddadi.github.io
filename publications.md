@@ -22,7 +22,7 @@ permalink: /publications/
 
 *   Sandra Servia-Rodriguez, Liang Wang, Jianxin R. Zhao, Richard Mortier, Hamed Haddadi, "Personal Model Training under Privacy Constraints", The 3rd ACM/IEEE International Conference on Internet-of-Things Design and Implementation, April 2018, Orlando, Florida. ([paper](https://haddadi.github.io/papers/iotdi18.pdf){:target="_blank"})
 
-*   Mohammad Malekzadeh, Richard G. Clegg, Hamed Haddadi, "Replacement AutoEncoder: A Privacy-Preserving Algorithm for Sensory Data Analysis", The 3rd ACM/IEEE International Conference on Internet-of-Things Design and Implementation, April 2018, Orlando, Florida. ([paper](https://arxiv.org/abs/1710.06564){:target="_blank"}, [Code](https://github.com/mmalekzadeh/replacement-autoencoder){:target="_blank"})
+*   Mohammad Malekzadeh, Richard G. Clegg, Hamed Haddadi, "Replacement AutoEncoder: A Privacy-Preserving Algorithm for Sensory Data Analysis", The 3rd ACM/IEEE International Conference on Internet-of-Things Design and Implementation, April 2018, Orlando, Florida. ([paper](https://haddadi.github.io/papers/RAE2018IoTDI.pdf){:target="_blank"}, [Code](https://github.com/mmalekzadeh/replacement-autoencoder){:target="_blank"})
 
 ### 2017:
 
