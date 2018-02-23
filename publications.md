@@ -9,6 +9,7 @@ permalink: /publications/
 
 ### 2018:
 
+*   Mohammad Malekzadeh, Richard G. Clegg, Andrea Cavallaro, Hamed Haddadi, "Protecting Sensory Data against Sensitive Inferences", Available on [ArXiv](https://arxiv.org/abs/1802.07802){:target="_blank"}, February 2018. ([Dataset](https://github.com/mmalekzadeh/motion-sense){:target="_blank"})
 
 *   Ali Shahin Shamsabadi, Hamed Haddadi, Andrea Cavallaro, "Distributed One-class Learning", Available on [ArXiv](https://arxiv.org/abs/1802.03583){:target="_blank"}, February 2018.
 
