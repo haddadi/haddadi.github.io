@@ -22,7 +22,7 @@ Paper: [https://arxiv.org/abs/1710.06564]( https://arxiv.org/abs/1710.06564)
 In this paper, we propose a privacy-preserving sensing framework for managing access to time-series data in order to protecting *temporal inferences*. We introduce *Replacement AutoEncoder*(RAE), a novel algorithm which learns how to transform discriminative features of data that correspond to sensitive inferences,  into some features that have been more observed in non-sensitive inferences, to protect users' privacy. This efficiency is achieved by defining a user-customized objective function for deep autoencoders.
 We also used [GAN]( https://en.wikipedia.org/wiki/Generative_adversarial_network){:target="_blank"}s to see if an attacker can detect when non-sensitive activity inferred from data is actually a replacement of a sensitive one, not a real non-sensitive activity. We show that this will only be possible if a GAN is trained on the users' original, unmodified data.
 
-| <img src="https://github.com/mmalekzadeh/motion-sense/blob/master/materials/rae.png" class="img-responsive"> |
+| <img src="https://raw.githubusercontent.com/mmalekzadeh/motion-sense/master/materials/rae.png" class="img-responsive"> |
 |:---:|
 | Replacement AutoEncoder (RAE) |
 
@@ -33,7 +33,7 @@ Paper: [https://arxiv.org/abs/1802.07802]( https://arxiv.org/abs/1802.07802)
 
 In this paper we propose a data transformation architecture inspired by GANs for protecting *concurrent inferences*. Here, we set up a GANs-like game between a data transformer model (Guardian) and an information extractor model (Estimator), in a way that Estimator helps Guardian to efficiently transform data for providing a good utility-privacy tradeoff. As a usecase, we show that it maintains the usefulness of the transformed data for activity recognition (with around an average loss of three percentage points) while almost eliminating the possibility of gender classification (from more than 90% to around 50%, the target random guess). 
 
-| <img src="https://github.com/mmalekzadeh/motion-sense/blob/master/materials/gen.png"  height="300" width="400"> |
+| <img src="https://raw.githubusercontent.com/mmalekzadeh/motion-sense/master/materials/gen.png"  height="300" width="400"> |
 |:---:|
 | Guardian Estimator Neutralizer (GEN) |
 
