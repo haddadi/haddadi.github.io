@@ -9,7 +9,7 @@ Specifically, there are two ways of drawing sensitive inferences from time-serie
 (1) *Temporal Inferences*, that means each section of time-series can be assigned to a specific inference, sensitive or non-sensitive (including  desired information that users gain utility from sharing them).
 (2) *Concurrent Inferences*, that means information available in each section of time-series can be used to make both sensitive and non-sensitive inferences.
 
-| <img src="https://github.com/mmalekzadeh/motion-sense/blob/master/materials/temporal_inf.png" class="img-responsive"> | <img src="https://github.com/mmalekzadeh/motion-sense/blob/master/materials/concurrent_inf.png" class="img-responsive"> |
+| <img src="https://github.com/mmalekzadeh/motion-sense/blob/master/materials/temporal_inf.png?raw=true" class="img-responsive"> | <img src="https://github.com/mmalekzadeh/motion-sense/blob/master/materials/concurrent_inf.png" class="img-responsive"> |
 |:---:|:---:|
 | Temporal Inferences | Concurrent Inferences |
 
