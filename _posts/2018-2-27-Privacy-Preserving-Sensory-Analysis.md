@@ -5,7 +5,7 @@ title: Privacy-Preserving time-Series Data Analysis
 
 An increasing number of sensors on mobile, Internet of things (IoT), and wearable devices generate time-series measurements of physical activities. Though access to the sensory data is critical to the success of many beneficial applications such as health monitoring or activity recognition, a wide range of potentially sensitive information about the individuals can also be discovered through access to sensory data and this cannot easily be protected using traditional privacy approaches.
 
-Specifically, there are two ways of drawing sensitive inferences from time-series of sensory data :
+Specifically, there are two ways of drawing sensitive inferences from time-series (sensor, IoT, etc) data :
 (1) *Temporal Inferences*, that means each section of time-series can be assigned to a specific inference, sensitive or non-sensitive (including  desired information that users gain utility from sharing them).
 (2) *Concurrent Inferences*, that means information available in each section of time-series can be used to make both sensitive and non-sensitive inferences.
 
