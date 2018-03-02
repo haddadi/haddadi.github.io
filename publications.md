@@ -11,6 +11,8 @@ permalink: /publications/
 
 *   Mohammad Malekzadeh, Richard G. Clegg, Andrea Cavallaro, Hamed Haddadi, "Protecting Sensory Data against Sensitive Inferences", in proceedings of the [1st Workshop on Privacy by Design in Distributed Systems](http://www.gsd.inesc-id.pt/~p2ds/), co-located with [Eurosys 2018](http://eurosys2018.org/), Porto, Portugal, April 2018. (Available on [ArXiv](https://arxiv.org/abs/1802.07802){:target="_blank"}, February 2018. ([Dataset](https://github.com/mmalekzadeh/motion-sense){:target="_blank"}))
 
+*   Yousef Amar, Hamed Haddadi, Richard Mortier, "An Information-Theoretic Approach to Time-Series Data Privacy", in proceedings of the [1st Workshop on Privacy by Design in Distributed Systems](http://www.gsd.inesc-id.pt/~p2ds/), co-located with [Eurosys 2018](http://eurosys2018.org/), Porto, Portugal, April 2018. 
+
 *   Ali Shahin Shamsabadi, Hamed Haddadi, Andrea Cavallaro, "Distributed One-class Learning", Available on [ArXiv](https://arxiv.org/abs/1802.03583){:target="_blank"}, February 2018.
 
 *   Seyed Ali Osia, Ali Taheri, Ali Shahin Shamsabadi, Kleomenis Katevas, Hamed Haddadi, Hamid R. Rabiee, "Deep Private-Feature Extraction", Available on [ArXiv](https://arxiv.org/abs/1802.03151){:target="_blank"}, February 2018.
