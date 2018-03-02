@@ -16,9 +16,9 @@ permalink: /publications/
 *   Seyed Ali Osia, Ali Taheri, Ali Shahin Shamsabadi, Kleomenis Katevas, Hamed Haddadi, Hamid R. Rabiee, "Deep Private-Feature Extraction", Available on [ArXiv](https://arxiv.org/abs/1802.03151){:target="_blank"}, February 2018.
 
 
-*   Jon Crowcroft, Hamed Haddadi, Tristan Henderson, "Responsible Research on Social Networks: Dilemmas and Solutions", [Oxford Handbook](http://www.oxfordhandbooks.com/) of Networked Communication, Oxford University Press, 2018\. ([chapter draft](https://haddadi.github.io/papers/digitalethics2017.pdf))
+*   Jon Crowcroft, Hamed Haddadi, Tristan Henderson, "Responsible Research on Social Networks: Dilemmas and Solutions", [Oxford Handbook](http://www.oxfordhandbooks.com/) of Networked Communication, Oxford University Press, 2018\. ([chapter draft](https://haddadi.github.io/papers/digitalethics2017.pdf){:target="_blank"})
 
-*   Seyed Ali Osia, Ali Shahin Shamsabadi, Ali Taheri, Hamid R. Rabiee, Hamed Haddadi, "Private and Scalable Personal Data Analytics using a Hybrid Edge-Cloud Deep Learning", [IEEE Computer Magazine](https://publications.computer.org/computer-magazine/){:target="_blank"} Special Issue on Mobile and Embedded Deep Learning, April 2018.
+*   Seyed Ali Osia, Ali Shahin Shamsabadi, Ali Taheri, Hamid R. Rabiee, Hamed Haddadi, "Private and Scalable Personal Data Analytics using a Hybrid Edge-Cloud Deep Learning", [IEEE Computer Magazine](https://publications.computer.org/computer-magazine/){:target="_blank"} Special Issue on Mobile and Embedded Deep Learning, April 2018. ([Paper](https://haddadi.github.io/papers/IEEEcomputerSI2018.pdf))
 
 *   Katrin Hänsel, Romina Kettner, Hamed Haddadi, Akram Alomainy, Albrecht Schmidt,  "What to Put on the User: Sensing Technologies for Studies and Physiology Aware Systems", Proceedings of the ACM Conference on Human Factors in Computing Systems ([ACM CHI'18](https://chi2018.acm.org)), Montréal, Canada, April 21-26, 2018. ([paper](https://haddadi.github.io/papers/CHI2018sensing.pdf){:target="_blank"})
 
