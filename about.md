@@ -16,6 +16,11 @@ I am keen to hear from strong students interested in doing their masters project
 
 
 ### News
+
+March 2018: Our (EPSRC Digital Economy NetworkPlus)[https://www.epsrc.ac.uk/funding/calls/denetworkplus/] proposal on (Human-Data Interaction)[http://hdiresearch.org] has been funded!  Watch out for announcements regarding events and calls for projects in this space.
+
+Feb 2018: Our paper "(Private and Scalable Personal Data Analytics using a Hybrid Edge-Cloud Deep Learning)[https://haddadi.github.io/papers/IEEEcomputerSI2018.pdf]" with Seyed Ali Osia, Ali Shahin Shamsabadi, Ali Taheri, and Hamid R. Rabiee has been accepted to the  IEEE Computer Magazine Special Issue on Mobile and Embedded Deep Learning.
+
 Jan 2018: We are hiring a [Research Associate on Data mining, Analytics, Privacy Protocols and Machine Learning on the Databox Project](https://www.imperial.ac.uk/jobs/description/ENG00170/research-associate){:target="_blank"} at Imperial College London (Fixed Term for 14 months, closes 19th Feb 2018).
 
 Jan 2018: Two papers on privacy in IoT applications have been accepted to the ACM/IEEE International Conference on Internet-of-Things Design and Implementation 2018. See [publications' page](https://haddadi.github.io/publications/) for details.
