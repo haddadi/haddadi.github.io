@@ -6,7 +6,6 @@ permalink: /publications/
 ## [Google Scholar Profile](http://scholar.google.com/citations?user=gkA7zvoAAAAJ&hl=en){:target="_blank"}
 ## [GitHub code](https://github.com/haddadi/){:target="_blank"}
 
-
 ### 2018:
 
 *   Hamed Haddadi, Vassilis Christophides, Renata Cruz Teixeira, Kenjiro Cho, Shigeya Suzuki and Adrian Perrig, "SIOTOME: An Edge-ISP Collaborative Architecture for IoT Security", in proceedings of the 1st International Workshop on Security and Privacy for the Internet-of-Things ([IoTSec](https://synercys.github.io/iotsec/){:target="_blank"}), co-located with the 3rd ACM/IEEE International Conference on Internet of Things Design & Implementation ([IoTDI](http://conferences.computer.org/IoTDI/){:target="_blank"}), April 2018, Orlando, Florida, USA. (paper)
@@ -15,22 +14,21 @@ permalink: /publications/
 
 *   Yousef Amar, Hamed Haddadi, Richard Mortier, "An Information-Theoretic Approach to Time-Series Data Privacy", in proceedings of the [1st Workshop on Privacy by Design in Distributed Systems](http://www.gsd.inesc-id.pt/~p2ds/), co-located with [Eurosys 2018](http://eurosys2018.org/), Porto, Portugal, April 2018. 
 
-*   Ali Shahin Shamsabadi, Hamed Haddadi, Andrea Cavallaro, "Distributed One-class Learning", Available on [ArXiv](https://arxiv.org/abs/1802.03583){:target="_blank"}, February 2018.
-
-*   Seyed Ali Osia, Ali Taheri, Ali Shahin Shamsabadi, Kleomenis Katevas, Hamed Haddadi, Hamid R. Rabiee, "Deep Private-Feature Extraction", Available on [ArXiv](https://arxiv.org/abs/1802.03151){:target="_blank"}, February 2018.
-
-
 *   Jon Crowcroft, Hamed Haddadi, Tristan Henderson, "Responsible Research on Social Networks: Dilemmas and Solutions", [Oxford Handbook](http://www.oxfordhandbooks.com/) of Networked Communication, Oxford University Press, 2018\. ([chapter draft](https://haddadi.github.io/papers/digitalethics2017.pdf){:target="_blank"})
 
 *   Seyed Ali Osia, Ali Shahin Shamsabadi, Ali Taheri, Hamid R. Rabiee, Hamed Haddadi, "Private and Scalable Personal Data Analytics using a Hybrid Edge-Cloud Deep Learning", [IEEE Computer Magazine](https://publications.computer.org/computer-magazine/){:target="_blank"} Special Issue on Mobile and Embedded Deep Learning, April 2018. ([Paper](https://haddadi.github.io/papers/IEEEcomputerSI2018.pdf))
 
 *   Katrin Hänsel, Romina Kettner, Hamed Haddadi, Akram Alomainy, Albrecht Schmidt,  "What to Put on the User: Sensing Technologies for Studies and Physiology Aware Systems", Proceedings of the ACM Conference on Human Factors in Computing Systems ([ACM CHI'18](https://chi2018.acm.org)), Montréal, Canada, April 21-26, 2018. ([paper](https://haddadi.github.io/papers/CHI2018sensing.pdf){:target="_blank"})
 
-*   Andy Crabtree, Tom Lodge, James Colley, Chris Greenhalgh, Kevin Glover, Hamed Haddadi, Yousef Amar, Richard Mortier, Qi Li, John Moore, Liang Wang, Poonam Yadav, Jianxin Zhao, Anthony Brown, Lachlan Urquhart, Derek McAuley, "Building Accountability into the Internet of Things: The IoT Databox Model", Journal of Reliable Intelligent Environments, Springer, 2018. ([paper](https://haddadi.github.io/papers/JREI_IoTDatabox2018.pdf){:target="_blank"})
-
 *   Sandra Servia-Rodriguez, Liang Wang, Jianxin R. Zhao, Richard Mortier, Hamed Haddadi, "Personal Model Training under Privacy Constraints", The 3rd ACM/IEEE International Conference on Internet-of-Things Design and Implementation, April 2018, Orlando, Florida. ([paper](https://haddadi.github.io/papers/iotdi18.pdf){:target="_blank"})
 
 *   Mohammad Malekzadeh, Richard G. Clegg, Hamed Haddadi, "Replacement AutoEncoder: A Privacy-Preserving Algorithm for Sensory Data Analysis", The 3rd ACM/IEEE International Conference on Internet-of-Things Design and Implementation, April 2018, Orlando, Florida. ([paper](https://haddadi.github.io/papers/RAE2018IoTDI.pdf){:target="_blank"}, [Code](https://github.com/mmalekzadeh/replacement-autoencoder){:target="_blank"})
+
+*   Ali Shahin Shamsabadi, Hamed Haddadi, Andrea Cavallaro, "Distributed One-class Learning", Available on [ArXiv](https://arxiv.org/abs/1802.03583){:target="_blank"}, February 2018.
+
+*   Seyed Ali Osia, Ali Taheri, Ali Shahin Shamsabadi, Kleomenis Katevas, Hamed Haddadi, Hamid R. Rabiee, "Deep Private-Feature Extraction", Available on [ArXiv](https://arxiv.org/abs/1802.03151){:target="_blank"}, February 2018.
+
+*   Andy Crabtree, Tom Lodge, James Colley, Chris Greenhalgh, Kevin Glover, Hamed Haddadi, Yousef Amar, Richard Mortier, Qi Li, John Moore, Liang Wang, Poonam Yadav, Jianxin Zhao, Anthony Brown, Lachlan Urquhart, Derek McAuley, "Building Accountability into the Internet of Things: The IoT Databox Model", Journal of Reliable Intelligent Environments, Springer, 2018. ([paper](https://haddadi.github.io/papers/JREI_IoTDatabox2018.pdf){:target="_blank"})
 
 ### 2017:
 
