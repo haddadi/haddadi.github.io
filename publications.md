@@ -9,6 +9,8 @@ permalink: /publications/
 
 ### 2018:
 
+*   Hamed Haddadi, Vassilis Christophides, Renata Cruz Teixeira, Kenjiro Cho, Shigeya Suzuki and Adrian Perrig, "SIOTOME: An Edge-ISP Collaborative Architecture for IoT Security", in proceedings of the 1st International Workshop on Security and Privacy for the Internet-of-Things (IoTSec), co-located with the 3rd ACM/IEEE International Conference on Internet of Things Design & Implementation (IoTDI), April 2018, Orlando, Florida, USA. (paper)
+
 *   Mohammad Malekzadeh, Richard G. Clegg, Andrea Cavallaro, Hamed Haddadi, "Protecting Sensory Data against Sensitive Inferences", in proceedings of the [1st Workshop on Privacy by Design in Distributed Systems](http://www.gsd.inesc-id.pt/~p2ds/), co-located with [Eurosys 2018](http://eurosys2018.org/), Porto, Portugal, April 2018. (Available on [ArXiv](https://arxiv.org/abs/1802.07802){:target="_blank"}, [Dataset](https://github.com/mmalekzadeh/motion-sense){:target="_blank"})
 
 *   Yousef Amar, Hamed Haddadi, Richard Mortier, "An Information-Theoretic Approach to Time-Series Data Privacy", in proceedings of the [1st Workshop on Privacy by Design in Distributed Systems](http://www.gsd.inesc-id.pt/~p2ds/), co-located with [Eurosys 2018](http://eurosys2018.org/), Porto, Portugal, April 2018. 
