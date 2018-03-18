@@ -116,7 +116,7 @@ permalink: /publications/
 
 *   Kleomenis Katevas, Hamed Haddadi, Laurissa Tokarchuk, “SensingKit: A Multi-Platform Mobile Sensing Framework for Large-Scale Experiments”, Extended abstract, ACM MobiCom 2014, Maui, Hawaii, September 2014\. [[PDF](https://haddadi.github.io/papers/mobicom14.pdf) , [iOS/Android libraries](http://www.sensingkit.org/)]
 
-*   Marjan Falahrastegar, Hamed Haddadi, Steve Uhlig, and Richard Mortier, “Anatomy of the Third-Party Web Tracking Ecosystem”. September 2014\. [[paper](http://arxiv.org/abs/1409.1066) , [MIT Tech Review](http://www.technologyreview.com/view/530741/the-murky-world-of-third-party-web-tracking/)]
+*   Marjan Falahrastegar, Hamed Haddadi, Steve Uhlig, and Richard Mortier, “Anatomy of the Third-Party Web Tracking Ecosystem”. September 2014\. [[paper](http://arxiv.org/abs/1409.1066) , [MIT Tech Review](http://www.technologyreview.com/view/530741/the-murky-world-of-third-party-web-tracking/), [The Register](https://www.theregister.co.uk/2014/09/18/boffins_grapple_with_tracker_geography/)]
 
 *   Hamed Haddadi, Ian Brown, “Quantified Self and the Privacy Challenge”, SCL Technology Law Futures Forum, August 2014 [[Paper](https://haddadi.github.io/papers/qselfprivacy2014.pdf), [Article](http://www.scl.org/site.aspx?i=ed38111)]
 
