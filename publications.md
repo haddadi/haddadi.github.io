@@ -78,7 +78,7 @@ permalink: /publications/
 
 *   Morteza Akbari Fard, Hamed Hadadi, Alireza Tavakoli Targhi, "Fruits and Vegetables Calorie Counter Using Convolutional Neural Networks", ACM [Digital Health Conference 2016](http://www.acm-digitalhealth.org/), <span style="text-decoration: underline;"></span>11-13 April 2016, Montreal, Canada. ([paper](https://haddadi.github.io/papers/dh38ex-akbari-fard.pdf))
 
-*   Marjan Falahrastegar, Hamed Haddadi, Steve Uhlig, Richard Mortier, "Tracking Personal Identifiers Across the Web", Passive and Active Measurement conference ([PAM 2016](http://www.ics.forth.gr/pam2016/call-papers.html)), 31 March-1 April 2016, Crete, Greece. ([paper](https://haddadi.github.io/papers/pam2k16.pdf))
+*   Marjan Falahrastegar, Hamed Haddadi, Steve Uhlig, Richard Mortier, "Tracking Personal Identifiers Across the Web", Passive and Active Measurement conference ([PAM 2016](http://www.ics.forth.gr/pam2016/call-papers.html)), 31 March-1 April 2016, Crete, Greece. ([paper](https://haddadi.github.io/papers/pam2k16.pdf)), ([F-Secure coverage](https://safeandsavvy.f-secure.com/2015/09/22/who-is-tracking-you-and-why-that-matters/))
 
 *   Ian Nathan Anggono, Hamed Haddadi, Abdelberi Chaabane, Mohamed Ali Kaafar, "Preserving Privacy in Geo-Targeted Advertising", 2nd International Workshop on Ad Targeting at Scale at [WSDM 2016](http://www.wsdm-conference.org/2016/) ([TargetAd 2016](https://sites.google.com/site/targetad2016/)), February 22nd, San Francisco, CA, USA. ([paper](https://haddadi.github.io/papers/targetad2016.pdf))
 
