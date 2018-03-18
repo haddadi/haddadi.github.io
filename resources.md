@@ -20,6 +20,8 @@ Writing a good [abstract](https://users.ece.cmu.edu/%7Ekoopman/essays/abstract.h
 
 How to do [great research](http://greatresearch.org/)
 
+How to [get a faculty job](http://matt-welsh.blogspot.co.uk/2012/12/how-to-get-faculty-job-part-1.html) By  Matt Welsh
+
 How to write [boring papers](http://www.philippeweil.com/links/BoringWriting.pdf)
 
 [What to do at conferences](http://homes.cs.washington.edu/%7Emernst/advice/conference-attendance.html)?
