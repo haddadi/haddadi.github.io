@@ -17,6 +17,8 @@ I am keen to hear from strong students interested in doing their masters project
 
 ### News
 
+March 2018: Our [EPSRC TIPS2](https://www.epsrc.ac.uk/funding/calls/tips2/) proposal on Defense Against Dark Artefacts, to battle IoT security & Privacy threats using edge computing, has been funded. 
+
 March 2018: Our [EPSRC Digital Economy NetworkPlus](https://www.epsrc.ac.uk/funding/calls/denetworkplus/) proposal on [Human-Data Interaction](http://hdiresearch.org) has been funded!  Watch out for announcements regarding events and calls for projects in this space.
 
 Feb 2018: Our paper "[Private and Scalable Personal Data Analytics using a Hybrid Edge-Cloud Deep Learning](https://haddadi.github.io/papers/IEEEcomputerSI2018.pdf)" with Seyed Ali Osia, Ali Shahin Shamsabadi, Ali Taheri, and Hamid R. Rabiee has been accepted to the  IEEE Computer Magazine Special Issue on Mobile and Embedded Deep Learning.
