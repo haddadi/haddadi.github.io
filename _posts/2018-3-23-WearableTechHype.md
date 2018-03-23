@@ -1,4 +1,9 @@
-Wearable tech - the last years’ hype. More and more devices, claiming to make us fitter, stronger, and healthier were flooding the marked over the last couple of years. While those devices started out as mere ‘smart’ pedometers to count our steps during the day and magically transferring the collected data to the cloud for users to view in online dashboards or on their phone. Over the years, additional sensors and metrics, such as sleep quality, heart rate, VOmax or even stress have been added to those smart gadgets. But the question remains: How smart, accurate and suitable are those wearables really? 
+---
+layout: post
+title: Wearables - the Last Year's Hype
+---
+
+More and more devices, claiming to make us fitter, stronger, and healthier were flooding the marked over the last couple of years. While those devices started out as mere ‘smart’ pedometers to count our steps during the day and magically transferring the collected data to the cloud for users to view in online dashboards or on their phone. Over the years, additional sensors and metrics, such as sleep quality, heart rate, VOmax or even stress have been added to those smart gadgets. But the question remains: How smart, accurate and suitable are those wearables really? 
 
 We were especially interested in the claim that those wristwatches can measure and track stress. The newest generation of devices from Garmin  promise to keep track of users stress levels. A lot of stuff happens within our body when we get stressed: Our heart beats faster, muscles tension increases, our skin gets sweaty to cool down our body, and respectively our surface temperature drops due to the blood flow being diverted to the centre of our body. All those things can be measured with unobtrusive sensors, such as heart rate monitors, skin conductance sensors and skin surface thermometers. Consumer wearables already contain those sensors. But are they sensitive enough to detect subtle changes in the case of stress? Let’s find out. 
 
@@ -12,7 +17,21 @@ What do we learn from this: While those nifty smartwatches and fitness trackers 
 
  
 
-[1] Katrin Hänsel, Romina Poguntke, Hamed Haddadi, Akram Alomainy, Albrecht Schmidt. What to Put on the User: Sensing Technologies for Studies and Physiology Aware Systems. CHI 2018
+[1] Katrin Hänsel, Romina Kettner, Hamed Haddadi, Akram Alomainy, Albrecht Schmidt,  "What to Put on the User: Sensing Technologies for Studies and Physiology Aware Systems", Proceedings of the ACM Conference on Human Factors in Computing Systems ([ACM CHI'18](https://chi2018.acm.org)), Montréal, Canada, April 21-26, 2018. ([paper](https://haddadi.github.io/papers/CHI2018sensing.pdf){:target="_blank"})
+
 [2] [People with tattoos report the Apple Watch is having trouble determining they are alive — Quartz](https://qz.com/394694/people-with-dark-skin-and-tattoos-report-the-apple-watch-is-having-trouble-determining-they-are-alive/)
+
+
+
+| <img src="https://raw.githubusercontent.com/mmalekzadeh/motion-sense/master/materials/temporal_inf.png" class="img-responsive"> | <img src="https://raw.githubusercontent.com/mmalekzadeh/motion-sense/master/materials/concurrent_inf.png" class="img-responsive"> |
+|:---:|:---:|
+| Temporal Inferences | Concurrent Inferences |
+
+
+
+| <img src="https://raw.githubusercontent.com/mmalekzadeh/motion-sense/master/materials/gen.png"  height="300" width="400"> |
+|:---:|
+| Guardian Estimator Neutralizer (GEN) |
+
 
 
