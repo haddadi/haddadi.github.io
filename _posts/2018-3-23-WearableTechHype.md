@@ -23,15 +23,9 @@ What do we learn from this: While those nifty smartwatches and fitness trackers 
 
 
 
-| <img src="https://raw.githubusercontent.com/mmalekzadeh/motion-sense/master/materials/temporal_inf.png" class="img-responsive"> | <img src="https://raw.githubusercontent.com/mmalekzadeh/motion-sense/master/materials/concurrent_inf.png" class="img-responsive"> |
-|:---:|:---:|
-| Temporal Inferences | Concurrent Inferences |
-
-
-
-| <img src="https://raw.githubusercontent.com/mmalekzadeh/motion-sense/master/materials/gen.png"  height="300" width="400"> |
+| <img src="https://github.com/haddadi/haddadi.github.io/blob/master/images/2018/Wearables.png?raw=true"  height="300" width="400"> |
 |:---:|
-| Guardian Estimator Neutralizer (GEN) |
+| Illustrative schematic of the design space evaluation for our 4 test devices (Nexus, Polar, Apple Watch, Microsoft Band) in 5 criteria dimensions (data reliability, comfort of attachment, mobility, data richness, and data accessibility) |
 
 
 
