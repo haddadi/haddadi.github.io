@@ -10,7 +10,7 @@ permalink: /research/
 
 *   EPSRC [Databox](http://www.databoxproject.uk): Privacy-Aware Infrastructure for Managing Personal Data ([EP/N028260/1](http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/N028260/1) £1,537,810.44 starting October 2016)  
 *   Microsoft Azure Research Award 2017-2018 (CRM:0740917)
-*   [Human-Data Interaction](http://hdiresearch.org/), Legibility, Agency, Negotiability: EPSRC Network Plus grant ([EP/R045178/1](http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/R045178/1){:target="_blank"},  £1,298,811 starting July 2018)
+*   [Human-Data Interaction](http://hdiresearch.org/), Legibility, Agency, Negotiability: EPSRC Network Plus grant ([EP/R045178/1](http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/R045178/1){:target="_blank"}, £1,298,811 starting July 2018)
 *   EPSRC DADA: Defence Against Dark Artefacts (EP/R03351X/1, £1,249,510 starting July 2018)
 
 ## Current Research Staff
