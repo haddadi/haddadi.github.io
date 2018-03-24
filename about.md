@@ -6,7 +6,7 @@ permalink: /about/
 
 I am a Senior Lecturer (~Associate Professor) and the Deputy Director of Research in the [Dyson School of Design Engineering](http://www.imperial.ac.uk/design-engineering/){:target="_blank"}, at The [Faculty of Engineering](http://www.imperial.ac.uk/engineering/){:target="_blank"} at [Imperial College London](http://www.imperial.ac.uk){:target="_blank"}. I am also an Academic Fellow of the [Data Science Institute](https://www.imperial.ac.uk/data-science/){:target="_blank"}. 
 
-My research interest are in User-Centered Systems, IoT, Applied Machine Learning, Privacy, and [Human-Data Interaction](http://hdiresearch.org){:target="_blank"}. I lead the [Databox project](http://www.databoxproject.uk/){:target="_blank"}. 
+My research interest are in User-Centered Systems, IoT, Applied Machine Learning, Privacy, and [Human-Data Interaction](http://hdiresearch.org){:target="_blank"}. I lead the [Systems and Algorithms Design Laboratory (SysAl)](http://www.imperial.ac.uk/a-z-research/systems-algorithms-design-lab/){:target="_blank"}. 
 
 
 [Contact](https://www.imperial.ac.uk/people/h.haddadi){:target="_blank"}, [Bio](bio.txt){:target="_blank"}, [Calendar](https://www.google.com/calendar/embed?src=h.haddadi%40gmail.com){:target="_blank"}, [Code](https://github.com/haddadi){:target="_blank"}
