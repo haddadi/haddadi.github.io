@@ -1,4 +1,4 @@
-* “Privacy-Preserving Sensing & Analytics on the Edge", Department of Computing, Imperial College London, February 2017 [slides](https://haddadi.github.io/talks/Haddadi_LINCS2018.pdf)
+* “[Privacy-Preserving Sensing & Analytics on the Edge](https://haddadi.github.io/talks/Haddadi_LINCS2018.pdf)", Department of Computing, Imperial College London, February 2017
 * “User-Centric Personal Data Analytics on the Edge", Department of Computing, Imperial College London, February 2017
 * “Privacy-Preserving Analytics on the Edge", University of Nottingham Seminar Series, Nottingham, UK, December 2017 
 * “User-Centric Personal Data Analytics on the Edge", Privacy International, London, UK, September 2017 
