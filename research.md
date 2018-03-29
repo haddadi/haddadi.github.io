@@ -13,7 +13,7 @@ permalink: /research/
 *   [Human-Data Interaction](http://hdiresearch.org/), Legibility, Agency, Negotiability: EPSRC Network Plus grant ([EP/R045178/1](http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/R045178/1){:target="_blank"}, £1,298,811 starting July 2018)
 *   EPSRC DADA: Defence Against Dark Artefacts (EP/R03351X/1, £1,249,510 starting July 2018)
 
-%## Current Research Staff
+## Current Research Staff
 
 ## Current Research Students
 
