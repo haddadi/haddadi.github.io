@@ -13,7 +13,7 @@ permalink: /research/
 *   [Human-Data Interaction](http://hdiresearch.org/), Legibility, Agency, Negotiability: EPSRC Network Plus grant ([EP/R045178/1](http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/R045178/1){:target="_blank"}, £1,298,811 starting July 2018)
 *   EPSRC DADA: Defence Against Dark Artefacts (EP/R03351X/1, £1,249,510 starting July 2018)
 
-## Current Research Staff
+%## Current Research Staff
 
 ## Current Research Students
 
@@ -61,7 +61,7 @@ I am interested in hearing from potential PhD students in my areas of research i
 
 [Dr Sandra Servia](http://sservia.github.io) (Postdoctoral Research Associate on the Databox project) 
 
-[Dr Sara Heitlinger](http://saraheitlinger.net/) (Postdoctoral Research Associate on the [Connected Seeds and Sensors](http://www.connectedseeds.org/) project, 205-2017)
+[Dr Sara Heitlinger](http://saraheitlinger.net/) (Postdoctoral Research Associate on the [Connected Seeds and Sensors](http://www.connectedseeds.org/) project, 2015-2017)
 
 [Dr Marjan Falahrastegar](http://www.eecs.qmul.ac.uk/%7Emarjan/) (Web Tracking Ecosystem, PhD student at QMUL EECS school, co-advised with [Steve Uhlig](http://www.eecs.qmul.ac.uk/%7Esteve/) and [Richard Mortier](http://www.cs.nott.ac.uk/%7Ermm/), graduated December 2016)
 
