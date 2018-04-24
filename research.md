@@ -65,7 +65,7 @@ I am interested in hearing from potential PhD students in my areas of research i
 
 [Dr Marjan Falahrastegar](http://www.eecs.qmul.ac.uk/%7Emarjan/) (Web Tracking Ecosystem, PhD student at QMUL EECS school, co-advised with [Steve Uhlig](http://www.eecs.qmul.ac.uk/%7Esteve/) and [Richard Mortier](http://www.cs.nott.ac.uk/%7Ermm/), graduated December 2016)
 
-[Ms Nanda Khaorapapong](http://www.nandadoes.com/) (Postdoctoral Research Assistant on the [Connected Seeds and Sensors](http://www.connectedseeds.org/) project, 2016)
+[Ms Nanda Khaorapapong](http://www.nandadoes.com/) (Research Assistant on the [Connected Seeds and Sensors](http://www.connectedseeds.org/) project, 2016)
 
 [Dr Kuan Hon](http://www.kuan0.com/) (Regulatory aspects of data privacy in Cloud Computing, at [QUML CCLS](http://www.ccls.qmul.ac.uk/), co-advised with [Chris Reed](http://www.law.qmul.ac.uk/staff/reed.html), Graduated 2015, now a legal consultant with Microsoft Research)
 
