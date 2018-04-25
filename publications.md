@@ -12,6 +12,8 @@ permalink: /publications/
 
 *   Chaoyun Zhang, Paul Patras, Hamed Haddadi, "Deep Learning in Mobile and Wireless Networking: A Survey", Available on [ArXiv](https://arxiv.org/abs/1803.04311){:target="_blank"}, March 2018.
 
+*   Seyed Ali Osia, Ali Shahin Shamsabadi, Ali Taheri, Hamid R. Rabiee, Hamed Haddadi, "Private and Scalable Personal Data Analytics using a Hybrid Edge-Cloud Deep Learning", IEEE Computer, Special Issue on Mobile and Embedded Deep Learning, May 2018. ([Paper](https://haddadi.github.io/papers/IEEEcomputerSI2018.pdf))
+
 *   Hamed Haddadi, Vassilis Christophides, Renata Teixeira, Kenjiro Cho, Shigeya Suzuki and Adrian Perrig, "SIOTOME: An Edge-ISP Collaborative Architecture for IoT Security", in proceedings of the 1st International Workshop on Security and Privacy for the Internet-of-Things ([IoTSec](https://synercys.github.io/iotsec/){:target="_blank"}), co-located with the 3rd ACM/IEEE International Conference on Internet of Things Design & Implementation ([IoTDI](http://conferences.computer.org/IoTDI/){:target="_blank"}), April 2018, Orlando, Florida, USA. ([Paper](https://haddadi.github.io/papers/SIOTOME_2018iot.pdf), [Talk](https://haddadi.github.io/talks/IotDI18_SIOTOME.pdf))
 
 *   Mohammad Malekzadeh, Richard G. Clegg, Andrea Cavallaro, Hamed Haddadi, "Protecting Sensory Data against Sensitive Inferences", in proceedings of the [1st Workshop on Privacy by Design in Distributed Systems](http://www.gsd.inesc-id.pt/~p2ds/), co-located with [Eurosys 2018](http://eurosys2018.org/), Porto, Portugal, April 2018, ACM, New York, NY, USA, doi.org/10.1145/3195258.3195260 (Available on [ArXiv](https://arxiv.org/abs/1802.07802){:target="_blank"}, [Dataset](https://github.com/mmalekzadeh/motion-sense){:target="_blank"})
@@ -19,8 +21,6 @@ permalink: /publications/
 *   Yousef Amar, Hamed Haddadi, Richard Mortier, "An Information-Theoretic Approach to Time-Series Data Privacy", in proceedings of the [1st Workshop on Privacy by Design in Distributed Systems](http://www.gsd.inesc-id.pt/~p2ds/), co-located with [Eurosys 2018](http://eurosys2018.org/), Porto, Portugal, April 2018. [Paper](https://haddadi.github.io/papers/Eurosys2018amar.pdf)
 
 *   Jon Crowcroft, Hamed Haddadi, Tristan Henderson, "Responsible Research on Social Networks: Dilemmas and Solutions", [Oxford Handbook](http://www.oxfordhandbooks.com/) of Networked Communication, Oxford University Press, 2018\. ([chapter draft](https://haddadi.github.io/papers/digitalethics2017.pdf){:target="_blank"})
-
-*   Seyed Ali Osia, Ali Shahin Shamsabadi, Ali Taheri, Hamid R. Rabiee, Hamed Haddadi, "Private and Scalable Personal Data Analytics using a Hybrid Edge-Cloud Deep Learning", IEEE Computer, Special Issue on Mobile and Embedded Deep Learning, April 2018. ([Paper](https://haddadi.github.io/papers/IEEEcomputerSI2018.pdf))
 
 *   Katrin Hänsel, Romina Kettner, Hamed Haddadi, Akram Alomainy, Albrecht Schmidt,  "What to Put on the User: Sensing Technologies for Studies and Physiology Aware Systems", Proceedings of the ACM Conference on Human Factors in Computing Systems ([ACM CHI'18](https://chi2018.acm.org)), Montréal, Canada, April 21-26, 2018. ([paper](https://haddadi.github.io/papers/CHI2018sensing.pdf){:target="_blank"})
 
