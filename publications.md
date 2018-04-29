@@ -8,6 +8,8 @@ permalink: /publications/
 
 ### 2018:
 
+*   Katrin Hänsel, Kleomenis Katevas, Guido Orgs, Daniel C. Richardson, Akram Alomainy, Hamed Haddadi, "The potential of wearable tech to monitor social interactions through interpersonal synchrony detection", 4th ACM Workshop on wearable systems and applications ([WearSys 2018](https://sites.google.com/site/wearsys2018/){:target="_blank"}), June 2018, Munich, Germany.
+
 *   Yousef Amar, Hamed Haddadi, Richard Mortier, Anthony Brown, James Colley, Andy Crabtree, "An Analysis of Home IoT Network Traffic and Behaviour", Available on [ArXiv](https://arxiv.org/abs/1803.05368){:target="_blank"}, March 2018.
 
 *   Chaoyun Zhang, Paul Patras, Hamed Haddadi, "Deep Learning in Mobile and Wireless Networking: A Survey", Available on [ArXiv](https://arxiv.org/abs/1803.04311){:target="_blank"}, March 2018.
