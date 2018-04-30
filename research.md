@@ -7,9 +7,9 @@ permalink: /research/
 (Better strategy [1](http://www.cs.virginia.edu/%7Erobins/YouAndYourResearch.html), [2](http://www.cl.cam.ac.uk/%7Ejac22/zen-lab.txt) & [3](http://greatresearch.org/))
 
 For project details, please visit the Systems and Algorithms Laboratory ([SysAL](https://www.imperial.ac.uk/sysal)) pages.
-<p align="center">
+
 <a href="https://www.imperial.ac.uk/sysal/"><img src="https://raw.githubusercontent.com/haddadi/haddadi.github.io/master/images/SysALLogo.jpg" width="200"/>
-</p>
+
   
 ## Current Projects and Grants
 
