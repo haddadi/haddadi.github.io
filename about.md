@@ -16,6 +16,8 @@ I am keen to hear from strong students interested in doing their masters project
 <p align="center">
 <a href="https://www.imperial.ac.uk/sysal/"><img src="https://raw.githubusercontent.com/haddadi/haddadi.github.io/master/images/SysALLogo.jpg" width="200"/>
  </p>
+ 
+ ![alt text](haddadi.github.io/images/SysALLogo.jpg)
 
 ### News
 
