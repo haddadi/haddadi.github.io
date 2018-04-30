@@ -9,7 +9,8 @@ permalink: /research/
 For project details, please visit the Systems and Algorithms Laboratory ([SysAL](https://www.imperial.ac.uk/sysal)) pages.
 <p align="center">
 <a href="https://www.imperial.ac.uk/sysal/"><img src="https://raw.githubusercontent.com/haddadi/haddadi.github.io/master/images/SysALLogo.jpg" width="200"/>
-p>
+>
+  
 ## Current Projects and Grants
 
 *   EPSRC [Databox](http://www.databoxproject.uk): Privacy-Aware Infrastructure for Managing Personal Data ([EP/N028260/1](http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/N028260/1) £1,238,585 starting October 2016)  
