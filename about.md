@@ -13,9 +13,6 @@ My research interest are in User-Centered Systems, IoT, Applied Machine Learning
 
 I am keen to hear from strong students interested in doing their masters project or PhD research with me, or postdoctoral fellows interested in being hosted at Imperial College London. Please get in touch! We are currently looking for exceptional candidates for the [President's PhD Scholarships](http://www.imperial.ac.uk/study/pg/fees-and-funding/scholarships/presidents-phd-scholarships/){:target="_blank"}, the [Islamic Development Bank – Imperial College Scholarship](https://www.imperial.ac.uk/study/pg/fees-and-funding/scholarships/international-scholarship-collaborations/islamic-development-bank--imperial-college-scholarship/){:target="_blank"}, the London Interdisciplinary Social Science Doctoral Training Partnership ([LISS DTP](https://liss-dtp.ac.uk/){:target="_blank"}), and various Centres for Doctoral Training in Imperial College London.
 
-<p align="center">
-<a href="https://www.imperial.ac.uk/sysal/"><img src="https://raw.githubusercontent.com/haddadi/haddadi.github.io/master/images/SysALLogo.jpg" width="200"/>
-</p>
 
 ### News
 
@@ -38,6 +35,6 @@ Dec 2017: Katrin Hänsel's [paper](https://haddadi.github.io/papers/CHI2018sensi
 
 <p align="center">
 <a href="https://www.imperial.ac.uk/sysal/"><img src="https://raw.githubusercontent.com/haddadi/haddadi.github.io/master/images/SysALLogo.jpg" width="200"/>
-
+<p align="center">
 <a href="https://www.imperial.ac.uk"><img src="http://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/Blue-on-white--tojpeg_1495792235526_x1.jpg" width="200"/>
 </p>
