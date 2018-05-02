@@ -12,7 +12,7 @@ permalink: /publications/
 
 *   Chaoyun Zhang, Paul Patras, Hamed Haddadi, "Deep Learning in Mobile and Wireless Networking: A Survey", Available on [ArXiv](https://arxiv.org/abs/1803.04311){:target="_blank"}, March 2018.
 
-*   Seyed Ali Osia, Ali Shahin Shamsabadi, Ali Taheri, Hamid R. Rabiee, Hamed Haddadi, "Private and Scalable Personal Data Analytics using a Hybrid Edge-Cloud Deep Learning", IEEE Computer, Special Issue on Mobile and Embedded Deep Learning, May 2018. ([Paper](https://haddadi.github.io/papers/IEEEcomputerSI2018.pdf))
+*   Seyed Ali Osia, Ali Shahin Shamsabadi, Ali Taheri, Hamid R. Rabiee, Hamed Haddadi, "Private and Scalable Personal Data Analytics using Hybrid Edge-Cloud Deep Learning", IEEE Computer, Special Issue on Mobile and Embedded Deep Learning, May 2018. ([Paper](https://haddadi.github.io/papers/ieeeComputer2018hybrid.pdf))
 
 *   Hamed Haddadi, Vassilis Christophides, Renata Teixeira, Kenjiro Cho, Shigeya Suzuki and Adrian Perrig, "SIOTOME: An Edge-ISP Collaborative Architecture for IoT Security", in proceedings of the 1st International Workshop on Security and Privacy for the Internet-of-Things ([IoTSec](https://synercys.github.io/iotsec/){:target="_blank"}), co-located with the 3rd ACM/IEEE International Conference on Internet of Things Design & Implementation ([IoTDI](http://conferences.computer.org/IoTDI/){:target="_blank"}), April 2018, Orlando, Florida, USA. ([Paper](https://haddadi.github.io/papers/SIOTOME_2018iot.pdf), [Talk](https://haddadi.github.io/talks/IotDI18_SIOTOME.pdf))
 
