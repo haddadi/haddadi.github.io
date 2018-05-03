@@ -20,7 +20,7 @@ March 2018: Our [EPSRC TIPS2](https://www.epsrc.ac.uk/funding/calls/tips2/) gran
 
 March 2018: Our [EPSRC Digital Economy NetworkPlus](https://www.epsrc.ac.uk/funding/calls/denetworkplus/) grant on [Human-Data Interaction](http://hdiresearch.org) has been funded!  Watch out for announcements regarding events and calls for projects in this space. ([EPSRC Ref](http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/R045178/1), [Press Release]())
 
-Feb 2018: Our paper "[Private and Scalable Personal Data Analytics using a Hybrid Edge-Cloud Deep Learning](https://haddadi.github.io/papers/IEEEcomputerSI2018.pdf)" with Seyed Ali Osia, Ali Shahin Shamsabadi, Ali Taheri, and Hamid R. Rabiee has been accepted to the  IEEE Computer Magazine Special Issue on Mobile and Embedded Deep Learning.
+Feb 2018: Our paper "[Private and Scalable Personal Data Analytics using a Hybrid Edge-Cloud Deep Learning](https://haddadi.github.io/papers/ieeeComputer2018hybrid.pdf)" with Seyed Ali Osia, Ali Shahin Shamsabadi, Ali Taheri, and Hamid R. Rabiee has been accepted to the  IEEE Computer Magazine Special Issue on Mobile and Embedded Deep Learning.
 
 Jan 2018: Two papers on privacy in IoT applications have been accepted to the ACM/IEEE International Conference on Internet-of-Things Design and Implementation 2018. See [publications' page](https://haddadi.github.io/publications/) for details.
 
