@@ -8,7 +8,7 @@ permalink: /publications/
 
 ### 2018:
 
-*   Katrin Hänsel, Kleomenis Katevas, Guido Orgs, Daniel C. Richardson, Akram Alomainy, Hamed Haddadi, "The potential of wearable technology for monitoring social interactions based on interpersonal synchrony", 4th ACM Workshop on wearable systems and applications ([WearSys 2018](https://sites.google.com/site/wearsys2018/){:target="_blank"}), June 2018, Munich, Germany.
+*   Katrin Hänsel, Kleomenis Katevas, Guido Orgs, Daniel C. Richardson, Akram Alomainy, Hamed Haddadi, "The potential of wearable technology for monitoring social interactions based on interpersonal synchrony", 4th ACM Workshop on wearable systems and applications ([WearSys 2018](https://sites.google.com/site/wearsys2018/){:target="_blank"}), June 2018, Munich, Germany. ([Paper](https://haddadi.github.io/papers/WearSys_2018.pdf))
 
 *   Chaoyun Zhang, Paul Patras, Hamed Haddadi, "Deep Learning in Mobile and Wireless Networking: A Survey", Available on [ArXiv](https://arxiv.org/abs/1803.04311){:target="_blank"}, March 2018.
 
