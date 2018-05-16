@@ -20,7 +20,7 @@ permalink: /publications/
 
 *   Yousef Amar, Hamed Haddadi, Richard Mortier, "An Information-Theoretic Approach to Time-Series Data Privacy", in proceedings of the [1st Workshop on Privacy by Design in Distributed Systems](http://www.gsd.inesc-id.pt/~p2ds/), co-located with [Eurosys 2018](http://eurosys2018.org/), Porto, Portugal, April 2018. [Paper](https://haddadi.github.io/papers/Eurosys2018amar.pdf)
 
-*   Jon Crowcroft, Hamed Haddadi, Tristan Henderson, "Responsible Research on Social Networks: Dilemmas and Solutions", [Oxford Handbook](http://www.oxfordhandbooks.com/) of Networked Communication, Oxford University Press, 2018\. ([chapter draft](https://haddadi.github.io/papers/digitalethics2017.pdf){:target="_blank"})
+*   Jon Crowcroft, Hamed Haddadi, Tristan Henderson, "Responsible Research on Social Networks: Dilemmas and Solutions", [Oxford Handbook of Networked Communication](http://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780190460518.001.0001/oxfordhb-9780190460518-e-28), Oxford University Press, 2018\. ([chapter draft](https://haddadi.github.io/papers/digitalethics2017.pdf){:target="_blank"} , DOI: 10.1093/oxfordhb/9780190460518.013.2)
 
 *   Katrin Hänsel, Romina Kettner, Hamed Haddadi, Akram Alomainy, Albrecht Schmidt,  "What to Put on the User: Sensing Technologies for Studies and Physiology Aware Systems", Proceedings of the ACM Conference on Human Factors in Computing Systems ([ACM CHI'18](https://chi2018.acm.org)), Montréal, Canada, April 21-26, 2018. ([paper](https://haddadi.github.io/papers/CHI2018sensing.pdf){:target="_blank"})
 
