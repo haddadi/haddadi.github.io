@@ -8,6 +8,8 @@ permalink: /publications/
 
 ### 2018:
 
+*   Ali Shahin Shamsabadi, Hamed Haddadi, Andrea Cavallaro, "Distributed One-class Learning", 2018 IEEE International Conference on Image Processing, October 7-10, 2018, Athens, Greece. Available on [ArXiv](https://arxiv.org/abs/1802.03583){:target="_blank"}
+
 *   Katrin Hänsel, Kleomenis Katevas, Guido Orgs, Daniel C. Richardson, Akram Alomainy, Hamed Haddadi, "The potential of wearable technology for monitoring social interactions based on interpersonal synchrony", 4th ACM Workshop on wearable systems and applications ([WearSys 2018](https://sites.google.com/site/wearsys2018/){:target="_blank"}), June 2018, Munich, Germany. ([Paper](https://haddadi.github.io/papers/WearSys_2018.pdf))
 
 *   Chaoyun Zhang, Paul Patras, Hamed Haddadi, "Deep Learning in Mobile and Wireless Networking: A Survey", Available on [ArXiv](https://arxiv.org/abs/1803.04311){:target="_blank"}, March 2018.
@@ -29,8 +31,6 @@ permalink: /publications/
 *   Mohammad Malekzadeh, Richard G. Clegg, Hamed Haddadi, "Replacement AutoEncoder: A Privacy-Preserving Algorithm for Sensory Data Analysis", The 3rd ACM/IEEE International Conference on Internet-of-Things Design and Implementation, April 2018, Orlando, Florida. ([paper](https://haddadi.github.io/papers/RAE2018IoTDI.pdf){:target="_blank"}, [Code](https://github.com/mmalekzadeh/replacement-autoencoder){:target="_blank"}, [Talk](https://haddadi.github.io/talks/IotDI18_RAE.pdf))
 
 *   Yousef Amar, Hamed Haddadi, Richard Mortier, Anthony Brown, James Colley, Andy Crabtree, "An Analysis of Home IoT Network Traffic and Behaviour", Available on [ArXiv](https://arxiv.org/abs/1803.05368){:target="_blank"}, March 2018.
-
-*   Ali Shahin Shamsabadi, Hamed Haddadi, Andrea Cavallaro, "Distributed One-class Learning", Available on [ArXiv](https://arxiv.org/abs/1802.03583){:target="_blank"}, February 2018.
 
 *   Seyed Ali Osia, Ali Taheri, Ali Shahin Shamsabadi, Kleomenis Katevas, Hamed Haddadi, Hamid R. Rabiee, "Deep Private-Feature Extraction", Available on [ArXiv](https://arxiv.org/abs/1802.03151){:target="_blank"}, February 2018. [Code](https://github.com/aliosia/DPFE){:target="_blank"}
 
