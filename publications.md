@@ -8,7 +8,7 @@ permalink: /publications/
 
 ### 2018:
 
-*   Ali Shahin Shamsabadi, Hamed Haddadi, Andrea Cavallaro, "Distributed One-class Learning", 2018 IEEE International Conference on Image Processing, October 7-10, 2018, Athens, Greece. Available on [ArXiv](https://arxiv.org/abs/1802.03583){:target="_blank"}
+*   Ali Shahin Shamsabadi, Hamed Haddadi, Andrea Cavallaro, "Distributed One-class Learning", [IEEE International Conference on Image Processing](https://2018.ieeeicip.org){:target="_blank"}, October 7-10, 2018, Athens, Greece. Available on [ArXiv](https://arxiv.org/abs/1802.03583){:target="_blank"}
 
 *   Katrin Hänsel, Kleomenis Katevas, Guido Orgs, Daniel C. Richardson, Akram Alomainy, Hamed Haddadi, "The potential of wearable technology for monitoring social interactions based on interpersonal synchrony", 4th ACM Workshop on wearable systems and applications ([WearSys 2018](https://sites.google.com/site/wearsys2018/){:target="_blank"}), June 2018, Munich, Germany. ([Paper](https://haddadi.github.io/papers/WearSys_2018.pdf))
 
