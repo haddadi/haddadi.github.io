@@ -6,7 +6,7 @@ title: Analytics on the Edge: Privacy, Utility, and Cost
 
 The rapid rise in the connected sensors, actuators, and their accompanying applications surrounding us, often collectively referred to as the \emph{Internet of Things} (IoT) has lead to a growing interest and attention from the governments, the industry, the scientific community amongst other communities. The numerous opportunities presented by the IoT industry, however, often come at the cost of excessive energy usage, or privacy and security threats, in exchange for fine-grained sensing and data analytics. In this post, I advocate for the use of optimisation trade-offs between the utility and value gained from information, the privacy risks and security threats to the data subject, and the cost (e.g., energy and bandwidth) of performing the sensing and analytics. We argue for leveraging the network edge (i.e., the IoT device itself) to support this optimisation process and provide a cooperative framework between the edge and the cloud. Such an architecture will play a pivotal role in protecting the individuals' privacy, while reducing the cost of the operation and the privacy and security risks. 
 
-# Introduction
+* Introduction
 
 There is a rapid introduction of the Internet of Things (IoT) devices in our daily lives, from always-on voice-enabled home assistants such as Amazon Alexa and Google Home, to smart thermostats, plugs, toys, and remote monitoring devices. [Gartner predicts](https://www.gartner.com/newsroom/id/3598917) that by 2020, we will have over 20 Billion IoT devices in use and connected to the Internet. Presence of such a large number of devices will introduce new challenges in connectivity, data management, privacy, and security.
 
@@ -18,7 +18,7 @@ In parallel with this trend in IoT, advances in machine learning, particularly u
 
 As visualised in Figure above, these challenges can be broadly categorised as the tension between data quality, the cost of obtaining such data, and the privacy (and arguably security) consequences.  
 
-# Motivations
+* Motivations
 
 Personal IoT devices might collect a range of rich, sensitive devices about individuals and households. In addition to the privacy risks of exposing these data to their primary collectors, third parties with access to these data also pose security and privacy threats. These include data from autonomous vehicles, smart meters, home security systems, child monitors, and personal health and well-being devices.
 
@@ -30,13 +30,13 @@ Today's IoT ecosystem relies on continuous data collection and offloading to clo
 
 Her we advocate for a cooperative, hybrid approach between the edge and the cloud. The high-level overview of this scheme is visualised in Figure above, the raw sensor data goes through an initial layer of feature extraction on the device using lightweight, simple models to perform dimensional reduction and compression, while providing a privacy shield against detailed, invasive analysis using well-known privacy techniques. The more complex and intensive analytics take place at the cloud server. One of the primary objectives of this scheme is to separate the feature extraction and the inference phase between the edge device and the cloud. This approach can potentially lead to a reduction in data transmission to the cloud and removal of potentially sensitive information during the feature extraction phase on the edge node. The extracted features are then transferred to the cloud server for post-processing and finally the user receives the results from the cloud. 
 
-# Challenges and Opportunities
+* Challenges and Opportunities
 
 There are a number of future directions which naturally follow on from advances in edge computing for the IoT domains. Techniques such as Federated Learning can directly benefit from the proposed hybrid edge-cloud schemes, where nano-updates can be aggregated in a centralised fashion without the threat of de-identification faced by traditional machine learning models. Further, Privacy-preserving approaches such as Auto-encoders or differential privacy can be employed on edge devices to help protect against privacy threats facing traditional deep-learning and federated learning models.
 
 The approach proposed in this vision might not be the silver bullet in defending against IoT security and privacy attacks, or limiting all the bandwidth requirements of future IoT systems. However, research in this area provides a promising direction in improving the status quo and providing a framework for balancing the trade-offs between risks and threats (privacy-security), utility, and operational costs in a broad setting. 
 
-# References
+* References
 
 [1]  N. Apthorpe, D. Reisman, S. Sundaresan, A. Narayanan, and N. Feamster, "Spying on the smart home: Privacy attacks and defenses on encrypted IoT traffic", CoRR, abs/1708.05044, 2017.
 
