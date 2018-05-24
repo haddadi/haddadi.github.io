@@ -25,7 +25,7 @@ Today's IoT ecosystem relies on continuous data collection and offloading to clo
 
 | <img src="https://github.com/haddadi/haddadi.github.io/blob/master/images/2018/HybridEngine.png?raw=true"  height="150" width="400"> |
 |:---:|
-| Trade-offs challenges in IoT systems |
+| Hybrid Analytic Engine |
 
 Her we advocate for a cooperative, hybrid approach between the edge and the cloud. The high-level overview of this scheme is visualised in Figure above, the raw sensor data goes through an initial layer of feature extraction on the device using lightweight, simple models to perform dimensional reduction and compression, while providing a privacy shield against detailed, invasive analysis using well-known privacy techniques. The more complex and intensive analytics take place at the cloud server. One of the primary objectives of this scheme is to separate the feature extraction and the inference phase between the edge device and the cloud. This approach can potentially lead to a reduction in data transmission to the cloud and removal of potentially sensitive information during the feature extraction phase on the edge node. The extracted features are then transferred to the cloud server for post-processing and finally the user receives the results from the cloud. 
 
