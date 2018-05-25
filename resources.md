@@ -36,6 +36,8 @@ How to [manage your PhD supervisor](https://www.timeshighereducation.com/blog/ho
 
 How to write a [killer cover letter](https://www.asbmb.org/asbmbtoday/asbmbtoday_article.aspx?id=48927) for a postdoctoral application
 
+Two examples from the computer science review and publication process [Blog post by David Anderson](https://da-data.blogspot.co.uk/2013/01/two-examples-from-computer-science.html)
+
 ## Datasets & Tool
 
 The Koblenz Network Collection [http://konect.uni-koblenz.de/](http://konect.uni-koblenz.de/)
