@@ -9,13 +9,7 @@ The rapid rise in the connected sensors, actuators, and their accompanying appli
 
 There is a rapid introduction of the Internet of Things (IoT) devices in our daily lives, from always-on voice-enabled home assistants such as Amazon Alexa and Google Home, to smart thermostats, plugs, toys, and remote monitoring devices. [Gartner predicts](https://www.gartner.com/newsroom/id/3598917) that by 2020, we will have over 20 Billion IoT devices in use and connected to the Internet. Presence of such a large number of devices will introduce new challenges in connectivity, data management, privacy, and security.
 
-In parallel with this trend in IoT, advances in machine learning, particularly unsupervised methods such as Deep Learning, on mobile and edge devices have enabled these devices to act as part of the whole data analytics ecosystem, performing a first set of local inferences (e.g., activity recognition on a smartphone), hence redeeming the network from transmitting costly, raw sensor data to the cloud.
-
-| <img src="https://github.com/haddadi/haddadi.github.io/blob/master/images/2018/tradeoff.png?raw=true"  height="300" width="400"> |
-|:---:|
-| Trade-offs challenges in IoT systems |
-
-As visualised in Figure above, these challenges can be broadly categorised as the tension between data quality, the cost of obtaining such data, and the privacy (and arguably security) consequences.  
+In parallel with this trend in IoT, advances in machine learning, particularly unsupervised methods such as Deep Learning, on mobile and edge devices have enabled these devices to act as part of the whole data analytics ecosystem, performing a first set of local inferences (e.g., activity recognition on a smartphone), hence redeeming the network from transmitting costly, raw sensor data to the cloud. These challenges can be broadly categorised as the tension between data quality, the cost of obtaining such data, and the privacy (and arguably security) consequences.  
 
 * Motivations
 
