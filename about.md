@@ -16,6 +16,8 @@ I am keen to hear from strong students interested in doing their masters project
 
 ### News
 
+June 2018: We are looking for a Postdoctoral Research Associate on the [Databox Project](https://www.databoxproject.uk) to join our [lab](https://www.imperial.ac.uk/systems-algorithms-design-lab/). See the [job advert](https://www.imperial.ac.uk/jobs/description/ENG00357/databox-research-associate) and apply by 1st July.
+
 March 2018: Our [EPSRC TIPS2](https://www.epsrc.ac.uk/funding/calls/tips2/) grant on [Defense Against Dark Artefacts](https://www.nottingham.ac.uk/news/pressreleases/2018/april/defence-against-dark-artefacts-%E2%80%93-the-enemy-within-the-wall.aspx), to battle IoT security & Privacy threats using edge computing, has been funded. ([EPSRC Ref](http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/R03351X/1), [Press Release](https://epsrc.ukri.org/newsevents/news/tipsresearchprojects/))
 
 March 2018: Our [EPSRC Digital Economy NetworkPlus](https://www.epsrc.ac.uk/funding/calls/denetworkplus/) grant on [Human-Data Interaction](http://hdiresearch.org) has been funded!  Watch out for announcements regarding events and calls for projects in this space. ([EPSRC Ref](http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/R045178/1), [Press Release]())
