@@ -28,7 +28,7 @@ For project details, please visit the Systems and Algorithms Laboratory ([SysAL]
 
 *   [Yousef Amar](http://yousefamar.com/) (Personal Data Analytics on the [Databox](http://www.technologyreview.com/view/534526/how-a-box-could-solve-the-personal-data-conundrum/), funded by QMUL [CIS](http://cis.eecs.qmul.ac.uk/) Scholarship).
 
-*   [Katrin Hänsel](miezelkat.github.io) (Wearable devices and mHealth, co-advised with [Akram Alomainy](http://www.eecs.qmul.ac.uk/%7Eakram/), funded by QMUL [CIS](http://cis.eecs.qmul.ac.uk/) Scholarship).
+*   [Katrin Hänsel](https://miezelkat.github.io) (Wearable devices and mHealth, co-advised with [Akram Alomainy](http://www.eecs.qmul.ac.uk/%7Eakram/), funded by QMUL [CIS](http://cis.eecs.qmul.ac.uk/) Scholarship).
 
 *   [Kleomenis Katevas](http://minoskt.github.io/) (Analysing and influencing crowd behaviors using mobile sensing, co-advised with [Laurissa Tokarchuk](http://www.eecs.qmul.ac.uk/%7Elaurissa/), funded by DSTL).
 
