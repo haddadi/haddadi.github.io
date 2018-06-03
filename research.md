@@ -20,17 +20,17 @@ For project details, please visit the Systems and Algorithms Laboratory ([SysAL]
 
 ## Current Research Staff
 
+*   [Kleomenis Katevas](http://minoskt.github.io/) (Postdoctoral Research Associate on the [Databox Project](http://www.databoxproject.uk)) .
+
 ## Current Research Students
 
 *   [Ali Shahin Shamsabadi](https://scholar.google.com/citations?user=1kVnWYwAAAAJ&hl=en), (Privacy-preserving Deep Learning, funded by QMUL [CIS](http://cis.eecs.qmul.ac.uk/) Scholarship).
 
-*   [Mohammad Malekzadeh](https://mmalekzadeh.github.io/) (Privacy-preserving personal data analytics on the [Databox](http://www.technologyreview.com/view/534526/how-a-box-could-solve-the-personal-data-conundrum/) project, funded by [QMUL Life Science Initiative](http://www.qmul.ac.uk/lifesciences/)).
+*   [Mohammad Malekzadeh](https://mmalekzadeh.github.io/) (Privacy-preserving personal data analytics on the [Databox Project](http://www.databoxproject.uk), funded by [QMUL Life Science Initiative](http://www.qmul.ac.uk/lifesciences/)).
 
-*   [Yousef Amar](http://yousefamar.com/) (Personal Data Analytics on the [Databox](http://www.technologyreview.com/view/534526/how-a-box-could-solve-the-personal-data-conundrum/), funded by QMUL [CIS](http://cis.eecs.qmul.ac.uk/) Scholarship).
+*   [Yousef Amar](http://yousefamar.com/) (Personal Data Analytics on the [Databox Project](http://www.databoxproject.uk), funded by QMUL [CIS](http://cis.eecs.qmul.ac.uk/) Scholarship).
 
 *   [Katrin Hänsel](https://miezelkat.github.io) (Wearable devices and mHealth, co-advised with [Akram Alomainy](http://www.eecs.qmul.ac.uk/%7Eakram/), funded by QMUL [CIS](http://cis.eecs.qmul.ac.uk/) Scholarship).
-
-*   [Kleomenis Katevas](http://minoskt.github.io/) (Analysing and influencing crowd behaviors using mobile sensing, co-advised with [Laurissa Tokarchuk](http://www.eecs.qmul.ac.uk/%7Elaurissa/), funded by DSTL).
 
 I am interested in hearing from potential PhD students in my areas of research interests. If you have interesting ideas and wish to discuss funding opportunities for next year, please send me an [email](mailto:h.haddadi@imperial.ac.uk) (no attachments please!)
 
@@ -61,6 +61,8 @@ I am interested in hearing from potential PhD students in my areas of research i
 *   Self-Organising Collegiate Sensor Networks (MSc student, [DTI SECOAS Project](http://www.lancaster.ac.uk/staff/marshai2/secoas/secoas.htm))
 
 ## Past Visitors/Staff/Students
+
+[Kleomenis Katevas](http://minoskt.github.io/) (Analysing and influencing crowd behaviors using mobile sensing, co-advised with [Laurissa Tokarchuk](http://www.eecs.qmul.ac.uk/%7Elaurissa/), funded by DSTL).
 
 [Panagiotis Papadopoulos](http://users.ics.forth.gr/~panpap/){:target="_blank"} (Visiting PhD student, ICS-FORTH) 
 
