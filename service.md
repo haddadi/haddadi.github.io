@@ -13,6 +13,8 @@ permalink: /service/
 
 *   [UK Next Generation Networking](http://coseners.net/) Steering Committee co-chair (since 2013, alongside [Iain Philips](http://www.lboro.ac.uk/departments/compsci/staff/dr-iain-phillips.html))  
 
+*   The Web Conference, 2019 ([WWW 2019](https://www2019.thewebconf.org){:target="_blank"})
+
 *   ACM SIGCOMM Internet Measurement Conference 2018 ([IMC 2018)](http://conferences.sigcomm.org/imc/2018/)
 
 *   The 26th IEEE International Conference on Network Protocols ([ICNP 2018](http://icnp18.cs.ucr.edu/){:target="_blank"})
