@@ -1,4 +1,4 @@
-* "Personal Data Ecosystem: Privacy, Utility, and Efficiency Challenge", Oxford Internet Institute Colloquia talk, Oxford, UK, June 2017
+* "[Personal Data Ecosystem: Privacy, Utility, and Efficiency Challenge](https://haddadi.github.io/talks/Haddadi_OII2018.pdf)", Oxford Internet Institute Colloquia talk, Oxford, UK, June 2017
 * "Privacy-Preserving Sensing & Analytics on the Edge", Privitar Ltd, London, UK, June 2017
 * "Privacy-Preserving Sensing & Analytics on the Edge", Wolfson College, Cambridge, UK, May 2017
 * ["Privacy-Preserving Sensing & Analytics on the Edge"](https://haddadi.github.io/talks/Haddadi_LINCS2018.pdf), INRIA/Sorbonne University, Paris, France, March 2017
