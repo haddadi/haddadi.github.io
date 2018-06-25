@@ -13,6 +13,8 @@ permalink: /service/
 
 *   [UK Next Generation Networking](http://coseners.net/) Steering Committee co-chair (since 2013, alongside [Iain Philips](http://www.lboro.ac.uk/departments/compsci/staff/dr-iain-phillips.html))  
 
+*   The 25th ACM Annual International Conference on Mobile Computing and Networking ([ACM MobiCom 2019](https://sigmobile.org/mobicom/2019/){:target="_blank"})
+
 *   The 12th ACM International Conference on Web Search and Data Mining [WSDM 2019](http://www.wsdm-conference.org/2019/){:target="_blank"})
 
 *   The Web Conference, 2019 ([WWW 2019](https://www2019.thewebconf.org){:target="_blank"})
