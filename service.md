@@ -11,7 +11,7 @@ permalink: /service/
 
 *   [ACM SIGCOMM CoNext](http://www.sigcomm.org/events/conext-conference) conference Steering Committee Member (since August 2016)  
 
-*   [UK Next Generation Networking](http://coseners.net/) Steering Committee co-chair (since 2013, alongside [Iain Philips](http://www.lboro.ac.uk/departments/compsci/staff/dr-iain-phillips.html))  
+*   [UK Next Generation Networking](http://coseners.net/) Steering Committee co-chair (since 2013, alongside [Iain Philips](https://iainwp.github.io/about/))  
 
 *   The 25th ACM Annual International Conference on Mobile Computing and Networking ([ACM MobiCom 2019](https://sigmobile.org/mobicom/2019/){:target="_blank"})
 
