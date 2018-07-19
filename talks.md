@@ -1,8 +1,9 @@
-* "[Personal Data Ecosystem: Privacy, Utility, and Efficiency Challenge](https://haddadi.github.io/talks/Haddadi_OII2018.pdf)", Oxford Internet Institute Colloquia talk, Oxford, UK, June 2017
-* "Privacy-Preserving Sensing & Analytics on the Edge", Privitar Ltd, London, UK, June 2017
-* "Privacy-Preserving Sensing & Analytics on the Edge", Wolfson College, Cambridge, UK, May 2017
-* ["Privacy-Preserving Sensing & Analytics on the Edge"](https://haddadi.github.io/talks/Haddadi_LINCS2018.pdf), INRIA/Sorbonne University, Paris, France, March 2017
-* “User-Centric Personal Data Analytics on the Edge", Department of Computing, Imperial College London, February 2017
+* "Privacy-Preserving Sensing & Analytics on the Edge", HongKong University of Science and Technology, HK, July 2018
+* "[Personal Data Ecosystem: Privacy, Utility, and Efficiency Challenge](https://haddadi.github.io/talks/Haddadi_OII2018.pdf)", Oxford Internet Institute Colloquia talk, Oxford, UK, June 2018
+* "Privacy-Preserving Sensing & Analytics on the Edge", Privitar Ltd, London, UK, June 2018
+* "Privacy-Preserving Sensing & Analytics on the Edge", Wolfson College, Cambridge, UK, May 2018
+* ["Privacy-Preserving Sensing & Analytics on the Edge"](https://haddadi.github.io/talks/Haddadi_LINCS2018.pdf), INRIA/Sorbonne University, Paris, France, March 2018
+* “User-Centric Personal Data Analytics on the Edge", Department of Computing, Imperial College London, February 2018
 * “Privacy-Preserving Analytics on the Edge", University of Nottingham Seminar Series, Nottingham, UK, December 2017 
 * “User-Centric Personal Data Analytics on the Edge", Privacy International, London, UK, September 2017 
 * “User-Centric Personal Data Analytics on the Edge", Workshop on Decentralized Machine Learning, Optimization and Privacy, INRIA Lille, France, September 2017 
