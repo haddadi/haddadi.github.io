@@ -62,7 +62,7 @@ I am interested in hearing from potential PhD students in my areas of research i
 
 ## Past Visitors/Staff/Students
 
-[Kleomenis Katevas](http://minoskt.github.io/) (Analysing and influencing crowd behaviors using mobile sensing, co-advised with [Laurissa Tokarchuk](http://www.eecs.qmul.ac.uk/%7Elaurissa/), funded by DSTL).
+[Kleomenis Katevas](http://minoskt.github.io/) (Analysing and influencing crowd behaviors using mobile sensing, co-advised with [Laurissa Tokarchuk](http://www.eecs.qmul.ac.uk/%7Elaurissa/), funded by DSTL, graduated August 2018).
 
 [Panagiotis Papadopoulos](http://users.ics.forth.gr/~panpap/){:target="_blank"} (Visiting PhD student, ICS-FORTH) 
 
