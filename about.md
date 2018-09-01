@@ -4,9 +4,10 @@ title: Hamed Haddadi
 permalink: /about/
 ---
 
-I am a Senior Lecturer (~Associate Professor) and the Deputy Director of Research in the [Dyson School of Design Engineering](http://www.imperial.ac.uk/design-engineering/){:target="_blank"}, at The [Faculty of Engineering](http://www.imperial.ac.uk/engineering/){:target="_blank"} at [Imperial College London](http://www.imperial.ac.uk){:target="_blank"}. I lead the [Systems and Algorithms Laboratory (SysAl)](https://www.imperial.ac.uk/sysal){:target="_blank"}. I am also an Academic Fellow of the [Data Science Institute](https://www.imperial.ac.uk/data-science/){:target="_blank"}. 
+I am a Senior Lecturer (~Associate Professor) and the Deputy Director of Research in the [Dyson School of Design Engineering](http://www.imperial.ac.uk/design-engineering/){:target="_blank"}, at The [Faculty of Engineering](http://www.imperial.ac.uk/engineering/){:target="_blank"} at [Imperial College London](http://www.imperial.ac.uk){:target="_blank"}. I am also a Visiting Professor at [Brave](https://brave.com/index/){:target="_blank"}. 
 
-My research interest are in User-Centered Systems, IoT, Applied Machine Learning, Privacy, and [Human-Data Interaction](http://hdiresearch.org){:target="_blank"}.  
+
+My research interest are in User-Centered Systems, IoT, Applied Machine Learning, Privacy, and [Human-Data Interaction](http://hdiresearch.org){:target="_blank"}. At Imperial College, I lead the [Systems and Algorithms Laboratory (SysAl)](https://www.imperial.ac.uk/sysal){:target="_blank"}. I am also an Academic Fellow of the [Data Science Institute](https://www.imperial.ac.uk/data-science/){:target="_blank"}. 
 
 
 [Contact](https://www.imperial.ac.uk/people/h.haddadi){:target="_blank"}, [Bio](bio.txt){:target="_blank"}, [Calendar](https://www.google.com/calendar/embed?src=h.haddadi%40gmail.com){:target="_blank"}, [Code](https://github.com/haddadi){:target="_blank"}
@@ -17,6 +18,8 @@ We are currently looking for exceptional candidates for the [Imperial College Re
 
 
 ### News
+
+September 2018: I am joining the team at [Brave](https://brave.com/index/){:target="_blank"} as a Visiting Professor on a part-time basis. [Join us](https://brave.com/jobs/){:target="_blank"} to make the web private and secure again!
 
 August 2018: We are looking for a Postdoctoral Research Associate on the [EPSRC DADA Project](https://www.imperial.ac.uk/systems-algorithms-design-lab/research/dada-project/) to join our [lab](https://www.imperial.ac.uk/SysAl). See the [job advert](https://www.imperial.ac.uk/jobs/description/ENG00461/research-associate-dada-project) and apply by 9th September.
 
