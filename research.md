@@ -16,7 +16,7 @@ For project details, please visit the Systems and Algorithms Laboratory ([SysAL]
 *   EPSRC [Databox](http://www.databoxproject.uk): Privacy-Aware Infrastructure for Managing Personal Data ([EP/N028260/1](http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/N028260/1) £1,238,585 starting October 2016)  
 *   Microsoft Azure Research Award 2017-2018 (CRM:0740917)
 *   [Human-Data Interaction](http://hdiresearch.org/), Legibility, Agency, Negotiability: EPSRC Network Plus grant ([EP/R045178/1](https://gtr.ukri.org/projects?ref=EP%2FR045178%2F1){:target="_blank"}, £1,040,837 starting September 2018)
-*   EPSRC [DADA: Defence Against Dark Artefacts](https://www.horizon.ac.uk/defence-against-dark-artefacts-dada-bbc-radio-nottingham-interview/){:target="_blank"} ([EP/R03351X/1](http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/R03351X/1){:target="_blank"}, £1,011,787 starting September 2018)
+*   EPSRC [DADA: Defence Against Dark Artefacts](https://www.horizon.ac.uk/project/defence-against-dark-artefacts/){:target="_blank"} ([EP/R03351X/1](http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/R03351X/1){:target="_blank"}, £1,011,787 starting September 2018)
 
 ## Current Research Staff
 
