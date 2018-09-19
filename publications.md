@@ -8,7 +8,7 @@ permalink: /publications/
 
 ### 2018:
 
-*   Poonam Yadav, John Moore, Qi Li, Richard Mortier, Anthony Brown, Andy Crabtree, Chris Greenhalgh, Derek McAuley, and Yousef Amar, Hamed Haddadi, "Providing Occupancy as a Service with Databox", in The 1st ACM International Workshop on Smart Cities and Fog Computing (CitiFog’18), November 4, 2018, Shenzhen, China. [https:// doi.org/ 10.1145/ 3277893.3277894] ([Paper](https://haddadi.github.io/papers/WearSys_2018.pdf))
+*   Poonam Yadav, John Moore, Qi Li, Richard Mortier, Anthony Brown, Andy Crabtree, Chris Greenhalgh, Derek McAuley, and Yousef Amar, Hamed Haddadi, "Providing Occupancy as a Service with Databox", in The 1st ACM International Workshop on Smart Cities and Fog Computing (CitiFog’18), November 4, 2018, Shenzhen, China. [https:// doi.org/ 10.1145/ 3277893.3277894](https:// doi.org/ 10.1145/ 3277893.3277894) ([Paper](https://haddadi.github.io/papers/citifog18-final7.pdf))
 
 *   Ali Shahin Shamsabadi, Hamed Haddadi, Andrea Cavallaro, "Distributed One-class Learning", [IEEE International Conference on Image Processing](https://2018.ieeeicip.org){:target="_blank"}, October 7-10, 2018, Athens, Greece. Available on [ArXiv](https://arxiv.org/abs/1802.03583){:target="_blank"}
 
