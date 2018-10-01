@@ -28,8 +28,7 @@ For project details, please visit the Systems and Algorithms Laboratory ([SysAL]
 
 *   [Yuting Zhan](https://www.imperial.ac.uk/systems-algorithms-design-lab/people/) (funded by [CSC Imperial Scholarship](https://www.imperial.ac.uk/study/pg/fees-and-funding/scholarships/international-scholarship-collaborations/csc/)).
 
-
-*   [Ali Shahin Shamsabadi](https://scholar.google.com/citations?user=1kVnWYwAAAAJ&hl=en), (Privacy-preserving Deep Learning, funded by QMUL [CIS](http://cis.eecs.qmul.ac.uk/) Scholarship).
+*   [Ali Shahin Shamsabadi](https://alishahin.github.io/), (Privacy-preserving Deep Learning, funded by QMUL [CIS](http://cis.eecs.qmul.ac.uk/) Scholarship).
 
 *   [Mohammad Malekzadeh](https://mmalekzadeh.github.io/) (Privacy-preserving personal data analytics on the [Databox Project](http://www.databoxproject.uk), funded by [QMUL Life Science Initiative](http://www.qmul.ac.uk/lifesciences/)).
 
