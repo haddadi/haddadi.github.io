@@ -26,7 +26,7 @@ For project details, please visit the Systems and Algorithms Laboratory ([SysAL]
 
 *   [Fan Mo](https://mofanv.github.io), (funded by Li-xin Tang Overseas Scholarship).
 
-*   [Yuting Zhan](https://www.imperial.ac.uk/systems-algorithms-design-lab/people/) (funded by [CSC Imperial Scholarship](https://www.imperial.ac.uk/study/pg/fees-and-funding/scholarships/international-scholarship-collaborations/csc/)).
+*   [Yuting Zhan](https://www.imperial.ac.uk/people/yuting.zhan18) (funded by [CSC Imperial Scholarship](https://www.imperial.ac.uk/study/pg/fees-and-funding/scholarships/international-scholarship-collaborations/csc/)).
 
 *   [Ali Shahin Shamsabadi](https://alishahin.github.io/), (Privacy-preserving Deep Learning, funded by QMUL [CIS](http://cis.eecs.qmul.ac.uk/) Scholarship).
 
