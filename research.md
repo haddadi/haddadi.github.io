@@ -24,7 +24,7 @@ For project details, please visit the Systems and Algorithms Laboratory ([SysAL]
 
 ## Current Research Students
 
-*   [Fan Mo](https://www.imperial.ac.uk/systems-algorithms-design-lab/people/), (funded by Li-xin Tang Overseas Scholarship).
+*   [Fan Mo](https://mofanv.github.io), (funded by Li-xin Tang Overseas Scholarship).
 
 *   [Yuting Zhan](https://www.imperial.ac.uk/systems-algorithms-design-lab/people/) (funded by [CSC Imperial Scholarship](https://www.imperial.ac.uk/study/pg/fees-and-funding/scholarships/international-scholarship-collaborations/csc/)).
 
