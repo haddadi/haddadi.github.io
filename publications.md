@@ -9,7 +9,7 @@ permalink: /publications/
 
 ### 2019:
 
-*   Seyed Ali Osia, Ali Taheri, Ali Shahin Shamsabadi, Kleomenis Katevas, Hamed Haddadi, Hamid R. Rabiee, "Deep Private-Feature Extraction", Transactions on Knowledge and Data Engineering, 2019. (Available on [ArXiv](https://arxiv.org/abs/1802.03151){:target="_blank"} [Code](https://github.com/aliosia/DPFE){:target="_blank"})
+*   Seyed Ali Osia, Ali Taheri, Ali Shahin Shamsabadi, Kleomenis Katevas, Hamed Haddadi, Hamid R. Rabiee, "Deep Private-Feature Extraction", IEEE Transactions on Knowledge and Data Engineering, 2019. (Available on [ArXiv](https://arxiv.org/abs/1802.03151){:target="_blank"} [Code](https://github.com/aliosia/DPFE){:target="_blank"})
 
 
 ### 2018:
