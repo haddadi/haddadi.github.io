@@ -6,6 +6,12 @@ permalink: /publications/
 ## [Google Scholar Profile](http://scholar.google.com/citations?user=gkA7zvoAAAAJ&hl=en){:target="_blank"}
 ## [GitHub code](https://github.com/haddadi/){:target="_blank"}
 
+
+### 2019:
+
+*   Seyed Ali Osia, Ali Taheri, Ali Shahin Shamsabadi, Kleomenis Katevas, Hamed Haddadi, Hamid R. Rabiee, "Deep Private-Feature Extraction", Transactions on Knowledge and Data Engineering, 2019. (Available on [ArXiv](https://arxiv.org/abs/1802.03151){:target="_blank"} [Code](https://github.com/aliosia/DPFE){:target="_blank"})
+
+
 ### 2018:
 
 *   Poonam Yadav, John Moore, Qi Li, Richard Mortier, Anthony Brown, Andy Crabtree, Chris Greenhalgh, Derek McAuley, Yousef Amar, Ali Shahin Shamsabadi, Hamed Haddadi, "Providing Occupancy as a Service with Databox", in The 1st ACM International Workshop on Smart Cities and Fog Computing (CitiFog’18), November 4, 2018, Shenzhen, China. [https:// doi.org/ 10.1145/ 3277893.3277894](https:// doi.org/ 10.1145/ 3277893.3277894) ([Paper](https://haddadi.github.io/papers/citifog18-final7.pdf))
@@ -35,8 +41,6 @@ permalink: /publications/
 *   Mohammad Malekzadeh, Richard G. Clegg, Hamed Haddadi, "Replacement AutoEncoder: A Privacy-Preserving Algorithm for Sensory Data Analysis", The 3rd ACM/IEEE International Conference on Internet-of-Things Design and Implementation, April 2018, Orlando, Florida. ([paper](https://haddadi.github.io/papers/RAE2018IoTDI.pdf){:target="_blank"}, [Code](https://github.com/mmalekzadeh/replacement-autoencoder){:target="_blank"}, [Talk](https://haddadi.github.io/talks/IotDI18_RAE.pdf))
 
 *   Yousef Amar, Hamed Haddadi, Richard Mortier, Anthony Brown, James Colley, Andy Crabtree, "An Analysis of Home IoT Network Traffic and Behaviour", Available on [ArXiv](https://arxiv.org/abs/1803.05368){:target="_blank"}, March 2018.
-
-*   Seyed Ali Osia, Ali Taheri, Ali Shahin Shamsabadi, Kleomenis Katevas, Hamed Haddadi, Hamid R. Rabiee, "Deep Private-Feature Extraction", Available on [ArXiv](https://arxiv.org/abs/1802.03151){:target="_blank"}, February 2018. [Code](https://github.com/aliosia/DPFE){:target="_blank"}
 
 *   Andy Crabtree, Tom Lodge, James Colley, Chris Greenhalgh, Kevin Glover, Hamed Haddadi, Yousef Amar, Richard Mortier, Qi Li, John Moore, Liang Wang, Poonam Yadav, Jianxin Zhao, Anthony Brown, Lachlan Urquhart, Derek McAuley, "Building Accountability into the Internet of Things: The IoT Databox Model", Journal of Reliable Intelligent Environments, Springer, 2018. ([paper](https://haddadi.github.io/papers/JREI_IoTDatabox2018.pdf){:target="_blank"})
 
