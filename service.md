@@ -87,6 +87,7 @@ I offer consultancy services on research project and patent disputes, social med
 
 ## PhD examination
 
+Feng She, Imperial College London, October 2018
 Luca Melis, UCL, July 2018
 Luca Vassio, Politecnico di Torino, March 2018     
 Yang Liu, University of Oxford, February 2018     
