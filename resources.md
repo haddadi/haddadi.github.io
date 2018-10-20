@@ -40,6 +40,8 @@ Two examples from the computer science review and publication process [Blog post
 
 "[A personal note on mental health](https://thrish.org/for-phd-students-a-personal-note-on-mental-health)" (by [Thrish](https://thrish.org/research-team/thrish))
 
+"[Our incomplete scientific knowledge](https://thrish.org/lab-meetings/lets-not-be-pompous-scientists)" (by [Thrish](https://thrish.org/research-team/thrish))
+
 ## Datasets & Tool
 
 The Koblenz Network Collection [http://konect.uni-koblenz.de/](http://konect.uni-koblenz.de/)
