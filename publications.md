@@ -14,7 +14,7 @@ permalink: /publications/
 
 ### 2018:
 
-*   Mohammad Malekzadeh, Richard G. Clegg, Andrea Cavallaro, Hamed Haddadi, "Mobile Sensor Data Anonymization", (Available on [ArXiv](https://arxiv.org/abs/1802.07802){:target="_blank"}, [Code and Dataset](https://github.com/mmalekzadeh/motion-sense){:target="_blank"})
+*   Mohammad Malekzadeh, Richard G. Clegg, Andrea Cavallaro, Hamed Haddadi, "Mobile Sensor Data Anonymization", Available on [ArXiv](https://arxiv.org/abs/1802.07802){:target="_blank"}, [Code and Dataset](https://github.com/mmalekzadeh/motion-sense){:target="_blank"}
 
 *   Poonam Yadav, John Moore, Qi Li, Richard Mortier, Anthony Brown, Andy Crabtree, Chris Greenhalgh, Derek McAuley, Yousef Amar, Ali Shahin Shamsabadi, Hamed Haddadi, "Providing Occupancy as a Service with Databox", in The 1st ACM International Workshop on Smart Cities and Fog Computing (CitiFog’18), November 4, 2018, Shenzhen, China. [https:// doi.org/ 10.1145/ 3277893.3277894](https:// doi.org/ 10.1145/ 3277893.3277894) ([Paper](https://haddadi.github.io/papers/citifog18-final7.pdf))
 
