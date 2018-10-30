@@ -9,10 +9,12 @@ permalink: /publications/
 
 ### 2019:
 
-*   Seyed Ali Osia, Ali Taheri, Ali Shahin Shamsabadi, Kleomenis Katevas, Hamed Haddadi, Hamid R. Rabiee, "Deep Private-Feature Extraction", IEEE Transactions on Knowledge and Data Engineering, 2019. (Available on [ArXiv](https://arxiv.org/abs/1802.03151){:target="_blank"}, [Code](https://github.com/aliosia/DPFE){:target="_blank"})
+*   Seyed Ali Osia, Ali Taheri, Ali Shahin Shamsabadi, Kleomenis Katevas, Hamed Haddadi, Hamid R. Rabiee, "Deep Private-Feature Extraction", IEEE Transactions on Knowledge and Data Engineering, 2019. (Available on [ArXiv](https://arxiv.org/abs/1810.11546){:target="_blank"}, [Code](https://github.com/mmalekzadeh/motion-sense){:target="_blank"})
 
 
 ### 2018:
+
+*   Mohammad Malekzadeh, Richard G. Clegg, Andrea Cavallaro, Hamed Haddadi, "Mobile Sensor Data Anonymization", (Available on [ArXiv](https://arxiv.org/abs/1802.07802){:target="_blank"}, [Code and Dataset](https://github.com/mmalekzadeh/motion-sense){:target="_blank"})
 
 *   Poonam Yadav, John Moore, Qi Li, Richard Mortier, Anthony Brown, Andy Crabtree, Chris Greenhalgh, Derek McAuley, Yousef Amar, Ali Shahin Shamsabadi, Hamed Haddadi, "Providing Occupancy as a Service with Databox", in The 1st ACM International Workshop on Smart Cities and Fog Computing (CitiFog’18), November 4, 2018, Shenzhen, China. [https:// doi.org/ 10.1145/ 3277893.3277894](https:// doi.org/ 10.1145/ 3277893.3277894) ([Paper](https://haddadi.github.io/papers/citifog18-final7.pdf))
 
@@ -28,7 +30,7 @@ permalink: /publications/
 
 *   Hamed Haddadi, Vassilis Christophides, Renata Teixeira, Kenjiro Cho, Shigeya Suzuki and Adrian Perrig, "SIOTOME: An Edge-ISP Collaborative Architecture for IoT Security", in proceedings of the 1st International Workshop on Security and Privacy for the Internet-of-Things ([IoTSec](https://synercys.github.io/iotsec/){:target="_blank"}), co-located with the 3rd ACM/IEEE International Conference on Internet of Things Design & Implementation ([IoTDI](http://conferences.computer.org/IoTDI/){:target="_blank"}), April 2018, Orlando, Florida, USA. ([Paper](https://haddadi.github.io/papers/SIOTOME_2018iot.pdf), [Talk](https://haddadi.github.io/talks/IotDI18_SIOTOME.pdf))
 
-*   Mohammad Malekzadeh, Richard G. Clegg, Andrea Cavallaro, Hamed Haddadi, "Protecting Sensory Data against Sensitive Inferences", in proceedings of the [1st Workshop on Privacy by Design in Distributed Systems](http://www.gsd.inesc-id.pt/~p2ds/), co-located with [Eurosys 2018](http://eurosys2018.org/), Porto, Portugal, April 2018, ACM, New York, NY, USA, doi.org/10.1145/3195258.3195260 (Available on [ArXiv](https://arxiv.org/abs/1802.07802){:target="_blank"}, [Dataset](https://github.com/mmalekzadeh/motion-sense){:target="_blank"})
+*   Mohammad Malekzadeh, Richard G. Clegg, Andrea Cavallaro, Hamed Haddadi, "Protecting Sensory Data against Sensitive Inferences", in proceedings of the [1st Workshop on Privacy by Design in Distributed Systems](http://www.gsd.inesc-id.pt/~p2ds/), co-located with [Eurosys 2018](http://eurosys2018.org/), Porto, Portugal, April 2018, ACM, New York, NY, USA, doi.org/10.1145/3195258.3195260 (Available on [ArXiv](https://arxiv.org/abs/1802.07802){:target="_blank"}, [Code and Dataset](https://github.com/mmalekzadeh/motion-sense){:target="_blank"})
 
 *   Yousef Amar, Hamed Haddadi, Richard Mortier, "An Information-Theoretic Approach to Time-Series Data Privacy", in proceedings of the [1st Workshop on Privacy by Design in Distributed Systems](http://www.gsd.inesc-id.pt/~p2ds/), co-located with [Eurosys 2018](http://eurosys2018.org/), Porto, Portugal, April 2018. [Paper](https://haddadi.github.io/papers/Eurosys2018amar.pdf)
 
