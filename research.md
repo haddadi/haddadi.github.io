@@ -20,7 +20,9 @@ For project details, please visit the Systems and Algorithms Laboratory ([SysAL]
 
 ## Current Research Staff
 
-*   [Kleomenis Katevas](http://minoskt.github.io/) (Postdoctoral Research Associate on the [Databox Project](http://www.databoxproject.uk)) .
+*   [Kleomenis Katevas](https://minoskt.github.io) (Postdoctoral Research Associate on the [Databox Project](http://www.databoxproject.uk))
+
+*   [Anna Maria Mandalari](http://www.it.uc3m.es/amandala/) (Postdoctoral Research Associate on the [Databox Project](http://www.databoxproject.uk))
 
 ## Current Research Students
 
