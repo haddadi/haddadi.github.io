@@ -20,9 +20,11 @@ For project details, please visit the Systems and Algorithms Laboratory ([SysAL]
 
 ## Current Research Staff
 
-*   [Kleomenis Katevas](https://minoskt.github.io) (Postdoctoral Research Associate on the [Databox Project](http://www.databoxproject.uk))
+*   [Kleomenis Katevas](https://minoskt.github.io) (Postdoctoral Research Associate on the [Databox Project](https://www.databoxproject.uk))
 
-*   [Anna Maria Mandalari](https://www.imperial.ac.uk/people/anna-maria.mandalari) (Postdoctoral Research Associate on the [Databox Project](http://www.databoxproject.uk))
+*   [Anna Maria Mandalari](https://www.imperial.ac.uk/people/anna-maria.mandalari) (Postdoctoral Research Associate on the [Databox Project](https://www.databoxproject.uk))
+
+*   [Roman Kolcun](https://www.imperial.ac.uk/people/roman.kolcun) (Postdoctoral Research Associate on the [DADA Project](https://www.imperial.ac.uk/systems-algorithms-design-lab/research/dada-project/))
 
 ## Current Research Students
 
