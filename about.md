@@ -19,7 +19,11 @@ We are currently looking for exceptional candidates for the [Imperial College Re
 
 ### News
 
-October 2018: Our paper “[Deep Private-Feature Extraction](https://arxiv.org/abs/1802.03151){:target="_blank"}” has been accepted to IEEE Transactions on Knowledge and Data Engineering. 
+November 2018: [Roman Kolcun](https://www.imperial.ac.uk/people/roman.kolcun) joins SysAL as a Postdoctoral Research Associate on the [DADA Project](https://www.imperial.ac.uk/systems-algorithms-design-lab/research/dada-project/).
+
+November 2018: [Anna Maria Mandalari](https://www.imperial.ac.uk/people/anna-maria.mandalari) joins SysAL as a Postdoctoral Research Associate on the [Databox Project](https://www.databoxproject.uk/).
+
+Our paper “[Deep Private-Feature Extraction](https://arxiv.org/abs/1802.03151){:target="_blank"}” has been accepted to IEEE Transactions on Knowledge and Data Engineering. 
 
 October 2018: [Fan Mo](https://mofanv.github.io/) and [Yuting Zhan](https://www.imperial.ac.uk/people/yuting.zhan18) have started their PhD research with us in [Imperial SysAL](https://www.imperial.ac.uk/sysal){:target="_blank"}. Welcome to the team!
 
