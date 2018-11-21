@@ -13,7 +13,7 @@ For project details, please visit the Systems and Algorithms Laboratory ([SysAL]
   
 ## Current Projects and Grants
 
-*   EPSRC [Databox](http://www.databoxproject.uk): Privacy-Aware Infrastructure for Managing Personal Data ([EP/N028260/1](http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/N028260/1) £1,238,585 starting October 2016)  
+*   EPSRC [Databox](https://www.databoxproject.uk): Privacy-Aware Infrastructure for Managing Personal Data ([EP/N028260/1](http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/N028260/1) £1,238,585 starting October 2016)  
 *   Microsoft Azure Research Award 2017-2018 (CRM:0740917)
 *   [Human-Data Interaction](http://hdiresearch.org/), Legibility, Agency, Negotiability: EPSRC Network Plus grant ([EP/R045178/1](https://gtr.ukri.org/projects?ref=EP%2FR045178%2F1){:target="_blank"}, £1,040,837 starting September 2018)
 *   EPSRC [DADA: Defence Against Dark Artefacts](https://www.horizon.ac.uk/project/defence-against-dark-artefacts/){:target="_blank"} ([EP/R03351X/1](http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/R03351X/1){:target="_blank"}, £1,011,787 starting September 2018)
@@ -28,9 +28,9 @@ For project details, please visit the Systems and Algorithms Laboratory ([SysAL]
 
 ## Current Research Students
 
-*   [Fan Mo](https://mofanv.github.io) (funded by Li-xin Tang Overseas Scholarship).
+*   [Fan Mo](https://mofanv.github.io) (Privacy in Mobile Computing, funded by Li-xin Tang Overseas Scholarship).
 
-*   [Yuting Zhan](https://www.imperial.ac.uk/people/yuting.zhan18) (funded by [CSC Imperial Scholarship](https://www.imperial.ac.uk/study/pg/fees-and-funding/scholarships/international-scholarship-collaborations/csc/)).
+*   [Yuting Zhan](https://www.imperial.ac.uk/people/yuting.zhan18) (HDI, funded by [CSC Imperial Scholarship](https://www.imperial.ac.uk/study/pg/fees-and-funding/scholarships/international-scholarship-collaborations/csc/)).
 
 *   [Ali Shahin Shamsabadi](https://alishahin.github.io/) (Privacy-preserving Deep Learning, funded by QMUL [CIS](http://cis.eecs.qmul.ac.uk/) Scholarship).
 
