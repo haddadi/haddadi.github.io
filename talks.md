@@ -1,3 +1,7 @@
+* "Privacy-Preserving Personal Data analytics", Brave Software, San Francisco, USA, November 2018  
+* "User-Centric Personal Data Analytics on the Edge", University of Kent, UK, November 2018  
+* "Privacy-Preserving Sensing & Analytics on the Edge", Ford Motors, UK, September 2018 
+* "Machine Learning and IoT", Topic Preview Tutorial, ACM SIGCOMM Conference, Budapest, Hungary, August 2018  
 * "Privacy-Preserving Sensing & Analytics on the Edge", HongKong University of Science and Technology, HK, July 2018
 * "[Personal Data Ecosystem: Privacy, Utility, and Efficiency Challenge](https://haddadi.github.io/talks/Haddadi_OII2018.pdf)", Oxford Internet Institute Colloquia talk, Oxford, UK, June 2018
 * "Privacy-Preserving Sensing & Analytics on the Edge", Privitar Ltd, London, UK, June 2018
