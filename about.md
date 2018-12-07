@@ -19,6 +19,9 @@ We are currently looking for exceptional candidates for the [Imperial College Re
 
 ### News
 
+December 2018: [Databox Project](https://www.databoxproject.uk/) Databox has been featured as a case study at the Royal Academy of Engineering report "Towards trusted data sharing: guidance and case studies". Read all about it here: [http://reports.raeng.org.uk/datasharing/cover/](http://reports.raeng.org.uk/datasharing/cover/).
+
+
 November 2018: [Roman Kolcun](https://www.imperial.ac.uk/people/roman.kolcun) joins [Imperial SysAL](https://www.imperial.ac.uk/sysal){:target="_blank"} as a Postdoctoral Research Associate on the [DADA Project](https://www.imperial.ac.uk/systems-algorithms-design-lab/research/dada-project/).
 
 November 2018: [Anna Maria Mandalari](https://www.imperial.ac.uk/people/anna-maria.mandalari) joins [Imperial SysAL](https://www.imperial.ac.uk/sysal){:target="_blank"} as a Postdoctoral Research Associate on the [Databox Project](https://www.databoxproject.uk/).
