@@ -19,8 +19,7 @@ We are currently looking for exceptional candidates for the [Imperial College Re
 
 ### News
 
-December 2018: [Databox Project](https://www.databoxproject.uk/) has been featured as a case study at the Royal Academy of Engineering report ["Towards trusted data sharing: guidance and case studies"](http://reports.raeng.org.uk/datasharing/cover/).
-
+December 2018: [Databox Project](https://www.databoxproject.uk/) has been featured as a case study at the Royal Academy of Engineering report ["Towards trusted data sharing: guidance and case studies"](http://reports.raeng.org.uk/datasharing/cover/). 
 
 November 2018: [Roman Kolcun](https://www.imperial.ac.uk/people/roman.kolcun) joins [Imperial SysAL](https://www.imperial.ac.uk/sysal){:target="_blank"} as a Postdoctoral Research Associate on the [DADA Project](https://www.imperial.ac.uk/systems-algorithms-design-lab/research/dada-project/).
 
@@ -43,10 +42,6 @@ March 2018: Our [EPSRC Digital Economy NetworkPlus](https://www.epsrc.ac.uk/fund
 Feb 2018: Our paper "[Private and Scalable Personal Data Analytics using a Hybrid Edge-Cloud Deep Learning](https://haddadi.github.io/papers/ieeeComputer2018hybrid.pdf)" with Seyed Ali Osia, Ali Shahin Shamsabadi, Ali Taheri, and Hamid R. Rabiee has been accepted to the  IEEE Computer Magazine Special Issue on Mobile and Embedded Deep Learning.
 
 Jan 2018: Two papers on privacy in IoT applications have been accepted to the ACM/IEEE International Conference on Internet-of-Things Design and Implementation 2018. See [publications' page](https://haddadi.github.io/publications/) for details.
-
-Dec 2017: We have received a [Microsoft Azure Research Award](http://azure4research.com/){:target="_blank"} to support our Machine Learning research for the Databox project.  
-
-Dec 2017: Katrin Hänsel's [paper](https://haddadi.github.io/papers/CHI2018sensing.pdf){:target="_blank"} has been accepted to ACM CHI 2018! Congrats Katrin.
 
 
 ### Contact me
