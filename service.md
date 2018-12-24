@@ -21,30 +21,6 @@ permalink: /service/
 
 *   The Web Conference, 2019 ([WWW 2019](https://www2019.thewebconf.org){:target="_blank"})
 
-*   ACM SIGCOMM Internet Measurement Conference 2018 ([IMC 2018)](http://conferences.sigcomm.org/imc/2018/)
-
-*   The 26th IEEE International Conference on Network Protocols ([ICNP 2018](http://icnp18.cs.ucr.edu/){:target="_blank"})
-
-*   The 24th ACM Annual International Conference on Mobile Computing and Networking ([ACM MobiCom 2018](https://sigmobile.org/mobicom/2018/){:target="_blank"})
-
-*   ACM SIGCOMM 2018 Workshop on IoT Security and Privacy ([IoT S&P](https://conferences.sigcomm.org/sigcomm/2018/workshop-iotsp.html){:target="_blank"})
-
-*   The International Teletraffic Congress ([ITC 30](https://itc30.org/en/committees/area-2.html){:target="_blank"})
-
-*   The 1st ACM SIGMOBILE International Workshop on Edge Systems, Analytics and Networking ([EdgeSys 2018](https://www.sigmobile.org/mobisys/2018/workshops/edgesys18/){:target="_blank"})
-
-*   16th ACM International Conference on Mobile Systems, Applications, and Services ([MobiSys 2018 Poster session](https://www.sigmobile.org/mobisys/2018/cfposters/){:target="_blank"})
-
-*   The 8th ACM Digital Health conference ([DH 2018](http://www.acm-digitalhealth.org/){:target="_blank"})
-
-*   IEEE/IFIP International Workshop on Decentralized Orchestration and Management of Distributed Heterogeneous Things   ([dominos 2018](https://sites.google.com/view/dominos2018/home){:target="_blank"})
-
-*   The Web Conference 2018 ([WWW 2018](https://www2018.thewebconf.org/){:target="_blank"})
-
-*   Network Traffic Measurement and Analysis Conference ([TMA 2018](http://tma.ifip.org/2018/){:target="_blank"})
-
-*   3rd ACM/IEEE International Conference on Internet of Things Design and Implementation ([IoTDI 2018](http://conferences.computer.org/IoTDI/))
-
 
 
 ## Journals (Editorial Board)
@@ -173,6 +149,30 @@ External Reviewer for ACM CSCW2015, IEEE WiMob (2011), IEEE/ACM MASCOTS,ACM SIGC
 
 *   [ACM Sensys](http://sensys.acm.org/) conference Steering Committee Member (2015-2017)  
 
+
+*   ACM SIGCOMM Internet Measurement Conference 2018 ([IMC 2018)](http://conferences.sigcomm.org/imc/2018/)
+
+*   The 26th IEEE International Conference on Network Protocols ([ICNP 2018](http://icnp18.cs.ucr.edu/){:target="_blank"})
+
+*   The 24th ACM Annual International Conference on Mobile Computing and Networking ([ACM MobiCom 2018](https://sigmobile.org/mobicom/2018/){:target="_blank"})
+
+*   ACM SIGCOMM 2018 Workshop on IoT Security and Privacy ([IoT S&P](https://conferences.sigcomm.org/sigcomm/2018/workshop-iotsp.html){:target="_blank"})
+
+*   The International Teletraffic Congress ([ITC 30](https://itc30.org/en/committees/area-2.html){:target="_blank"})
+
+*   The 1st ACM SIGMOBILE International Workshop on Edge Systems, Analytics and Networking ([EdgeSys 2018](https://www.sigmobile.org/mobisys/2018/workshops/edgesys18/){:target="_blank"})
+
+*   16th ACM International Conference on Mobile Systems, Applications, and Services ([MobiSys 2018 Poster session](https://www.sigmobile.org/mobisys/2018/cfposters/){:target="_blank"})
+
+*   The 8th ACM Digital Health conference ([DH 2018](http://www.acm-digitalhealth.org/){:target="_blank"})
+
+*   IEEE/IFIP International Workshop on Decentralized Orchestration and Management of Distributed Heterogeneous Things   ([dominos 2018](https://sites.google.com/view/dominos2018/home){:target="_blank"})
+
+*   The Web Conference 2018 ([WWW 2018](https://www2018.thewebconf.org/){:target="_blank"})
+
+*   Network Traffic Measurement and Analysis Conference ([TMA 2018](http://tma.ifip.org/2018/){:target="_blank"})
+
+*   3rd ACM/IEEE International Conference on Internet of Things Design and Implementation ([IoTDI 2018](http://conferences.computer.org/IoTDI/))
 
 *   ACM SIGCOMM Internet Measurement Conference 2017 ([IMC 2017)](http://conferences.sigcomm.org/imc/2017/)
 
