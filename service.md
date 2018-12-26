@@ -42,7 +42,7 @@ IEEE Signal Processing Magazine, ACM Transactions on the Web (TWEB), ACM SIGCOMM
 
 ## Teaching
 
-2018-2019: Imperial College Sensing & IoT (UG)
+2018-2019: Imperial College Sensing & IoT (UG)  
 2015-2017: QMUL Digital Media and Social Networks (PG-UG)  
 2015-2017: QMUL 21st Century Networks with Steve Uhlig  
 2013-2014: QMUL Digital Media and Social Networks (PG-UG)  
