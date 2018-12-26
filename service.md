@@ -90,7 +90,8 @@ Anastasios Noulas, Computer Laboratory, University of Cambridge, October 2013
 Engineering and Physical Sciences Research Council (EPSRC)  
 Swiss National Science Foundation (SNSF)  
 Indo Swiss Joint Research Programme (ISJRP)  
-
+Natural Sciences and Engineering Research Council of Canada  
+Canada Foundation for Innovation  
 
 ## Current External affiliations
 
@@ -100,10 +101,7 @@ Indo Swiss Joint Research Programme (ISJRP)
 
 Deputy Director of Research, Dyson School of Design Engineering, Imperial College London  
 Member of admissions team, Dyson School of Design Engineering, Imperial College London 
-Social Media Officer, QMUL EECS Communications & Admissions team  
-Member of QMUL EECS Networks and Systems Teaching Group  
-Member of QMUL EECS Music and Media Teaching Group  
-PhD Committee Member for QMUL EPSRC/AHRC DTC for Media & Arts Technology
+
 
 ## Extended Biography
 
