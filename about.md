@@ -19,6 +19,8 @@ We are currently looking for exceptional candidates for the [Imperial College Re
 
 ### News
 
+December 2018: Our article ["Decentralised AI has the potential to upend the online economy"](https://www.wired.co.uk/article/decentralised-artificial-intelligence) has been published in Wired. 
+
 December 2018: [Databox Project](https://www.databoxproject.uk/) has been featured as a case study at the Royal Academy of Engineering report ["Towards trusted data sharing: guidance and case studies"](http://reports.raeng.org.uk/datasharing/cover/). 
 
 November 2018: [Roman Kolcun](https://www.imperial.ac.uk/people/roman.kolcun) joins [Imperial SysAL](https://www.imperial.ac.uk/sysal){:target="_blank"} as a Postdoctoral Research Associate on the [DADA Project](https://www.imperial.ac.uk/systems-algorithms-design-lab/research/dada-project/).
