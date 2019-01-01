@@ -31,11 +31,9 @@ October 2018: Our paper “[Deep Private-Feature Extraction](https://arxiv.org/a
 
 October 2018: [Fan Mo](https://mofanv.github.io/) and [Yuting Zhan](https://www.imperial.ac.uk/people/yuting.zhan18) have started their PhD research with us in [Imperial SysAL](https://www.imperial.ac.uk/sysal){:target="_blank"}. Welcome to the team!
 
-September 2018: I am joining the team at [Brave](https://brave.com/index/){:target="_blank"} as a Visiting Professor on a part-time basis. [Join us](https://brave.com/jobs/){:target="_blank"} to make the web private and secure again!
+September 2018: I am joining the team at [Brave](https://brave.com/index/){:target="_blank"} as a Visiting Professor on a part-time basis. [Join us](https://brave.com/jobs/){:target="_blank"} to make the web private and secure again! 
 
-August 2018: We are looking for a Postdoctoral Research Associate on the [EPSRC DADA Project](https://www.imperial.ac.uk/systems-algorithms-design-lab/research/dada-project/) to join our [lab](https://www.imperial.ac.uk/SysAl). See the [job advert](https://www.imperial.ac.uk/jobs/description/ENG00461/research-associate-dada-project) and apply by 9th September.
-
-August 2018: We have received a generous grant from Huawei Technologies. Stay Tuned for the job advert!
+August 2018: We have received a generous grant from Huawei Technologies. Stay Tuned for the job advert! 
 
 March 2018: Our [EPSRC TIPS2](https://www.epsrc.ac.uk/funding/calls/tips2/) grant on [Defense Against Dark Artefacts](https://www.nottingham.ac.uk/news/pressreleases/2018/april/defence-against-dark-artefacts-%E2%80%93-the-enemy-within-the-wall.aspx), to battle IoT security & Privacy threats using edge computing, has been funded. ([EPSRC Ref](http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/R03351X/1), [Press Release](https://epsrc.ukri.org/newsevents/news/tipsresearchprojects/))
 
