@@ -19,6 +19,8 @@ We are currently looking for exceptional candidates for the [Imperial College Re
 
 ### News
 
+Jan 2019: We are part of the new £20m [UK DRI Care Research & Technology programme](https://ukdri.ac.uk/news-and-events/uk-dri-care-research-technology-programme-appointed), developing privacy-preserving technologies for demantia patients over the next six years. Job ads will be out soon!
+
 December 2018: Our article ["Decentralised AI has the potential to upend the online economy"](https://www.wired.co.uk/article/decentralised-artificial-intelligence) has been published in Wired. 
 
 December 2018: [Databox Project](https://www.databoxproject.uk/) has been featured as a case study at the Royal Academy of Engineering report ["Towards trusted data sharing: guidance and case studies"](http://reports.raeng.org.uk/datasharing/cover/). 
