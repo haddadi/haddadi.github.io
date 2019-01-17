@@ -17,6 +17,8 @@ For project details, please visit the Systems and Algorithms Laboratory ([SysAL]
 *   Microsoft Azure Research Award 2017-2018 (CRM:0740917)
 *   [Human-Data Interaction](http://hdiresearch.org/), Legibility, Agency, Negotiability: EPSRC Network Plus grant ([EP/R045178/1](https://gtr.ukri.org/projects?ref=EP%2FR045178%2F1){:target="_blank"}, £1,040,837 starting September 2018)
 *   EPSRC [DADA: Defence Against Dark Artefacts](https://www.horizon.ac.uk/project/defence-against-dark-artefacts/){:target="_blank"} ([EP/R03351X/1](http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/R03351X/1){:target="_blank"}, £1,011,787 starting September 2018)
+*   [UK DRI Care Research & Technology programme](https://ukdri.ac.uk/news-and-events/uk-dri-care-research-technology-programme-appointed){:target="_blank"} (£20m starting March 2019)
+
 
 ## Current Research Staff
 
