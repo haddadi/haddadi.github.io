@@ -14,7 +14,6 @@ For project details, please visit the Systems and Algorithms Laboratory ([SysAL]
 ## Current Projects and Grants
 
 *   EPSRC [Databox](https://www.databoxproject.uk): Privacy-Aware Infrastructure for Managing Personal Data ([EP/N028260/1](http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/N028260/1) £1,238,585 starting October 2016)  
-*   Microsoft Azure Research Award 2017-2018 (CRM:0740917)
 *   [Human-Data Interaction](http://hdiresearch.org/), Legibility, Agency, Negotiability: EPSRC Network Plus grant ([EP/R045178/1](https://gtr.ukri.org/projects?ref=EP%2FR045178%2F1){:target="_blank"}, £1,040,837 starting September 2018)
 *   EPSRC [DADA: Defence Against Dark Artefacts](https://www.horizon.ac.uk/project/defence-against-dark-artefacts/){:target="_blank"} ([EP/R03351X/1](http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/R03351X/1){:target="_blank"}, £1,011,787 starting September 2018)
 *   [UK DRI Care Research & Technology programme](https://ukdri.ac.uk/news-and-events/uk-dri-care-research-technology-programme-appointed){:target="_blank"} (£20m starting March 2019)
@@ -48,7 +47,7 @@ I am interested in hearing from potential PhD students in my areas of research i
 
 *   EPSRC IoT research-in-the-wild: [Connected Seeds and Sensors](http://www.connectedseeds.org/) ([EP/L023504/1](http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/L023504/1) £ 321,053 October 2015- March 2017)
 
-*   [Microsoft Azure for Research](http://research.microsoft.com/en-us/projects/azure/default.aspx) Award 2017 CRM:0518581 (co-PI, $20k)  
+*   [Microsoft Azure for Research](http://research.microsoft.com/en-us/projects/azure/default.aspx) Award 2017, 2018 CRM:0518581 (co-PI, $40k)
 
 *   [EPSRC IT as a Utility Network](http://www.itutility.ac.uk/)+ industrial secondment at AT&T Research (PI, £6k)
 
