@@ -9,16 +9,15 @@ permalink: /publications/
 
 ### 2019:
 
-*   Seyed Ali Osia, Ali Taheri, Ali Shahin Shamsabadi, Kleomenis Katevas, Hamed Haddadi, Hamid R. Rabiee, "Deep Private-Feature Extraction", IEEE Transactions on Knowledge and Data Engineering, 2019, DOI: 10.1109/TKDE.2018.2878698. (Available on [ArXiv](https://arxiv.org/abs/1810.11546){:target="_blank"}, [Code](https://github.com/mmalekzadeh/motion-sense){:target="_blank"})
+*   Seyed Ali Osia, Ali Taheri, Ali Shahin Shamsabadi, Kleomenis Katevas, Hamed Haddadi, Hamid R. Rabiee, "Deep Private-Feature Extraction", IEEE Transactions on Knowledge and Data Engineering, 2019, DOI: 10.1109/TKDE.2018.2878698. (Available on [ArXiv](https://arxiv.org/abs/1810.11546){:target="_blank"}, [Code](https://github.com/mmalekzadeh/motion-sense){:target="_blank"}) 
 
+*   Mohammad Malekzadeh, Richard G. Clegg, Andrea Cavallaro, Hamed Haddadi, "Mobile Sensor Data Anonymization", ACM/IEEE International Conference on Internet of Things Design and Implementation ([IoTDI 2019](http://conferences.computer.org/iotDI/2019/){:target="_blank"}), Available on [ArXiv](https://arxiv.org/abs/1802.07802){:target="_blank"}, [Code and Dataset](https://github.com/mmalekzadeh/motion-sense){:target="_blank"}
 
 *   John Moore, Andres Arcia-Moret, Poonam Yadav, Richard Mortier, Anthony Brown, Derek McAuley, Andy Crabtree, Chris Greenhalgh, Hamed Haddadi, Yousef Amar, "Zest: REST over ZeroMQ", The Third Workshop on Security, Privacy and Trust in the Internet of Things, In conjunction with IEEE PERCOM 2019, March 11 -15, 2019, Kyoto, Japan. ([Paper](https://haddadi.github.io/papers/zest2019.pdf))
 
 
-### 2018:
-
-*   Mohammad Malekzadeh, Richard G. Clegg, Andrea Cavallaro, Hamed Haddadi, "Mobile Sensor Data Anonymization", Available on [ArXiv](https://arxiv.org/abs/1802.07802){:target="_blank"}, [Code and Dataset](https://github.com/mmalekzadeh/motion-sense){:target="_blank"}
-
+### 2018: 
+ 
 *   Poonam Yadav, John Moore, Qi Li, Richard Mortier, Anthony Brown, Andy Crabtree, Chris Greenhalgh, Derek McAuley, Yousef Amar, Ali Shahin Shamsabadi, Hamed Haddadi, "Providing Occupancy as a Service with Databox", in The 1st ACM International Workshop on Smart Cities and Fog Computing (CitiFog’18), November 4, 2018, Shenzhen, China. [https:// doi.org/ 10.1145/ 3277893.3277894](https:// doi.org/ 10.1145/ 3277893.3277894) ([Paper](https://haddadi.github.io/papers/citifog18-final7.pdf))
 
 *   Ali Shahin Shamsabadi, Hamed Haddadi, Andrea Cavallaro, "Distributed One-class Learning", [IEEE International Conference on Image Processing](https://2018.ieeeicip.org){:target="_blank"}, October 7-10, 2018, Athens, Greece. Available on [ArXiv](https://arxiv.org/abs/1802.03583){:target="_blank"}
