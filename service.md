@@ -34,9 +34,6 @@ permalink: /service/
 *   ACM SIGCOMM [Computer Communication Review](https://ccronline.sigcomm.org){:target="_blank"} (Nov 2017-now)
 
 
-*   Springer Journal of Internet Services and Applications ([JISA](http://www.springer.com/computer/communication+networks/journal/13174) , since 2012)
-
-
 ## Journals (Reviewer)
 
 **I no longer perform reviews for commercial journals not supporting Open Access, or those (like Elsevier) taking part in political sanctions against any country.**
@@ -153,6 +150,8 @@ External Reviewer for ACM CSCW2015, IEEE WiMob (2011), IEEE/ACM MASCOTS,ACM SIGC
 
 *   [ACM Sensys](http://sensys.acm.org/) conference Steering Committee Member (2015-2017)  
 
+*   Springer Journal of Internet Services and Applications ([JISA](http://www.springer.com/computer/communication+networks/journal/13174), 2012-2018)
+
 *   ACM SIGCOMM Internet Measurement Conference 2018 ([IMC 2018)](http://conferences.sigcomm.org/imc/2018/)
 
 *   The 26th IEEE International Conference on Network Protocols ([ICNP 2018](http://icnp18.cs.ucr.edu/){:target="_blank"})
@@ -232,7 +231,6 @@ External Reviewer for ACM CSCW2015, IEEE WiMob (2011), IEEE/ACM MASCOTS,ACM SIGC
 
 *   The 36th IEEE International Conference on Distributed Computing Systems ([ICDCS 2016](http://www-higashi.ist.osaka-u.ac.jp/icdcs2016/))  
     
-
 *   IEEE International Conference on Communications 2016 ([ICC 2016](http://icc2016.ieee-icc.org/), Social Networking track)
 
 *   The [Alan Turing Institute](https://turing.ac.uk/) Symposium on Responsible, Ethics-Aware Research & Innovation in Data Science (March 2016)
