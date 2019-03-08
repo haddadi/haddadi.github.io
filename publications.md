@@ -11,6 +11,9 @@ permalink: /publications/
 
 *   Seyed Ali Osia, Ali Taheri, Ali Shahin Shamsabadi, Kleomenis Katevas, Hamed Haddadi, Hamid R. Rabiee, "Deep Private-Feature Extraction", IEEE Transactions on Knowledge and Data Engineering, 2019, DOI: 10.1109/TKDE.2018.2878698. (Available on [ArXiv](https://arxiv.org/abs/1802.03151){:target="_blank"}, [Code](https://github.com/aliosia/DPFE){:target="_blank"}) 
 
+
+*   Chaoyun Zhang, Paul Patras, Hamed Haddadi, "Deep Learning in Mobile and Wireless Networking: A Survey", in Proceedings of IEEE Communications Surveys & Tutorials, 2019. Available on [ArXiv](https://arxiv.org/abs/1803.04311){:target="_blank"}.  
+
 *   Mohammad Malekzadeh, Richard G. Clegg, Andrea Cavallaro, Hamed Haddadi, "Mobile Sensor Data Anonymization", ACM/IEEE International Conference on Internet of Things Design and Implementation ([IoTDI 2019](http://conferences.computer.org/iotDI/2019/){:target="_blank"}), April 2019, Montreal, Canada. Available on [ArXiv](https://arxiv.org/abs/1810.11546){:target="_blank"}, [Code and Dataset](https://github.com/mmalekzadeh/motion-sense){:target="_blank"}
 
 *   Seyed Ali Osia, Borzoo Rassouli, Hamed Haddadi, Hamid R. Rabiee, Deniz Gündüz, "Privacy Against Brute-Force Inference Attacks",  Available on [ArXiv](http://arxiv.org/abs/1902.00329){:target="_blank"}
@@ -26,9 +29,7 @@ permalink: /publications/
 
 *   Kleomenis Katevas, Katrin Hänsel, Richard Clegg, Ilias Leontiadis, Hamed Haddadi, Laurissa Tokarchuk, "Finding Dory in the Crowd: Detecting Social Interactions using Multi-Modal Mobile Sensing", Available on [ArXiv](https://arxiv.org/abs/1809.00947){:target="_blank"}, September 2018.
 
-*   Katrin Hänsel, Kleomenis Katevas, Guido Orgs, Daniel C. Richardson, Akram Alomainy, Hamed Haddadi, "The potential of wearable technology for monitoring social interactions based on interpersonal synchrony", 4th ACM Workshop on wearable systems and applications ([WearSys 2018](https://sites.google.com/site/wearsys2018/){:target="_blank"}), June 2018, Munich, Germany. ([Paper](https://haddadi.github.io/papers/WearSys_2018.pdf))
-
-*   Chaoyun Zhang, Paul Patras, Hamed Haddadi, "Deep Learning in Mobile and Wireless Networking: A Survey", Available on [ArXiv](https://arxiv.org/abs/1803.04311){:target="_blank"}, March 2018.
+*   Katrin Hänsel, Kleomenis Katevas, Guido Orgs, Daniel C. Richardson, Akram Alomainy, Hamed Haddadi, "The potential of wearable technology for monitoring social interactions based on interpersonal synchrony", 4th ACM Workshop on wearable systems and applications ([WearSys 2018](https://sites.google.com/site/wearsys2018/){:target="_blank"}), June 2018, Munich, Germany. ([Paper](https://haddadi.github.io/papers/WearSys_2018.pdf)) 
 
 *   Seyed Ali Osia, Ali Shahin Shamsabadi, Ali Taheri, Hamid R. Rabiee, Hamed Haddadi, "Private and Scalable Personal Data Analytics using Hybrid Edge-Cloud Deep Learning", IEEE Computer, Special Issue on Mobile and Embedded Deep Learning, May 2018. ([Paper](https://haddadi.github.io/papers/ieeeComputer2018hybrid.pdf))
 
