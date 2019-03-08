@@ -12,7 +12,7 @@ permalink: /publications/
 *   Seyed Ali Osia, Ali Taheri, Ali Shahin Shamsabadi, Kleomenis Katevas, Hamed Haddadi, Hamid R. Rabiee, "Deep Private-Feature Extraction", IEEE Transactions on Knowledge and Data Engineering, 2019, DOI: 10.1109/TKDE.2018.2878698. (Available on [ArXiv](https://arxiv.org/abs/1802.03151){:target="_blank"}, [Code](https://github.com/aliosia/DPFE){:target="_blank"}) 
 
 
-*   Chaoyun Zhang, Paul Patras, Hamed Haddadi, "Deep Learning in Mobile and Wireless Networking: A Survey", in Proceedings of IEEE Communications Surveys & Tutorials, 2019. Available on [ArXiv](https://arxiv.org/abs/1803.04311){:target="_blank"}.  
+*   Chaoyun Zhang, Paul Patras, Hamed Haddadi, "Deep Learning in Mobile and Wireless Networking: A Survey", in Proceedings of IEEE Communications Surveys & Tutorials, 2019. (Available on [ArXiv](https://arxiv.org/abs/1803.04311){:target="_blank"})  
 
 *   Mohammad Malekzadeh, Richard G. Clegg, Andrea Cavallaro, Hamed Haddadi, "Mobile Sensor Data Anonymization", ACM/IEEE International Conference on Internet of Things Design and Implementation ([IoTDI 2019](http://conferences.computer.org/iotDI/2019/){:target="_blank"}), April 2019, Montreal, Canada. Available on [ArXiv](https://arxiv.org/abs/1810.11546){:target="_blank"}, [Code and Dataset](https://github.com/mmalekzadeh/motion-sense){:target="_blank"}
 
