@@ -39,7 +39,6 @@ For project details, please visit the Systems and Algorithms Laboratory ([SysAL]
 
 *   [Mohammad Malekzadeh](https://mmalekzadeh.github.io/) (Privacy-preserving time-series data analytics, funded by [QMUL Life Science Initiative](http://www.qmul.ac.uk/lifesciences/)).
 
-*   [Katrin Hänsel](https://miezelkat.github.io) (Wearable devices and mHealth, co-advised with [Akram Alomainy](http://www.eecs.qmul.ac.uk/%7Eakram/), funded by QMUL [CIS](http://cis.eecs.qmul.ac.uk/) Scholarship).
 
 I am interested in hearing from potential PhD students in my areas of research interests. If you have interesting ideas and wish to discuss funding opportunities for next year, please send me an [email](mailto:h.haddadi@imperial.ac.uk) (no attachments please!)
 
@@ -70,6 +69,9 @@ I am interested in hearing from potential PhD students in my areas of research i
 *   Self-Organising Collegiate Sensor Networks (MSc student, [DTI SECOAS Project](http://www.lancaster.ac.uk/staff/marshai2/secoas/secoas.htm))
 
 ## Past Visitors/Staff/Students
+
+
+[Katrin Hänsel](https://miezelkat.github.io) (Wearable devices and mHealth, co-advised with [Akram Alomainy](http://www.eecs.qmul.ac.uk/%7Eakram/), funded by QMUL [CIS](http://cis.eecs.qmul.ac.uk/) Scholarship, graduated April 2019).
 
 [Dr Kleomenis Katevas](http://minoskt.github.io/) (PhD: Analysing and influencing crowd behaviors using mobile sensing, co-advised with [Laurissa Tokarchuk](http://www.eecs.qmul.ac.uk/%7Elaurissa/), funded by DSTL, graduated August 2018).
 
