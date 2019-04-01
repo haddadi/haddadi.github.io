@@ -13,7 +13,7 @@ permalink: /publications/
 
 *   Chaoyun Zhang, Paul Patras, Hamed Haddadi, "Deep Learning in Mobile and Wireless Networking: A Survey", in Proceedings of IEEE Communications Surveys & Tutorials, 2019, DOI:10.1109/COMST.2019.2904897 (Available on [ArXiv](https://arxiv.org/abs/1803.04311){:target="_blank"})  
 
-*   Seyed Ali Osia, Borzoo Rassouli, Hamed Haddadi, Hamid R. Rabiee, Deniz Gündüz, "Privacy Against Brute-Force Inference Attacks", In  IEEE International Symposium on Information Theory ([ISIT 2019]{https://2019.ieee-isit.org}), Paris, France, July 2019. Available on [ArXiv](http://arxiv.org/abs/1902.00329){:target="_blank"}
+*   Seyed Ali Osia, Borzoo Rassouli, Hamed Haddadi, Hamid R. Rabiee, Deniz Gündüz, "Privacy Against Brute-Force Inference Attacks", In  IEEE International Symposium on Information Theory ([ISIT 2019](https://2019.ieee-isit.org)), Paris, France, July 2019. Available on [ArXiv](http://arxiv.org/abs/1902.00329){:target="_blank"}
 
 *   Mohammad Malekzadeh, Richard G. Clegg, Andrea Cavallaro, Hamed Haddadi, "Mobile Sensor Data Anonymization", ACM/IEEE International Conference on Internet of Things Design and Implementation ([IoTDI 2019](http://conferences.computer.org/iotDI/2019/){:target="_blank"}), April 2019, Montreal, Canada. Available on [ArXiv](https://arxiv.org/abs/1810.11546){:target="_blank"}, [Code and Dataset](https://github.com/mmalekzadeh/motion-sense){:target="_blank"}
 
