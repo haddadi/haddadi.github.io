@@ -71,13 +71,13 @@ I am interested in hearing from potential PhD students in my areas of research i
 ## Past Visitors/Staff/Students
 
 
-[Katrin Hänsel](https://miezelkat.github.io) (Wearable devices and mHealth, co-advised with [Akram Alomainy](http://www.eecs.qmul.ac.uk/%7Eakram/), funded by QMUL [CIS](http://cis.eecs.qmul.ac.uk/) Scholarship, graduated April 2019).
+[Dr Katrin Hänsel](https://miezelkat.github.io) (Wearable devices and mHealth, co-advised with [Akram Alomainy](http://www.eecs.qmul.ac.uk/%7Eakram/), funded by QMUL [CIS](http://cis.eecs.qmul.ac.uk/) Scholarship, graduated April 2019).
 
 [Dr Kleomenis Katevas](http://minoskt.github.io/) (PhD: Analysing and influencing crowd behaviors using mobile sensing, co-advised with [Laurissa Tokarchuk](http://www.eecs.qmul.ac.uk/%7Elaurissa/), funded by DSTL, graduated August 2018).
 
 [Yousef Amar](http://yousefamar.com/) (Personal Data Analytics on the [Databox Project](http://www.databoxproject.uk), funded by QMUL [CIS](http://cis.eecs.qmul.ac.uk/) Scholarship).
 
-[Panagiotis Papadopoulos](http://users.ics.forth.gr/~panpap/){:target="_blank"} (Visiting PhD student, ICS-FORTH) 
+[Dr Panagiotis Papadopoulos](http://users.ics.forth.gr/~panpap/){:target="_blank"} (Visiting PhD student, ICS-FORTH) 
 
 [Dr Sandra Servia](http://sservia.github.io) (Postdoctoral Research Associate on the Databox project) 
 
@@ -89,6 +89,6 @@ I am interested in hearing from potential PhD students in my areas of research i
 
 [Dr Kuan Hon](http://www.kuan0.com/) (Regulatory aspects of data privacy in Cloud Computing, at [QUML CCLS](http://www.ccls.qmul.ac.uk/), co-advised with [Chris Reed](http://www.law.qmul.ac.uk/staff/reed.html), Graduated 2015, now a legal consultant with Microsoft Research)
 
-[Marjan Falahrastegar](http://www.eecs.qmul.ac.uk/%7Emarjan/) (2012, RA on Privacy Value, then PhD student at QMUL)
+[Dr Marjan Falahrastegar](http://www.eecs.qmul.ac.uk/%7Emarjan/) (2012, RA on Privacy Value, then PhD student at QMUL)
 
 [Dr Claudiu Perta](https://scholar.google.co.uk/citations?user=bqa9GTkAAAAJ&hl=en) (March-June 2014, visiting student from Sapienza Università di Roma, now at Google London)
