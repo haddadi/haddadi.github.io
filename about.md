@@ -19,6 +19,8 @@ We are currently looking for exceptional candidates for the [Imperial College Re
 
 ### News
 
+April 2019: Congratulations to [Katrin Hänsel](https://miezelkat.github.io) for having passed her PhD viva! 
+
 Jan 2019: We are part of the new £20m [UK DRI Care Research & Technology programme](https://ukdri.ac.uk/news-and-events/uk-dri-care-research-technology-programme-appointed){:target="_blank"}, developing privacy-preserving technologies for demantia patients over the next six years. Job ads will be out soon!
 
 Jan 2019: Our paper "[Mobile Sensor Data Anonymization](https://arxiv.org/abs/1810.11546){:target="_blank"}" has been accepted to ACM/IEEE International Conference on Internet of Things Design and Implementation ([IoTDI 2019](http://conferences.computer.org/iotDI/2019/){:target="_blank"}). Congratulations Mohammad!
