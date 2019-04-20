@@ -98,7 +98,7 @@ Canada Foundation for Innovation
 
 ## Current External affiliations
 
-* Visiting Lecturer, [CISG Group](http://www.ee.ucl.ac.uk/research/comminfosys/), UCL
+* Visiting Professor, [Brave Software](https://brave.com/)
 
 ## Administration
 
