@@ -21,6 +21,8 @@ permalink: /service/
 
 *   The 25th ACM Annual International Conference on Mobile Computing and Networking ([ACM MobiCom 2019](https://sigmobile.org/mobicom/2019/){:target="_blank"})
 
+*   The 1st International Workshop on Federated Machine Learning for Data ([Privacy FML2019](http://fml2019.algorithmic-crowdsourcing.com){:target="_blank"}) 
+
 *   The 12th ACM International Conference on Web Search and Data Mining [WSDM 2019](http://www.wsdm-conference.org/2019/){:target="_blank"})
 
 *   The Web Conference, 2019 ([WWW 2019](https://www2019.thewebconf.org){:target="_blank"})
