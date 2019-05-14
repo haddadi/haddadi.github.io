@@ -1,3 +1,4 @@
+* "User-Centric Personal Data Analytics on the Edge", Cisco Innovation and Research Symposium, Paris, France, May 2019
 * "Privacy-Preserving Personal Data analytics", Brave Software, San Francisco, USA, November 2018  
 * "User-Centric Personal Data Analytics on the Edge", University of Kent, UK, November 2018  
 * "Privacy-Preserving Sensing & Analytics on the Edge", Ford Motors, UK, September 2018 
