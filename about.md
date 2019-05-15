@@ -19,6 +19,8 @@ We are currently looking for exceptional candidates for the [Imperial College Re
 
 ### News
 
+May 2019: [BBC Box](https://www.bbc.co.uk/rd/projects/databox){:target="_blank"}, a [Databox](https://www.databoxproject.uk/)-driven product we are collaborating on, will be released soon! Watch this space.
+
 April 2019: Congratulations to [Katrin Hänsel](https://miezelkat.github.io) for having passed her PhD viva! 
 
 March 2019: Our paper "Deep Learning in Mobile and Wireless Networking: A Survey", has been accepted to appear in IEEE Communications Surveys & Tutorials. (Paper Available on [ArXiv](https://arxiv.org/abs/1803.04311){:target="_blank"})  
