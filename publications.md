@@ -264,6 +264,6 @@ permalink: /publications/
 
 *   Hamed Haddadi, Eduarda Mendes Rodrigues, Lionel E Sacks, “Applications of GridProbe Technology for Traffic Monitoring on High-Capacity Backbone Networks, Data-Link Layer Simulation Approach”, Extended abstract, Proceedings of IEEE INFOCOM 2005: The Conference on Computer Communications, Miami, Florida, USA, March 13th -17th 2005 [[abstract](http://discovery.ucl.ac.uk/929/1/infocom2k5.pdf)]
 
-*   Matt Britton, Venus Shum, Lionel Sacks and Hamed Haddadi, “A Biologically-Inspired Approach to Designing Wireless Sensor Networks”, Proceedings of EWSN 2005: 2nd European Workshop on Wireless Sensor Networks, Istanbul, Turkey, January 31st – February 2nd 2005 [[paper](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=1462018) via IEEE Xplore, [PDF](http://www.lancaster.ac.uk/staff/marshai2/secoas/EWSN-2005-Britton.pdf)]
+*   Matt Britton, Venus Shum, Lionel Sacks and Hamed Haddadi, “A Biologically-Inspired Approach to Designing Wireless Sensor Networks”, Proceedings of EWSN 2005: 2nd European Workshop on Wireless Sensor Networks, Istanbul, Turkey, January 31st – February 2nd 2005 [[paper](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=1462018) via IEEE Xplore, [PDF](https://haddadi.github.io/papers/EWSN2005.pdf)]
 
 Before 2005, I actually lead an interesting life!
