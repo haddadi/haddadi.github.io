@@ -19,6 +19,8 @@ We are currently looking for exceptional candidates for the [Imperial College Re
 
 ### News
 
+May 2019: Our research on IoT privacy and security is featured in the [BBC Click program on GDPR Anniversariy](https://www.bbc.co.uk/iplayer/episode/m0005cx6/click-gdpr-one-year-on){:target="_blank"}.
+
 May 2019: [BBC Box](https://www.bbc.co.uk/rd/projects/databox){:target="_blank"}, a [Databox](https://www.databoxproject.uk/)-driven product we are collaborating on, will be released soon! Watch this space for the progress.
 
 April 2019: Congratulations to [Katrin Hänsel](https://miezelkat.github.io) for having passed her PhD viva! 
