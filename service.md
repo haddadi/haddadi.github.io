@@ -69,6 +69,7 @@ I offer consultancy services on research project and patent disputes, social med
 
 ## PhD examination
 
+Athanasios Andreou. EURECOM & UPMC, June 2019
 Costas Iordanou, Technische Universität Berlin, February 2019  
 Feng She, Imperial College London, October 2018  
 Luca Melis, UCL, July 2018   
