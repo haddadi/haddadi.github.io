@@ -19,11 +19,11 @@ We are currently looking for exceptional candidates for the [Imperial College Re
 
 ### News
 
-May 2019: We are hiring a [Research Associate position](https://www.imperial.ac.uk/jobs/description/ENG00832/research-associate) on Building Systems for Privacy-Preserving Data Analytics, Machine Learning, and behavioural interaction systems, as part of the newly funded [£20M new Care Research & Technology Centre at Imperial College](https://www.imperial.ac.uk/news/190934/20m-centre-enable-people-with-dementia/){:target="_blank"}. Apply here [https://www.imperial.ac.uk/jobs/description/ENG00832/research-associate](https://www.imperial.ac.uk/jobs/description/ENG00832/research-associate)
+June 2019: We are hiring a [Research Associate position](https://www.imperial.ac.uk/jobs/description/ENG00832/research-associate) on Building Systems for Privacy-Preserving Data Analytics, Machine Learning, and behavioural interaction systems, as part of the newly funded [£20M new Care Research & Technology Centre at Imperial College](https://www.imperial.ac.uk/news/190934/20m-centre-enable-people-with-dementia/){:target="_blank"}. Apply here [https://www.imperial.ac.uk/jobs/description/ENG00832/research-associate](https://www.imperial.ac.uk/jobs/description/ENG00832/research-associate)
+
+June 2019: The first evolution of [Databox Project](https://www.databoxproject.uk/){:target="_blank"} is released as the [BBC Box]{https://www.bbc.co.uk/rd/blog/2019-06-bbc-box-personal-data-privacy}{:target="_blank"}. We are really excited about this!
 
 May 2019: Our research on IoT privacy and security is featured in the [BBC](https://www.bbc.co.uk/news/technology-48434175){:target="_blank"} and [BBC Click program on GDPR Anniversary](https://www.bbc.co.uk/iplayer/episode/m0005cx6/click-gdpr-one-year-on){:target="_blank"} ([YouTube link](https://www.youtube.com/watch?v=32gV9AEQClI)).
-
-May 2019: [BBC Box](https://www.bbc.co.uk/rd/projects/databox){:target="_blank"}, a [Databox](https://www.databoxproject.uk/)-driven product we are collaborating on, will be released soon! Watch this space for the progress.
 
 April 2019: Congratulations to [Katrin Hänsel](https://miezelkat.github.io) for having passed her PhD viva! 
 
