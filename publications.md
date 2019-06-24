@@ -15,6 +15,8 @@ permalink: /publications/
 
 *   Seyed Ali Osia, Borzoo Rassouli, Hamed Haddadi, Hamid R. Rabiee, Deniz Gündüz, "Privacy Against Brute-Force Inference Attacks", In  IEEE International Symposium on Information Theory ([ISIT 2019](https://2019.ieee-isit.org)), Paris, France, July 2019. Available on [ArXiv](http://arxiv.org/abs/1902.00329){:target="_blank"}
 
+*   Edoardo Lisi, Mohammad Malekzadeh, Hamed Haddadi, F. Din-Houn Lau, Seth Flaxman, "Modeling and Forecasting Art Movements with CGANs", Available on [ArXiv](https://arxiv.org/abs/1906.09230){:target="_blank"}
+
 *   Mohammad Malekzadeh, Richard G. Clegg, Andrea Cavallaro, Hamed Haddadi, "Mobile Sensor Data Anonymization", ACM/IEEE International Conference on Internet of Things Design and Implementation ([IoTDI 2019](http://conferences.computer.org/iotDI/2019/){:target="_blank"}), April 2019, Montreal, Canada. Available on [ArXiv](https://arxiv.org/abs/1810.11546){:target="_blank"}, [Code and Dataset](https://github.com/mmalekzadeh/motion-sense){:target="_blank"}
 
 *   John Moore, Andres Arcia-Moret, Poonam Yadav, Richard Mortier, Anthony Brown, Derek McAuley, Andy Crabtree, Chris Greenhalgh, Hamed Haddadi, Yousef Amar, "Zest: REST over ZeroMQ", The Third Workshop on Security, Privacy and Trust in the Internet of Things, In conjunction with IEEE PERCOM 2019, March 11 -15, 2019, Kyoto, Japan. ([Paper](https://haddadi.github.io/papers/zest2019.pdf))
