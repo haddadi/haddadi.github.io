@@ -9,7 +9,7 @@ permalink: /publications/
 
 ### 2019:
 
-*   Fan Mo, Ali Shahin Shamsabadi, Kleomenis Katevas, Andrea Cavallaro, Hamed Haddadi, "Towards Characterizing and Limiting Information Exposure in DNN Layers", (Available on [ArXiv](https://arxiv.org/abs/1907.06034){:target="_blank"})  
+*   Fan Mo, Ali Shahin Shamsabadi, Kleomenis Katevas, Andrea Cavallaro, Hamed Haddadi, "Towards Characterizing and Limiting Information Exposure in DNN Layers", (Available on [ArXiv](https://arxiv.org/abs/1907.06034){:target="_blank"}), [Code](https://github.com/mofanv/darknetp){:target="_blank"})   
 
 *   Seyed Ali Osia, Ali Taheri, Ali Shahin Shamsabadi, Kleomenis Katevas, Hamed Haddadi, Hamid R. Rabiee, "Deep Private-Feature Extraction", IEEE Transactions on Knowledge and Data Engineering, 2019, DOI: 10.1109/TKDE.2018.2878698. (Available on [ArXiv](https://arxiv.org/abs/1802.03151){:target="_blank"}, [Code](https://github.com/aliosia/DPFE){:target="_blank"}) 
 
