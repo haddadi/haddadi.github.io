@@ -15,7 +15,9 @@ permalink: /service/
 
 *   The 26th ACM Annual International Conference on Mobile Computing and Networking ([ACM MobiCom 2020](https://sigmobile.org/mobicom/2020/){:target="_blank"})
 
-*   The 17th USENIX Symposium on Networked Systems Design and Implementation ([NSDI 2020](https://www.usenix.org/conference/nsdi20/){:target="_blank"})
+*   The 17th USENIX Symposium on Networked Systems Design and Implementation ([NSDI 2020](https://www.usenix.org/conference/nsdi20/){:target="_blank"}) 
+
+*   The 13th ACM International Conference on Web Search and Data Mining [WSDM 2020](http://www.wsdm-conference.org/2020/){:target="_blank"}) . 
 
 *   The 15th ACM International Conference on emerging Networking EXperiments and Technologies ([CoNEXT 2019](https://conferences2.sigcomm.org/co-next/2019/){:target="_blank"})
 
