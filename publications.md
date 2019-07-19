@@ -17,7 +17,7 @@ permalink: /publications/
 
 *   Chaoyun Zhang, Paul Patras, Hamed Haddadi, "Deep Learning in Mobile and Wireless Networking: A Survey", in Proceedings of IEEE Communications Surveys & Tutorials, 2019, DOI:10.1109/COMST.2019.2904897 (Available on [ArXiv](https://arxiv.org/abs/1803.04311){:target="_blank"})  
 
-*   Yuting Zhan and Hamed Haddadi, "Activity Prediction in Improving Well-Being of Both The Elderly and Caregivers", Second International Workshop On Computing For Well-Being ([WELLCOMP 2019](http://wellcomp.org/2019/){:target="_blank"}), In conjunction with UbiComp 2019, September, 2019, London, UK. ([Paper](https://haddadi.github.io/papers/))   
+*   Yuting Zhan and Hamed Haddadi, "Activity Prediction in Improving Well-Being of Both The Elderly and Caregivers", Second International Workshop On Computing For Well-Being ([WELLCOMP 2019](http://wellcomp.org/2019/){:target="_blank"}), In conjunction with UbiComp 2019, September, 2019, London, UK. ([Paper](https://haddadi.github.io/papers/Wellcomp2019_Camera_ready_.pdf))   
 
 *   Seyed Ali Osia, Borzoo Rassouli, Hamed Haddadi, Hamid R. Rabiee, Deniz Gündüz, "Privacy Against Brute-Force Inference Attacks", In  IEEE International Symposium on Information Theory ([ISIT 2019](https://2019.ieee-isit.org)), Paris, France, July 2019. Available on [ArXiv](http://arxiv.org/abs/1902.00329){:target="_blank"}
 
