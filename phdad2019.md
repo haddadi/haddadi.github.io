@@ -1,4 +1,4 @@
-*PhD Studentship in Cyber-Physical Systems*
+# *PhD Studentship in Cyber-Physical Systems*
 
 ### **Imperial College London – Dyson School of Design Engineering**
 
