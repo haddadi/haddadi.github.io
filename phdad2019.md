@@ -2,7 +2,6 @@
 
 ### **Imperial College London – Dyson School of Design Engineering**
 
-| --- | --- |
 | Location: | London |
 | Funding for: | UK Students, EU Students |
 | Funding amount: | XXXXXXX |
