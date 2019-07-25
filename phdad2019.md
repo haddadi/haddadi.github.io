@@ -2,7 +2,7 @@
 
 ### **Imperial College London – Dyson School of Design Engineering**
 
-| Qualification type: | PhD |
+%| Qualification type: | PhD |
 | --- | --- |
 | Location: | London |
 | Funding for: | UK Students, EU Students |
