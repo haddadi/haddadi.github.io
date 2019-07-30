@@ -19,7 +19,7 @@ We are currently looking for exceptional candidates for the [Imperial College Re
 
 ### News
 
-July 2019: We have an scholarship for a fully-funded PhD studentship in cyber-physical systems (sensing, privacy, and IoT). Please see the [advert](https://haddadi.github.io/phdad2019/) an get in touch if interested
+July 2019: We have an scholarship for a fully-funded PhD studentship in cyber-physical systems (sensing, privacy, and IoT). Please see the [advert](https://www.jobs.ac.uk/job/BUD836/phd-studentship-in-cyber-physical-systems) an get in touch if interested
 
 July 2019: Our study of IoT devices, "Information Exposure From Consumer IoT Devices: A Multidimensional, Network-Informed Measurement Approach" has been accepted to ACM Internet MEasurement Conference (IMC 2019).
 
