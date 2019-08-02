@@ -21,7 +21,7 @@ We are currently looking for exceptional candidates for the [Imperial College Re
 
 July 2019: We have an scholarship for a fully-funded PhD studentship in cyber-physical systems (sensing, privacy, and IoT). Please see the [advert](https://www.jobs.ac.uk/job/BUD836/phd-studentship-in-cyber-physical-systems) an get in touch if interested
 
-July 2019: Our study of IoT devices, "Information Exposure From Consumer IoT Devices: A Multidimensional, Network-Informed Measurement Approach" has been accepted to ACM Internet MEasurement Conference (IMC 2019).
+July 2019: Our study of IoT devices, "Information Exposure From Consumer IoT Devices: A Multidimensional, Network-Informed Measurement Approach" has been accepted to ACM Internet Measurement Conference (IMC 2019).
 
 July 2019: We are Building Systems for Privacy-Preserving Data Analytics, Machine Learning, and behavioural interaction systems, as part of the newly funded [£20M new Care Research & Technology Centre at Imperial College](https://www.imperial.ac.uk/news/190934/20m-centre-enable-people-with-dementia/){:target="_blank"}. Read about it here on the FT: [How smart tech is helping people with dementia](https://www.ft.com/content/90e2f286-71ac-11e9-bf5c-6eeb837566c5)
 
