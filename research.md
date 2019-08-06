@@ -31,7 +31,7 @@ For project details, please visit the Systems and Algorithms Laboratory ([SysAL]
 
 *   [Ranya Aloufi](https://www.imperial.ac.uk/people/r.aloufi18) (Privacy in IoT, funded by Saudi Arabian Cultural Bureau).
 
-*   [Fan Mo](https://mofanv.github.io) (Privacy in Mobile Computing, funded by Li-xin Tang Overseas Scholarship).
+*   [Fan Mo](https://mofanv.github.io) (Privacy-preserving trusted Mobile Computing, funded by CSC Scholarship).
 
 *   [Yuting Zhan](https://www.imperial.ac.uk/people/yuting.zhan18) (HDI, funded by [CSC Imperial Scholarship](https://www.imperial.ac.uk/study/pg/fees-and-funding/scholarships/international-scholarship-collaborations/csc/)).
 
