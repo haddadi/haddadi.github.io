@@ -9,7 +9,9 @@ permalink: /publications/
 
 ### 2019:
 
-*   Jingjing Ren, Daniel J. Dubois, David Choffnes, Anna Maria Mandalari, Roman Kolcun, Hamed Haddadi, "Information Exposure From Consumer IoT Devices: A Multidimensional, Network-Informed Measurement Approach", in ACM Internet Measurement Conference 2019 ([IMC 2019](https://conferences.sigcomm.org/imc/2019/){:target="_blank"}), October, 2019, Amsterdam, Netherlands. ([Paper](https://haddadi.github.io/papers/))
+*   Ranya Aloufi, Hamed Haddadi, David Boyle, "Emotionless: Privacy-Preserving Speech Analysis for Voice Assistants", in [Privacy Preserving Machine Learning](https://ppml-workshop.github.io/ppml/){:target="_blank"}, ACM CCS 2019 Workshop, November 2019, London, UK.  
+
+*   Jingjing Ren, Daniel J. Dubois, David Choffnes, Anna Maria Mandalari, Roman Kolcun, Hamed Haddadi, "Information Exposure From Consumer IoT Devices: A Multidimensional, Network-Informed Measurement Approach", in ACM Internet Measurement Conference 2019 ([IMC 2019](https://conferences.sigcomm.org/imc/2019/){:target="_blank"}), October, 2019, Amsterdam, Netherlands. ([Paper](https://haddadi.github.io/papers/)) 
 
 *   Fan Mo, Ali Shahin Shamsabadi, Kleomenis Katevas, Andrea Cavallaro, Hamed Haddadi, "Towards Characterizing and Limiting Information Exposure in DNN Layers", (Available on [ArXiv](https://arxiv.org/abs/1907.06034){:target="_blank"}), [Code](https://github.com/mofanv/darknetp){:target="_blank"})   
 
