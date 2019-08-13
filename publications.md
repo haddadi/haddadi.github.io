@@ -9,7 +9,7 @@ permalink: /publications/
 
 ### 2019:
 
-*   Ranya Aloufi, Hamed Haddadi, David Boyle, "Emotionless: Privacy-Preserving Speech Analysis for Voice Assistants", in [Privacy Preserving Machine Learning](https://ppml-workshop.github.io/ppml/){:target="_blank"}, ACM CCS 2019 Workshop, November 2019, London, UK.  
+*   Ranya Aloufi, Hamed Haddadi, David Boyle, "Emotionless: Privacy-Preserving Speech Analysis for Voice Assistants", in [Privacy Preserving Machine Learning](https://ppml-workshop.github.io/ppml/){:target="_blank"}, ACM CCS 2019 Workshop, November 2019, London, UK.  (Available on [ArXiv](https://arxiv.org/abs/1908.03632){:target="_blank"})
 
 *   Jingjing Ren, Daniel J. Dubois, David Choffnes, Anna Maria Mandalari, Roman Kolcun, Hamed Haddadi, "Information Exposure From Consumer IoT Devices: A Multidimensional, Network-Informed Measurement Approach", in ACM Internet Measurement Conference 2019 ([IMC 2019](https://conferences.sigcomm.org/imc/2019/){:target="_blank"}), October, 2019, Amsterdam, Netherlands. ([Paper](https://haddadi.github.io/papers/)) 
 
