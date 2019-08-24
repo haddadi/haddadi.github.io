@@ -19,6 +19,10 @@ We are currently looking for exceptional candidates for the [Imperial College Re
 
 ### News
 
+August 2019: At Brave, we have released Privacy-Preserving Product Analytics ([P3A](https://brave.com/privacy-preserving-product-analytics-p3a/){:target="_blank"}). Exciting to see our platform ship to millions of users worldwide this year.
+
+August 2019: Ranya's paper "[Emotionless: Privacy-Preserving Speech Analysis for Voice Assistants](https://arxiv.org/abs/1908.03632)", appearing in ACM CCS 2019 Privacy Preserving Machine Learning workshop, has been covered in an article on [Vice](https://www.vice.com/en_us/article/ne8bxd/ai-that-hides-your-emotions-from-other-ai-alexa-siri-google).
+
 July 2019: We have an scholarship for a fully-funded PhD studentship in cyber-physical systems (sensing, privacy, and IoT). Please see the [advert](https://www.jobs.ac.uk/job/BUD836/phd-studentship-in-cyber-physical-systems) an get in touch if interested
 
 July 2019: Our study of IoT devices, "Information Exposure From Consumer IoT Devices: A Multidimensional, Network-Informed Measurement Approach" has been accepted to ACM Internet Measurement Conference (IMC 2019).
