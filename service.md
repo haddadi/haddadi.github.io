@@ -151,7 +151,7 @@ Former President/Committee member, UCL Electrical Engineering Society ([Fleming]
 
 ## Past events & associations (and is there a [cure](http://www.usenix.org/event/wowcs08/tech/full_papers/crowcroft/crowcroft.pdf)?)
 
-This list got too big to be useful, we have too many conferences and workshops (though many of them are pretty good!), and I review too many papers per week!  
+This list got too big to be useful, we have too many conferences and workshops (though many of them are pretty good!).
 
 External Reviewer for ACM CSCW2015, IEEE WiMob (2011), IEEE/ACM MASCOTS,ACM SIGCOMM, IEEE INFOCOMM, IEEE/ACM ToN, USENIX NSDI, BCS HCI, ACM IMC, ACM UBICOMP, ACM ISWC  
 
