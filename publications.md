@@ -11,6 +11,10 @@ permalink: /publications/
 
 *   Ranya Aloufi, Hamed Haddadi, David Boyle, "Emotionless: Privacy-Preserving Speech Analysis for Voice Assistants", in [Privacy Preserving Machine Learning](https://ppml-workshop.github.io/ppml/){:target="_blank"}, ACM CCS 2019 Workshop, November 2019, London, UK.  (Available on [ArXiv](https://arxiv.org/abs/1908.03632){:target="_blank"}, Articles on [Vice](https://www.vice.com/en_us/article/ne8bxd/ai-that-hides-your-emotions-from-other-ai-alexa-siri-google), [Medium](https://medium.com/syncedreview/how-to-hide-your-feelings-from-ai-voice-assistants-2db516d9e2d7))
 
+* Ranya Aloufi, Hamed Haddadi, David Boyle, "Emotion Filtering at the Edge", 1st Workshop on Machine Learning on Edge in Sensor Systems (Sensys-ML), In conjunction with ACM SenSys 2019, November 10, 2019, New York, NY, USA. 
+
+*   Kleomenis Katevas, Katrin Hänsel, Richard Clegg, Ilias Leontiadis, Hamed Haddadi, Laurissa Tokarchuk, "Finding Dory in the Crowd: Detecting Social Interactions using Multi-Modal Mobile Sensing", 1st Workshop on Machine Learning on Edge in Sensor Systems (Sensys-ML), In conjunction with ACM SenSys 2019, November 10, 2019, New York, NY, USA. Available on [ArXiv](https://arxiv.org/abs/1809.00947){:target="_blank"}
+
 *   Jingjing Ren, Daniel J. Dubois, David Choffnes, Anna Maria Mandalari, Roman Kolcun, Hamed Haddadi, "Information Exposure From Consumer IoT Devices: A Multidimensional, Network-Informed Measurement Approach", in ACM Internet Measurement Conference 2019 ([IMC 2019](https://conferences.sigcomm.org/imc/2019/){:target="_blank"}), October, 2019, Amsterdam, Netherlands. ([Paper](https://haddadi.github.io/papers/)) 
 
 *   Fan Mo, Ali Shahin Shamsabadi, Kleomenis Katevas, Andrea Cavallaro, Hamed Haddadi, "Towards Characterizing and Limiting Information Exposure in DNN Layers", (Available on [ArXiv](https://arxiv.org/abs/1907.06034){:target="_blank"}), [Code](https://github.com/mofanv/darknetp){:target="_blank"})   
@@ -35,8 +39,6 @@ permalink: /publications/
 *   Poonam Yadav, John Moore, Qi Li, Richard Mortier, Anthony Brown, Andy Crabtree, Chris Greenhalgh, Derek McAuley, Yousef Amar, Ali Shahin Shamsabadi, Hamed Haddadi, "Providing Occupancy as a Service with Databox", in The 1st ACM International Workshop on Smart Cities and Fog Computing (CitiFog’18), November 4, 2018, Shenzhen, China. [https://doi.org/10.1145/3277893.3277894](https://doi.org/10.1145/3277893.3277894) ([Paper](https://haddadi.github.io/papers/citifog18-final7.pdf))
 
 *   Ali Shahin Shamsabadi, Hamed Haddadi, Andrea Cavallaro, "Distributed One-class Learning", [IEEE International Conference on Image Processing](https://2018.ieeeicip.org){:target="_blank"}, October 7-10, 2018, Athens, Greece. Available on [ArXiv](https://arxiv.org/abs/1802.03583){:target="_blank"}
-
-*   Kleomenis Katevas, Katrin Hänsel, Richard Clegg, Ilias Leontiadis, Hamed Haddadi, Laurissa Tokarchuk, "Finding Dory in the Crowd: Detecting Social Interactions using Multi-Modal Mobile Sensing", Available on [ArXiv](https://arxiv.org/abs/1809.00947){:target="_blank"}, September 2018.
 
 *   Katrin Hänsel, Kleomenis Katevas, Guido Orgs, Daniel C. Richardson, Akram Alomainy, Hamed Haddadi, "The potential of wearable technology for monitoring social interactions based on interpersonal synchrony", 4th ACM Workshop on wearable systems and applications ([WearSys 2018](https://sites.google.com/site/wearsys2018/){:target="_blank"}), June 2018, Munich, Germany. ([Paper](https://haddadi.github.io/papers/WearSys_2018.pdf)) 
 
