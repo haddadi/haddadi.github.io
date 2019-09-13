@@ -12,6 +12,9 @@ I am a Senior Lecturer (~Associate Professor) and the Deputy Director of Researc
 
 My research interest are in User-Centered Systems, IoT, Applied Machine Learning, Privacy, and [Human-Data Interaction](http://hdiresearch.org){:target="_blank"}. At Imperial College, I lead the [Systems and Algorithms Laboratory (SysAl)](https://www.imperial.ac.uk/sysal){:target="_blank"}. I am also an Academic Fellow of the [Data Science Institute](https://www.imperial.ac.uk/data-science/){:target="_blank"} as a member of the [Algorithmic Society Lab](https://www.imperial.ac.uk/data-science/research/multidisciplinary-labs/algorithmic-society-lab/){:target="_blank"}. As part of the [Institute for Security Science and Technology (ISST)](https://www.imperial.ac.uk/security-institute/){:target="_blank"}, I am an Associate member of the [Academic Centre of Excellence in Cyber Security Research](https://www.imperial.ac.uk/cyber-security/){:target="_blank"}.
 
+
+**PhD Scholarship**: We currently have an industrial scholarship for a fully-funded PhD studentship in cyber-physical systems (sensing, privacy, and IoT) for UK/EU students. Please see the [advert](https://www.jobs.ac.uk/job/BUD836/phd-studentship-in-cyber-physical-systems) an get in touch if interested
+
 I am keen to hear from strong students interested in doing their masters project or PhD research with me, or postdoctoral fellows interested in being hosted at Imperial College London. Please get in touch! 
 
 We are currently looking for exceptional candidates for the [Imperial College Research Fellowships](http://www.imperial.ac.uk/research-fellowships){:target="_blank"}, the Imperial [President's PhD Scholarships](http://www.imperial.ac.uk/study/pg/fees-and-funding/scholarships/presidents-phd-scholarships/){:target="_blank"}, [China Scholarship Council](https://www.imperial.ac.uk/study/pg/fees-and-funding/scholarships/international-scholarship-collaborations/csc/){:target="_blank"}, the [Islamic Development Bank – Imperial College Scholarship](https://www.imperial.ac.uk/study/pg/fees-and-funding/scholarships/international-scholarship-collaborations/islamic-development-bank--imperial-college-scholarship/){:target="_blank"}, UKRI [AI for Healthcare CDT](https://ai4health.io){:target="_blank"}, the London Interdisciplinary Social Science Doctoral Training Partnership ([LISS DTP](https://liss-dtp.ac.uk/){:target="_blank"}), and various other [Scholarships](https://www.imperial.ac.uk/study/pg/fees-and-funding/scholarships/){:target="_blank"} and Centres for Doctoral Training in Imperial College London.
@@ -19,11 +22,11 @@ We are currently looking for exceptional candidates for the [Imperial College Re
 
 ### News
 
-August 2019: At Brave, we have released Privacy-Preserving Product Analytics ([P3A](https://brave.com/privacy-preserving-product-analytics-p3a/){:target="_blank"}). Exciting to see our platform ship to millions of users worldwide this year.
+Septempber 2019: I participated in preperaing the government's [Centre for Data Ethics and Innovation](https://www.gov.uk/government/organisations/centre-for-data-ethics-and-innovation) first series of [three snapshot papers on ethical issues in AI](https://www.gov.uk/government/publications/cdei-publishes-its-first-series-of-three-snapshot-papers-ethical-issues-in-ai?123) including Smart Speakers and Voice Assistants. 
+
+August 2019: At Brave, we have released Privacy-Preserving Product Analytics ([P3A](https://brave.com/privacy-preserving-product-analytics-p3a/){:target="_blank"}). Exciting to see our platform ship to millions of users worldwide this year. 
 
 August 2019: Ranya's paper "[Emotionless: Privacy-Preserving Speech Analysis for Voice Assistants](https://arxiv.org/abs/1908.03632)", appearing in ACM CCS 2019 Privacy Preserving Machine Learning workshop, has been covered in articles on [Vice](https://www.vice.com/en_us/article/ne8bxd/ai-that-hides-your-emotions-from-other-ai-alexa-siri-google) and [Medium](https://medium.com/syncedreview/how-to-hide-your-feelings-from-ai-voice-assistants-2db516d9e2d7).
-
-July 2019: We have an industrial scholarship for a fully-funded PhD studentship in cyber-physical systems (sensing, privacy, and IoT). Please see the [advert](https://www.jobs.ac.uk/job/BUD836/phd-studentship-in-cyber-physical-systems) an get in touch if interested
 
 July 2019: Our study of IoT devices, "Information Exposure From Consumer IoT Devices: A Multidimensional, Network-Informed Measurement Approach" has been accepted to ACM Internet Measurement Conference (IMC 2019).
 
