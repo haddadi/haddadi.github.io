@@ -9,6 +9,8 @@ permalink: /publications/
 
 ### 2019:
 
+*   Matteo Varvello, Kleomenis Katevas, Mihai Plesa, Hamed Haddadi, Benjamin Livshits, "[BatteryLab](https://batterylab.dev/){:target="_blank"}: A Distributed Platform for Battery Measurements", Eighteenth ACM Workshop on Hot Topics in Networks ([HotNets 2019](https://conferences.sigcomm.org/hotnets/2019/index.html){:target="_blank"}), November 14-15, 2019 — Princeton, New Jersey, USA. 
+ 
 *   Mohammad Malekzadeh, Dimitrios Athanasakis, Hamed Haddadi, Benjamin Livshits, "Privacy-Preserving Bandits", Available on [ArXiv](https://arxiv.org/abs/1909.04421){:target="_blank"} 
 
 *   Ranya Aloufi, Hamed Haddadi, David Boyle, "Emotionless: Privacy-Preserving Speech Analysis for Voice Assistants", in [Privacy Preserving Machine Learning](https://ppml-workshop.github.io/ppml/){:target="_blank"}, ACM CCS 2019 Workshop, November 2019, London, UK.  (Available on [ArXiv](https://arxiv.org/abs/1908.03632){:target="_blank"}, Articles on [Vice](https://www.vice.com/en_us/article/ne8bxd/ai-that-hides-your-emotions-from-other-ai-alexa-siri-google), [Medium](https://medium.com/syncedreview/how-to-hide-your-feelings-from-ai-voice-assistants-2db516d9e2d7))
