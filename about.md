@@ -4,7 +4,7 @@ title: Hamed Haddadi
 permalink: /about/
 ---
 
-I am a Senior Lecturer (~Associate Professor) and the Deputy Director of Research in the [Dyson School of Design Engineering](http://www.imperial.ac.uk/design-engineering/){:target="_blank"}, at The [Faculty of Engineering](http://www.imperial.ac.uk/engineering/){:target="_blank"} at [Imperial College London](http://www.imperial.ac.uk){:target="_blank"}. I am also a Visiting Professor at [Brave](https://brave.com/index/){:target="_blank"}. 
+I am a Senior Lecturer (~Associate Professor) and the the Director of Postgraduate Studies in the [Dyson School of Design Engineering](http://www.imperial.ac.uk/design-engineering/){:target="_blank"}, at The [Faculty of Engineering](http://www.imperial.ac.uk/engineering/){:target="_blank"} at [Imperial College London](http://www.imperial.ac.uk){:target="_blank"}. I am also a Visiting Professor at [Brave](https://brave.com/index/){:target="_blank"}. 
 
 
 [Contact](https://www.imperial.ac.uk/people/h.haddadi){:target="_blank"}, [Bio](bio.txt){:target="_blank"}, [Calendar](https://www.google.com/calendar/embed?src=h.haddadi%40gmail.com){:target="_blank"}, [Code](https://github.com/haddadi){:target="_blank"}
