@@ -51,7 +51,7 @@ IEEE Signal Processing Magazine, ACM Transactions on the Web (TWEB), ACM SIGCOMM
 
 ## Teaching
 
-2018-2019: Imperial College Sensing & IoT (UG)  
+2018-2020: Imperial College Sensing & IoT (UG)  
 2015-2017: QMUL Digital Media and Social Networks (PG-UG)  
 2015-2017: QMUL 21st Century Networks with Steve Uhlig  
 2013-2014: QMUL Digital Media and Social Networks (PG-UG)  
@@ -75,7 +75,8 @@ I offer consultancy services on research project and patent disputes, social med
 
 ## PhD examination
 
-Athanasios Andreou. EURECOM & UPMC, June 2019    
+William Wilkinson, Queen Mary University London, September 2019  
+Athanasios Andreou, EURECOM & UPMC, June 2019    
 Costas Iordanou, Technische Universität Berlin, February 2019    
 Feng She, Imperial College London, October 2018  
 Luca Melis, UCL, July 2018   
