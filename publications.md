@@ -9,7 +9,7 @@ permalink: /publications/
 
 ### 2019:
 
-*   Matteo Varvello, Kleomenis Katevas, Mihai Plesa, Hamed Haddadi, Benjamin Livshits, "[BatteryLab](https://batterylab.dev/){:target="_blank"}: A Distributed Platform for Battery Measurements", Eighteenth ACM Workshop on Hot Topics in Networks ([HotNets 2019](https://conferences.sigcomm.org/hotnets/2019/index.html){:target="_blank"}), November 14-15, 2019 — Princeton, New Jersey, USA. 
+*   Matteo Varvello, Kleomenis Katevas, Mihai Plesa, Hamed Haddadi, Benjamin Livshits, "[BatteryLab](https://batterylab.dev/){:target="_blank"}: A Distributed Power Monitoring Platform For Mobile Devices", Eighteenth ACM Workshop on Hot Topics in Networks ([HotNets 2019](https://conferences.sigcomm.org/hotnets/2019/index.html){:target="_blank"}), November 14-15, 2019 — Princeton, New Jersey, USA. 
  
 *   Mohammad Malekzadeh, Dimitrios Athanasakis, Hamed Haddadi, Benjamin Livshits, "Privacy-Preserving Bandits", Available on [ArXiv](https://arxiv.org/abs/1909.04421){:target="_blank"} 
 
