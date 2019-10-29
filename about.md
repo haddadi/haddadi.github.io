@@ -22,6 +22,8 @@ We are currently looking for exceptional candidates for the [Imperial College Re
 
 ### News
 
+October 2019: [Yuchen Zhao](https://www.imperial.ac.uk/people/yuchen.zhao19){:target="_blank"} joins us as a postdoctoral researcher on the [UK DRI Care Research & Technology programme](https://ukdri.ac.uk/news-and-events/uk-dri-care-research-technology-programme-appointed){:target="_blank"}
+
 September 2019: Our paper "[BatteryLab](https://batterylab.dev/){:target="_blank"}, A Distributed Power Monitoring Platform For Mobile Devices" has been accepted to Eighteenth ACM Workshop on Hot Topics in Networks ([HotNets 2019](https://conferences.sigcomm.org/hotnets/2019/index.html){:target="_blank"}) (Paper Available on [ArXiv](https://arxiv.org/abs/1910.08951){:target="_blank"}). 
 
 Septempber 2019: I participated in preperaing the government's [Centre for Data Ethics and Innovation](https://www.gov.uk/government/organisations/centre-for-data-ethics-and-innovation) first series of [three snapshot papers on ethical issues in AI](https://www.gov.uk/government/publications/cdei-publishes-its-first-series-of-three-snapshot-papers-ethical-issues-in-ai?123) including Smart Speakers and Voice Assistants. 
