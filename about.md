@@ -50,30 +50,6 @@ Jan 2019: Our paper "[Mobile Sensor Data Anonymization](https://arxiv.org/abs/18
 
 Jan 2019: [Ranya Aloufi](https://www.imperial.ac.uk/people/r.aloufi18){:target="_blank"} joins us at [Imperial SysAL](https://www.imperial.ac.uk/sysal){:target="_blank"} as a PhD student. Welcome Ranya!
 
-December 2018: Our article ["Decentralised AI has the potential to upend the online economy"](https://www.wired.co.uk/article/decentralised-artificial-intelligence) has been published in Wired. 
-
-December 2018: [Databox Project](https://www.databoxproject.uk/) has been featured as a case study at the Royal Academy of Engineering report ["Towards trusted data sharing: guidance and case studies"](http://reports.raeng.org.uk/datasharing/cover/). 
-
-November 2018: [Roman Kolcun](https://www.imperial.ac.uk/people/roman.kolcun) joins [Imperial SysAL](https://www.imperial.ac.uk/sysal){:target="_blank"} as a Postdoctoral Research Associate on the [DADA Project](https://www.imperial.ac.uk/systems-algorithms-design-lab/research/dada-project/).
-
-November 2018: [Anna Maria Mandalari](https://www.imperial.ac.uk/people/anna-maria.mandalari) joins [Imperial SysAL](https://www.imperial.ac.uk/sysal){:target="_blank"} as a Postdoctoral Research Associate on the [Databox Project](https://www.databoxproject.uk/).
-
-October 2018: Our paper “[Deep Private-Feature Extraction](https://arxiv.org/abs/1802.03151){:target="_blank"}” has been accepted to IEEE Transactions on Knowledge and Data Engineering. 
-
-October 2018: [Fan Mo](https://mofanv.github.io/) and [Yuting Zhan](https://www.imperial.ac.uk/people/yuting.zhan18) have started their PhD research with us in [Imperial SysAL](https://www.imperial.ac.uk/sysal){:target="_blank"}. Welcome to the team!
-
-September 2018: I am joining the team at [Brave](https://brave.com/index/){:target="_blank"} as a Visiting Professor on a part-time basis. [Join us](https://brave.com/jobs/){:target="_blank"} to make the web private and secure again! 
-
-August 2018: We have received a generous grant from Huawei Technologies. Stay Tuned for the job advert! 
-
-March 2018: Our [EPSRC TIPS2](https://www.epsrc.ac.uk/funding/calls/tips2/) grant on [Defense Against Dark Artefacts](https://www.nottingham.ac.uk/news/pressreleases/2018/april/defence-against-dark-artefacts-%E2%80%93-the-enemy-within-the-wall.aspx), to battle IoT security & Privacy threats using edge computing, has been funded. ([EPSRC Ref](http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/R03351X/1), [Press Release](https://epsrc.ukri.org/newsevents/news/tipsresearchprojects/))
-
-March 2018: Our [EPSRC Digital Economy NetworkPlus](https://www.epsrc.ac.uk/funding/calls/denetworkplus/) grant on [Human-Data Interaction](http://hdiresearch.org) has been funded!  Watch out for announcements regarding events and calls for projects in this space. ([EPSRC Ref](http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/R045178/1), [Press Release]())
-
-Feb 2018: Our paper "[Private and Scalable Personal Data Analytics using a Hybrid Edge-Cloud Deep Learning](https://haddadi.github.io/papers/ieeeComputer2018hybrid.pdf)" with Seyed Ali Osia, Ali Shahin Shamsabadi, Ali Taheri, and Hamid R. Rabiee has been accepted to the  IEEE Computer Magazine Special Issue on Mobile and Embedded Deep Learning.
-
-Jan 2018: Two papers on privacy in IoT applications have been accepted to the ACM/IEEE International Conference on Internet-of-Things Design and Implementation 2018. See [publications' page](https://haddadi.github.io/publications/) for details.
-
 
 ### Contact me
 
