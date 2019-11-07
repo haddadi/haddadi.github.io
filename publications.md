@@ -7,7 +7,11 @@ permalink: /publications/
 ## [GitHub code](https://github.com/haddadi/){:target="_blank"}
 
 
-### 2019:
+### 2020: 
+
+*   Mohammad Malekzadeh, Richard G. Clegg, Andrea Cavallaro, Hamed Haddadi, "Privacy and Utility Preserving Sensor-Data Transformations", Pervasive and Mobile Computing (PMC), 2020. (Paper Available on [ArXiv](){:target="_blank"}).
+
+### 2019: 
 
 *   Matteo Varvello, Kleomenis Katevas, Mihai Plesa, Hamed Haddadi, Benjamin Livshits, "[BatteryLab](https://batterylab.dev/){:target="_blank"}: A Distributed Power Monitoring Platform For Mobile Devices", Eighteenth ACM Workshop on Hot Topics in Networks ([HotNets 2019](https://conferences.sigcomm.org/hotnets/2019/index.html){:target="_blank"}), November 14-15, 2019 — Princeton, New Jersey, USA. (Paper Available on [ArXiv](https://arxiv.org/abs/1910.08951){:target="_blank"}).  
  
