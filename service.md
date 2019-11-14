@@ -13,6 +13,8 @@ permalink: /service/
 
 *   [UK Next Generation Networking](http://coseners.net/) Steering Committee co-chair (since 2013, alongside [Iain Philips](https://iainwp.github.io/about/))  
 
+*   The 18th USENIX Symposium on Networked Systems Design and Implementation ([NSDI 2021](https://www.usenix.org/conference/nsdi21/){:target="_blank"})  
+
 *   The 26th ACM Annual International Conference on Mobile Computing and Networking ([ACM MobiCom 2020](https://sigmobile.org/mobicom/2020/){:target="_blank"})
 
 *   The Web Conference, 2020 ([WWW 2020](https://www2020.thewebconf.org){:target="_blank"}) 
