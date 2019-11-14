@@ -22,6 +22,8 @@ We are currently looking for exceptional candidates for the [Imperial College Re
 
 ### News
 
+November 2019: Minos and Ranya have won the Best Demo and the Best Poster awards respectively at ACM SenSys 2019. Congratulations both!
+
 October 2019: [Yuchen Zhao](https://www.imperial.ac.uk/people/yuchen.zhao19){:target="_blank"} joins us as a postdoctoral researcher on the [UK DRI Care Research & Technology programme](https://ukdri.ac.uk/news-and-events/uk-dri-care-research-technology-programme-appointed){:target="_blank"}.
 
 September 2019: Our paper "[BatteryLab](https://batterylab.dev/){:target="_blank"}, A Distributed Power Monitoring Platform For Mobile Devices" has been accepted to Eighteenth ACM Workshop on Hot Topics in Networks ([HotNets 2019](https://conferences.sigcomm.org/hotnets/2019/index.html){:target="_blank"}) (Paper Available on [ArXiv](https://arxiv.org/abs/1910.08951){:target="_blank"}). 
