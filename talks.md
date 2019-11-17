@@ -1,3 +1,7 @@
+* "Defence Against Dark Artefacts", University of Bristol Cyber Securty CDT, Bristol, UK, Oct 2019 
+* "Privacy-Preserving Analytics at Scale", ACM MobiCom Workshops Keynote, Los Cabos, Mexico, Oct 2019  
+* "User-Centric Personal Data Analytics on the Edge", TU Munich Systems Syposium, Munich, Germany, Sep 2019  
+* "User-Centric Personal Data Analytics on the Edge", ICS-FORTH Distinguished Seminar, Crete, Greece, July 2019 
 * "User-Centric Personal Data Analytics on the Edge", Cisco Innovation and Research Symposium, Paris, France, May 2019
 * "Privacy-Preserving Personal Data analytics", Brave Software, San Francisco, USA, November 2018  
 * "User-Centric Personal Data Analytics on the Edge", University of Kent, UK, November 2018  
