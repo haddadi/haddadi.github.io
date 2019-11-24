@@ -13,7 +13,7 @@ I am a Senior Lecturer (~Associate Professor) at the [Dyson School of Design Eng
 My research interests are in User-Centred Systems, IoT, Applied Machine Learning, Privacy, and [Human-Data Interaction](http://hdiresearch.org){:target="_blank"}. At Imperial College, I lead the [Systems and Algorithms Laboratory (SysAl)](https://www.imperial.ac.uk/sysal){:target="_blank"}. I am a Core member of the [Machine Learning Initiative at Imperial](https://www.imperial.ac.uk/machine-learning/){:target="_blank"}, an Academic Fellow of the [Data Science Institute](https://www.imperial.ac.uk/data-science/){:target="_blank"} and an Associate member of the [Academic Centre of Excellence in Cyber Security Research](https://www.imperial.ac.uk/cyber-security/){:target="_blank"}.
 
 
-**PhD Scholarship**: We currently have a fully-funded PhD studentship (fees and stipend) in the intersection of machine learning and cyber-physical systems (sensing, privacy, and IoT) for UK/EU students. Please see the [advert](https://www.jobs.ac.uk/job/BUD836/phd-studentship-in-cyber-physical-systems) an get in touch if interested
+**PhD Scholarship**: We currently have a fully-funded PhD studentship (fees and stipend) in the intersection of machine learning and cyber-physical systems (sensing, privacy, and IoT) for UK/EU students. Please see the [advert](phdad2019.md) an get in touch if interested
 
 I am keen to hear from strong students interested in doing their masters project or PhD research with me, or postdoctoral fellows interested in being hosted at Imperial College London. Please get in touch! 
 
