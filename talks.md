@@ -1,3 +1,4 @@
+* "Databox: Platform for Privacy-Aware Personal Data Analytics", BBC AI and Data Initiative workshop, Media City, UK, Nov 2019 
 * "Defence Against Dark Artefacts", University of Bristol Cyber Securty CDT, Bristol, UK, Oct 2019 
 * "Privacy-Preserving Analytics at Scale", ACM MobiCom Workshops Keynote, Los Cabos, Mexico, Oct 2019  
 * "User-Centric Personal Data Analytics on the Edge", TU Munich Systems Syposium, Munich, Germany, Sep 2019  
