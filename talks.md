@@ -85,4 +85,3 @@
 * “Weighted Spectrum: A Metric for Comparison of Internet Topologies”, School of Mathematics, Adelaide University, April 2008
 * “Validating Degree-Based Topology Generators”, Computer Laboratory, University of Cambridge, November 2007
 * “The Internet topology: Inference, Evolution and Dynamics”, Georg-August-Universitat Goettingen, September 2007
-* “Towards Informative Statistical Flow Inversion”, Multi-Service Networks, Cosenors house, July 2007
