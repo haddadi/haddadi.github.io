@@ -1,3 +1,6 @@
+**Invited talks:**
+
+* "Defence Against Dark Artefacts", ThousandEyes Research Seminar, San Francisco, CA, USA, Dec 2019 
 * "Databox: Platform for Privacy-Aware Personal Data Analytics", BBC AI and Data Initiative workshop, Media City, UK, Nov 2019 
 * "Defence Against Dark Artefacts", University of Bristol Cyber Securty CDT, Bristol, UK, Oct 2019 
 * "Privacy-Preserving Analytics at Scale", ACM MobiCom Workshops Keynote, Los Cabos, Mexico, Oct 2019  
