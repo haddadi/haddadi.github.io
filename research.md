@@ -31,6 +31,8 @@ For project details, please visit the Systems and Algorithms Laboratory ([SysAL]
 
 ## Current Research Students
 
+*   [Eman Maali](https://www.imperial.ac.uk/people/e.maali19) (IoT Security, funded by Schlumberger Foundation).
+
 *   [Ranya Aloufi](https://www.imperial.ac.uk/people/r.aloufi18) (Privacy in IoT, funded by Saudi Arabian Cultural Bureau).
 
 *   [Fan Mo](https://mofanv.github.io) (Privacy-preserving trusted Mobile Computing, funded by CSC Scholarship).
