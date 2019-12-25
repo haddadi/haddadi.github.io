@@ -10,7 +10,7 @@ permalink: /publications/
 ### 2020: 
 
 
-*   Seyed Ali Osia, Ali Shahin Shamsabadi, Ali Taheri, Kleomenis Katevas, Hamid R. Rabiee, Nicholas D. Lane, Hamed Haddadi, "Privacy-Preserving Deep Inference for Rich User Data on The Cloud", IEEE Internet of Things Journal, 2020. ([paper](https://arxiv.org/abs/1710.01727){:target="_blank"}, [Code](https://github.com/aliosia/DeepPrivInf2017){:target="_blank"})
+*   Seyed Ali Osia, Ali Shahin Shamsabadi, Sina Sajadmanesh, Ali Taheri, Kleomenis Katevas, Hamid R. Rabiee, Nicholas D. Lane, Hamed Haddadi, "A Hybrid Deep Learning Architecture for Privacy-Preserving Mobile Analytics", IEEE Internet of Things Journal, 2020. ([paper](https://arxiv.org/abs/1703.02952){:target="_blank"}, [Code](https://github.com/aliosia/DeepPrivInf2017){:target="_blank"})
 
 *   Mohammad Malekzadeh, Richard G. Clegg, Andrea Cavallaro, Hamed Haddadi, "Privacy and Utility Preserving Sensor-Data Transformations", Pervasive and Mobile Computing (PMC), 2020. (Paper Available on [ArXiv](https://arxiv.org/abs/1911.05996){:target="_blank"}).
 
@@ -77,13 +77,13 @@ permalink: /publications/
 
 *   Alan Chamberlain, Andy Crabtree, Hamed Haddadi, Richard Mortier, "[Special theme on privacy and the Internet of things](https://link.springer.com/article/10.1007%2Fs00779-017-1066-5)", Personal and Ubiquitous Computing, August 2017 ([DOI](https://doi.org/10.1007/s0077)).
 
+*   Seyed Ali Osia, Ali Shahin Shamsabadi, Ali Taheri, Kleomenis Katevas, Hamid R. Rabiee, Nicholas D. Lane, Hamed Haddadi,  "Privacy-Preserving Deep Inference for Rich User Data on The Cloud", Available on ArXiv, 2017. ([paper](https://arxiv.org/abs/1710.01727){:target="_blank"}, [Code](https://github.com/aliosia/DeepPrivInf2017){:target="_blank"})
+
 *   Kleomenis Katevas, Laurissa Tokarchuk, Hamed Haddadi, Richard G. Clegg, Muhammad Irfan, "Demo: Detecting Group Formations using iBeacon Technology", [ACM MobiSys](http://www.sigmobile.org/mobisys/2017/workshops/wpa/index.html) 2017 Companion, Proceedings of the 15th Annual International Conference on Mobile Systems, Applications, and Services Companion (Demo), Niagara Falls, NY, USA, June 2017\. ([paper](https://haddadi.github.io/papers/sysd11-katevasA.pdf), video)
 
 *   Katrin Hänsel, Hamed Haddadi, Akram Alomainy, "Demo: AWSense - A framework for collecting sensing data from the Apple Watch", [ACM MobiSys](http://www.sigmobile.org/mobisys/2017/workshops/wpa/index.html) 2017 Companion, Proceedings of the 15th Annual International Conference on Mobile Systems, Applications, and Services Companion (Demo), Niagara Falls, NY, USA, June 2017\. ([paper](https://haddadi.github.io/papers/nselA.pdf), video)
 
 *   Sina Sajadmanesh, Sina Jafarzadeh, Seyed Ali Osia, Hamid R. Rabiee, Hamed Haddadi, Yelena Mejova, Mirco Musolesi, Emiliano De Cristofaro, Gianluca Stringhini, "Kissing Cuisines: Exploring Worldwide Culinary Habits on the Web", 26th International World Wide Web conference, 3-7 April, 2017, Perth, Western Australia. Available on [arXiv](https://arxiv.org/abs/1610.08469v1), October 2016, contact us for the dataset. ([paper](https://haddadi.github.io/papers/www2017ingredients.pdf), [MIT Tech Review](https://www.technologyreview.com/s/602790/how-data-mining-reveals-the-worlds-healthiest-cuisines/), [Sciences et Avenir](http://www.sciencesetavenir.fr/high-tech/data/diversite-nutrition-les-cuisines-du-monde-analysees-par-les-big-data_108012), [France24](http://mashable.france24.com/styles/20161115-algorithme-cuisines-recherche-nutrition-ingredients), [ReachMD](https://reachmd.com/news/if-you-are-what-you-eat-regional-cuisines-have-a-major-impact-on-health/1306703/), [NEXO](https://www.nexojornal.com.br/expresso/2016/11/08/Qual-o-grau-de-diversidade-da-culin%C3%A1ria-dos-pa%C3%ADses), [Independent](https://www.indy100.com/article/healthy-diverse-top-healthiest-countries-cuisine-food-in-the-world-list-7412171))
-
-*   Seyed Ali Osia, Ali Shahin Shamsabadi, Ali Taheri, Hamid R. Rabiee, Nicholas D. Lane, Hamed Haddadi, "A Hybrid Deep Learning Architecture for Privacy-Preserving Mobile Analytics", Available on ArXiv, March 2017\. ([paper](https://arxiv.org/abs/1703.02952))
 
 *   Charith Perera, Susan Wakenshaw, Tim Baarslag, Hamed Haddadi, Arosha Bandara, Richard Mortier, Andy Crabtree, Irene Ng, Derek McAuley, Jon Crowcroft, "Valorising the IoT Databox: Creating Value for Everyone", Transactions on Emerging Telecommunications Technologies, Volume 28, Issue 1, January 2017\. ([paper](http://arxiv.org/abs/1609.03312))
 
