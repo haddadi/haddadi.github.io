@@ -8,12 +8,13 @@ permalink: /service/
 
 ## Current Community Engagements (Program/Organising Committee)
 
-
 *   [ACM SIGCOMM CoNext](http://www.sigcomm.org/events/conext-conference) conference Steering Committee Member (since August 2016)  
 
-*   [UK Next Generation Networking](http://coseners.net/) Steering Committee co-chair (since 2013, alongside [Iain Philips](https://iainwp.github.io/about/))  
+*   [UK Next Generation Networking](http://coseners.net/) Multi-Service Networks Program Committee co-chair (since 2013, alongside [Iain Philips](https://iainwp.github.io/about/))  
 
 *   The 18th USENIX Symposium on Networked Systems Design and Implementation ([NSDI 2021](https://www.usenix.org/conference/nsdi21/){:target="_blank"})  
+
+*   Third UK Mobile, Wearable and Ubiquitous Systems Research Symposium ([MobiUK 2020](https://mobiuk.org){:target="_blank"})
 
 *   The 26th ACM Annual International Conference on Mobile Computing and Networking ([ACM MobiCom 2020](https://sigmobile.org/mobicom/2020/){:target="_blank"})
 
@@ -21,20 +22,7 @@ permalink: /service/
 
 *   The 17th USENIX Symposium on Networked Systems Design and Implementation ([NSDI 2020](https://www.usenix.org/conference/nsdi20/){:target="_blank"}) 
 
-*   The 13th ACM International Conference on Web Search and Data Mining [WSDM 2020](http://www.wsdm-conference.org/2020/){:target="_blank"}) . 
-
-*   The 15th ACM International Conference on emerging Networking EXperiments and Technologies ([CoNEXT 2019](https://conferences2.sigcomm.org/co-next/2019/){:target="_blank"})
-
-*   ACM SIGCOMM Internet Measurement Conference 2019 ([IMC 2019](http://conferences.sigcomm.org/imc/2019/){:target="_blank"})
-
-*   The 25th ACM Annual International Conference on Mobile Computing and Networking ([ACM MobiCom 2019](https://sigmobile.org/mobicom/2019/){:target="_blank"})
-
-*   The 1st International Workshop on Federated Machine Learning for Data Privacy ([FML2019](http://fml2019.algorithmic-crowdsourcing.com){:target="_blank"}) 
-
-*   The 12th ACM International Conference on Web Search and Data Mining [WSDM 2019](http://www.wsdm-conference.org/2019/){:target="_blank"})
-
-*   The Web Conference, 2019 ([WWW 2019](https://www2019.thewebconf.org){:target="_blank"})
-
+*   The 13th ACM International Conference on Web Search and Data Mining [WSDM 2020](http://www.wsdm-conference.org/2020/){:target="_blank"})
 
 
 ## Journals (Editorial Board)
@@ -163,6 +151,18 @@ External Reviewer for ACM CSCW2015, IEEE WiMob (2011), IEEE/ACM MASCOTS,ACM SIGC
 *   [ACM Sensys](http://sensys.acm.org/) conference Steering Committee Member (2015-2017)  
 
 *   Springer Journal of Internet Services and Applications ([JISA](http://www.springer.com/computer/communication+networks/journal/13174), 2012-2018)
+
+*   The 15th ACM International Conference on emerging Networking EXperiments and Technologies ([CoNEXT 2019](https://conferences2.sigcomm.org/co-next/2019/){:target="_blank"})
+
+*   ACM SIGCOMM Internet Measurement Conference 2019 ([IMC 2019](http://conferences.sigcomm.org/imc/2019/){:target="_blank"})
+
+*   The 25th ACM Annual International Conference on Mobile Computing and Networking ([ACM MobiCom 2019](https://sigmobile.org/mobicom/2019/){:target="_blank"})
+
+*   The 1st International Workshop on Federated Machine Learning for Data Privacy ([FML2019](http://fml2019.algorithmic-crowdsourcing.com){:target="_blank"}) 
+
+*   The 12th ACM International Conference on Web Search and Data Mining [WSDM 2019](http://www.wsdm-conference.org/2019/){:target="_blank"})
+
+*   The Web Conference, 2019 ([WWW 2019](https://www2019.thewebconf.org){:target="_blank"})
 
 *   ACM SIGCOMM Internet Measurement Conference 2018 ([IMC 2018)](http://conferences.sigcomm.org/imc/2018/)
 
