@@ -22,7 +22,7 @@ We are always keen to support exceptional candidates for the [Imperial College R
 
 ### News
 
-December 2019: Our paper "Privacy-Preserving Deep Inference for Rich User Data on The Cloud" has been accepted to IEEE Internet of Things Journal, 2020. ([paper](https://arxiv.org/abs/1710.01727){:target="_blank"}, [Code](https://github.com/aliosia/DeepPrivInf2017){:target="_blank"})
+December 2019: Our paper "A Hybrid Deep Learning Architecture for Privacy-Preserving Mobile Analytics" has been accepted to IEEE Internet of Things Journal, 2020. ([paper](https://arxiv.org/abs/1703.02952){:target="_blank"}, [Code](https://github.com/aliosia/DeepPrivInf2017){:target="_blank"})
 
 November 2019: Minos and Ranya have won the Best Demo and the Best Poster awards respectively at ACM SenSys 2019. Congratulations both!
 
