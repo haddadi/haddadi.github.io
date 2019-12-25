@@ -9,6 +9,9 @@ permalink: /publications/
 
 ### 2020: 
 
+
+*   Seyed Ali Osia, Ali Shahin Shamsabadi, Ali Taheri, Kleomenis Katevas, Hamid R. Rabiee, Nicholas D. Lane, Hamed Haddadi, "Privacy-Preserving Deep Inference for Rich User Data on The Cloud", IEEE Internet of Things Journal, 2020. ([paper](https://arxiv.org/abs/1710.01727){:target="_blank"}, [Code](https://github.com/aliosia/DeepPrivInf2017){:target="_blank"})
+
 *   Mohammad Malekzadeh, Richard G. Clegg, Andrea Cavallaro, Hamed Haddadi, "Privacy and Utility Preserving Sensor-Data Transformations", Pervasive and Mobile Computing (PMC), 2020. (Paper Available on [ArXiv](https://arxiv.org/abs/1911.05996){:target="_blank"}).
 
 ### 2019: 
@@ -71,8 +74,6 @@ permalink: /publications/
 *   Andy Crabtree, Tom Lodge, James Colley, Chris Greenhalgh, Kevin Glover, Hamed Haddadi, Yousef Amar, Richard Mortier, Qi Li, John Moore, Liang Wang, Poonam Yadav, Jianxin Zhao, Anthony Brown, Lachlan Urquhart, Derek McAuley, "Building Accountability into the Internet of Things: The IoT Databox Model", Journal of Reliable Intelligent Environments, Springer, 2018. ([paper](https://haddadi.github.io/papers/JREI_IoTDatabox2018.pdf){:target="_blank"})
 
 ### 2017:
-
-*   Seyed Ali Osia, Ali Shahin Shamsabadi, Ali Taheri, Kleomenis Katevas, Hamid R. Rabiee, Nicholas D. Lane, Hamed Haddadi, "Privacy-Preserving Deep Inference for Rich User Data on The Cloud", Available on ArXiv, October 2017\. ([paper](https://arxiv.org/abs/1710.01727){:target="_blank"}, [Code](https://github.com/aliosia/DeepPrivInf2017){:target="_blank"})
 
 *   Alan Chamberlain, Andy Crabtree, Hamed Haddadi, Richard Mortier, "[Special theme on privacy and the Internet of things](https://link.springer.com/article/10.1007%2Fs00779-017-1066-5)", Personal and Ubiquitous Computing, August 2017 ([DOI](https://doi.org/10.1007/s0077)).
 
