@@ -22,6 +22,8 @@ We are always keen to support exceptional candidates for the [Imperial College R
 
 ### News
 
+December 2019: Our paper "Privacy-Preserving Deep Inference for Rich User Data on The Cloud" has been accepted to IEEE Internet of Things Journal, 2020. ([paper](https://arxiv.org/abs/1710.01727){:target="_blank"}, [Code](https://github.com/aliosia/DeepPrivInf2017){:target="_blank"})
+
 November 2019: Minos and Ranya have won the Best Demo and the Best Poster awards respectively at ACM SenSys 2019. Congratulations both!
 
 October 2019: [Yuchen Zhao](https://www.imperial.ac.uk/people/yuchen.zhao19){:target="_blank"} joins us as a postdoctoral researcher on the [UK DRI Care Research & Technology programme](https://ukdri.ac.uk/news-and-events/uk-dri-care-research-technology-programme-appointed){:target="_blank"}.
