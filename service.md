@@ -8,8 +8,6 @@ permalink: /service/
 
 ## Current Community Engagements (Program/Organising Committee)
 
-*   [ACM SIGCOMM CoNext](http://www.sigcomm.org/events/conext-conference) conference Steering Committee Member (since August 2016)  
-
 *   [UK Next Generation Networking](http://coseners.net/) Multi-Service Networks Program Committee co-chair (since 2013, alongside [Iain Philips](https://iainwp.github.io/about/))  
 
 *   The 18th USENIX Symposium on Networked Systems Design and Implementation ([NSDI 2021](https://www.usenix.org/conference/nsdi21/){:target="_blank"})  
@@ -145,6 +143,8 @@ Former President/Committee member, UCL Electrical Engineering Society ([Fleming]
 This list got too big to be useful, we have too many conferences and workshops (though many of them are pretty good!).
 
 External Reviewer for ACM CSCW2015, IEEE WiMob (2011), IEEE/ACM MASCOTS,ACM SIGCOMM, IEEE INFOCOMM, IEEE/ACM ToN, USENIX NSDI, BCS HCI, ACM IMC, ACM UBICOMP, ACM ISWC  
+
+*   [ACM SIGCOMM CoNext](http://www.sigcomm.org/events/conext-conference) conference Steering Committee Member (August 2016 to December 2019)  
 
 *   Information Services Director on [ACM](http://www.acm.org/) [SIGCOMM](http://sigcomm.org/) [Executive committee](http://sigcomm.org/about/people) (since July 2013, July 2017)
 
