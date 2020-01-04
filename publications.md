@@ -10,7 +10,7 @@ permalink: /publications/
 ### 2020: 
 
 
-*   Mohammad Malekzadeh, Dimitrios Athanasakis, Hamed Haddadi, Benjamin Livshits, "Privacy-Preserving Bandits", Third Conference on Machine Learning and Systems ([MLSys 2020](https://mlsys.org/)), March 2020, Austin, USA. Available on [ArXiv](https://arxiv.org/abs/1909.04421){:target="_blank"} 
+*   Mohammad Malekzadeh, Dimitrios Athanasakis, Hamed Haddadi, Benjamin Livshits, "Privacy-Preserving Bandits", Third Conference on Machine Learning and Systems ([MLSys 2020](https://mlsys.org/)), March 2020, Austin, USA. (Paper available on [ArXiv](https://arxiv.org/abs/1909.04421){:target="_blank"}) 
 
 *   Seyed Ali Osia, Ali Shahin Shamsabadi, Sina Sajadmanesh, Ali Taheri, Kleomenis Katevas, Hamid R. Rabiee, Nicholas D. Lane, Hamed Haddadi, "A Hybrid Deep Learning Architecture for Privacy-Preserving Mobile Analytics", IEEE Internet of Things Journal, 2020. ([paper](https://arxiv.org/abs/1703.02952){:target="_blank"}, [Code](https://github.com/aliosia/DeepPrivInf2017){:target="_blank"})
 
