@@ -10,6 +10,8 @@ permalink: /publications/
 ### 2020: 
 
 
+*   Mohammad Malekzadeh, Dimitrios Athanasakis, Hamed Haddadi, Benjamin Livshits, "Privacy-Preserving Bandits", Third Conference on Machine Learning and Systems ([MLSys 2020](https://mlsys.org/)), March 2020, Austin, USA. Available on [ArXiv](https://arxiv.org/abs/1909.04421){:target="_blank"} 
+
 *   Seyed Ali Osia, Ali Shahin Shamsabadi, Sina Sajadmanesh, Ali Taheri, Kleomenis Katevas, Hamid R. Rabiee, Nicholas D. Lane, Hamed Haddadi, "A Hybrid Deep Learning Architecture for Privacy-Preserving Mobile Analytics", IEEE Internet of Things Journal, 2020. ([paper](https://arxiv.org/abs/1703.02952){:target="_blank"}, [Code](https://github.com/aliosia/DeepPrivInf2017){:target="_blank"})
 
 *   Mohammad Malekzadeh, Richard G. Clegg, Andrea Cavallaro, Hamed Haddadi, "Privacy and Utility Preserving Sensor-Data Transformations", Pervasive and Mobile Computing (PMC), 2020. (Paper Available on [ArXiv](https://arxiv.org/abs/1911.05996){:target="_blank"}).
@@ -17,8 +19,6 @@ permalink: /publications/
 ### 2019: 
 
 *   Matteo Varvello, Kleomenis Katevas, Mihai Plesa, Hamed Haddadi, Benjamin Livshits, "[BatteryLab](https://batterylab.dev/){:target="_blank"}: A Distributed Power Monitoring Platform For Mobile Devices", Eighteenth ACM Workshop on Hot Topics in Networks ([HotNets 2019](https://conferences.sigcomm.org/hotnets/2019/index.html){:target="_blank"}), November 14-15, 2019 — Princeton, New Jersey, USA. (Paper Available on [ArXiv](https://arxiv.org/abs/1910.08951){:target="_blank"}, this work also won the **Best Demo Award** at SenSys 2019).  
- 
-*   Mohammad Malekzadeh, Dimitrios Athanasakis, Hamed Haddadi, Benjamin Livshits, "Privacy-Preserving Bandits", Available on [ArXiv](https://arxiv.org/abs/1909.04421){:target="_blank"} 
 
 *   Ranya Aloufi, Hamed Haddadi, David Boyle, "Emotionless: Privacy-Preserving Speech Analysis for Voice Assistants", in [Privacy Preserving Machine Learning](https://ppml-workshop.github.io/ppml/){:target="_blank"}, ACM CCS 2019 Workshop, November 2019, London, UK.  (Available on [ArXiv](https://arxiv.org/abs/1908.03632){:target="_blank"}, Articles on [Vice](https://www.vice.com/en_us/article/ne8bxd/ai-that-hides-your-emotions-from-other-ai-alexa-siri-google), [Medium](https://medium.com/syncedreview/how-to-hide-your-feelings-from-ai-voice-assistants-2db516d9e2d7))
 
