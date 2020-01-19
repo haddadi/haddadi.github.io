@@ -13,7 +13,7 @@ permalink: /publications/
 
 *   Mohammad Malekzadeh, Richard G. Clegg, Andrea Cavallaro, Hamed Haddadi, "Privacy and Utility Preserving Sensor-Data Transformations", Pervasive and Mobile Computing (PMC), 2020. (Paper Available on [ArXiv](https://arxiv.org/abs/1911.05996){:target="_blank"}).
 
-*   Seyed Ali Osia, Ali Shahin Shamsabadi, Sina Sajadmanesh, Ali Taheri, Kleomenis Katevas, Hamid R. Rabiee, Nicholas D. Lane, Hamed Haddadi, "A Hybrid Deep Learning Architecture for Privacy-Preserving Mobile Analytics", IEEE Internet of Things Journal, January 2020. ([paper](https://arxiv.org/abs/1703.02952){:target="_blank"}, [Code](https://github.com/aliosia/DeepPrivInf2017){:target="_blank"})
+*   Seyed Ali Osia, Ali Shahin Shamsabadi, Sina Sajadmanesh, Ali Taheri, Kleomenis Katevas, Hamid R. Rabiee, Nicholas D. Lane, Hamed Haddadi, "A Hybrid Deep Learning Architecture for Privacy-Preserving Mobile Analytics", IEEE Internet of Things Journal, January 2020. DOI: 10.1109/JIOT.2020.2967734 ([paper](https://arxiv.org/abs/1703.02952){:target="_blank"}, [Code](https://github.com/aliosia/DeepPrivInf2017){:target="_blank"})
 
 ### 2019: 
 
