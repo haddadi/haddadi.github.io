@@ -22,6 +22,8 @@ We are always keen to support exceptional candidates for the [Imperial College R
 
 ### News
 
+January 2020: Our research on security and privacy risks of smart speakers has appeared on [Which?]{https://www.which.co.uk/news/2020/01/are-alexa-and-google-assistant-spying-on-us/}{:target="_blank"}.
+
 January 2020: [Eman Maali](https://www.imperial.ac.uk/people/e.maali19) joins at [Imperial SysAL](https://www.imperial.ac.uk/sysal){:target="_blank"} as a PhD student. Welcome Eman!  
 
 January 2020: Our paper “[Privacy-Preserving Bandits](https://arxiv.org/abs/1909.04421)” has been acccepted to the Third Conference on Machine Learning and Systems ([MLSys 2020](https://mlsys.org/)). Congratulations Mohammad.
