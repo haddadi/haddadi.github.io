@@ -72,7 +72,7 @@ I am interested in hearing from potential PhD students in my areas of research i
 
 ## Past Visitors/Staff/Students
 
-[Kleomenis Katevas](https://minoskt.github.io) (Postdoctoral Research Associate on the [Databox Project](https://www.databoxproject.uk)) 
+[Dr Kleomenis Katevas](https://minoskt.github.io) (Postdoctoral Research Associate on the [Databox Project](https://www.databoxproject.uk)) 
 
 [Dr Katrin Hänsel](https://miezelkat.github.io) (Wearable devices and mHealth, co-advised with [Akram Alomainy](http://www.eecs.qmul.ac.uk/%7Eakram/), funded by QMUL [CIS](http://cis.eecs.qmul.ac.uk/) Scholarship, graduated April 2019).
 
