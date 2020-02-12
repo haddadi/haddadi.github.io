@@ -21,9 +21,7 @@ For project details, please visit the Systems and Algorithms Laboratory ([SysAL]
 
 ## Current Research Staff
 
-*   [Yuchen Zhao](https://www.imperial.ac.uk/people/yuchen.zhao19) (Postdoctoral Research Associate on the [UK DRI Care Research & Technology programme](https://www.imperial.ac.uk/news/190934/20m-centre-enable-people-with-dementia/){:target="_blank"}
-
-*   [Kleomenis Katevas](https://minoskt.github.io) (Postdoctoral Research Associate on the [Databox Project](https://www.databoxproject.uk))
+*   [Yuchen Zhao](https://www.imperial.ac.uk/people/yuchen.zhao19) (Postdoctoral Research Associate on the [UK DRI Care Research & Technology programme](https://www.imperial.ac.uk/news/190934/20m-centre-enable-people-with-dementia/){:target="_blank"} 
 
 *   [Anna Maria Mandalari](https://www.imperial.ac.uk/people/anna-maria.mandalari) (Postdoctoral Research Associate on the [Databox Project](https://www.databoxproject.uk))
 
@@ -74,6 +72,7 @@ I am interested in hearing from potential PhD students in my areas of research i
 
 ## Past Visitors/Staff/Students
 
+*   [Kleomenis Katevas](https://minoskt.github.io) (Postdoctoral Research Associate on the [Databox Project](https://www.databoxproject.uk)) 
 
 [Dr Katrin Hänsel](https://miezelkat.github.io) (Wearable devices and mHealth, co-advised with [Akram Alomainy](http://www.eecs.qmul.ac.uk/%7Eakram/), funded by QMUL [CIS](http://cis.eecs.qmul.ac.uk/) Scholarship, graduated April 2019).
 
