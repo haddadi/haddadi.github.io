@@ -60,7 +60,7 @@ I am also a Fellow of the [Higher Education Academy](https://www.heacademy.ac.uk
 
 ## Consultancy
 
-I offer consultancy services on research project and patent disputes, social media strategy, online social network presence management, online advertising strategy, and systems approach to related areas. Please contact me for informal discussions about your requirements and projects.
+I offer consultancy services on research project and patent disputes, privacy, online advertising, and systems approach to related areas. Please contact me for informal discussions about your requirements and projects.
 
 ## External examination
 * Taught Programme External Examiner for [UCL Telecommunications MSc](https://www.ucl.ac.uk/prospective-students/graduate/taught/degrees/telecommunications-msc) Programmes Board of Examiners (2017-2021)
@@ -110,6 +110,8 @@ Member of admissions team, Dyson School of Design Engineering, Imperial College 
 
 ## Extended Biography
 
+* July 2019 - Aug 2019: Visitor, [Foundation for Research and Technology - Hellas (FORTH)
+Institute of Computer Science](https://www.ics.forth.gr) 
 * Oct 2011 - Oct 2017: Lecturer and Senior Lecturer in Digital Media, [School of Electronic Engineering and Computer Science](http://www.eecs.qmul.ac.uk/), [Queen Mary University of London](http://www.qmul.ac.uk/) 
 * May 2014 - Dec 2015: Research Scientist, [Qatar Computing Research Institute](http://qcri.org/our-research/social-computing)  
 * Summers 2012 & 2013: Visiting researcher, [AT&T Research](http://www.research.att.com/), Floreham Park ([cycle route](http://www.youtube.com/watch?v=o_Tl7gbudaE))  
