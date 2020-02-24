@@ -9,7 +9,9 @@ permalink: /publications/
 
 ### 2020: 
 
-*   Mohammad Malekzadeh, Dimitrios Athanasakis, Hamed Haddadi, Benjamin Livshits, "Privacy-Preserving Bandits", Third Conference on Machine Learning and Systems ([MLSys 2020](https://mlsys.org/)), March 2020, Austin, USA. (Paper available on [ArXiv](https://arxiv.org/abs/1909.04421){:target="_blank"}) 
+*   Anna Maria Mandalari, Roman Kolcun, Hamed Haddadi, Daniel J. Dubois, David Choffnes, "Towards Automatic Identification and Blocking of Non-Critical IoT Traffic Destinations", Workshop on Technology and Consumer Protection ([ConPro ’20](https://www.ieee-security.org/TC/SPW2020/ConPro/)), Co-located with the 41th IEEE Symposium on Security and Privacy, May 21, 2020, San Francisco, CA. (Paper available on [ArXiv](){:target="_blank"}) 
+
+*   Mohammad Malekzadeh, Dimitrios Athanasakis, Hamed Haddadi, Benjamin Livshits, "Privacy-Preserving Bandits", Third Conference on Machine Learning and Systems ([MLSys 2020](https://mlsys.org/)), March 2020, Austin, USA. (Paper available on [ArXiv](https://arxiv.org/abs/1909.04421){:target="_blank"})  
 
 *   Mohammad Malekzadeh, Richard G. Clegg, Andrea Cavallaro, Hamed Haddadi, "Privacy and Utility Preserving Sensor-Data Transformations", Pervasive and Mobile Computing (PMC), 2020. (Paper Available on [ArXiv](https://arxiv.org/abs/1911.05996){:target="_blank"}).
 
