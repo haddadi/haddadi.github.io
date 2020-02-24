@@ -22,7 +22,7 @@ We are always keen to support exceptional candidates for the [Imperial College R
 
 ### News
 
-February 2020: Our research on security and privacy of Amazon devices is featured on [BBC Panorama program](https://www.bbc.co.uk/programmes/m000fjdz){:target="_blank"} ([Youtube Link](), [BBC News](https://www.bbc.co.uk/news/extra/CLQYZENMBI/amazon-data)) 
+February 2020: Our research on security and privacy of Amazon devices is featured on [BBC Panorama program](https://www.bbc.co.uk/programmes/m000fjdz){:target="_blank"} ([Youtube Link](https://www.youtube.com/watch?v=v3qzJldMGeA), [BBC News](https://www.bbc.co.uk/news/extra/CLQYZENMBI/amazon-data)) 
 
 February 2020: Our joint research with Northeastern University team on security and privacy risks of smart speakers has appeared on [NYTimes](https://www.nytimes.com/2020/02/14/technology/alexa-jamming-bracelet-privacy-armor.html){:target="_blank"} ([full report](https://moniotrlab.ccis.neu.edu/smart-speakers-study/){:target="_blank"}).
 
