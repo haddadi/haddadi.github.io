@@ -44,6 +44,8 @@ Two examples from the computer science review and publication process [Blog post
 
 "[Our incomplete scientific knowledge](https://thrish.org/lab-meetings/lets-not-be-pompous-scientists)" (by [Thrish](https://thrish.org/research-team/thrish))
 
+[Ten Simple Rules to becoming a principal investigator](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007448)
+
 ## Datasets & Tool
 
 The Koblenz Network Collection [http://konect.uni-koblenz.de/](http://konect.uni-koblenz.de/)
