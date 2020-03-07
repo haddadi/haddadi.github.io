@@ -22,6 +22,8 @@ We are always keen to support exceptional candidates for the [Imperial College R
 
 ### News
 
+March 2020: Our paper "DarkneTZ: Towards Model Privacy on the Edge using Trusted Execution Environments", with Fan Mo, Ali Shahin Shamsabadi, Kleomenis Katevas, Soteris Demetriou, Ilias Leontiadis, and Andrea Cavallaro has been accepted to 18th ACM International Conference on Mobile Systems, Applications, and Services (MobiSys 2020) June 2020, Toronto, Canada. Congrats Fan!
+
 February 2020: Our research on security and privacy of Amazon devices is featured on [BBC Panorama program](https://www.bbc.co.uk/programmes/m000fjdz){:target="_blank"} ([Youtube Link](https://www.youtube.com/watch?v=v3qzJldMGeA), [BBC News](https://www.bbc.co.uk/news/extra/CLQYZENMBI/amazon-data)) 
 
 February 2020: Our joint research with Northeastern University team on security and privacy risks of smart speakers has appeared on [NYTimes](https://www.nytimes.com/2020/02/14/technology/alexa-jamming-bracelet-privacy-armor.html){:target="_blank"}, [The Independent](https://www.independent.co.uk/life-style/gadgets-and-tech/news/smart-speaker-recording-alexa-google-home-secret-a9354106.html){:target="_blank"}, and [USA Today](https://eu.usatoday.com/story/tech/conferences/2020/02/25/google-alexa-siri-randomly-answer-even-without-wake-word-study-says/4833560002/){:target="_blank"} ([full report](https://moniotrlab.ccis.neu.edu/smart-speakers-study/){:target="_blank"}).
