@@ -15,6 +15,8 @@ permalink: /publications/
 
 *   Mohammad Malekzadeh, Dimitrios Athanasakis, Hamed Haddadi, Benjamin Livshits, "Privacy-Preserving Bandits", Third Conference on Machine Learning and Systems ([MLSys 2020](https://mlsys.org/)), March 2020, Austin, USA. (Paper available on [ArXiv](https://arxiv.org/abs/1909.04421){:target="_blank"})  
 
+*   Edoardo Lisi, Mohammad Malekzadeh, Hamed Haddadi, F. Din-Houn Lau, Seth Flaxman, "Modeling and Forecasting Art Movements with CGANs", Proceedings of Royal Society Open Science, 2020. Available on [ArXiv](https://arxiv.org/abs/1906.09230){:target="_blank"} 
+
 *   Mohammad Malekzadeh, Richard G. Clegg, Andrea Cavallaro, Hamed Haddadi, "Privacy and Utility Preserving Sensor-Data Transformations", Pervasive and Mobile Computing (PMC), 2020. (Paper Available on [ArXiv](https://arxiv.org/abs/1911.05996){:target="_blank"}).
 
 *   Seyed Ali Osia, Ali Shahin Shamsabadi, Sina Sajadmanesh, Ali Taheri, Kleomenis Katevas, Hamid R. Rabiee, Nicholas D. Lane, Hamed Haddadi, "A Hybrid Deep Learning Architecture for Privacy-Preserving Mobile Analytics", IEEE Internet of Things Journal, January 2020. DOI: 10.1109/JIOT.2020.2967734 ([paper](https://arxiv.org/abs/1703.02952){:target="_blank"}, [Code](https://github.com/aliosia/DeepPrivInf2017){:target="_blank"})
@@ -40,8 +42,6 @@ permalink: /publications/
 *   Yuting Zhan and Hamed Haddadi, "Activity Prediction in Improving Well-Being of Both The Elderly and Caregivers", Second International Workshop On Computing For Well-Being ([WELLCOMP 2019](http://wellcomp.org/2019/){:target="_blank"}), In conjunction with UbiComp 2019, September, 2019, London, UK. ([Paper](https://haddadi.github.io/papers/Wellcomp2019_Camera_ready_.pdf))   
 
 *   Seyed Ali Osia, Borzoo Rassouli, Hamed Haddadi, Hamid R. Rabiee, Deniz Gündüz, "Privacy Against Brute-Force Inference Attacks", In  IEEE International Symposium on Information Theory ([ISIT 2019](https://2019.ieee-isit.org)), Paris, France, July 2019. Available on [ArXiv](http://arxiv.org/abs/1902.00329){:target="_blank"}
-
-*   Edoardo Lisi, Mohammad Malekzadeh, Hamed Haddadi, F. Din-Houn Lau, Seth Flaxman, "Modeling and Forecasting Art Movements with CGANs", Available on [ArXiv](https://arxiv.org/abs/1906.09230){:target="_blank"}
 
 *   Mohammad Malekzadeh, Richard G. Clegg, Andrea Cavallaro, Hamed Haddadi, "Mobile Sensor Data Anonymization", ACM/IEEE International Conference on Internet of Things Design and Implementation ([IoTDI 2019](http://conferences.computer.org/iotDI/2019/){:target="_blank"}), April 2019, Montreal, Canada. Available on [ArXiv](https://arxiv.org/abs/1810.11546){:target="_blank"}, [Code and Dataset](https://github.com/mmalekzadeh/motion-sense){:target="_blank"}
 
