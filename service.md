@@ -10,7 +10,9 @@ permalink: /service/
 
 *   [UK Next Generation Networking](http://coseners.net/) Multi-Service Networks Program Committee co-chair (since 2013, alongside [Iain Philips](https://iainwp.github.io/about/))  
 
-*   The 18th USENIX Symposium on Networked Systems Design and Implementation ([NSDI 2021](https://www.usenix.org/conference/nsdi21/){:target="_blank"})  
+*   The 18th USENIX Symposium on Networked Systems Design and Implementation ([NSDI 2021](https://www.usenix.org/conference/nsdi21/){:target="_blank"}) 
+
+*   The 16th ACM International Conference on emerging Networking EXperiments and Technologies ([CoNEXT 2020](https://conferences2.sigcomm.org/co-next/2020/){:target="_blank"}) 
 
 *   ACM SIGCOMM Internet Measurement Conference 2020 ([IMC 2020](http://conferences.sigcomm.org/imc/2020/){:target="_blank"}) 
 
