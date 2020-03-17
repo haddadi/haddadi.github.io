@@ -11,7 +11,7 @@ permalink: /publications/
 
 *   Fan Mo, Ali Shahin Shamsabadi, Kleomenis Katevas, Soteris Demetriou, Ilias Leontiadis,  Andrea Cavallaro, Hamed Haddadi, "DarkneTZ: Towards Model Privacy on the Edge using Trusted Execution Environments", 18th ACM International Conference on Mobile Systems, Applications, and Services ([MobiSys 2020](https://www.sigmobile.org/mobisys/2020/)) June 2020, Toronto, Canada. (Paper available on [ArXiv](){:target="_blank"}, [Code](https://github.com/mofanv/darknetz){:target="_blank"})  
 
-*   Anna Maria Mandalari, Roman Kolcun, Hamed Haddadi, Daniel J. Dubois, David Choffnes, "Towards Automatic Identification and Blocking of Non-Critical IoT Traffic Destinations", Workshop on Technology and Consumer Protection ([ConPro ’20](https://www.ieee-security.org/TC/SPW2020/ConPro/)), Co-located with the 41th IEEE Symposium on Security and Privacy, May 21, 2020, San Francisco, CA. (Paper available on [ArXiv](){:target="_blank"}) 
+*   Anna Maria Mandalari, Roman Kolcun, Hamed Haddadi, Daniel J. Dubois, David Choffnes, "Towards Automatic Identification and Blocking of Non-Critical IoT Traffic Destinations", Workshop on Technology and Consumer Protection ([ConPro ’20](https://www.ieee-security.org/TC/SPW2020/ConPro/)), Co-located with the 41th IEEE Symposium on Security and Privacy, May 21, 2020, San Francisco, CA. (Paper available on [ArXiv](http://arxiv.org/abs/2003.07133){:target="_blank"}) 
 
 *   Mohammad Malekzadeh, Dimitrios Athanasakis, Hamed Haddadi, Benjamin Livshits, "Privacy-Preserving Bandits", Third Conference on Machine Learning and Systems ([MLSys 2020](https://mlsys.org/)), March 2020, Austin, USA. (Paper available on [ArXiv](https://arxiv.org/abs/1909.04421){:target="_blank"})  
 
