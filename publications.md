@@ -13,6 +13,8 @@ permalink: /publications/
 
 *   Anna Maria Mandalari, Roman Kolcun, Hamed Haddadi, Daniel J. Dubois, David Choffnes, "Towards Automatic Identification and Blocking of Non-Critical IoT Traffic Destinations", Workshop on Technology and Consumer Protection ([ConPro ’20](https://www.ieee-security.org/TC/SPW2020/ConPro/)), Co-located with the 41th IEEE Symposium on Security and Privacy, May 21, 2020, San Francisco, CA. (Paper available on [ArXiv](http://arxiv.org/abs/2003.07133){:target="_blank"}) 
 
+*   Ali Shahin Shamsabadi, Adria Gascon, Hamed Haddadi and Andrea Cavallaro, "PrivEdge: From Local to Distributed Private Training and Prediction", in Proceedings of the IEEE Transactions on Information Forensics & Security, 2020. (Paper available on [ArXiv](http://arxiv.org/abs/2003.07133){:target="_blank"})  
+
 *   Mohammad Malekzadeh, Dimitrios Athanasakis, Hamed Haddadi, Benjamin Livshits, "Privacy-Preserving Bandits", Third Conference on Machine Learning and Systems ([MLSys 2020](https://mlsys.org/)), March 2020, Austin, USA. (Paper available on [ArXiv](https://arxiv.org/abs/1909.04421){:target="_blank"})  
 
 *   Edoardo Lisi, Mohammad Malekzadeh, Hamed Haddadi, F. Din-Houn Lau, Seth Flaxman, "Modeling and Forecasting Art Movements with CGANs", Proceedings of Royal Society Open Science, 2020. Available on [ArXiv](https://arxiv.org/abs/1906.09230){:target="_blank"} 
