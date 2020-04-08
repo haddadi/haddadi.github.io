@@ -15,6 +15,8 @@ permalink: /publications/
 
 *   Ali Shahin Shamsabadi, Adria Gascon, Hamed Haddadi and Andrea Cavallaro, "PrivEdge: From Local to Distributed Private Training and Prediction", in Proceedings of the IEEE Transactions on Information Forensics & Security, 2020. (Paper available on [ArXiv](http://arxiv.org/abs/2003.07133){:target="_blank"})  
 
+*   Yuchen Zhao, Hamed Haddadi, Severin Skillman, Shirin Enshaeifar, Payam Barnaghi, "Privacy-preserving Activity and Health Monitoring on Databox", the 3rd International Workshop on Edge Systems, Analytics and Networking ([EdgeSys 2020](https://edge-sys.github.io/2020/index.html)), in conjunction with ACM EuroSys 2020, April 2020, Heraklion, Greece. ([Paper](){:target="_blank"})
+
 *   Mohammad Malekzadeh, Dimitrios Athanasakis, Hamed Haddadi, Benjamin Livshits, "Privacy-Preserving Bandits", Third Conference on Machine Learning and Systems ([MLSys 2020](https://mlsys.org/)), March 2020, Austin, USA. (Paper available on [ArXiv](https://arxiv.org/abs/1909.04421){:target="_blank"})  
 
 *   Edoardo Lisi, Mohammad Malekzadeh, Hamed Haddadi, F. Din-Houn Lau, Seth Flaxman, "Modeling and Forecasting Art Movements with CGANs", Proceedings of Royal Society Open Science, 2020. Available on [ArXiv](https://arxiv.org/abs/1906.09230){:target="_blank"} 
