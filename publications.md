@@ -13,7 +13,7 @@ permalink: /publications/
 
 *   Anna Maria Mandalari, Roman Kolcun, Hamed Haddadi, Daniel J. Dubois, David Choffnes, "Towards Automatic Identification and Blocking of Non-Critical IoT Traffic Destinations", Workshop on Technology and Consumer Protection ([ConPro ’20](https://www.ieee-security.org/TC/SPW2020/ConPro/)), Co-located with the 41th IEEE Symposium on Security and Privacy, May 21, 2020, San Francisco, CA. (Paper available on [ArXiv](http://arxiv.org/abs/2003.07133){:target="_blank"}) 
 
-*   Ali Shahin Shamsabadi, Adria Gascon, Hamed Haddadi and Andrea Cavallaro, "PrivEdge: From Local to Distributed Private Training and Prediction", IEEE Transactions on Information Forensics & Security, 2020, DOI:10.1109/TIFS.2020.2988132. (Paper available on [ArXiv](https://arxiv.org/abs/2004.05574){:target="_blank"}, [Code](hhttps://github.com/AliShahin/PrivEdge))  
+*   Ali Shahin Shamsabadi, Adria Gascon, Hamed Haddadi and Andrea Cavallaro, "PrivEdge: From Local to Distributed Private Training and Prediction", IEEE Transactions on Information Forensics & Security, 2020, DOI:10.1109/TIFS.2020.2988132. (Paper available on [ArXiv](https://arxiv.org/abs/2004.05574){:target="_blank"}, [Code](https://github.com/AliShahin/PrivEdge))  
 
 *   Yuchen Zhao, Hamed Haddadi, Severin Skillman, Shirin Enshaeifar, Payam Barnaghi, "Privacy-preserving Activity and Health Monitoring on Databox", the 3rd International Workshop on Edge Systems, Analytics and Networking ([EdgeSys 2020](https://edge-sys.github.io/2020/index.html)), in conjunction with ACM EuroSys 2020, April 2020, Heraklion, Greece. ([Paper](){:target="_blank"})
 
