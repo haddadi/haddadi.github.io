@@ -15,7 +15,8 @@ permalink: /publications/
 
 *   Ali Shahin Shamsabadi, Adria Gascon, Hamed Haddadi and Andrea Cavallaro, "PrivEdge: From Local to Distributed Private Training and Prediction", IEEE Transactions on Information Forensics & Security, 2020, DOI:10.1109/TIFS.2020.2988132. (Paper available on [ArXiv](https://arxiv.org/abs/2004.05574){:target="_blank"}, [Code](https://github.com/AliShahin/PrivEdge))  
 
-*   Yuchen Zhao, Hamed Haddadi, Severin Skillman, Shirin Enshaeifar, Payam Barnaghi, "Privacy-preserving Activity and Health Monitoring on Databox", the 3rd International Workshop on Edge Systems, Analytics and Networking ([EdgeSys 2020](https://edge-sys.github.io/2020/index.html)), in conjunction with ACM EuroSys 2020, April 2020, Heraklion, Greece. ([Paper](){:target="_blank"})
+*   Yuchen Zhao, Hamed Haddadi, Severin Skillman, Shirin Enshaeifar, Payam Barnaghi, "Privacy-preserving Activity and Health Monitoring on Databox", the 3rd International Workshop on Edge Systems, Analytics and Networking ([EdgeSys 2020](https://edge-sys.github.io/2020/index.html)), in conjunction with ACM EuroSys 2020, April 2020, Heraklion, Greece. ([Paper](https://haddadi.github.io/papers/edgesys20-final6.pdf))
+
 
 *   Mohammad Malekzadeh, Dimitrios Athanasakis, Hamed Haddadi, Benjamin Livshits, "Privacy-Preserving Bandits", Third Conference on Machine Learning and Systems ([MLSys 2020](https://mlsys.org/)), March 2020, Austin, USA. (Paper available on [ArXiv](https://arxiv.org/abs/1909.04421){:target="_blank"}, [Code](https://github.com/mmalekzadeh/privacy-preserving-bandits))  
 
