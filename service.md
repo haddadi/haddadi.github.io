@@ -69,6 +69,7 @@ I offer consultancy services on research project and patent disputes, privacy, o
 
 ## PhD examination
 
+Liuqing Chen, Imperial College London, January 2020    
 William Wilkinson, Queen Mary University London, September 2019  
 Athanasios Andreou, EURECOM & UPMC, June 2019    
 Costas Iordanou, Technische Universität Berlin, February 2019    
