@@ -15,6 +15,8 @@ permalink: /publications/
 
 *   Anna Maria Mandalari, Roman Kolcun, Hamed Haddadi, Daniel J. Dubois, David Choffnes, "Towards Automatic Identification and Blocking of Non-Critical IoT Traffic Destinations", Workshop on Technology and Consumer Protection ([ConPro ’20](https://www.ieee-security.org/TC/SPW2020/ConPro/)), Co-located with the 41th IEEE Symposium on Security and Privacy, May 21, 2020, San Francisco, CA. (Paper available on [ArXiv](http://arxiv.org/abs/2003.07133){:target="_blank"}) 
 
+*   Seyed Ali Osia, Ali Shahin Shamsabadi, Sina Sajadmanesh, Ali Taheri, Kleomenis Katevas, Hamid R. Rabiee, Nicholas D. Lane, Hamed Haddadi, "A Hybrid Deep Learning Architecture for Privacy-Preserving Mobile Analytics", IEEE Internet of Things Journal, May 2020. DOI: 10.1109/JIOT.2020.2967734 ([paper](https://arxiv.org/abs/1703.02952){:target="_blank"}, [Code](https://github.com/aliosia/DeepPrivInf2017){:target="_blank"})
+
 *   Ali Shahin Shamsabadi, Adria Gascon, Hamed Haddadi and Andrea Cavallaro, "PrivEdge: From Local to Distributed Private Training and Prediction", IEEE Transactions on Information Forensics & Security, 2020, DOI:10.1109/TIFS.2020.2988132. (Paper available on [ArXiv](https://arxiv.org/abs/2004.05574){:target="_blank"}, [Code](https://github.com/AliShahin/PrivEdge))  
 
 *   Yuchen Zhao, Hamed Haddadi, Severin Skillman, Shirin Enshaeifar, Payam Barnaghi, "Privacy-preserving Activity and Health Monitoring on Databox", the 3rd International Workshop on Edge Systems, Analytics and Networking ([EdgeSys 2020](https://edge-sys.github.io/2020/index.html)), in conjunction with ACM EuroSys 2020, April 2020, Heraklion, Greece. ([Paper](https://haddadi.github.io/papers/edgesys20-final6.pdf))
@@ -24,9 +26,7 @@ permalink: /publications/
 
 *   Edoardo Lisi, Mohammad Malekzadeh, Hamed Haddadi, F. Din-Houn Lau, Seth Flaxman, "Modeling and Forecasting Art Movements with CGANs", Proceedings of Royal Society Open Science, 2020. Available on [ArXiv](https://arxiv.org/abs/1906.09230){:target="_blank"} 
 
-*   Mohammad Malekzadeh, Richard G. Clegg, Andrea Cavallaro, Hamed Haddadi, "Privacy and Utility Preserving Sensor-Data Transformations", Pervasive and Mobile Computing (PMC), 2020. (Paper Available on [ArXiv](https://arxiv.org/abs/1911.05996){:target="_blank"}).
-
-*   Seyed Ali Osia, Ali Shahin Shamsabadi, Sina Sajadmanesh, Ali Taheri, Kleomenis Katevas, Hamid R. Rabiee, Nicholas D. Lane, Hamed Haddadi, "A Hybrid Deep Learning Architecture for Privacy-Preserving Mobile Analytics", IEEE Internet of Things Journal, January 2020. DOI: 10.1109/JIOT.2020.2967734 ([paper](https://arxiv.org/abs/1703.02952){:target="_blank"}, [Code](https://github.com/aliosia/DeepPrivInf2017){:target="_blank"})
+*   Mohammad Malekzadeh, Richard G. Clegg, Andrea Cavallaro, Hamed Haddadi, "Privacy and Utility Preserving Sensor-Data Transformations", Pervasive and Mobile Computing (PMC), 2020. (Paper Available on [ArXiv](https://arxiv.org/abs/1911.05996){:target="_blank"}) 
 
 ### 2019: 
 
