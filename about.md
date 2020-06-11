@@ -19,7 +19,7 @@ We are always keen to support exceptional candidates for the [Imperial College R
 
 ### News
 
-June 2020: I have been promoted! From September 2020 I will be a [Reader](https://en.wikipedia.org/wiki/Reader_(academic_rank)){:target="_blank"} in n Human-Centred Systems at Imperial! Many thanks to all the amazing students, collaborators, and colleagues!
+June 2020: I have been promoted! From September 2020 I will be a [Reader](https://en.wikipedia.org/wiki/Reader_(academic_rank)){:target="_blank"} in Human-Centred Systems at Imperial! Many thanks to all the amazing students, collaborators, and colleagues!
 
 June 2020: Our ICWSM 2010 paper “[Measuring User Influence in Twitter: The Million Follower Fallacy](http://www.aaai.org/ocs/index.php/ICWSM/ICWSM10/paper/download/1538/1826){:target="_blank"}” has won the ICWSM 2020 Test of Time Award. Congratulations Meeyoung Cha, Hamed Haddadi, Fabricio Benevenuto, Krishna Gummad.
 
