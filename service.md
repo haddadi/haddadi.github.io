@@ -10,6 +10,8 @@ permalink: /service/
 
 *   [UK Next Generation Networking](http://coseners.net/) Multi-Service Networks Program Committee co-chair (since 2013, alongside [Iain Philips](https://iainwp.github.io/about/))  
 
+*   The 27th ACM Annual International Conference on Mobile Computing and Networking ([ACM MobiCom 2021](https://sigmobile.org/mobicom/2021/){:target="_blank"})
+
 *   The 18th USENIX Symposium on Networked Systems Design and Implementation ([NSDI 2021](https://www.usenix.org/conference/nsdi21/){:target="_blank"}) 
 
 *   The 16th ACM International Conference on emerging Networking EXperiments and Technologies ([CoNEXT 2020](https://conferences2.sigcomm.org/co-next/2020/){:target="_blank"}) 
