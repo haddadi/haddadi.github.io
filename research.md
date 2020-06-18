@@ -13,7 +13,6 @@ For project details, please visit the Systems and Algorithms Laboratory ([SysAL]
   
 ## Current Projects and Grants
 
-*   EPSRC [Databox](https://www.databoxproject.uk): Privacy-Aware Infrastructure for Managing Personal Data ([EP/N028260/1](http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/N028260/1) £1,238,585 starting October 2016)  
 *   [Human-Data Interaction](http://hdiresearch.org/), Legibility, Agency, Negotiability: EPSRC Network Plus grant ([EP/R045178/1](https://gtr.ukri.org/projects?ref=EP%2FR045178%2F1){:target="_blank"}, £1,040,837 starting September 2018)
 *   EPSRC [DADA: Defence Against Dark Artefacts](https://www.horizon.ac.uk/project/defence-against-dark-artefacts/){:target="_blank"} ([EP/R03351X/1](http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/R03351X/1){:target="_blank"}, £1,011,787 starting September 2018)
 *   [UK DRI Care Research & Technology programme](https://www.imperial.ac.uk/dementia-research-institute/care-research--technology-centre/){:target="_blank"} (£20m starting June 2019)
@@ -45,6 +44,8 @@ For project details, please visit the Systems and Algorithms Laboratory ([SysAL]
 I am interested in hearing from potential PhD students in my areas of research interests. If you have interesting ideas and wish to discuss funding opportunities for next year, please send me an [email](mailto:h.haddadi@imperial.ac.uk) (no attachments please!)
 
 ## Past Projects/Grants
+
+*   EPSRC [Databox](https://www.databoxproject.uk): Privacy-Aware Infrastructure for Managing Personal Data ([EP/N028260/1](http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/N028260/1) £1,238,585 starting October 2016)  
 
 *   EPSRC IoT research-in-the-wild: [Connected Seeds and Sensors](http://www.connectedseeds.org/) ([EP/L023504/1](http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/L023504/1) £ 321,053 October 2015- March 2017)
 
