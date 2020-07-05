@@ -21,6 +21,7 @@ permalink: /publications/
 
 *   Yuchen Zhao, Hamed Haddadi, Severin Skillman, Shirin Enshaeifar, Payam Barnaghi, "Privacy-preserving Activity and Health Monitoring on Databox", the 3rd International Workshop on Edge Systems, Analytics and Networking ([EdgeSys 2020](https://edge-sys.github.io/2020/index.html)), in conjunction with ACM EuroSys 2020, April 2020, Heraklion, Greece. ([Paper](https://haddadi.github.io/papers/edgesys20-final6.pdf))
 
+*   Kleomenis Katevas, Eugene Bagdasaryan, Jason Waterman, Mohamad Mounir Safadieh, Hamed Haddadi, Deborah Estrin, "Decentralized Policy-Based Private Analytics", (Paper available on [ArXiv](https://arxiv.org/abs/2003.06612){:target="_blank"}, [Code](https://github.com/minoskt/PoliBox))  
 
 *   Mohammad Malekzadeh, Dimitrios Athanasakis, Hamed Haddadi, Benjamin Livshits, "Privacy-Preserving Bandits", Third Conference on Machine Learning and Systems ([MLSys 2020](https://mlsys.org/)), March 2020, Austin, USA. (Paper available on [ArXiv](https://arxiv.org/abs/1909.04421){:target="_blank"}, [Code](https://github.com/mmalekzadeh/privacy-preserving-bandits))  
 
