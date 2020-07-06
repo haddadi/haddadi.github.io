@@ -36,9 +36,7 @@ For project details, please visit the Systems and Algorithms Laboratory ([SysAL]
 
 *   [Yuting Zhan](https://www.imperial.ac.uk/people/yuting.zhan18) (HDI, funded by [CSC Imperial Scholarship](https://www.imperial.ac.uk/study/pg/fees-and-funding/scholarships/international-scholarship-collaborations/csc/)).
 
-*   [Ali Shahin Shamsabadi](https://alishahin.github.io/) (Privacy-preserving Deep Learning, funded by QMUL [CIS](http://cis.eecs.qmul.ac.uk/) Scholarship).
-
-*   [Mohammad Malekzadeh](https://mmalekzadeh.github.io/) (Privacy-preserving time-series data analytics, funded by [QMUL Life Science Initiative](http://www.qmul.ac.uk/lifesciences/)).
+*   [Ali Shahin Shamsabadi](https://alishahin.github.io/) (Privacy-preserving Deep Learning, funded by QMUL [CIS](http://cis.eecs.qmul.ac.uk/) Scholarship). 
 
 
 I am interested in hearing from potential PhD students in my areas of research interests. If you have interesting ideas and wish to discuss funding opportunities for next year, please send me an [email](mailto:h.haddadi@imperial.ac.uk) (no attachments please!)
@@ -72,6 +70,8 @@ I am interested in hearing from potential PhD students in my areas of research i
 *   Self-Organising Collegiate Sensor Networks (MSc student, [DTI SECOAS Project](http://www.lancaster.ac.uk/staff/marshai2/secoas/secoas.htm))
 
 ## Past Visitors/Staff/Students
+
+[Mohammad Malekzadeh](https://mmalekzadeh.github.io/) (Privacy-preserving time-series data analytics, funded by [QMUL Life Science Initiative](http://www.qmul.ac.uk/lifesciences/))  
 
 [Dr Kleomenis Katevas](https://minoskt.github.io) (Postdoctoral Research Associate on the [Databox Project](https://www.databoxproject.uk)) 
 
