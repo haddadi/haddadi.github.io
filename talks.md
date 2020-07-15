@@ -1,6 +1,7 @@
 **Invited talks:**
 
 * "User-Centric Personal Data Analytics on the Edge", Sharif University of Technology, Tehran, Iran, July 2020  
+* "Towards Automatic Identification and Blocking of Non-Critical IoT Traffic Destinations", INRIA Privacy workshop, Grenobles, France, March 2020  
 * "Defence Against Dark Artefacts", ThousandEyes Research Seminar, San Francisco, CA, USA, Dec 2019 
 * "Databox: Platform for Privacy-Aware Personal Data Analytics", BBC AI and Data Initiative workshop, Media City, UK, Nov 2019 
 * "Defence Against Dark Artefacts", University of Bristol Cyber Securty CDT, Bristol, UK, Oct 2019 
