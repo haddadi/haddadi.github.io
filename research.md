@@ -79,7 +79,7 @@ I am interested in hearing from potential PhD students in my areas of research i
 
 [Dr Kleomenis Katevas](http://minoskt.github.io/) (PhD: Analysing and influencing crowd behaviors using mobile sensing, co-advised with [Laurissa Tokarchuk](http://www.eecs.qmul.ac.uk/%7Elaurissa/), funded by DSTL, graduated August 2018).
 
-[Yousef Amar](http://yousefamar.com/) (Personal Data Analytics on the [Databox Project](http://www.databoxproject.uk), funded by QMUL [CIS](http://cis.eecs.qmul.ac.uk/) Scholarship).
+[Dr Yousef Amar](http://yousefamar.com/) (Personal Data Analytics on the [Databox Project](http://www.databoxproject.uk), funded by QMUL [CIS](http://cis.eecs.qmul.ac.uk/) Scholarship).
 
 [Dr Panagiotis Papadopoulos](http://users.ics.forth.gr/~panpap/){:target="_blank"} (Visiting PhD student, ICS-FORTH) 
 
