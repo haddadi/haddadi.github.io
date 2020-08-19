@@ -12,8 +12,7 @@ permalink: /publications/
 *   Mohammad Malekzadeh, Richard G. Clegg, Andrea Cavallaro, Hamed Haddadi, "DANA: Dimension-Adaptive Neural Architecture for Multivariate Sensor Data
 ", (Paper available on [ArXiv](https://arxiv.org/abs/2008.02397){:target="_blank"}, [Code](https://github.com/mmalekzadeh/dana){:target="_blank"}, [Tutorial](https://colab.research.google.com/github/mmalekzadeh/dana/blob/master/experiment/DANA_a_tutorial.ipynb){:target="_blank"}) 
 
-*   Ranya Aloufi, Hamed Haddadi, David Boyle, "Privacy-preserving Voice Analysis via Disentangled Representations
-", (Paper available on [ArXiv](https://arxiv.org/abs/2007.15064){:target="_blank"}) 
+*   Ranya Aloufi, Hamed Haddadi, David Boyle, "Privacy-preserving Voice Analysis via Disentangled Representations", in The ACM Cloud Computing Security Workshop ([CCSW 2020](https://ccsw.io){:target="_blank"}), in conjunction with the ACM Conference on Computer and Communications Security ([CCS](http://www.sigsac.org/ccs/CCS2020/){:target="_blank"}), November 9, 2020, Orlando, Florida (Paper available on [ArXiv](https://arxiv.org/abs/2007.15064){:target="_blank"}) 
 
 *   Kleomenis Katevas, Eugene Bagdasaryan, Jason Waterman, Mohamad Mounir Safadieh, Hamed Haddadi, Deborah Estrin, "Policy-Based Federated Learning", (Paper available on [ArXiv](https://arxiv.org/abs/2003.06612){:target="_blank"}, [Code](https://github.com/minoskt/PoliFL){:target="_blank"}) 
 
