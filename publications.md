@@ -9,6 +9,8 @@ permalink: /publications/
 
 ### 2020: 
 
+*   Fan Mo, Anastasia Borovykh, Mohammad Malekzadeh, Hamed Haddadi, Soteris Demetriou, "Layer-wise Characterization of Latent Information Leakage in Federated Learning", (Paper available on [ArXiv](http://arxiv.org/abs/2010.08762){:target="_blank"}, [Code](https://github.com/minoskt/PoliFL){:target="_blank"}) 
+
 *   Mohammad Malekzadeh, Richard G. Clegg, Andrea Cavallaro, Hamed Haddadi, "DANA: Dimension-Adaptive Neural Architecture for Multivariate Sensor Data
 ", (Paper available on [ArXiv](https://arxiv.org/abs/2008.02397){:target="_blank"}, [Code](https://github.com/mmalekzadeh/dana){:target="_blank"}, [Tutorial](https://colab.research.google.com/github/mmalekzadeh/dana/blob/master/experiment/DANA_a_tutorial.ipynb){:target="_blank"}) 
 
