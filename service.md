@@ -71,6 +71,7 @@ I offer consultancy services on research project and patent disputes, privacy, o
 
 ## PhD examination
 
+Anders Tungeland Gjerdrum, UiT The Arctic University of Norway, November 2020       
 Yifan Du, INRIA, France, July 2020                          
 Liuqing Chen, Imperial College London, January 2020    
 William Wilkinson, Queen Mary University London, September 2019  
