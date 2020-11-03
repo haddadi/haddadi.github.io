@@ -9,6 +9,8 @@ permalink: /publications/
 
 ### 2020: 
 
+*   Yuchen Zhao, Hanyang Liu, Honglin Li, Payam Barnaghi, Hamed Haddadi, "Semi-supervised Federated Learning for Activity Recognition", (Paper available on [ArXiv](https://arxiv.org/abs/2011.00851){:target="_blank"})  
+
 *   Fan Mo, Anastasia Borovykh, Mohammad Malekzadeh, Hamed Haddadi, Soteris Demetriou, "Layer-wise Characterization of Latent Information Leakage in Federated Learning", (Paper available on [ArXiv](http://arxiv.org/abs/2010.08762){:target="_blank"}, [Code](https://github.com/minoskt/PoliFL){:target="_blank"}) 
 
 *   Mohammad Malekzadeh, Richard G. Clegg, Andrea Cavallaro, Hamed Haddadi, "DANA: Dimension-Adaptive Neural Architecture for Multivariate Sensor Data
