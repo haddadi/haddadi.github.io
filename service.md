@@ -10,7 +10,7 @@ permalink: /service/
 
 *   [UK Next Generation Networking](http://coseners.net/) Multi-Service Networks Program Committee co-chair (since 2013, alongside [Iain Philips](https://iainwp.github.io/about/))  
 
-*   The 44th International ACM SIGIR Conference on Research and Development in Information Retrieval ([ACM SIGIR 2021](https://sigir.org/sigir2021/){:target="_blank"})  
+*   The 44th ACM SIGIR Conference on Research and Development in Information Retrieval ([ACM SIGIR 2021](https://sigir.org/sigir2021/){:target="_blank"})  
 
 *   The 27th ACM Annual International Conference on Mobile Computing and Networking ([ACM MobiCom 2021](https://sigmobile.org/mobicom/2021/){:target="_blank"}) 
 
@@ -20,7 +20,7 @@ permalink: /service/
 
 *   ACM SIGCOMM Internet Measurement Conference 2020 ([IMC 2020](http://conferences.sigcomm.org/imc/2020/){:target="_blank"}) 
 
-*   The 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval ([ACM SIGIR 2020](https://sigir.org/sigir2020/){:target="_blank"})   
+*   The 43rd ACM SIGIR Conference on Research and Development in Information Retrieval ([ACM SIGIR 2020](https://sigir.org/sigir2020/){:target="_blank"})   
 
 *   Third UK Mobile, Wearable and Ubiquitous Systems Research Symposium ([MobiUK 2020](https://mobiuk.org){:target="_blank"})
 
