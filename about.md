@@ -19,6 +19,8 @@ We are always keen to support exceptional candidates for the [Imperial College R
 
 ### News
 
+Nevember 2020: [Xavier Cadet](https://www.imperial.ac.uk/people/xavier.cadet17) joins us as a new PhD student interested in Artificial Intelligence for Health, funded by the [UKRI CDT in AI for Healthcare](https://ai4health.io/){:target="_blank"}.  
+
 October 2020: I was interviewed by Privacy Collective on online privacy and the case of Amazon. Read the full report [here](https://theprivacycollective.eu/en/privacy-matters/an-interview-with-hamed-haddadi-researcher-engineer-imperial-college-and-brave/){:target="_blank"}. 
 
 September 2020: I took part in preparing the Government Office for Science’s [report on the Future of Citizen Data Systems](https://www.gov.uk/government/publications/the-future-of-citizen-data-systems){:target="_blank"}, published alongside the [National Data Strategy consultation](https://www.gov.uk/government/news/government-publishes-new-strategy-to-kickstart-data-revolution-across-the-uk){:target="_blank"}.
