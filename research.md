@@ -28,7 +28,7 @@ For project details, please visit the Systems and Algorithms Laboratory ([SysAL]
 
 ## Current Research Students
 
-*   [Xavier Cadet](https://www.imperial.ac.uk/people/xavier.cadet17) (Artificial Intelligence for Health, funded by [UKRI CDT in AI for Healthcare](https://ai4health.io/){:target="_blank"} ).  
+*   [Xavier Cadet](https://www.imperial.ac.uk/people/xavier.cadet17) (Artificial Intelligence for Health, funded by [UKRI CDT in AI for Healthcare](https://ai4health.io/){:target="_blank"}).  
 
 *   [Eman Maali](https://www.imperial.ac.uk/people/e.maali19) (IoT Security, funded by Schlumberger Foundation).
 
