@@ -18,7 +18,7 @@ permalink: /service/
 
 *   The 18th USENIX Symposium on Networked Systems Design and Implementation ([NSDI 2021](https://www.usenix.org/conference/nsdi21/){:target="_blank"}) 
 
-*   The 1st Workshop on Machine Learning and Systems ([EuroMLSys](https://www.euromlsys.eu/){:target="_blank"})   
+*   The 1st Workshop on Machine Learning and Systems ([EuroMLSys 2021](https://www.euromlsys.eu/){:target="_blank"})   
 
 *   The 16th ACM International Conference on emerging Networking EXperiments and Technologies ([CoNEXT 2020](https://conferences2.sigcomm.org/co-next/2020/){:target="_blank"}) 
 
