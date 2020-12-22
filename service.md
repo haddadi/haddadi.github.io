@@ -43,7 +43,7 @@ permalink: /service/
 
 *   [Royal Society Open Science](http://rsos.royalsocietypublishing.org/) [Editorial Board](http://rsos.royalsocietypublishing.org/editorial-board) (Computer Sciences section, March 2017 until December 2019)
 
-*   ACM SIGCOMM [Computer Communication Review](https://ccronline.sigcomm.org){:target="_blank"} (Nov 2017-now)
+*   ACM SIGCOMM [Computer Communication Review](https://ccronline.sigcomm.org){:target="_blank"} (Nov 2017- Dec 2020)
 
 
 ## Journals (Reviewer)
