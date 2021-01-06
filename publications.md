@@ -7,6 +7,11 @@ permalink: /publications/
 ## [GitHub code](https://github.com/haddadi/){:target="_blank"}
 
 
+### 2021: 
+
+*  Yuting Zhan, Hamed Haddadi, "MoSen: Activity Modelling in Multiple-Occupancy Smart Homes", (Paper available on [ArXiv](http://arxiv.org/abs/2101.00235){:target="_blank"})  
+
+
 ### 2020: 
 
 *   Yuchen Zhao, Hanyang Liu, Honglin Li, Payam Barnaghi, Hamed Haddadi, "Semi-supervised Federated Learning for Activity Recognition", (Paper available on [ArXiv](https://arxiv.org/abs/2011.00851){:target="_blank"})  
