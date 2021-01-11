@@ -20,11 +20,11 @@ For project details, please visit the Systems and Algorithms Laboratory ([SysAL]
 
 ## Current Research Staff
 
-*   [Yuchen Zhao](https://www.imperial.ac.uk/people/yuchen.zhao19) (Postdoctoral Research Associate on the [UK DRI Care Research & Technology programme](https://www.imperial.ac.uk/news/190934/20m-centre-enable-people-with-dementia/){:target="_blank"} 
+*   [Dr Yuchen Zhao](https://www.imperial.ac.uk/people/yuchen.zhao19) (Postdoctoral Research Associate on the [UK DRI Care Research & Technology programme](https://www.imperial.ac.uk/news/190934/20m-centre-enable-people-with-dementia/){:target="_blank"} 
 
-*   [Anna Maria Mandalari](https://www.imperial.ac.uk/people/anna-maria.mandalari) (Postdoctoral Research Associate on the [Databox Project](https://www.databoxproject.uk))
+*   [Dr Anna Maria Mandalari](https://www.imperial.ac.uk/people/anna-maria.mandalari) (Postdoctoral Research Associate on the [Databox Project](https://www.databoxproject.uk))
 
-*   [Roman Kolcun](https://www.imperial.ac.uk/people/roman.kolcun) (Postdoctoral Research Associate on the [DADA Project](https://www.imperial.ac.uk/systems-algorithms-design-lab/research/dada-project/))
+*   [Dr Roman Kolcun](https://www.imperial.ac.uk/people/roman.kolcun) (Postdoctoral Research Associate on the [DADA Project](https://www.imperial.ac.uk/systems-algorithms-design-lab/research/dada-project/))
 
 ## Current Research Students
 
@@ -73,7 +73,7 @@ I am interested in hearing from potential PhD students in my areas of research i
 
 [Ali Shahin Shamsabadi](https://alishahin.github.io/) (Privacy-preserving Deep Learning, funded by QMUL [CIS](http://cis.eecs.qmul.ac.uk/) Scholarship) 
 
-[Mohammad Malekzadeh](https://mmalekzadeh.github.io/) (Privacy-preserving time-series data analytics, funded by [QMUL Life Science Initiative](http://www.qmul.ac.uk/lifesciences/))  
+[Dr Mohammad Malekzadeh](https://mmalekzadeh.github.io/) (Privacy-preserving time-series data analytics, funded by [QMUL Life Science Initiative](http://www.qmul.ac.uk/lifesciences/))  
 
 [Dr Kleomenis Katevas](https://minoskt.github.io) (Postdoctoral Research Associate on the [Databox Project](https://www.databoxproject.uk)) 
 
