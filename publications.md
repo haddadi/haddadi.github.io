@@ -9,7 +9,7 @@ permalink: /publications/
 
 ### 2021: 
 
-*  Yuting Zhan, Hamed Haddadi, "MoSen: Activity Modelling in Multiple-Occupancy Smart Homes", (Paper available on [ArXiv](http://arxiv.org/abs/2101.00235){:target="_blank"})  
+*  Yuting Zhan, Hamed Haddadi, "MoSen: Activity Modelling in Multiple-Occupancy Smart Homes", in 19th International Conference on Pervasive Computing and Communications (PerCom 2021), Kassel, Germany, March 2021. (Work in Progress session, full Paper available on [ArXiv](http://arxiv.org/abs/2101.00235){:target="_blank"})  
 
 
 ### 2020: 
