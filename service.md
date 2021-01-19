@@ -20,22 +20,6 @@ permalink: /service/
 
 *   The 1st Workshop on Machine Learning and Systems ([EuroMLSys 2021](https://www.euromlsys.eu/){:target="_blank"})   
 
-*   The 16th ACM International Conference on emerging Networking EXperiments and Technologies ([CoNEXT 2020](https://conferences2.sigcomm.org/co-next/2020/){:target="_blank"}) 
-
-*   ACM SIGCOMM Internet Measurement Conference 2020 ([IMC 2020](http://conferences.sigcomm.org/imc/2020/){:target="_blank"}) 
-
-*   The 43rd ACM SIGIR Conference on Research and Development in Information Retrieval ([ACM SIGIR 2020](https://sigir.org/sigir2020/){:target="_blank"})   
-
-*   Third UK Mobile, Wearable and Ubiquitous Systems Research Symposium ([MobiUK 2020](https://mobiuk.org){:target="_blank"})
-
-*   The 26th ACM Annual International Conference on Mobile Computing and Networking ([ACM MobiCom 2020](https://sigmobile.org/mobicom/2020/){:target="_blank"})
-
-*   The Web Conference, 2020 ([WWW 2020](https://www2020.thewebconf.org){:target="_blank"}) 
-
-*   The 17th USENIX Symposium on Networked Systems Design and Implementation ([NSDI 2020](https://www.usenix.org/conference/nsdi20/){:target="_blank"}) 
-
-*   The 13th ACM International Conference on Web Search and Data Mining [WSDM 2020](http://www.wsdm-conference.org/2020/){:target="_blank"})
-
 
 ## Journals (Editorial Board)
 
@@ -164,6 +148,22 @@ This list got too big to be useful, we have too many conferences and workshops (
 External Reviewer for ACM CSCW2015, IEEE WiMob (2011), IEEE/ACM MASCOTS,ACM SIGCOMM, IEEE INFOCOMM, IEEE/ACM ToN, USENIX NSDI, BCS HCI, ACM IMC, ACM UBICOMP, ACM ISWC  
 
 *   [UK Next Generation Networking](http://coseners.net/) Multi-Service Networks Program Committee co-chair (2013-2020, alongside [Iain Philips](https://iainwp.github.io/about/))  
+
+*   The 16th ACM International Conference on emerging Networking EXperiments and Technologies ([CoNEXT 2020](https://conferences2.sigcomm.org/co-next/2020/){:target="_blank"}) 
+
+*   ACM SIGCOMM Internet Measurement Conference 2020 ([IMC 2020](http://conferences.sigcomm.org/imc/2020/){:target="_blank"}) 
+
+*   The 43rd ACM SIGIR Conference on Research and Development in Information Retrieval ([ACM SIGIR 2020](https://sigir.org/sigir2020/){:target="_blank"})   
+
+*   Third UK Mobile, Wearable and Ubiquitous Systems Research Symposium ([MobiUK 2020](https://mobiuk.org){:target="_blank"})
+
+*   The 26th ACM Annual International Conference on Mobile Computing and Networking ([ACM MobiCom 2020](https://sigmobile.org/mobicom/2020/){:target="_blank"})
+
+*   The Web Conference, 2020 ([WWW 2020](https://www2020.thewebconf.org){:target="_blank"}) 
+
+*   The 17th USENIX Symposium on Networked Systems Design and Implementation ([NSDI 2020](https://www.usenix.org/conference/nsdi20/){:target="_blank"}) 
+
+*   The 13th ACM International Conference on Web Search and Data Mining [WSDM 2020](http://www.wsdm-conference.org/2020/){:target="_blank"})
 
 *   [ACM SIGCOMM CoNext](http://www.sigcomm.org/events/conext-conference) conference Steering Committee Member (August 2016 to December 2019)  
 
