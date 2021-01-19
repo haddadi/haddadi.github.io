@@ -8,8 +8,6 @@ permalink: /service/
 
 ## Current Community Engagements (Program/Organising Committee)
 
-*   [UK Next Generation Networking](http://coseners.net/) Multi-Service Networks Program Committee co-chair (since 2013, alongside [Iain Philips](https://iainwp.github.io/about/))  
-
 *   The ACM Special Interest Group on Data Communication ([ACM SIGCOMM 2021](https://conferences.sigcomm.org/sigcomm/2021/){:target="_blank"})  
 
 *   The 44th ACM SIGIR Conference on Research and Development in Information Retrieval ([ACM SIGIR 2021](https://sigir.org/sigir2021/){:target="_blank"})  
@@ -164,6 +162,8 @@ Former President/Committee member, UCL Electrical Engineering Society ([Fleming]
 This list got too big to be useful, we have too many conferences and workshops (though many of them are pretty good!).
 
 External Reviewer for ACM CSCW2015, IEEE WiMob (2011), IEEE/ACM MASCOTS,ACM SIGCOMM, IEEE INFOCOMM, IEEE/ACM ToN, USENIX NSDI, BCS HCI, ACM IMC, ACM UBICOMP, ACM ISWC  
+
+*   [UK Next Generation Networking](http://coseners.net/) Multi-Service Networks Program Committee co-chair (2013-2020, alongside [Iain Philips](https://iainwp.github.io/about/))  
 
 *   [ACM SIGCOMM CoNext](http://www.sigcomm.org/events/conext-conference) conference Steering Committee Member (August 2016 to December 2019)  
 
