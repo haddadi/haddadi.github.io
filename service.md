@@ -3,6 +3,8 @@ layout: page
 title: Educational and Community Activities
 permalink: /service/
 ---
+## Current External affiliations
+* Visiting Professor, [Brave Software](https://brave.com/) (2018-)
 
 ## [Invited Talks](https://haddadi.github.io/talks.md)
 
@@ -20,6 +22,14 @@ permalink: /service/
 
 *   The 1st Workshop on Machine Learning and Systems ([EuroMLSys 2021](https://www.euromlsys.eu/){:target="_blank"})   
 
+## Consultancy
+
+I offer consultancy services on research project and patent disputes, privacy, online advertising, and systems approach to related areas. Please contact me for informal discussions about your requirements and projects.
+
+## External examination
+
+* Taught Programme External Examiner for the [MSc in Computer Science programme at Trinity College Dublin](http://www.scss.tcd.ie/postgraduate/msc-cs) (2021-)
+* Taught Programme External Examiner for the [UCL Telecommunications MSc](https://www.ucl.ac.uk/prospective-students/graduate/taught/degrees/telecommunications-msc) Programmes Board of Examiners (2017-2021)
 
 ## Journals (Editorial Board)
 
@@ -51,15 +61,6 @@ Cambridge University Computer Laboratory on MPhil course with Jon Crowcroft, Net
 2011-2012: QMUL AMCM051 The Semantic Web (PG) with Félix Cuadrado
 
 I am also a Fellow of the [Higher Education Academy](https://www.heacademy.ac.uk/).
-
-## Consultancy
-
-I offer consultancy services on research project and patent disputes, privacy, online advertising, and systems approach to related areas. Please contact me for informal discussions about your requirements and projects.
-
-## External examination
-
-* Taught Programme External Examiner for the [MSc in Computer Science programme at Trinity College Dublin](http://www.scss.tcd.ie/postgraduate/msc-cs) (2021-)
-* Taught Programme External Examiner for the [UCL Telecommunications MSc](https://www.ucl.ac.uk/prospective-students/graduate/taught/degrees/telecommunications-msc) Programmes Board of Examiners (2017-2021)
 
 ## PhD examination
 
@@ -96,10 +97,6 @@ Swiss National Science Foundation (SNSF)
 Indo Swiss Joint Research Programme (ISJRP)  
 Natural Sciences and Engineering Research Council of Canada  
 Canada Foundation for Innovation  
-
-## Current External affiliations
-
-* Visiting Professor, [Brave Software](https://brave.com/)
 
 ## Administration
 
