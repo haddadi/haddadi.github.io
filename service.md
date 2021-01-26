@@ -57,7 +57,9 @@ I am also a Fellow of the [Higher Education Academy](https://www.heacademy.ac.uk
 I offer consultancy services on research project and patent disputes, privacy, online advertising, and systems approach to related areas. Please contact me for informal discussions about your requirements and projects.
 
 ## External examination
-* Taught Programme External Examiner for [UCL Telecommunications MSc](https://www.ucl.ac.uk/prospective-students/graduate/taught/degrees/telecommunications-msc) Programmes Board of Examiners (2017-2021)
+
+* Taught Programme External Examiner for the [MSc in Computer Science programme at Trinity College Dublin](http://www.scss.tcd.ie/postgraduate/msc-cs) (2021-)
+* Taught Programme External Examiner for the [UCL Telecommunications MSc](https://www.ucl.ac.uk/prospective-students/graduate/taught/degrees/telecommunications-msc) Programmes Board of Examiners (2017-2021)
 
 ## PhD examination
 
