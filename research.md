@@ -24,7 +24,6 @@ For project details, please visit the Systems and Algorithms Laboratory ([SysAL]
 
 *   [Dr Anna Maria Mandalari](https://www.imperial.ac.uk/people/anna-maria.mandalari) (Postdoctoral Research Associate on the [Databox Project](https://www.databoxproject.uk))
 
-*   [Dr Roman Kolcun](https://www.imperial.ac.uk/people/roman.kolcun) (Postdoctoral Research Associate on the [DADA Project](https://www.imperial.ac.uk/systems-algorithms-design-lab/research/dada-project/))
 
 ## Current Research Students
 
@@ -70,6 +69,8 @@ I am interested in hearing from potential PhD students in my areas of research i
 *   Self-Organising Collegiate Sensor Networks (MSc student, [DTI SECOAS Project](http://www.lancaster.ac.uk/staff/marshai2/secoas/secoas.htm))
 
 ## Past Visitors/Staff/Students
+
+[Dr Roman Kolcun](https://www.imperial.ac.uk/people/roman.kolcun) (Postdoctoral Research Associate on the [DADA Project](https://www.imperial.ac.uk/systems-algorithms-design-lab/research/dada-project/))
 
 [Ali Shahin Shamsabadi](https://alishahin.github.io/) (Privacy-preserving Deep Learning, funded by QMUL [CIS](http://cis.eecs.qmul.ac.uk/) Scholarship) 
 
