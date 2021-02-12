@@ -40,7 +40,7 @@ I am interested in hearing from potential PhD students in my areas of research i
 
 ## Past Projects/Grants
 
-*   EPSRC [Databox](https://www.databoxproject.uk): Privacy-Aware Infrastructure for Managing Personal Data ([EP/N028260/1](http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/N028260/1) £1,238,585 starting October 2016)  
+*   EPSRC [Databox](https://github.com/me-box/databox): Privacy-Aware Infrastructure for Managing Personal Data ([EP/N028260/1](http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/N028260/1) £1,238,585 starting October 2016)  
 
 *   EPSRC IoT research-in-the-wild: [Connected Seeds and Sensors](http://www.connectedseeds.org/) ([EP/L023504/1](http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/L023504/1) £ 321,053 October 2015- March 2017)
 
