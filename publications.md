@@ -11,6 +11,8 @@ permalink: /publications/
 
 *  Yuting Zhan, Hamed Haddadi, "MoSen: Activity Modelling in Multiple-Occupancy Smart Homes", in 19th IEEE International Conference on Pervasive Computing and Communications ([PerCom 2021](http://www.percom.org/)), Kassel, Germany, March 2021. (Work in Progress session, full Paper available on [ArXiv](http://arxiv.org/abs/2101.00235){:target="_blank"})  
 
+*   Kleomenis Katevas, Eugene Bagdasaryan, Jason Waterman, Mohamad Mounir Safadieh, Hamed Haddadi, Deborah Estrin, "Policy-Based Federated Learning", (Paper available on [ArXiv](https://arxiv.org/abs/2003.06612){:target="_blank"}, [Code](https://github.com/minoskt/PoliFL){:target="_blank"}) 
+
 
 ### 2020: 
 
@@ -24,8 +26,6 @@ permalink: /publications/
 ", (Paper available on [ArXiv](https://arxiv.org/abs/2008.02397){:target="_blank"}, [Code](https://github.com/mmalekzadeh/dana){:target="_blank"}, [Tutorial](https://colab.research.google.com/github/mmalekzadeh/dana/blob/master/experiment/DANA_a_tutorial.ipynb){:target="_blank"}) 
 
 *   Ranya Aloufi, Hamed Haddadi, David Boyle, "Privacy-preserving Voice Analysis via Disentangled Representations", in The ACM Cloud Computing Security Workshop ([CCSW 2020](https://ccsw.io){:target="_blank"}), in conjunction with the ACM Conference on Computer and Communications Security ([CCS](http://www.sigsac.org/ccs/CCS2020/){:target="_blank"}), November 9, 2020, Orlando, Florida (Paper available on [ArXiv](https://arxiv.org/abs/2007.15064){:target="_blank"}) 
-
-*   Kleomenis Katevas, Eugene Bagdasaryan, Jason Waterman, Mohamad Mounir Safadieh, Hamed Haddadi, Deborah Estrin, "Policy-Based Federated Learning", (Paper available on [ArXiv](https://arxiv.org/abs/2003.06612){:target="_blank"}, [Code](https://github.com/minoskt/PoliFL){:target="_blank"}) 
 
 *   Said Jawad Saidi, Anna Maria Mandalari, Roman Kolcun, Hamed Haddadi, Daniel J. Dubois, David Choffnes, Georgios Smaragdakis, Anja Feldmann, "A Haystack Full of Needles: Scalable Detection of IoT Devices in the Wild", in [ACM Internet Measurement Conference 2020](https://conferences.sigcomm.org/imc/2020/){:target="_blank"}, October 2020, Pittsburgh, Pennsylvania, USA. ([Paper and data available](https://moniotrlab.ccis.neu.edu/imc20/){:target="_blank"})
 
