@@ -68,6 +68,8 @@ I am also a Fellow of the [Higher Education Academy](https://www.heacademy.ac.uk
 
 ## PhD examination
 
+Michael Andreas Haus, Technical University of Munich, January 2021     
+Mohammed Ayyoob Ahamed Hamza, UNSW Sydney, November 2020    
 Anders Tungeland Gjerdrum, UiT The Arctic University of Norway, November 2020       
 Yifan Du, INRIA, France, July 2020                          
 Liuqing Chen, Imperial College London, January 2020    
