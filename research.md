@@ -70,7 +70,7 @@ I am interested in hearing from potential PhD students in my areas of research i
 
 [Dr Roman Kolcun](https://www.imperial.ac.uk/people/roman.kolcun) (Postdoctoral Research Associate on the [DADA Project](https://www.imperial.ac.uk/systems-algorithms-design-lab/research/dada-project/))
 
-[Ali Shahin Shamsabadi](https://alishahin.github.io/) (Privacy-preserving Deep Learning, funded by QMUL [CIS](http://cis.eecs.qmul.ac.uk/) Scholarship) 
+[Dr Ali Shahin Shamsabadi](https://alishahin.github.io/) (Privacy-preserving Deep Learning, funded by QMUL [CIS](http://cis.eecs.qmul.ac.uk/) Scholarship) 
 
 [Dr Mohammad Malekzadeh](https://mmalekzadeh.github.io/) (Privacy-preserving time-series data analytics, funded by [QMUL Life Science Initiative](http://www.qmul.ac.uk/lifesciences/))  
 
