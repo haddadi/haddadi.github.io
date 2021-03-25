@@ -19,6 +19,8 @@ We are always keen to support exceptional candidates for the [Imperial College R
 
 ### News
 
+March 2021: Our paper "PPFL: Privacy-preserving Federated Learning with Trusted Execution Environments" with Fan Mo, Kleomenis Katevas, Eduard Marin, Diego Perino, and Nicolas Kourtellis has been accepted to The 19th ACM International Conference on Mobile Systems, Applications, and Services ([MobiSys 2021](https://www.sigmobile.org/mobisys/2021/)), Congratulations Fan!
+
 January 2021: I'll be the TPC co-Chair for [TMA 2021](https://tma.ifip.org/2021). Please consider submitting your fine network/systems papers.
 
 January 20201: Dr [Mohammad Malekzadeh](https://mmalekzadeh.github.io){:target="_blank"} has passed his PhD viva. Congrats Mohammad.
