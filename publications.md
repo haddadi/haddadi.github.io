@@ -9,6 +9,8 @@ permalink: /publications/
 
 ### 2021: 
 
+*  Fan Mo, Hamed Haddadi, Kleomenis Katevas, Eduard Marin, Diego Perino, Nicolas Kourtellis, "PPFL: Privacy-preserving Federated Learning with Trusted Execution Environments", in The 19th ACM International Conference on Mobile Systems, Applications, and Services ([MobiSys 2021](https://www.sigmobile.org/mobisys/2021/)), Online, July 2021. (Full Paper available on [ArXiv](){:target="_blank"})  
+
 *  Yuting Zhan, Hamed Haddadi, "MoSen: Activity Modelling in Multiple-Occupancy Smart Homes", in 19th IEEE International Conference on Pervasive Computing and Communications ([PerCom 2021](http://www.percom.org/)), Kassel, Germany, March 2021. (Work in Progress session, full Paper available on [ArXiv](http://arxiv.org/abs/2101.00235){:target="_blank"})  
 
 *   Kleomenis Katevas, Eugene Bagdasaryan, Jason Waterman, Mohamad Mounir Safadieh, Hamed Haddadi, Deborah Estrin, "Policy-Based Federated Learning", (Paper available on [ArXiv](https://arxiv.org/abs/2003.06612){:target="_blank"}, [Code](https://github.com/minoskt/PoliFL){:target="_blank"}) 
