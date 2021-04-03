@@ -11,6 +11,8 @@ permalink: /publications/
 
 *  Fan Mo, Hamed Haddadi, Kleomenis Katevas, Eduard Marin, Diego Perino, Nicolas Kourtellis, "PPFL: Privacy-preserving Federated Learning with Trusted Execution Environments", in The 19th ACM International Conference on Mobile Systems, Applications, and Services ([MobiSys 2021](https://www.sigmobile.org/mobisys/2021/)), Online, July 2021. (Full Paper available on [ArXiv](){:target="_blank"})  
 
+*   Fan Mo, Anastasia Borovykh, Mohammad Malekzadeh, Hamed Haddadi, Soteris Demetriou, "Layer-wise Characterization of Latent Information Leakage in Federated Learning", Distributed and Private Machine Learning workshop at ICLR 2021 ([DPML 2021](https://dp-ml.github.io/2021-workshop-ICLR/){:target="_blank"}), (Paper available on [ArXiv](http://arxiv.org/abs/2010.08762){:target="_blank"}, [Code](https://github.com/minoskt/PoliFL){:target="_blank"}) 
+
 *  Yuting Zhan, Hamed Haddadi, "MoSen: Activity Modelling in Multiple-Occupancy Smart Homes", in 19th IEEE International Conference on Pervasive Computing and Communications ([PerCom 2021](http://www.percom.org/)), Kassel, Germany, March 2021. (Work in Progress session, full Paper available on [ArXiv](http://arxiv.org/abs/2101.00235){:target="_blank"})  
 
 *   Kleomenis Katevas, Eugene Bagdasaryan, Jason Waterman, Mohamad Mounir Safadieh, Hamed Haddadi, Deborah Estrin, "Policy-Based Federated Learning", (Paper available on [ArXiv](https://arxiv.org/abs/2003.06612){:target="_blank"}, [Code](https://github.com/minoskt/PoliFL){:target="_blank"}) 
@@ -19,8 +21,6 @@ permalink: /publications/
 ### 2020: 
 
 *   Yuchen Zhao, Hanyang Liu, Honglin Li, Payam Barnaghi, Hamed Haddadi, "Semi-supervised Federated Learning for Activity Recognition", (Paper available on [ArXiv](https://arxiv.org/abs/2011.00851){:target="_blank"})  
-
-*   Fan Mo, Anastasia Borovykh, Mohammad Malekzadeh, Hamed Haddadi, Soteris Demetriou, "Layer-wise Characterization of Latent Information Leakage in Federated Learning", (Paper available on [ArXiv](http://arxiv.org/abs/2010.08762){:target="_blank"}, [Code](https://github.com/minoskt/PoliFL){:target="_blank"}) 
 
 *   Giuseppe Siracusano, Salvator Galea, Davide Sanvito, Mohammad Malekzadeh, Hamed Haddadi, Gianni Antichi, Roberto Bifulco, "Running Neural Networks on the NIC", (Paper available on [ArXiv](https://arxiv.org/abs/2009.02353){:target="_blank"}) 
 
