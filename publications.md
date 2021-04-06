@@ -13,6 +13,8 @@ permalink: /publications/
 
 *   Fan Mo, Anastasia Borovykh, Mohammad Malekzadeh, Hamed Haddadi, Soteris Demetriou, "Layer-wise Characterization of Latent Information Leakage in Federated Learning", Distributed and Private Machine Learning workshop at ICLR 2021 ([DPML 2021](https://dp-ml.github.io/2021-workshop-ICLR/){:target="_blank"}), (Paper available on [ArXiv](http://arxiv.org/abs/2010.08762){:target="_blank"}, [Code](https://github.com/minoskt/PoliFL){:target="_blank"}) 
 
+*   Ranya Aloufi, Hamed Haddadi, David Boyle, "Configurable Privacy-Preserving Automatic Speech Recognition", (Paper available on [ArXiv](http://arxiv.org/abs/2104.00766){:target="_blank"}, [Code](){:target="_blank"}) 
+
 *  Yuting Zhan, Hamed Haddadi, "MoSen: Activity Modelling in Multiple-Occupancy Smart Homes", in 19th IEEE International Conference on Pervasive Computing and Communications ([PerCom 2021](http://www.percom.org/)), Kassel, Germany, March 2021. (Work in Progress session, full Paper available on [ArXiv](http://arxiv.org/abs/2101.00235){:target="_blank"})  
 
 *   Kleomenis Katevas, Eugene Bagdasaryan, Jason Waterman, Mohamad Mounir Safadieh, Hamed Haddadi, Deborah Estrin, "Policy-Based Federated Learning", (Paper available on [ArXiv](https://arxiv.org/abs/2003.06612){:target="_blank"}, [Code](https://github.com/minoskt/PoliFL){:target="_blank"}) 
