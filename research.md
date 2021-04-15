@@ -12,7 +12,7 @@ For project details, please visit the Systems and Algorithms Laboratory ([SysAL]
 
   
 ## Current Projects and Grants
-
+  
 *   EPSRC Impact Acceleration Award, £100K, Starting April 2021
 *   [Human-Data Interaction](http://hdiresearch.org/), Legibility, Agency, Negotiability: EPSRC Network Plus grant ([EP/R045178/1](https://gtr.ukri.org/projects?ref=EP%2FR045178%2F1){:target="_blank"}, £1,040,837 starting September 2018)
 *   EPSRC [DADA: Defence Against Dark Artefacts](https://www.horizon.ac.uk/project/defence-against-dark-artefacts/){:target="_blank"} ([EP/R03351X/1](http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/R03351X/1){:target="_blank"}, £1,011,787 starting September 2018)
