@@ -25,7 +25,7 @@ January 2021: I'll be the TPC co-Chair for [TMA 2021](https://tma.ifip.org/2021)
 
 January 20201: Dr [Mohammad Malekzadeh](https://mmalekzadeh.github.io){:target="_blank"} has passed his PhD viva. Congrats Mohammad.
 
-December 2020: I deliverd the Keynote talk at [ACM CoNext 2020](https://conferences2.sigcomm.org/co-next/2020/#!/program){:target="_blank"}, titled "Towards 'trustworthy-by-design' networked systems".
+December 2020: I deliverd the Keynote talk at [ACM CoNext 2020](https://conferences2.sigcomm.org/co-next/2020/#!/program){:target="_blank"}, titled "Towards 'trustworthy-by-design' networked systems". [Video](https://www.youtube.com/watch?v=fboxXlrlXMY){:target="_blank"}
 
 November 2020: [Xavier Cadet](https://www.imperial.ac.uk/people/xavier.cadet17) joins us as a new PhD student interested in Artificial Intelligence for Health, funded by the [UKRI CDT in AI for Healthcare](https://ai4health.io/){:target="_blank"}.  
 
