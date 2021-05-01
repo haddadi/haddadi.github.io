@@ -19,7 +19,9 @@ We are always keen to support exceptional candidates for the [Imperial College R
 
 ### News
 
-March 2021: Our paper "PPFL: Privacy-preserving Federated Learning with Trusted Execution Environments" with Fan Mo, Kleomenis Katevas, Eduard Marin, Diego Perino, and Nicolas Kourtellis has been accepted to The 19th ACM International Conference on Mobile Systems, Applications, and Services ([MobiSys 2021](https://www.sigmobile.org/mobisys/2021/)), Congratulations Fan!
+May 2021: Our paper "Blocking without Breaking: Identification and Mitigation of Non-Essential IoT Traffi" with Anna Maria Mandalari, Daniel J. Dubois, Roman Kolcun, Muhammad Talha Paracha, and David Choffnes" had been accepted to the 21st Privacy Enhancing Technologies Symposium ([PETS 2021](https://petsymposium.org/2021/){:target="_blank"}). Congrats all! (Paper and code available on [IoTrim](http://iotrim.net/){:target="_blank"})  
+
+March 2021: Our paper "[PPFL: Privacy-preserving Federated Learning with Trusted Execution Environments](https://arxiv.org/abs/2010.08762){:target="_blank"" with Fan Mo, Kleomenis Katevas, Eduard Marin, Diego Perino, and Nicolas Kourtellis has been accepted to The 19th ACM International Conference on Mobile Systems, Applications, and Services ([MobiSys 2021](https://www.sigmobile.org/mobisys/2021/)), Congratulations Fan!
 
 January 2021: I'll be the TPC co-Chair for [TMA 2021](https://tma.ifip.org/2021). Please consider submitting your fine network/systems papers.
 
