@@ -19,7 +19,7 @@ We are always keen to support exceptional candidates for the [Imperial College R
 
 ### News
 
-May: Our team, led by [Anna Maria Mandalari](https://www.imperial.ac.uk/people/anna-maria.mandalari){:target="_blank"}, [Daniel J. Dubois](http://www.danieldubois.org){:target="_blank"}, and [David Choffnes](https://david.choffnes.com){:target="_blank"}, has won one of the TOP 10 spots in the [Telekom Challenge](https://telekom-challenge.com){:target="_blank"} Development Stream. We are receiving a generous gift to develop [IoTrim](http://iotrim.net/){:target="_blank"}. stay Tuned! 
+May: Our team, led by [Anna Maria Mandalari](https://www.imperial.ac.uk/people/anna-maria.mandalari){:target="_blank"}, [Daniel J. Dubois](http://www.danieldubois.org){:target="_blank"}, and [David Choffnes](https://david.choffnes.com){:target="_blank"}, has won one of the TOP 10 spots in the [Telekom Challenge](https://telekom-challenge.com){:target="_blank"} Development Stream. We are receiving a generous gift to develop [IoTrim](http://iotrim.net/){:target="_blank"}. Stay tuned for more news! 
 
 May 2021: Our paper "Blocking without Breaking: Identification and Mitigation of Non-Essential IoT Traffi" with Anna Maria Mandalari, Daniel J. Dubois, Roman Kolcun, Muhammad Talha Paracha, and David Choffnes" had been accepted to the 21st Privacy Enhancing Technologies Symposium ([PETS 2021](https://petsymposium.org/2021/){:target="_blank"}). Congrats all! (Paper and code available on [IoTrim](http://iotrim.net/){:target="_blank"})  
 
