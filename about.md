@@ -19,6 +19,8 @@ We are always keen to support exceptional candidates for the [Imperial College R
 
 ### News
 
+May: Our team, led by Anna Maria Mandalari, has won one of the TOP 10 spots in the [Telekom Challenge](https://telekom-challenge.com){:target="_blank"} Development Stream. We are receicing a generous gift to develop [IoTrim](http://iotrim.net/){:target="_blank"}. stay Tuned!
+
 May 2021: Our paper "Blocking without Breaking: Identification and Mitigation of Non-Essential IoT Traffi" with Anna Maria Mandalari, Daniel J. Dubois, Roman Kolcun, Muhammad Talha Paracha, and David Choffnes" had been accepted to the 21st Privacy Enhancing Technologies Symposium ([PETS 2021](https://petsymposium.org/2021/){:target="_blank"}). Congrats all! (Paper and code available on [IoTrim](http://iotrim.net/){:target="_blank"})  
 
 March 2021: Our paper "[PPFL: Privacy-preserving Federated Learning with Trusted Execution Environments](https://arxiv.org/abs/2010.08762){:target="_blank"" with Fan Mo, Kleomenis Katevas, Eduard Marin, Diego Perino, and Nicolas Kourtellis has been accepted to The 19th ACM International Conference on Mobile Systems, Applications, and Services ([MobiSys 2021](https://www.sigmobile.org/mobisys/2021/)), Congratulations Fan!
