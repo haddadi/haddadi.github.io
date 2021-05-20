@@ -39,7 +39,7 @@ September 2020: I took part in preparing the Government Office for Science’s [
 
 September 2020: Our paper "[Privacy-preserving Voice Analysis via Disentangled Representations](https://arxiv.org/abs/2007.15064){:target="_blank"}" with Ranya Aloufi and David Boyle has been accepted to The ACM Cloud Computing Security Workshop ([CCSW 2020](https://ccsw.io/)), in conjunction with the ACM Conference on Computer and Communications Security (CCS) 2020.
 
-August 2020: Our paper "[A Haystack Full of Needles: Scalable Detection of IoT Devices in the Wild](https://arxiv.org/abs/2009.01880){:target="_blank"}" with Said Jawad Saidi, Anna Maria Mandalari, Roman Kolcun, Daniel J. Dubois, David Choffnes, Georgios Smaragdakis, Anja Feldmann, has been accepted to the [ACM Internet Measurement Conference 2020](https://conferences.sigcomm.org/imc/2020/).
+August 2020: Our paper "[A Haystack Full of Needles: Scalable Detection of IoT Devices in the Wild](https://arxiv.org/abs/2009.01880){:target="_blank"}" with Said Jawad Saidi, Anna Maria Mandalari, Roman Kolcun, Daniel J. Dubois, David Choffnes, Georgios Smaragdakis, Anja Feldmann, has been accepted to the [ACM Internet Measurement Conference 2020](https://conferences.sigcomm.org/imc/2020/), [Presentation in RIPE](https://ripe82.ripe.net/archives/video/597/){:target="_blank"}.
 
 June 2020: I have been promoted! From September 2020 I will be a [Reader](https://en.wikipedia.org/wiki/Reader_(academic_rank)){:target="_blank"} in Human-Centred Systems at Imperial! Many thanks to all the amazing students, collaborators, and colleagues!
 
