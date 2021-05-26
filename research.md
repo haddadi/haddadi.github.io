@@ -6,14 +6,15 @@ permalink: /research/
 
 (Better strategy [1](http://www.cs.virginia.edu/%7Erobins/YouAndYourResearch.html), [2](http://www.cl.cam.ac.uk/%7Ejac22/zen-lab.txt) & [3](http://greatresearch.org/))
 
-For project details, please visit the Systems and Algorithms Laboratory ([SysAL](https://www.imperial.ac.uk/sysal)) pages.
+For project details, please visit the Systems and Algorithms Laboratory ([SysAL](https://www.imperial.ac.uk/sysal){:target="_blank"} ) pages.
 
 <a href="https://www.imperial.ac.uk/sysal/"><img src="https://raw.githubusercontent.com/haddadi/haddadi.github.io/master/images/SysALLogo.jpg" width="200"/>
 
   
 ## Current Projects and Grants
   
-*   EPSRC Impact Acceleration Award, £100K, Starting April 2021
+*   [MIT-Imperial Seed Fund](https://www.imperial.ac.uk/admin-services/international-relations/mit-imperial-seed-fund/){:target="_blank"} , $100K, Starting October 2021
+*   EPSRC Impact Acceleration Award, 100K, Starting April 2021
 *   [Human-Data Interaction](http://hdiresearch.org/), Legibility, Agency, Negotiability: EPSRC Network Plus grant ([EP/R045178/1](https://gtr.ukri.org/projects?ref=EP%2FR045178%2F1){:target="_blank"}, £1,040,837 starting September 2018)
 *   EPSRC [DADA: Defence Against Dark Artefacts](https://www.horizon.ac.uk/project/defence-against-dark-artefacts/){:target="_blank"} ([EP/R03351X/1](http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/R03351X/1){:target="_blank"}, £1,011,787 starting September 2018)
 *   [UK DRI Care Research & Technology programme](https://www.imperial.ac.uk/dementia-research-institute/care-research--technology-centre/){:target="_blank"} (£20m starting June 2019)
