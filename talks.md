@@ -1,5 +1,7 @@
 **Invited talks:**
 
+* "AI and IoT challenges", [Keynote talk](https://www.lorentzcenter.nl/beyond-the-mobile-cloud-computing-paradigm.html){:target="_blank"}, Beyond the Mobile-Cloud Computing Paradigm, Lorentz Center, Virtual, June 2021. 
+* "Defence Against Dark Artefacts", MIT IoT Seminar Series, MIT, March 2021.
 * "Towards 'trustworthy by design' networked systems", [Keynote talk](https://youtu.be/fboxXlrlXMY){:target="_blank"}, ACM CoNext Conference, Online, December 2020  
 * "User-Centric Personal Data Analytics on the Edge", Sharif University of Technology, Tehran, Iran, July 2020  
 * "Towards Automatic Identification and Blocking of Non-Critical IoT Traffic Destinations", INRIA Privacy workshop, Grenobles, France, March 2020  
