@@ -9,6 +9,9 @@ permalink: /publications/
 
 ### 2021: 
 
+
+*   Ranya Aloufi, Hamed Haddadi, David Boyle, "Configurable Privacy-Preserving Automatic Speech Recognition", [INTERSPEECH 2021](https://www.interspeech2021.org/){:target="_blank"}, Brno, Czechia, September 2021. (Paper available on [ArXiv](https://arxiv.org/abs/2104.00766v1){:target="_blank"}, [Code](){:target="_blank"}) 
+
 * Anna Maria Mandalari, Daniel J. Dubois, Roman Kolcun, Muhammad Talha Paracha, Hamed Haddadi, David Choffnes, "Blocking without Breaking: Identification and Mitigation of Non-Essential IoT Traffic", in 21st Privacy Enhancing Technologies Symposium ([PETS 2021](https://petsymposium.org/2021/){:target="_blank"}), July 12–16, 2021, On the Internet. ([Paper](http://arxiv.org/abs/2105.05162){:target="_blank"} and code available on [IoTrim](http://iotrim.net/){:target="_blank"}, [Consumer Reports coverage](https://www.consumerreports.org/privacy/connected-devices-share-more-data-than-needed-study-says-a7015033345/){:target="_blank"})  
 
 *  Fan Mo, Hamed Haddadi, Kleomenis Katevas, Eduard Marin, Diego Perino, Nicolas Kourtellis, "PPFL: Privacy-preserving Federated Learning with Trusted Execution Environments", in The 19th ACM International Conference on Mobile Systems, Applications, and Services ([MobiSys 2021](https://www.sigmobile.org/mobisys/2021/)), Online, July 2021. (Full Paper available on [ArXiv](https://arxiv.org/abs/2104.14380){:target="_blank"}, [Code](https://github.com/mofanv/PPFL){:target="_blank"}) 
@@ -18,8 +21,6 @@ permalink: /publications/
 *  Lorenzo Minto, Moritz Haller, Hamed Haddadi, Benjamin Livshits, "Stronger Privacy for Federated Collaborative Filtering with Implicit Feedback", (Paper available on [ArXiv](https://arxiv.org/abs/2105.03941){:target="_blank"})  
 
 *   Fan Mo, Anastasia Borovykh, Mohammad Malekzadeh, Hamed Haddadi, Soteris Demetriou, "Layer-wise Characterization of Latent Information Leakage in Federated Learning", Distributed and Private Machine Learning workshop at ICLR 2021 ([DPML 2021](https://dp-ml.github.io/2021-workshop-ICLR/){:target="_blank"}), Paper available on [ArXiv](http://arxiv.org/abs/2010.08762){:target="_blank"} 
-
-*   Ranya Aloufi, Hamed Haddadi, David Boyle, "Configurable Privacy-Preserving Automatic Speech Recognition", (Paper available on [ArXiv](http://arxiv.org/abs/2104.00766){:target="_blank"}, [Code](){:target="_blank"}) 
 
 *  Yuting Zhan, Hamed Haddadi, "MoSen: Activity Modelling in Multiple-Occupancy Smart Homes", in 19th IEEE International Conference on Pervasive Computing and Communications ([PerCom 2021](http://www.percom.org/)), Kassel, Germany, March 2021. (Work in Progress session, full Paper available on [ArXiv](http://arxiv.org/abs/2101.00235){:target="_blank"})  
 
