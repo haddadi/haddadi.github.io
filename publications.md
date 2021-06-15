@@ -12,6 +12,8 @@ permalink: /publications/
 
 *   Ranya Aloufi, Hamed Haddadi, David Boyle, "Configurable Privacy-Preserving Automatic Speech Recognition", [INTERSPEECH 2021](https://www.interspeech2021.org/){:target="_blank"}, Brno, Czechia, September 2021. (Paper available on [ArXiv](https://arxiv.org/abs/2104.00766v1){:target="_blank"}, [Code](){:target="_blank"}) 
 
+*   Roman Kolcun, Diana Andreea Popescu, Vadim Safronov, Poonam Yadav, Anna Maria Mandalari, Richard Mortier, Hamed Haddadi, "Revisiting IoT Device Identification", Network Traffic Measurement and Analysis Conference ([TMA 2021](https://tma.ifip.org/2021/){:target="_blank"}), September 13-15, 2021, Online. (Paper available on [ArXiv](https://arxiv.org/abs/2011.08605){:target="_blank"}
+
 * Anna Maria Mandalari, Daniel J. Dubois, Roman Kolcun, Muhammad Talha Paracha, Hamed Haddadi, David Choffnes, "Blocking without Breaking: Identification and Mitigation of Non-Essential IoT Traffic", in 21st Privacy Enhancing Technologies Symposium ([PETS 2021](https://petsymposium.org/2021/){:target="_blank"}), July 12–16, 2021, On the Internet. ([Paper](http://arxiv.org/abs/2105.05162){:target="_blank"} and code available on [IoTrim](http://iotrim.net/){:target="_blank"}, [Consumer Reports coverage](https://www.consumerreports.org/privacy/connected-devices-share-more-data-than-needed-study-says-a7015033345/){:target="_blank"})  
 
 *  Fan Mo, Hamed Haddadi, Kleomenis Katevas, Eduard Marin, Diego Perino, Nicolas Kourtellis, "PPFL: Privacy-preserving Federated Learning with Trusted Execution Environments", in The 19th ACM International Conference on Mobile Systems, Applications, and Services ([MobiSys 2021](https://www.sigmobile.org/mobisys/2021/)), Online, July 2021. (Full Paper available on [ArXiv](https://arxiv.org/abs/2104.14380){:target="_blank"}, [Code](https://github.com/mofanv/PPFL){:target="_blank"}) 
@@ -32,6 +34,8 @@ permalink: /publications/
 *   Yuchen Zhao, Hanyang Liu, Honglin Li, Payam Barnaghi, Hamed Haddadi, "Semi-supervised Federated Learning for Activity Recognition", (Paper available on [ArXiv](https://arxiv.org/abs/2011.00851){:target="_blank"})  
 
 *   Giuseppe Siracusano, Salvator Galea, Davide Sanvito, Mohammad Malekzadeh, Hamed Haddadi, Gianni Antichi, Roberto Bifulco, "Running Neural Networks on the NIC", (Paper available on [ArXiv](https://arxiv.org/abs/2009.02353){:target="_blank"}) 
+
+*   Roman Kolcun, Diana Andreea Popescu, Vadim Safronov, Poonam Yadav, Anna Maria Mandalari, Yiming Xie, Richard Mortier, Hamed Haddadi, "The Case for Retraining of ML Models for IoT Device Identification at the Edge", (Paper available on [ArXiv](https://arxiv.org/abs/2011.08605){:target="_blank"})  
 
 *   Mohammad Malekzadeh, Richard G. Clegg, Andrea Cavallaro, Hamed Haddadi, "DANA: Dimension-Adaptive Neural Architecture for Multivariate Sensor Data
 ", (Paper available on [ArXiv](https://arxiv.org/abs/2008.02397){:target="_blank"}, [Code](https://github.com/mmalekzadeh/dana){:target="_blank"}, [Tutorial](https://colab.research.google.com/github/mmalekzadeh/dana/blob/master/experiment/DANA_a_tutorial.ipynb){:target="_blank"}) 
