@@ -10,6 +10,8 @@ permalink: /service/
 
 ## Current Community Engagements (Program/Organising Committee)
 
+*   The 28th ACM Annual International Conference on Mobile Computing and Networking ([ACM MobiCom 2022](https://sigmobile.org/mobicom/2022/){:target="_blank"}) 
+
 *   The 17th International Conference on emerging Networking EXperiments and Technologies ([ACM CoNEXT 2021](https://conferences2.sigcomm.org/co-next/2021/){:target="_blank"})  
 
 *   The ACM Special Interest Group on Data Communication ([ACM SIGCOMM 2021](https://conferences.sigcomm.org/sigcomm/2021/){:target="_blank"})  
