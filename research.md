@@ -31,7 +31,9 @@ For project details, please visit the Systems and Algorithms Laboratory ([SysAL]
 
 *   [Xavier Cadet](https://www.imperial.ac.uk/people/xavier.cadet17) (Artificial Intelligence for Health, funded by [UKRI CDT in AI for Healthcare](https://ai4health.io/){:target="_blank"}).  
 
-*   [Ranya Aloufi](https://www.imperial.ac.uk/people/r.aloufi18) (Privacy in IoT, funded by Saudi Arabian Cultural Bureau).
+*   [Eman Maali](https://www.imperial.ac.uk/people/e.maali19) (Privacy in IoT, funded by Schlumberger Foundation).
+  
+*   [Ranya Aloufi](https://ranyajumah.github.io/publications/) (Privacy in Edge Compouting, funded by Saudi Arabian Cultural Bureau).
 
 *   [Fan Mo](https://mofanv.github.io) (Privacy-preserving trusted Mobile Computing, funded by CSC Scholarship).
 
