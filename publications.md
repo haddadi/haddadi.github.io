@@ -10,6 +10,8 @@ permalink: /publications/
 ### 2021: 
 
 
+*  Lorenzo Minto, Moritz Haller, Hamed Haddadi, Benjamin Livshits, "Stronger Privacy for Federated Collaborative Filtering with Implicit Feedback", in 15th ACM Conference on Recommender Systems ([RecSys 2021](https://recsys.acm.org/recsys21/){:target="_blank"}), Amsterdam, Netherlands, 27th September-1st October 2021. (Paper available on [ArXiv](https://arxiv.org/abs/2105.03941){:target="_blank"})  
+
 *   Ranya Aloufi, Hamed Haddadi, David Boyle, "Configurable Privacy-Preserving Automatic Speech Recognition", [INTERSPEECH 2021](https://www.interspeech2021.org/){:target="_blank"}, Brno, Czechia, September 2021. (Paper available on [ArXiv](https://arxiv.org/abs/2104.00766v1){:target="_blank"}, [Code](){:target="_blank"}) 
 
 *   Roman Kolcun, Diana Andreea Popescu, Vadim Safronov, Poonam Yadav, Anna Maria Mandalari, Richard Mortier, Hamed Haddadi, "Revisiting IoT Device Identification", Network Traffic Measurement and Analysis Conference ([TMA 2021](https://tma.ifip.org/2021/){:target="_blank"}), September 13-15, 2021, Online. (Paper available on [ArXiv](https://arxiv.org/abs/2011.08605){:target="_blank"})
@@ -19,8 +21,6 @@ permalink: /publications/
 *  Fan Mo, Hamed Haddadi, Kleomenis Katevas, Eduard Marin, Diego Perino, Nicolas Kourtellis, "PPFL: Privacy-preserving Federated Learning with Trusted Execution Environments", in The 19th ACM International Conference on Mobile Systems, Applications, and Services ([MobiSys 2021](https://www.sigmobile.org/mobisys/2021/)), Online, July 2021. ( **Best Paper Award** at MobiSys 2021, Full Paper available on [ArXiv](https://arxiv.org/abs/2104.14380){:target="_blank"}, [Code](https://github.com/mofanv/PPFL){:target="_blank"}, [Teaser video](https://www.youtube.com/watch?v=pBtsA0NGDzs){:target="_blank"}, [Full video](https://www.youtube.com/watch?v=r5yxjo5V1L8){:target="_blank"}) 
 
 *   Fan Mo, Anastasia Borovykh, Mohammad Malekzadeh, Hamed Haddadi, Soteris Demetriou, "Quantifying Information Leakage from Gradients", Paper available on [ArXiv](http://arxiv.org/abs/2105.13929){:target="_blank"}
-
-*  Lorenzo Minto, Moritz Haller, Hamed Haddadi, Benjamin Livshits, "Stronger Privacy for Federated Collaborative Filtering with Implicit Feedback", (Paper available on [ArXiv](https://arxiv.org/abs/2105.03941){:target="_blank"})  
 
 *   Fan Mo, Anastasia Borovykh, Mohammad Malekzadeh, Hamed Haddadi, Soteris Demetriou, "Layer-wise Characterization of Latent Information Leakage in Federated Learning", Distributed and Private Machine Learning workshop at ICLR 2021 ([DPML 2021](https://dp-ml.github.io/2021-workshop-ICLR/){:target="_blank"}), Paper available on [ArXiv](http://arxiv.org/abs/2010.08762){:target="_blank"} 
 
