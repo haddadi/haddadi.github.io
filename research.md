@@ -23,7 +23,7 @@ For project details, please visit the Systems and Algorithms Laboratory ([SysAL]
 
 *   [Dr Yuchen Zhao](https://www.imperial.ac.uk/people/yuchen.zhao19) (Postdoctoral Research Associate on the [UK DRI Care Research & Technology programme](https://www.imperial.ac.uk/news/190934/20m-centre-enable-people-with-dementia/){:target="_blank"} 
 
-*   [Dr Anna Maria Mandalari](https://www.imperial.ac.uk/people/anna-maria.mandalari) (Postdoctoral Research Associate on the [Databox Project](https://www.databoxproject.uk))
+*   [Dr Anna Maria Mandalari](https://www.imperial.ac.uk/people/anna-maria.mandalari) (Postdoctoral Research Associate on [IoTrim](http://iotrim.net/){:target="_blank"} 
 
 
 ## Current Research Students
