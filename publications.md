@@ -10,6 +10,9 @@ permalink: /publications/
 ### 2021: 
 
 
+*   Mohammad Malekzadeh, Richard G. Clegg, Andrea Cavallaro, Hamed Haddadi, "DANA: Dimension-Adaptive Neural Architecture for Multivariate Sensor Data
+", Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies([IMWUT/UBICOMP 2021]()){:target="_blank"}), September 2021. (Paper available on [ArXiv](https://arxiv.org/abs/2008.02397){:target="_blank"}, [Code](https://github.com/mmalekzadeh/dana){:target="_blank"}, [Tutorial](https://colab.research.google.com/github/mmalekzadeh/dana/blob/master/experiment/DANA_a_tutorial.ipynb){:target="_blank"}) 
+
 *  Lorenzo Minto, Moritz Haller, Hamed Haddadi, Benjamin Livshits, "Stronger Privacy for Federated Collaborative Filtering with Implicit Feedback", in 15th ACM Conference on Recommender Systems ([RecSys 2021](https://recsys.acm.org/recsys21/){:target="_blank"}), Amsterdam, Netherlands, 27th September-1st October 2021. (Paper available on [ArXiv](https://arxiv.org/abs/2105.03941){:target="_blank"})  
 
 *   Ranya Aloufi, Hamed Haddadi, David Boyle, "Configurable Privacy-Preserving Automatic Speech Recognition", [INTERSPEECH 2021](https://www.interspeech2021.org/){:target="_blank"}, Brno, Czechia, September 2021. (Paper available on [ArXiv](https://arxiv.org/abs/2104.00766v1){:target="_blank"}, [Code](){:target="_blank"}) 
@@ -36,9 +39,6 @@ permalink: /publications/
 *   Giuseppe Siracusano, Salvator Galea, Davide Sanvito, Mohammad Malekzadeh, Hamed Haddadi, Gianni Antichi, Roberto Bifulco, "Running Neural Networks on the NIC", (Paper available on [ArXiv](https://arxiv.org/abs/2009.02353){:target="_blank"}) 
 
 *   Roman Kolcun, Diana Andreea Popescu, Vadim Safronov, Poonam Yadav, Anna Maria Mandalari, Yiming Xie, Richard Mortier, Hamed Haddadi, "The Case for Retraining of ML Models for IoT Device Identification at the Edge", (Paper available on [ArXiv](https://arxiv.org/abs/2011.08605){:target="_blank"})  
-
-*   Mohammad Malekzadeh, Richard G. Clegg, Andrea Cavallaro, Hamed Haddadi, "DANA: Dimension-Adaptive Neural Architecture for Multivariate Sensor Data
-", (Paper available on [ArXiv](https://arxiv.org/abs/2008.02397){:target="_blank"}, [Code](https://github.com/mmalekzadeh/dana){:target="_blank"}, [Tutorial](https://colab.research.google.com/github/mmalekzadeh/dana/blob/master/experiment/DANA_a_tutorial.ipynb){:target="_blank"}) 
 
 *   Ranya Aloufi, Hamed Haddadi, David Boyle, "Privacy-preserving Voice Analysis via Disentangled Representations", in The ACM Cloud Computing Security Workshop ([CCSW 2020](https://ccsw.io){:target="_blank"}), in conjunction with the ACM Conference on Computer and Communications Security ([CCS](http://www.sigsac.org/ccs/CCS2020/){:target="_blank"}), November 9, 2020, Orlando, Florida (Paper available on [ArXiv](https://arxiv.org/abs/2007.15064){:target="_blank"}) 
 
