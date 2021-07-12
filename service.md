@@ -10,6 +10,8 @@ permalink: /service/
 
 ## Current Community Engagements (Program/Organising Committee)
 
+*   The 2022 ACM SIGMETRICS/IFIP Performance conference ([SIGMETRICS/Performance 2022](https://www.sigmetrics.org/sigmetrics2022/){:target="_blank"})  
+
 *   The 28th ACM Annual International Conference on Mobile Computing and Networking ([ACM MobiCom 2022](https://sigmobile.org/mobicom/2022/){:target="_blank"}) 
 
 *   The 17th International Conference on emerging Networking EXperiments and Technologies ([ACM CoNEXT 2021](https://conferences2.sigcomm.org/co-next/2021/){:target="_blank"})  
