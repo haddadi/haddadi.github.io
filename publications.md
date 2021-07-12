@@ -11,7 +11,7 @@ permalink: /publications/
 
 
 *   Mohammad Malekzadeh, Richard G. Clegg, Andrea Cavallaro, Hamed Haddadi, "DANA: Dimension-Adaptive Neural Architecture for Multivariate Sensor Data
-", Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies ([IMWUT/UBICOMP 2021]{:target="_blank"}), September 2021. (Paper available on [ArXiv](https://arxiv.org/abs/2008.02397){:target="_blank"}, [Code](https://github.com/mmalekzadeh/dana){:target="_blank"}, [Tutorial](https://colab.research.google.com/github/mmalekzadeh/dana/blob/master/experiment/DANA_a_tutorial.ipynb){:target="_blank"}) 
+", Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies ([IMWUT/UBICOMP 2021](https://dl.acm.org/journal/imwut){:target="_blank"}), September 2021. (Paper available on [ArXiv](https://arxiv.org/abs/2008.02397){:target="_blank"}, [Code](https://github.com/mmalekzadeh/dana){:target="_blank"}, [Tutorial](https://colab.research.google.com/github/mmalekzadeh/dana/blob/master/experiment/DANA_a_tutorial.ipynb){:target="_blank"}) 
 
 *  Lorenzo Minto, Moritz Haller, Hamed Haddadi, Benjamin Livshits, "Stronger Privacy for Federated Collaborative Filtering with Implicit Feedback", in 15th ACM Conference on Recommender Systems ([RecSys 2021](https://recsys.acm.org/recsys21/){:target="_blank"}), Amsterdam, Netherlands, 27th September-1st October 2021. (Paper available on [ArXiv](https://arxiv.org/abs/2105.03941){:target="_blank"})  
 
