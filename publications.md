@@ -17,7 +17,7 @@ permalink: /publications/
 
 *   Ranya Aloufi, Hamed Haddadi, David Boyle, "Configurable Privacy-Preserving Automatic Speech Recognition", [INTERSPEECH 2021](https://www.interspeech2021.org/){:target="_blank"}, Brno, Czechia, September 2021. (Paper available on [ArXiv](https://arxiv.org/abs/2104.00766v1){:target="_blank"}, [Code](){:target="_blank"}) 
 
-*   Roman Kolcun, Diana Andreea Popescu, Vadim Safronov, Poonam Yadav, Anna Maria Mandalari, Richard Mortier, Hamed Haddadi, "Revisiting IoT Device Identification", Network Traffic Measurement and Analysis Conference ([TMA 2021](https://tma.ifip.org/2021/){:target="_blank"}), September 13-15, 2021, Online. (Paper available on [ArXiv](https://arxiv.org/abs/2011.08605){:target="_blank"})
+*   Roman Kolcun, Diana Andreea Popescu, Vadim Safronov, Poonam Yadav, Anna Maria Mandalari, Richard Mortier, Hamed Haddadi, "Revisiting IoT Device Identification", Network Traffic Measurement and Analysis Conference ([TMA 2021](https://tma.ifip.org/2021/){:target="_blank"}), September 13-15, 2021, Online. (Paper available on [ArXiv](http://arxiv.org/abs/2107.07818){:target="_blank"})
 
 * Anna Maria Mandalari, Daniel J. Dubois, Roman Kolcun, Muhammad Talha Paracha, Hamed Haddadi, David Choffnes, "Blocking without Breaking: Identification and Mitigation of Non-Essential IoT Traffic", in 21st Privacy Enhancing Technologies Symposium ([PETS 2021](https://petsymposium.org/2021/){:target="_blank"}), July 12–16, 2021, On the Internet. ([Paper](http://arxiv.org/abs/2105.05162){:target="_blank"} and code available on [IoTrim](http://iotrim.net/){:target="_blank"}, [Consumer Reports coverage](https://www.consumerreports.org/privacy/connected-devices-share-more-data-than-needed-study-says-a7015033345/){:target="_blank"})  
 
