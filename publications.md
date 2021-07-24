@@ -9,13 +9,15 @@ permalink: /publications/
 
 ### 2021: 
 
+*   Ranya Aloufi, Hamed Haddadi, David Boyle, "A Tandem Framework Balancing Privacy and Security for Voice User Interfaces", July 2021. (Paper available on [ArXiv](https://arxiv.org/abs/2107.10045?context=cs.SD){:target="_blank"}, [Code](https://github.com/RanyaJumah/EDGY){:target="_blank"})  
+
 
 *   Mohammad Malekzadeh, Richard G. Clegg, Andrea Cavallaro, Hamed Haddadi, "DANA: Dimension-Adaptive Neural Architecture for Multivariate Sensor Data
 ", Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies ([IMWUT/UBICOMP 2021](https://dl.acm.org/journal/imwut){:target="_blank"}), September 2021. (Paper available on [ArXiv](https://arxiv.org/abs/2008.02397){:target="_blank"}, [Code](https://github.com/mmalekzadeh/dana){:target="_blank"}, [Tutorial](https://colab.research.google.com/github/mmalekzadeh/dana/blob/master/experiment/DANA_a_tutorial.ipynb){:target="_blank"}) 
 
 *  Lorenzo Minto, Moritz Haller, Hamed Haddadi, Benjamin Livshits, "Stronger Privacy for Federated Collaborative Filtering with Implicit Feedback", in 15th ACM Conference on Recommender Systems ([RecSys 2021](https://recsys.acm.org/recsys21/){:target="_blank"}), Amsterdam, Netherlands, 27th September-1st October 2021. (Paper available on [ArXiv](https://arxiv.org/abs/2105.03941){:target="_blank"})  
 
-*   Ranya Aloufi, Hamed Haddadi, David Boyle, "Configurable Privacy-Preserving Automatic Speech Recognition", [INTERSPEECH 2021](https://www.interspeech2021.org/){:target="_blank"}, Brno, Czechia, September 2021. (Paper available on [ArXiv](https://arxiv.org/abs/2104.00766v1){:target="_blank"}, [Code](){:target="_blank"}) 
+*   Ranya Aloufi, Hamed Haddadi, David Boyle, "Configurable Privacy-Preserving Automatic Speech Recognition", [INTERSPEECH 2021](https://www.interspeech2021.org/){:target="_blank"}, Brno, Czechia, September 2021. (Paper available on [ArXiv](https://arxiv.org/abs/2104.00766v1){:target="_blank"}, [Code](https://github.com/RanyaJumah/EDGY){:target="_blank"}) 
 
 *   Roman Kolcun, Diana Andreea Popescu, Vadim Safronov, Poonam Yadav, Anna Maria Mandalari, Richard Mortier, Hamed Haddadi, "Revisiting IoT Device Identification", Network Traffic Measurement and Analysis Conference ([TMA 2021](https://tma.ifip.org/2021/){:target="_blank"}), September 13-15, 2021, Online. (Paper available on [ArXiv](http://arxiv.org/abs/2107.07818){:target="_blank"})
 
