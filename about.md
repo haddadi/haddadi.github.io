@@ -21,6 +21,8 @@ At the [Systems and Algorithms Laboratory (SysAL)](https://www.imperial.ac.uk/sy
 
 ### News
 
+August 2021: Our IoT Privacy/Security team, led by [Anna Maria Mandalari](https://www.imperial.ac.uk/people/anna-maria.mandalari){:target="_blank"}, [Daniel J. Dubois](http://www.danieldubois.org){:target="_blank"}, and [David Choffnes](https://david.choffnes.com){:target="_blank"}, has made it to the The TOP 5 finalists of the first Telekom Challenge [Telekom Challenge](https://telekom-challenge.com){:target="_blank"} edition for [IoTrim](http://iotrim.net/){:target="_blank"}. Read the [Press Release](https://telekom-challenge.com/telekom-challenge-top-5-introduction/){:target="_blank"} for more details.
+
 June 2021: We won the Best Paper Award at ACM MobiSys 2021. Check out [PPFL code and data](https://github.com/mofanv/PPFL){:target="_blank"}, [Video](https://www.youtube.com/watch?v=r5yxjo5V1L8){:target="_blank"}.
 
 May 2021: Our team, led by [Anna Maria Mandalari](https://www.imperial.ac.uk/people/anna-maria.mandalari){:target="_blank"}, [Daniel J. Dubois](http://www.danieldubois.org){:target="_blank"}, and [David Choffnes](https://david.choffnes.com){:target="_blank"}, has won one of the TOP 10 spots in the [Telekom Challenge](https://telekom-challenge.com){:target="_blank"} Development Stream. We are receiving a generous gift to develop [IoTrim](http://iotrim.net/){:target="_blank"}. Stay tuned for more news! 
