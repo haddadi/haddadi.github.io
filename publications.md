@@ -10,7 +10,7 @@ permalink: /publications/
 ### 2021: 
 
 
-*   Yuchen Zhao, Payam Barnaghi, Hamed Haddadi "Multimodal Federated Learning", September 2021. (Paper available on [ArXiv](https://arxiv.org/abs/2109.04833){:target="_blank"}, [Code](https://github.com/){:target="_blank"})  
+*   Yuchen Zhao, Payam Barnaghi, Hamed Haddadi, "Multimodal Federated Learning", September 2021. (Paper available on [ArXiv](https://arxiv.org/abs/2109.04833){:target="_blank"}, [Code](https://github.com/){:target="_blank"})  
 
 *   Ranya Aloufi, Hamed Haddadi, David Boyle, "A Tandem Framework Balancing Privacy and Security for Voice User Interfaces", July 2021. (Paper available on [ArXiv](https://arxiv.org/abs/2107.10045){:target="_blank"}, [Code](https://github.com/RanyaJumah/EDGY){:target="_blank"})  
 
