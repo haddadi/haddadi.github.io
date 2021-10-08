@@ -21,6 +21,8 @@ For project details, please visit the Systems and Algorithms Laboratory ([SysAL]
 
 ## Current Research Staff
 
+*   [Dr YuanyingZhao](https://www.imperial.ac.uk/people/yuanying.zhao14) (ESRC Postdoctoral Fellow)
+  
 *   [Dr Yuchen Zhao](https://www.imperial.ac.uk/people/yuchen.zhao19) (Postdoctoral Research Associate on the [UK DRI Care Research & Technology programme](https://www.imperial.ac.uk/news/190934/20m-centre-enable-people-with-dementia/){:target="_blank"} 
 
 *   [Dr Anna Maria Mandalari](https://www.imperial.ac.uk/people/anna-maria.mandalari) (Postdoctoral Research Associate on [IoTrim](http://iotrim.net/){:target="_blank"} 
@@ -28,6 +30,12 @@ For project details, please visit the Systems and Algorithms Laboratory ([SysAL]
 
 ## Current Research Students
 
+*   [Danish Rizvi](https://www.imperial.ac.uk/sysal/) (Machine Learning systems, Commonwealth Scholarship Commission).
+  
+*   [Yushan Huang](https://www.imperial.ac.uk/people/yushan.huang21) (Machine Learning systems, funded by CSC Scholarship).
+
+*   [Mengjia Niu](https://www.imperial.ac.uk/people/m.niu21) (IoT and HDI, funded by [CSC Imperial Scholarship](https://www.imperial.ac.uk/study/pg/fees-and-funding/scholarships/international-scholarship-collaborations/csc/)).
+  
 *   [Xavier Cadet](https://www.imperial.ac.uk/people/xavier.cadet17) (Artificial Intelligence for Health, funded by [UKRI CDT in AI for Healthcare](https://ai4health.io/){:target="_blank"}).  
 
 *   [Eman Maali](https://www.imperial.ac.uk/people/e.maali19) (Privacy in IoT, funded by Schlumberger Foundation).
