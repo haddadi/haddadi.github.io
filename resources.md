@@ -6,6 +6,8 @@ permalink: /resources/
 
 If you have any material which you wish to be added here, please [email me](mailto:h.haddadi@imperial.ac.uk)
 
+[Creative Thinking](http://www1.ece.neu.edu/~naderi/Claude%20Shannon.html) by Claude Shannon at Bell Labs
+
 How to do a systems PhD: [advice from Steven Hand](http://www.cl.cam.ac.uk/research/srg/netos/eurosys11dw/keynote/StevenHand.pdf)
 
 [Hints for Computer System Design](http://research.microsoft.com/en-us/um/people/blampson/33-Hints/WebPage.html) (Butler Lampson)
