@@ -9,7 +9,7 @@ permalink: /publications/
 
 ### 2021: 
 
-*   Oliver Thompson, Anna Maria Mandalari, Hamed Haddadi, "Rapid IoT Device Identification at the Edge", 2nd Workshop on Distributed Machine Learning (DistributedML 2021)[https://distributedml.org/], co-located with CoNEXT 2021, December 7-10, 2021, Munich, Germany. (Paper available on [ArXiv](https://arxiv.org/abs/2110.13941){:target="_blank"}) 
+*   Oliver Thompson, Anna Maria Mandalari, Hamed Haddadi, "Rapid IoT Device Identification at the Edge", 2nd Workshop on Distributed Machine Learning ([DistributedML 2021(https://distributedml.org/){:target="_blank"}), co-located with CoNEXT 2021, December 7-10, 2021, Munich, Germany. (Paper available on [ArXiv](https://arxiv.org/abs/2110.13941){:target="_blank"}) 
 
 *   Zahra Pooranian, Mauro Conti, Hamed Haddadi, Rahim Tafazolli, "Online Advertising Security: Issues, Taxonomy, and Future Directions", IEEE Communications Surveys and Tutorials, 2021. (Paper available on [ArXiv](https://arxiv.org/abs/2006.03986){:target="_blank"}) 
 
