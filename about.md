@@ -21,6 +21,8 @@ At the [Systems and Algorithms Laboratory (SysAL)](https://www.imperial.ac.uk/sy
 
 ### News
 
+November 2021: I am really excited to announce that I have been selected for an [EPSRC Open Fellowship (Plus) 2022-2027](https://haddadi.github.io/EPRSCFellowship/){:target="_blank"} with a funding of around £2m from the UKRI, the industry, and Imperial College London. 
+
 October 2021: I will be serving as the Chief Scientist at [Brave](https://brave.com/index/){:target="_blank"}.
 
 August 2021: Our IoT Privacy/Security team, led by [Anna Maria Mandalari](https://www.imperial.ac.uk/people/anna-maria.mandalari){:target="_blank"}, [Daniel J. Dubois](http://www.danieldubois.org){:target="_blank"}, and [David Choffnes](https://david.choffnes.com){:target="_blank"}, has made it to the The TOP 5 finalists of the first Telekom Challenge [Telekom Challenge](https://telekom-challenge.com){:target="_blank"} edition for [IoTrim](http://iotrim.net/){:target="_blank"}. Read the [Press Release](https://telekom-challenge.com/telekom-challenge-top-5-introduction/){:target="_blank"} for more details.
