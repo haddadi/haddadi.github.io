@@ -7,8 +7,6 @@ permalink: /service/
 * Chief Scientist, [Brave Software](https://brave.com/) (2021-)
 * Visiting Professor, [Brave Software](https://brave.com/) (2018-)
 
-## [Invited Talks](https://haddadi.github.io/talks.md)
-
 ## Current Community Engagements (Program/Organising Committee)
 
 *   The 2022 ACM Special Interest Group on Data Communication([ACM SIGCOMM 2022](https://conferences.sigcomm.org/sigcomm/2022/){:target="_blank"})  
