@@ -4,7 +4,7 @@ title: Educational and Community Activities
 permalink: /service/
 ---
 ## Current External affiliations
-* Chief Scientist, [Brave Software](https://brave.com/) (20121-)
+* Chief Scientist, [Brave Software](https://brave.com/) (2021-)
 * Visiting Professor, [Brave Software](https://brave.com/) (2018-)
 
 ## [Invited Talks](https://haddadi.github.io/talks.md)
