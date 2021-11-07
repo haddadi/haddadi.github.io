@@ -21,7 +21,7 @@ At the [Systems and Algorithms Laboratory (SysAL)](https://www.imperial.ac.uk/sy
 
 ### News
 
-November 2021: I am really excited to announce that I have been selected for an [EPSRC Open Fellowship (Plus) 2022-2027](https://haddadi.github.io/EPRSCFellowship/){:target="_blank"} with a funding of around £2m from the UKRI, the industry, and Imperial College London. 
+November 2021: I am really excited to announce that I have been selected for an [EPSRC Open Fellowship (Plus) 2022-2027](https://haddadi.github.io/EPRSCFellowship/){:target="_blank"} with a funding of around £2m from the UKRI, the industry, and Imperial College London. I will be hiring researchers, engineers, and Phd students as part of the fellowship team, contact me directly if interested.
 
 October 2021: I will be serving as the Chief Scientist at [Brave](https://brave.com/index/){:target="_blank"}.
 
