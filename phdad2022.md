@@ -4,9 +4,7 @@
 | Funding for: | Open to all nationalities |
 | Funding amount: | Standard UK PhD Stipend |
 | Hours: | Full Time |
-|   |   |
 | Closes: | 1 Feb 2022 |
-|   |   |
 |   |   |
 
 Applications are invited for a research studentship in the broad areas of cyber physical systems, sensing, privacy and applied machine learning leading to the award of a PhD degree and starting in October 2022 or soon after. This studentships are part of the newly-funded [EPSRC Open Fellowship (Plus) 2022-2027](https://haddadi.github.io/EPRSCFellowship/){:target="_blank"} with a funding of around £2m from the UKRI, the industry, and Imperial College London. 
@@ -14,7 +12,6 @@ Applications are invited for a research studentship in the broad areas of cyber 
 \* Research Area: The studentship is in the general area of privacy-preserving analytics, sensing, and machine-earning in resource-constrained edge devices (see the fellowship details). This includes on-device analytics in smartphones and home gateways, to IoT privacy and security. For information on our broader range of activates in the lab, visit:
 
 [https://www.imperial.ac.uk/sysal](https://www.imperial.ac.uk/sysal)
-
 
 \* Funding: The studentships are supported by full fees and stipend (at the UK/International student rates).
 
