@@ -20,6 +20,9 @@ Applications are invited for a research studentship in the broad areas of cyber 
 
 \* Research environment: You will Join the Systems and Algorithms Laboratory ([SysAl](https://www.imperial.ac.uk/sysal)), in the newly refurbished facilities of the Dyson School of Design Engineering ([http://www.imperial.ac.uk/design-engineering/](http://www.imperial.ac.uk/design-engineering/)). You will also be part of the [Academic Centre of Excellence in Cyber Security Research](https://www.imperial.ac.uk/cyber-security/) have extensive interactions with research collaborators from industry labs and research institutions across the world.
 
-\* Required skills: We are seeking candidates with a**First Class (Distinction)****Degree or equivalent at Masters&#39; level in **Computer Science, Electronics Engineering, Mathematics, or a related subject**. Strong quantitative research skills and familiarity with advanced systems programming (mobile, TEEs, IoT, sensor boards) and advanced data analysis skills are essential.**A passion for user-centred systems (privacy, inclusion, legibility) with ML models, demonstrated by extra-curricular activities or industrial experience, is desirable. Good team-working and communication skills are essential.
+\* Required skills: We are seeking candidates with a **First Class (Distinction)****Degree or equivalent at Masters&#39; level in **Computer Science, Electronics Engineering, Mathematics, or a related subject**. Strong quantitative research skills and familiarity with advanced systems programming (mobile, TEEs, IoT, sensor boards) and advanced data analysis skills are essential.**A passion for user-centred systems (privacy, inclusion, legibility) with ML models, demonstrated by extra-curricular activities or industrial experience, is desirable. Good team-working and communication skills are essential.
 
 Informal inquiries should be sent to Dr. Hamed Haddadi: [h.haddadi@imperial.ac.uk](mailto:h.haddadi@imperial.ac.uk) along with a CV.
+
+All applications need to be done via Imperial's online portal [here](https://www.imperial.ac.uk/study/pg/apply/how-to-apply/apply-for-a-research-programme-/){:target="_blank"}.
+
