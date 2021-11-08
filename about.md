@@ -21,7 +21,7 @@ At the [Systems and Algorithms Laboratory (SysAL)](https://www.imperial.ac.uk/sy
 
 ### News
 
-November 2021: I am really excited to announce that I have been selected for an [EPSRC Open Fellowship (Plus) 2022-2027](https://haddadi.github.io/EPRSCFellowship/){:target="_blank"} with a funding of around £2m from the UKRI, the industry, and Imperial College London. I will be hiring a researcher, an engineer, and Phd students as part of the fellowship team, contact me directly if interested.
+November 2021: I am really excited to announce that I have been selected for an [EPSRC Open Fellowship (Plus) 2022-2027](https://haddadi.github.io/EPRSCFellowship/){:target="_blank"} with a funding of around £2m from the UKRI, the industry, and Imperial College London. I will be hiring a researcher, an engineer, and Phd students as part of the fellowship team, contact me directly if interested. The advert for PhD Scholarships is available [here](https://haddadi.github.io/phdad2022/){:target="_blank"}.
 
 October 2021: I will be serving as the Chief Scientist at [Brave](https://brave.com/index/){:target="_blank"}.
 
@@ -37,7 +37,7 @@ March 2021: Our paper "[PPFL: Privacy-preserving Federated Learning with Trusted
 
 January 2021: I'll be the TPC co-Chair for [TMA 2021](https://tma.ifip.org/2021). Please consider submitting your fine network/systems papers.
 
-January 20201: Dr [Mohammad Malekzadeh](https://mmalekzadeh.github.io){:target="_blank"} has passed his PhD viva. Congrats Mohammad.
+January 2021: Dr [Mohammad Malekzadeh](https://mmalekzadeh.github.io){:target="_blank"} has passed his PhD viva. Congrats Mohammad.
 
 December 2020: I deliverd the Keynote talk at [ACM CoNext 2020](https://conferences2.sigcomm.org/co-next/2020/#!/program){:target="_blank"}, titled "Towards 'trustworthy-by-design' networked systems". [Video](https://www.youtube.com/watch?v=fboxXlrlXMY){:target="_blank"}
 
@@ -71,37 +71,7 @@ January 2020: [Eman Maali](https://www.imperial.ac.uk/people/e.maali19) joins at
 
 January 2020: Our paper “[Privacy-Preserving Bandits](https://arxiv.org/abs/1909.04421)” has been acccepted to the Third Conference on Machine Learning and Systems ([MLSys 2020](https://mlsys.org/)). Congratulations Mohammad.
 
-December 2019: Our paper "A Hybrid Deep Learning Architecture for Privacy-Preserving Mobile Analytics" has been accepted to IEEE Internet of Things Journal, 2020. ([paper](https://arxiv.org/abs/1703.02952){:target="_blank"}, [Code](https://github.com/aliosia/DeepPrivInf2017){:target="_blank"})
 
-November 2019: Minos and Ranya have won the Best Demo and the Best Poster awards respectively at ACM SenSys 2019. Congratulations both!
-
-October 2019: [Yuchen Zhao](https://www.imperial.ac.uk/people/yuchen.zhao19){:target="_blank"} joins us as a postdoctoral researcher on the [UK DRI Care Research & Technology programme](https://ukdri.ac.uk/news-and-events/uk-dri-care-research-technology-programme-appointed){:target="_blank"}.
-
-September 2019: Our paper "[BatteryLab](https://batterylab.dev/){:target="_blank"}, A Distributed Power Monitoring Platform For Mobile Devices" has been accepted to Eighteenth ACM Workshop on Hot Topics in Networks ([HotNets 2019](https://conferences.sigcomm.org/hotnets/2019/index.html){:target="_blank"}) (Paper Available on [ArXiv](https://arxiv.org/abs/1910.08951){:target="_blank"}). 
-
-Septempber 2019: I participated in preperaing the government's [Centre for Data Ethics and Innovation](https://www.gov.uk/government/organisations/centre-for-data-ethics-and-innovation) first series of [three snapshot papers on ethical issues in AI](https://www.gov.uk/government/publications/cdei-publishes-its-first-series-of-three-snapshot-papers-ethical-issues-in-ai?123) including Smart Speakers and Voice Assistants. 
-
-August 2019: At Brave, we have released Privacy-Preserving Product Analytics ([P3A](https://brave.com/privacy-preserving-product-analytics-p3a/){:target="_blank"}). Exciting to see our platform ship to millions of users worldwide this year. 
-
-August 2019: Ranya's paper "[Emotionless: Privacy-Preserving Speech Analysis for Voice Assistants](https://arxiv.org/abs/1908.03632)", appearing in ACM CCS 2019 Privacy Preserving Machine Learning workshop, has been covered in articles on [Vice](https://www.vice.com/en_us/article/ne8bxd/ai-that-hides-your-emotions-from-other-ai-alexa-siri-google) and [Medium](https://medium.com/syncedreview/how-to-hide-your-feelings-from-ai-voice-assistants-2db516d9e2d7).
-
-July 2019: Our study of IoT devices, "Information Exposure From Consumer IoT Devices: A Multidimensional, Network-Informed Measurement Approach" has been accepted to ACM Internet Measurement Conference (IMC 2019) (**Community Contribution Award**). ([paper and code and dataset](https://moniotrlab.ccis.neu.edu/imc19/){:target="_blank"}, [Financial Times article](https://www.ft.com/content/23ab2f68-d957-11e9-8f9b-77216ebe1f17){:target="_blank"}, [The Times article](https://www.thetimes.co.uk/article/smart-tvs-spy-on-us-even-when-theyre-off-8npjknkm6){:target="_blank"}, [Vice article](https://www.vice.com/en_us/article/gyzjym/the-internet-of-things-is-still-a-privacy-dumpster-fire-study-finds){:target="_blank"}, [Ars Technica](https://arstechnica.com/tech-policy/2019/09/studies-google-netflix-and-others-are-watching-how-you-watch-your-tv/){:target="_blank"})
-
-July 2019: We are Building Systems for Privacy-Preserving Data Analytics, Machine Learning, and behavioural interaction systems, as part of the newly funded [£20M new Care Research & Technology Centre at Imperial College](https://www.imperial.ac.uk/news/190934/20m-centre-enable-people-with-dementia/){:target="_blank"}. Read about it here on the FT: [How smart tech is helping people with dementia](https://www.ft.com/content/90e2f286-71ac-11e9-bf5c-6eeb837566c5)
-
-June 2019: The first evolution of [Databox Project](https://www.databoxproject.uk/) is released as the [BBC Box](https://www.bbc.co.uk/rd/blog/2019-06-bbc-box-personal-data-privacy){:target="_blank"}. We are really excited about this development and its potential to improve individuals' privacy. This is part of the [Personal Data Stewardship](https://www.bbc.co.uk/rd/projects/bbc-box-personal-data-management-privacy){:target="_blank"} project at the BBC R&D. (Also on [BBC News](https://www.bbc.co.uk/news/technology-48825413){:target="_blank"}, [Gizmodo](https://www.gizmodo.co.uk/2019/06/the-bbc-is-doing-cloud-storage-and-wants-you-to-have-full-control-over-your-data/){:target="_blank"} )
-
-May 2019: Our research on IoT privacy and security is featured in the [BBC](https://www.bbc.co.uk/news/technology-48434175){:target="_blank"} and [BBC Click program on GDPR Anniversary](https://www.bbc.co.uk/iplayer/episode/m0005cx6/click-gdpr-one-year-on){:target="_blank"} ([YouTube link](https://www.youtube.com/watch?v=32gV9AEQClI)).
-
-April 2019: Congratulations to [Katrin Hänsel](https://miezelkat.github.io) for having passed her PhD viva! 
-
-March 2019: Our paper "Deep Learning in Mobile and Wireless Networking: A Survey", has been accepted to appear in IEEE Communications Surveys & Tutorials. (Paper Available on [ArXiv](https://arxiv.org/abs/1803.04311){:target="_blank"})  
-
-Jan 2019: We are part of the new £20m [UK DRI Care Research & Technology programme](https://ukdri.ac.uk/news-and-events/uk-dri-care-research-technology-programme-appointed){:target="_blank"}, developing privacy-preserving technologies for demantia patients over the next six years. Job ads will be out soon!
-
-Jan 2019: Our paper "[Mobile Sensor Data Anonymization](https://arxiv.org/abs/1810.11546){:target="_blank"}" has been accepted to ACM/IEEE International Conference on Internet of Things Design and Implementation ([IoTDI 2019](http://conferences.computer.org/iotDI/2019/){:target="_blank"}). Congratulations Mohammad!
-
-Jan 2019: [Ranya Aloufi](https://www.imperial.ac.uk/people/r.aloufi18){:target="_blank"} joins us at [Imperial SysAL](https://www.imperial.ac.uk/sysal){:target="_blank"} as a PhD student. Welcome Ranya!
 
 
 ### Contact me
