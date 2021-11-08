@@ -1,7 +1,5 @@
 # *PhD Studentship in Edge Privacy/Security*
 
-### **Imperial College London – Dyson School of Design Engineering**
-
 | Location: | London |
 | Funding for: | Open to all nationalities |
 | Funding amount: | Standard UK PhD Stipend |
