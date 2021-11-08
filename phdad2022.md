@@ -1,8 +1,8 @@
-# *PhD Studentship in Edge Privacy/Security*
+# *PhD Scholarships in Edge Privacy/Security*
 
 | Location: | London |
 | Funding for: | Open to all nationalities |
-| Funding amount: | Standard UK PhD Stipend |
+| Funding amount: | Standard PhD Stipend + Fees |
 | Hours: | Full Time |
 | Closes: | 1 Feb 2022 |
 |   |   |
