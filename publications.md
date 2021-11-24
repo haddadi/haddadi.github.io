@@ -11,6 +11,8 @@ permalink: /publications/
 
 *   Oliver Thompson, Anna Maria Mandalari, Hamed Haddadi, "Rapid IoT Device Identification at the Edge", 2nd Workshop on Distributed Machine Learning ([DistributedML 2021](https://distributedml.org/){:target="_blank"}), co-located with ACM CoNEXT 2021, December 7-10, 2021, Munich, Germany. (Paper available on [ArXiv](https://arxiv.org/abs/2110.13941){:target="_blank"}) 
 
+*   Andrew Crabtree, Hamed Haddadi, Richard Mortier, "[Privacy by Design for the Internet of Things: Building accountability and security](https://shop.theiet.org/privacy-by-design-for-the-internet-of-things){:target="_blank"}", ISBN-13: 978-1-83953-139-2, 2021, The IET.
+
 *   Zahra Pooranian, Mauro Conti, Hamed Haddadi, Rahim Tafazolli, "Online Advertising Security: Issues, Taxonomy, and Future Directions", IEEE Communications Surveys and Tutorials, 2021. (Paper available on [ArXiv](https://arxiv.org/abs/2006.03986){:target="_blank"}) 
 
 *   Yuchen Zhao, Payam Barnaghi, Hamed Haddadi, "Multimodal Federated Learning", September 2021. (Paper available on [ArXiv](https://arxiv.org/abs/2109.04833){:target="_blank"}, [Code](https://github.com/){:target="_blank"})  
