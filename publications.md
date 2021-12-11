@@ -7,6 +7,11 @@ permalink: /publications/
 ## [GitHub code](https://github.com/haddadi/){:target="_blank"}
 
 
+### 2022: 
+
+*   Giuseppe Siracusano, Salvator Galea, Davide Sanvito, Mohammad Malekzadeh, Gianni Antichi, Paolo Costa, Hamed Haddadi, Roberto Bifulco, "Re-architecting Traffic Analysis with Neural Network Interface Cards", 19th USENIX Symposium on Networked Systems Design and Implementation ([NSDI'22](https://www.usenix.org/conference/nsdi22){:target="_blank"}), APRIL 4–6, 2022, RENTON, WA, USA 
+
+
 ### 2021: 
 
 *   Oliver Thompson, Anna Maria Mandalari, Hamed Haddadi, "Rapid IoT Device Identification at the Edge", 2nd Workshop on Distributed Machine Learning ([DistributedML 2021](https://distributedml.org/){:target="_blank"}), co-located with ACM CoNEXT 2021, December 7-10, 2021, Munich, Germany. (Paper available on [ArXiv](https://arxiv.org/abs/2110.13941){:target="_blank"}) 
