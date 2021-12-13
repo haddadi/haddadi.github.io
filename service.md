@@ -11,6 +11,8 @@ permalink: /service/
 
 *   The 2022 ACM Special Interest Group on Data Communication([ACM SIGCOMM 2022](https://conferences.sigcomm.org/sigcomm/2022/){:target="_blank"})  
 
+*   The 2nd Workshop on Machine Learning and Systems ([EuroMLSys'22](https://www.euromlsys.eu/){:target="_blank"})
+
 *   The 2022 ACM SIGMETRICS/IFIP Performance conference ([ACM SIGMETRICS/Performance 2022](https://www.sigmetrics.org/sigmetrics2022/){:target="_blank"})  
 
 *   The 28th ACM Annual International Conference on Mobile Computing and Networking ([ACM MobiCom 2022](https://sigmobile.org/mobicom/2022/){:target="_blank"}) 
