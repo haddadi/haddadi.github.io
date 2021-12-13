@@ -17,25 +17,6 @@ permalink: /service/
 
 *   The 28th ACM Annual International Conference on Mobile Computing and Networking ([ACM MobiCom 2022](https://sigmobile.org/mobicom/2022/){:target="_blank"}) 
 
-*   The 17th International Conference on emerging Networking EXperiments and Technologies ([ACM CoNEXT 2021](https://conferences2.sigcomm.org/co-next/2021/){:target="_blank"})  
-
-*   The ACM Special Interest Group on Data Communication ([ACM SIGCOMM 2021](https://conferences.sigcomm.org/sigcomm/2021/){:target="_blank"})  
-
-*   The ACM/IRTF Applied Networking Research Workshop 2021 ([ANRW’21](https://irtf.org/anrw/2021/){:target="_blank"})
-
-*   The 44th ACM SIGIR Conference on Research and Development in Information Retrieval ([ACM SIGIR 2021](https://sigir.org/sigir2021/){:target="_blank"})  
-
-*   The 27th ACM Annual International Conference on Mobile Computing and Networking ([ACM MobiCom 2021](https://sigmobile.org/mobicom/2021/){:target="_blank"}) 
-
-*   5th Network Traffic Measurement and Analysis Conference ([IFIP TMA Conference 2021](https://tma.ifip.org/2021/){:target="_blank"}) 
-
-*   The 19th ACM International Conference on Mobile Systems, Applications, and Services ([ACM MobiSys 2021](https://sigmobile.org/mobisys/2021/){:target="_blank"}) 
-
-*   Distributed and Private Machine Learning workshop at ICLR 2021 ([DPML 2021](https://dp-ml.github.io/2021-workshop-ICLR/){:target="_blank"}) 
-
-*   The 18th USENIX Symposium on Networked Systems Design and Implementation ([NSDI 2021](https://www.usenix.org/conference/nsdi21/){:target="_blank"}) 
-
-*   The 1st Workshop on Machine Learning and Systems ([EuroMLSys 2021](https://www.euromlsys.eu/){:target="_blank"})   
 
 ## Consultancy
 
@@ -163,6 +144,26 @@ Former President/Committee member, UCL Electrical Engineering Society ([Fleming]
 This list got too big to be useful, we have too many conferences and workshops (though many of them are pretty good!).
 
 External Reviewer for ACM CSCW2015, IEEE WiMob (2011), IEEE/ACM MASCOTS,ACM SIGCOMM, IEEE INFOCOMM, IEEE/ACM ToN, USENIX NSDI, BCS HCI, ACM IMC, ACM UBICOMP, ACM ISWC  
+
+*   The 17th International Conference on emerging Networking EXperiments and Technologies ([ACM CoNEXT 2021](https://conferences2.sigcomm.org/co-next/2021/){:target="_blank"})  
+
+*   The ACM Special Interest Group on Data Communication ([ACM SIGCOMM 2021](https://conferences.sigcomm.org/sigcomm/2021/){:target="_blank"})  
+
+*   The ACM/IRTF Applied Networking Research Workshop 2021 ([ANRW’21](https://irtf.org/anrw/2021/){:target="_blank"})
+
+*   The 44th ACM SIGIR Conference on Research and Development in Information Retrieval ([ACM SIGIR 2021](https://sigir.org/sigir2021/){:target="_blank"})  
+
+*   The 27th ACM Annual International Conference on Mobile Computing and Networking ([ACM MobiCom 2021](https://sigmobile.org/mobicom/2021/){:target="_blank"}) 
+
+*   5th Network Traffic Measurement and Analysis Conference ([IFIP TMA Conference 2021](https://tma.ifip.org/2021/){:target="_blank"}) 
+
+*   The 19th ACM International Conference on Mobile Systems, Applications, and Services ([ACM MobiSys 2021](https://sigmobile.org/mobisys/2021/){:target="_blank"}) 
+
+*   Distributed and Private Machine Learning workshop at ICLR 2021 ([DPML 2021](https://dp-ml.github.io/2021-workshop-ICLR/){:target="_blank"}) 
+
+*   The 18th USENIX Symposium on Networked Systems Design and Implementation ([NSDI 2021](https://www.usenix.org/conference/nsdi21/){:target="_blank"}) 
+
+*   The 1st Workshop on Machine Learning and Systems ([EuroMLSys 2021](https://www.euromlsys.eu/){:target="_blank"})   
 
 *   [UK Next Generation Networking](http://coseners.net/) Multi-Service Networks Program Committee co-chair (2013-2020, alongside [Iain Philips](https://iainwp.github.io/about/))  
 
