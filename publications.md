@@ -9,7 +9,7 @@ permalink: /publications/
 
 ### 2022: 
 
-*   Giuseppe Siracusano, Salvator Galea, Davide Sanvito, Mohammad Malekzadeh, Gianni Antichi, Paolo Costa, Hamed Haddadi, Roberto Bifulco, "Re-architecting Traffic Analysis with Neural Network Interface Cards", 19th USENIX Symposium on Networked Systems Design and Implementation ([NSDI'22](https://www.usenix.org/conference/nsdi22){:target="_blank"}), APRIL 4–6, 2022, RENTON, WA, USA 
+*   Giuseppe Siracusano, Salvator Galea, Davide Sanvito, Mohammad Malekzadeh, Gianni Antichi, Paolo Costa, Hamed Haddadi, Roberto Bifulco, "Re-architecting Traffic Analysis with Neural Network Interface Cards", 19th USENIX Symposium on Networked Systems Design and Implementation ([NSDI'22](https://www.usenix.org/conference/nsdi22){:target="_blank"}), April 4–6, 2022, Renton, WA, USA (Paper available on [ArXiv](https://arxiv.org/abs/2009.02353){:target="_blank"}) 
 
 
 ### 2021: 
