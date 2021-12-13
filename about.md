@@ -21,6 +21,8 @@ At the [Systems and Algorithms Laboratory (SysAL)](https://www.imperial.ac.uk/sy
 
 ### News
 
+December 2021: Our paper "Re-architecting Traffic Analysis with Neural Network Interface Cards" has been accepted to USENIX Symposium on Networked Systems Design and Implementation ([NSDI'22](https://www.usenix.org/conference/nsdi22){:target="_blank"}) (Earlier version available on [ArXiv](https://arxiv.org/abs/2009.02353){:target="_blank"}). Congrats  Giuseppe Siracusano, Salvator Galea, Davide Sanvito, Mohammad Malekzadeh, Gianni Antichi, Paolo Costa, and Roberto Bifulco. 
+
 December 2021: I have been invited to join the [EPSRC Peer Review Associate College](https://epsrc.ukri.org/funding/assessmentprocess/college/){:target="_blank"}.
 
 November 2021: I am really excited to announce that I have been selected for an [EPSRC Open Fellowship (Plus) 2022-2027](https://haddadi.github.io/EPRSCFellowship/){:target="_blank"} with a funding of around £2m from the UKRI, the industry, and Imperial College London. I will be hiring a researcher, an engineer, and Phd students as part of the fellowship team, contact me directly if interested. The advert for PhD Scholarships is available [here](https://haddadi.github.io/phdad2022/){:target="_blank"}.
