@@ -21,7 +21,7 @@ At the [Systems and Algorithms Laboratory (SysAL)](https://www.imperial.ac.uk/sy
 
 ### News
 
-December 2021: Our paper "Re-architecting Traffic Analysis with Neural Network Interface Cards" has been accepted to USENIX Symposium on Networked Systems Design and Implementation ([NSDI'22](https://www.usenix.org/conference/nsdi22){:target="_blank"}) (Earlier version available on [ArXiv](https://arxiv.org/abs/2009.02353){:target="_blank"}). Congrats  Giuseppe Siracusano, Salvator Galea, Davide Sanvito, Mohammad Malekzadeh, Gianni Antichi, Paolo Costa, and Roberto Bifulco. 
+December 2021: Our paper "Re-architecting Traffic Analysis with Neural Network Interface Cards" has been accepted to the USENIX Symposium on Networked Systems Design and Implementation ([NSDI'22](https://www.usenix.org/conference/nsdi22){:target="_blank"}) (Earlier version available on [ArXiv](https://arxiv.org/abs/2009.02353){:target="_blank"}). Congrats  Giuseppe Siracusano, Salvator Galea, Davide Sanvito, Mohammad Malekzadeh, Gianni Antichi, Paolo Costa, and Roberto Bifulco. 
 
 December 2021: I have been invited to join the [EPSRC Peer Review Associate College](https://epsrc.ukri.org/funding/assessmentprocess/college/){:target="_blank"}.
 
