@@ -53,8 +53,6 @@ permalink: /publications/
 
 *   Yuchen Zhao, Hanyang Liu, Honglin Li, Payam Barnaghi, Hamed Haddadi, "Semi-supervised Federated Learning for Activity Recognition", (Paper available on [ArXiv](https://arxiv.org/abs/2011.00851){:target="_blank"})  
 
-*   Giuseppe Siracusano, Salvator Galea, Davide Sanvito, Mohammad Malekzadeh, Hamed Haddadi, Gianni Antichi, Roberto Bifulco, "Running Neural Networks on the NIC", (Paper available on [ArXiv](https://arxiv.org/abs/2009.02353){:target="_blank"}) 
-
 *   Roman Kolcun, Diana Andreea Popescu, Vadim Safronov, Poonam Yadav, Anna Maria Mandalari, Yiming Xie, Richard Mortier, Hamed Haddadi, "The Case for Retraining of ML Models for IoT Device Identification at the Edge", (Paper available on [ArXiv](https://arxiv.org/abs/2011.08605){:target="_blank"})  
 
 *   Ranya Aloufi, Hamed Haddadi, David Boyle, "Privacy-preserving Voice Analysis via Disentangled Representations", in The ACM Cloud Computing Security Workshop ([CCSW 2020](https://ccsw.io){:target="_blank"}), in conjunction with the ACM Conference on Computer and Communications Security ([CCS](http://www.sigsac.org/ccs/CCS2020/){:target="_blank"}), November 9, 2020, Orlando, Florida (Paper available on [ArXiv](https://arxiv.org/abs/2007.15064){:target="_blank"}) 
