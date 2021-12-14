@@ -14,6 +14,8 @@ permalink: /publications/
 
 ### 2021: 
 
+*   Peter Snyder, Soroush Karami, Benjamin Livshits, Hamed Haddadi, "Pool-Party: Exploiting Browser Resource Pools as Side-Channels for Web Tracking", December 2021. (Paper available on [ArXiv](https://arxiv.org/abs/2112.06324){:target="_blank"})  
+
 *   Oliver Thompson, Anna Maria Mandalari, Hamed Haddadi, "Rapid IoT Device Identification at the Edge", 2nd Workshop on Distributed Machine Learning ([DistributedML 2021](https://distributedml.org/){:target="_blank"}), co-located with ACM CoNEXT 2021, December 7-10, 2021, Munich, Germany. (Paper available on [ArXiv](https://arxiv.org/abs/2110.13941){:target="_blank"}) 
 
 *   Andrew Crabtree, Hamed Haddadi, Richard Mortier, "[Privacy by Design for the Internet of Things: Building accountability and security](https://shop.theiet.org/privacy-by-design-for-the-internet-of-things){:target="_blank"}", ISBN-13: 978-1-83953-139-2, 2021, The IET.
