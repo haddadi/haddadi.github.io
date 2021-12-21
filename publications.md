@@ -9,9 +9,9 @@ permalink: /publications/
 
 ### 2022: 
 
-*   Giuseppe Siracusano, Salvator Galea, Davide Sanvito, Mohammad Malekzadeh, Gianni Antichi, Paolo Costa, Hamed Haddadi, Roberto Bifulco, "Re-architecting Traffic Analysis with Neural Network Interface Cards", 19th USENIX Symposium on Networked Systems Design and Implementation ([NSDI'22](https://www.usenix.org/conference/nsdi22){:target="_blank"}), April 4–6, 2022, Renton, WA, USA (Paper available on [ArXiv](https://arxiv.org/abs/2009.02353){:target="_blank"}) 
+*   Giuseppe Siracusano, Salvator Galea, Davide Sanvito, Mohammad Malekzadeh, Gianni Antichi, Paolo Costa, Hamed Haddadi, Roberto Bifulco, "Re-architecting Traffic Analysis with Neural Network Interface Cards", 19th USENIX Symposium on Networked Systems Design and Implementation ([NSDI'22](https://www.usenix.org/conference/nsdi22){:target="_blank"}), April 4–6, 2022, Renton, WA, USA. (Paper available on [ArXiv](https://arxiv.org/abs/2009.02353){:target="_blank"}) 
 
-*   Matteo Varvello, Kleomenis Katevas, Mihai Plesa, Hamed Haddadi, Fabian Bustamante, Benjamin Livshits, "[BatteryLab](https://batterylab.dev){:target="_blank"}: A Collaborative Platform for Power Monitoring", Passive and Active Measurement Conference 2022 ([PAM'22](https://pam2022.nl){:target="_blank"}), March 28–30, Online (Paper available on [BatteryLab](https://batterylab.dev){:target="_blank"} website) 
+*   Matteo Varvello, Kleomenis Katevas, Mihai Plesa, Hamed Haddadi, Fabian Bustamante, Benjamin Livshits, "[BatteryLab](https://batterylab.dev){:target="_blank"}: A Collaborative Platform for Power Monitoring", Passive and Active Measurement Conference 2022 ([PAM'22](https://pam2022.nl){:target="_blank"}), March 28–30, Online. (Paper available on the [BatteryLab](https://batterylab.dev){:target="_blank"} website) 
 
 
 ### 2021: 
