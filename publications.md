@@ -11,8 +11,10 @@ permalink: /publications/
 
 *   Giuseppe Siracusano, Salvator Galea, Davide Sanvito, Mohammad Malekzadeh, Gianni Antichi, Paolo Costa, Hamed Haddadi, Roberto Bifulco, "Re-architecting Traffic Analysis with Neural Network Interface Cards", 19th USENIX Symposium on Networked Systems Design and Implementation ([NSDI'22](https://www.usenix.org/conference/nsdi22){:target="_blank"}), April 4–6, 2022, Renton, WA, USA. (Paper available on [ArXiv](https://arxiv.org/abs/2009.02353){:target="_blank"}) 
 
-
 *   Matteo Varvello, Kleomenis Katevas, Mihai Plesa, Hamed Haddadi, Fabian Bustamante, Benjamin Livshits, "[BatteryLab](https://batterylab.dev){:target="_blank"}: A Collaborative Platform for Power Monitoring", Passive and Active Measurement Conference 2022 ([PAM'22](https://pam2022.nl){:target="_blank"}), March 28–30, Online. (Paper available on the [BatteryLab](https://batterylab.dev){:target="_blank"} website) 
+
+*   Yuchen Zhao, Sayed Saad Afzal, Waleed Akbar, Osvy Rodriguez, Fan Mo, David Boyle, Fadel Adib, Hamed Haddadi, "Towards Battery-Free Machine Learning and Inference in Underwater Environments", The 23rd Annual International Workshop on Mobile Computing Systems and Applications ([ACM HotMobile 2022](https://hotmobile.org/2022/){:target="_blank"}), March 9-10, 2022, Tempe, Arizona, USA. (Paper available on [ArXiv](https://arxiv.org/){:target="_blank"})  
+
 
 ### 2021: 
 
