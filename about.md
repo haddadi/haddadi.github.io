@@ -21,6 +21,8 @@ At the [Systems and Algorithms Laboratory (SysAL)](https://www.imperial.ac.uk/sy
 
 ### News
 
+December 2021: Our paper "Towards Battery-Free Machine Learning and Inference in Underwater Environments" with Yuchen Zhao, Sayed Saad Afzal, Waleed Akbar, Osvy Rodriguez, Fan Mo, David Boyle and Fadel Adib has been accepted to ([ACM HotMobile 2022](https://hotmobile.org/2022/){:target="_blank"}). Congrats both teams at MIT and Imperial.
+
 December 2021: Our paper "Re-architecting Traffic Analysis with Neural Network Interface Cards" has been accepted to the USENIX Symposium on Networked Systems Design and Implementation ([NSDI'22](https://www.usenix.org/conference/nsdi22){:target="_blank"}) (Earlier version available on [ArXiv](https://arxiv.org/abs/2009.02353){:target="_blank"}). Congrats  Giuseppe Siracusano, Salvator Galea, Davide Sanvito, Mohammad Malekzadeh, Gianni Antichi, Paolo Costa, and Roberto Bifulco. 
 
 December 2021: I have been invited to join the [EPSRC Peer Review Associate College](https://epsrc.ukri.org/funding/assessmentprocess/college/){:target="_blank"}.
