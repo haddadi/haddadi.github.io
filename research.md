@@ -15,6 +15,7 @@ For project details, please visit the Systems and Algorithms Laboratory ([SysAL]
   
 
 *   EPSRC [Open Plus Fellowship](https://epsrc.ukri.org/skills/fellows/){:target="_blank"} ([EP/W005271/1: Securing the Next Billion Consumer Devices on the Edge](http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/R03351X/1){:target="_blank"}, £1,5m, 2022-2027) 
+*   EPSRC [PETRAS ISPEF Fund](https://petras-iot.org/funding-call/ispef/){:target="_blank"}, Privacy Preserving IoT Security Management (PRISM), £100K, Starting April 2022
 *   [MIT-Imperial Seed Fund](https://www.imperial.ac.uk/admin-services/international-relations/mit-imperial-seed-fund/){:target="_blank"} , $100K, Starting October 2021
 *   EPSRC Impact Acceleration Award to develop [IoTrim](http://iotrim.net/){:target="_blank"}, £100K, Starting April 2021
 *   [Human-Data Interaction](http://hdiresearch.org/), Legibility, Agency, Negotiability: EPSRC Network Plus grant ([EP/R045178/1](https://gtr.ukri.org/projects?ref=EP%2FR045178%2F1){:target="_blank"}, £1,040,837 starting September 2018) 
