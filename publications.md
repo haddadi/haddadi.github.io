@@ -9,6 +9,9 @@ permalink: /publications/
 
 ### 2022: 
 
+*   Yuchen Zhao, Payam Barnaghi, Hamed Haddadi, "Multimodal Federated Learning on IoT Data", 7th ACM/IEEE Conference on Internet of Things Design and Implementation ([IoTDI'22](https://conferences.computer.org/iotDI/2022/){:target="_blank"}), May 3-6, 2022 — Milan, Italy. (Paper available on [ArXiv](https://arxiv.org/abs/2109.04833){:target="_blank"}, [Code](https://github.com/){:target="_blank"})  
+
+
 *   Giuseppe Siracusano, Salvator Galea, Davide Sanvito, Mohammad Malekzadeh, Gianni Antichi, Paolo Costa, Hamed Haddadi, Roberto Bifulco, "Re-architecting Traffic Analysis with Neural Network Interface Cards", 19th USENIX Symposium on Networked Systems Design and Implementation ([NSDI'22](https://www.usenix.org/conference/nsdi22){:target="_blank"}), April 4–6, 2022, Renton, WA, USA. (Paper available on [ArXiv](https://arxiv.org/abs/2009.02353){:target="_blank"}) 
 
 *   Matteo Varvello, Kleomenis Katevas, Mihai Plesa, Hamed Haddadi, Fabian Bustamante, Benjamin Livshits, "[BatteryLab](https://batterylab.dev){:target="_blank"}: A Collaborative Platform for Power Monitoring", Passive and Active Measurement Conference 2022 ([PAM'22](https://pam2022.nl){:target="_blank"}), March 28–30, Online. (Paper available on the [BatteryLab](https://batterylab.dev){:target="_blank"} website) 
@@ -25,8 +28,6 @@ permalink: /publications/
 *   Andrew Crabtree, Hamed Haddadi, Richard Mortier, "[Privacy by Design for the Internet of Things: Building accountability and security](https://shop.theiet.org/privacy-by-design-for-the-internet-of-things){:target="_blank"}", ISBN-13: 978-1-83953-139-2, 2021, The IET.
 
 *   Zahra Pooranian, Mauro Conti, Hamed Haddadi, Rahim Tafazolli, "Online Advertising Security: Issues, Taxonomy, and Future Directions", IEEE Communications Surveys and Tutorials, 2021. (Paper available on [ArXiv](https://arxiv.org/abs/2006.03986){:target="_blank"}) 
-
-*   Yuchen Zhao, Payam Barnaghi, Hamed Haddadi, "Multimodal Federated Learning", September 2021. (Paper available on [ArXiv](https://arxiv.org/abs/2109.04833){:target="_blank"}, [Code](https://github.com/){:target="_blank"})  
 
 *   Ranya Aloufi, Hamed Haddadi, David Boyle, "A Tandem Framework Balancing Privacy and Security for Voice User Interfaces", July 2021. (Paper available on [ArXiv](https://arxiv.org/abs/2107.10045){:target="_blank"}, [Code](https://github.com/RanyaJumah/EDGY){:target="_blank"})  
 
