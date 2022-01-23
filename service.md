@@ -5,7 +5,6 @@ permalink: /service/
 ---
 ## Current External affiliations
 * Chief Scientist, [Brave Software](https://brave.com/) (2021-)
-* Visiting Professor, [Brave Software](https://brave.com/) (2018-)
 
 ## Current Community Engagements (Program/Organising Committee)
 
@@ -107,6 +106,7 @@ Member of admissions team, Dyson School of Design Engineering, Imperial College 
 
 ## Extended Biography
 
+* Aug 2018- Aug 2021, Visiting Professor, [Brave Software](https://brave.com/)
 * July 2019 - Aug 2019: Visitor, [Foundation for Research and Technology - Hellas (FORTH)
 Institute of Computer Science](https://www.ics.forth.gr) 
 * Oct 2011 - Oct 2017: Lecturer and Senior Lecturer in Digital Media, [School of Electronic Engineering and Computer Science](http://www.eecs.qmul.ac.uk/), [Queen Mary University of London](http://www.qmul.ac.uk/) 
