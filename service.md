@@ -63,6 +63,7 @@ I am also a Fellow of the [Higher Education Academy](https://www.heacademy.ac.uk
 
 ## PhD examination
 
+Ecenaz Erdemir, Imperial College London, February 2022  
 Brij Mohan Lal Srivastava, Lille university and INRIA Lille, December 2021   
 Michael Andreas Haus, Technical University of Munich, January 2021     
 Mohammed Ayyoob Ahamed Hamza, UNSW Sydney, November 2020    
