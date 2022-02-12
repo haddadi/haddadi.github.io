@@ -21,6 +21,8 @@ At the [Systems and Algorithms Laboratory (SysAL)](https://www.imperial.ac.uk/sy
 
 ### News
 
+January 2022: We have been awarded a grant as part of the PETRAS' ISPEF funding call. [Project PRISM](https://petras-iot.org/project/privacy-preserving-iot-security-management-prism/){:target="_blank"} aims to provide a simple interface for monitoring and home care solutions in the the health sector. 
+
 December 2021: Our paper "Towards Battery-Free Machine Learning and Inference in Underwater Environments" with Yuchen Zhao, Sayed Saad Afzal, Waleed Akbar, Osvy Rodriguez, Fan Mo, David Boyle and Fadel Adib has been accepted to ([ACM HotMobile 2022](https://hotmobile.org/2022/){:target="_blank"}). Congrats both teams at MIT and Imperial.
 
 December 2021: Our paper "Re-architecting Traffic Analysis with Neural Network Interface Cards" has been accepted to the USENIX Symposium on Networked Systems Design and Implementation ([NSDI'22](https://www.usenix.org/conference/nsdi22){:target="_blank"}) (Earlier version available on [ArXiv](https://arxiv.org/abs/2009.02353){:target="_blank"}). Congrats  Giuseppe Siracusano, Salvator Galea, Davide Sanvito, Mohammad Malekzadeh, Gianni Antichi, Paolo Costa, and Roberto Bifulco. 
