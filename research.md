@@ -18,7 +18,7 @@ For project details, please visit the Systems and Algorithms Laboratory ([SysAL]
 *   EPSRC [PETRAS ISPEF Fund](https://petras-iot.org/funding-call/ispef/){:target="_blank"}, Privacy Preserving IoT Security Management (PRISM), £100K, Starting April 2022
 *   [MIT-Imperial Seed Fund](https://www.imperial.ac.uk/admin-services/international-relations/mit-imperial-seed-fund/){:target="_blank"} , $100K, Starting October 2021
 *   EPSRC Impact Acceleration Award to develop [IoTrim](http://iotrim.net/){:target="_blank"}, £100K, April 2021-March 2022
-*   [Human-Data Interaction](http://hdiresearch.org/), Legibility, Agency, Negotiability: EPSRC Network Plus grant ([EP/R045178/1](https://gtr.ukri.org/projects?ref=EP%2FR045178%2F1){:target="_blank"}, £1,040,837 starting September 2018) 
+
 *   [UK DRI Care Research & Technology programme](https://www.imperial.ac.uk/dementia-research-institute/care-research--technology-centre/){:target="_blank"} (£20m starting June 2019)
 
 
@@ -49,6 +49,8 @@ For project details, please visit the Systems and Algorithms Laboratory ([SysAL]
 I am interested in hearing from potential PhD students in my areas of research interests. If you have interesting ideas and wish to discuss funding opportunities for next year, please send me an [email](mailto:h.haddadi@imperial.ac.uk) (no attachments please!)
 
 ## Past Projects/Grants
+
+*   [Human-Data Interaction](http://hdiresearch.org/), Legibility, Agency, Negotiability: EPSRC Network Plus grant ([EP/R045178/1](https://gtr.ukri.org/projects?ref=EP%2FR045178%2F1){:target="_blank"}, £1,040,837 starting September 2018)  
   
 *   EPSRC [DADA: Defence Against Dark Artefacts](https://www.horizon.ac.uk/project/defence-against-dark-artefacts/){:target="_blank"} ([EP/R03351X/1](http://gow.epsrc.ac.uk/NGBOViewGrant.aspx?GrantRef=EP/R03351X/1){:target="_blank"}, £1,011,787 starting September 2018) 
 
