@@ -16,7 +16,7 @@ permalink: /publications/
 
 *   Matteo Varvello, Kleomenis Katevas, Mihai Plesa, Hamed Haddadi, Fabian Bustamante, Benjamin Livshits, "[BatteryLab](https://batterylab.dev){:target="_blank"}: A Collaborative Platform for Power Monitoring", Passive and Active Measurement Conference 2022 ([PAM'22](https://pam2022.nl){:target="_blank"}), March 28–30, Online. (Paper available on [ArXiv](https://arxiv.org/abs/2201.12614){:target="_blank"} and the [BatteryLab](https://batterylab.dev){:target="_blank"} website) 
 
-*   Yuchen Zhao, Sayed Saad Afzal, Waleed Akbar, Osvy Rodriguez, Fan Mo, David Boyle, Fadel Adib, Hamed Haddadi, "Towards Battery-Free Machine Learning and Inference in Underwater Environments", The 23rd Annual International Workshop on Mobile Computing Systems and Applications ([ACM HotMobile 2022](https://hotmobile.org/2022/){:target="_blank"}), March 9-10, 2022, Tempe, Arizona, USA. (Paper available on [ArXiv](https://arxiv.org/){:target="_blank"})  
+*   Yuchen Zhao, Sayed Saad Afzal, Waleed Akbar, Osvy Rodriguez, Fan Mo, David Boyle, Fadel Adib, Hamed Haddadi, "Towards Battery-Free Machine Learning and Inference in Underwater Environments", The 23rd Annual International Workshop on Mobile Computing Systems and Applications ([ACM HotMobile 2022](https://hotmobile.org/2022/){:target="_blank"}), March 9-10, 2022, Tempe, Arizona, USA. (Paper available on [ArXiv](https://arxiv.org/abs/2202.08174){:target="_blank"})  
 
 
 ### 2021: 
