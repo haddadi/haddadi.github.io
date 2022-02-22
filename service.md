@@ -16,7 +16,9 @@ permalink: /service/
 
 *   The 2022 ACM Special Interest Group on Data Communication([ACM SIGCOMM 2022](https://conferences.sigcomm.org/sigcomm/2022/){:target="_blank"})  
 
-*   The 2nd Workshop on Machine Learning and Systems ([EuroMLSys'22](https://www.euromlsys.eu/){:target="_blank"})
+*   The 2nd Workshop on Machine Learning and Systems ([EuroMLSys'22](https://www.euromlsys.eu/){:target="_blank"}) 
+
+*   IEEE Workshop on the Internet of [Safe Things 2022](https://safe-things-2022.github.io/){:target="_blank"} (Co-located with Oakland 2022)
 
 *   The 2022 ACM SIGMETRICS/IFIP Performance conference ([ACM SIGMETRICS/Performance 2022](https://www.sigmetrics.org/sigmetrics2022/){:target="_blank"})  
 
