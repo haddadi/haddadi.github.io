@@ -11,6 +11,7 @@ permalink: /publications/
 
 *   Yuchen Zhao, Payam Barnaghi, Hamed Haddadi, "Multimodal Federated Learning on IoT Data", 7th ACM/IEEE Conference on Internet of Things Design and Implementation ([IoTDI'22](https://conferences.computer.org/iotDI/2022/){:target="_blank"}), May 3-6, 2022 — Milan, Italy. (Paper available on [ArXiv](https://arxiv.org/abs/2109.04833){:target="_blank"}, [Code](https://github.com/){:target="_blank"})  
 
+*  Yuting Zhan, Hamed Haddadi and Afra Mashhadi, "Privacy-Aware Human Mobility Prediction via Adversarial Networks", in The Second IEEE International Workshop on Cyber-Physical-Human System Design and Implementation ([CPHS'22](https://cphs22.github.io/CPHS22/){:target="_blank"}), Virtual Event - Milan, Italy, May 2022. (Paper available on [ArXiv]({:target="_blank"}){:target="_blank"})  
 
 *   Giuseppe Siracusano, Salvator Galea, Davide Sanvito, Mohammad Malekzadeh, Gianni Antichi, Paolo Costa, Hamed Haddadi, Roberto Bifulco, "Re-architecting Traffic Analysis with Neural Network Interface Cards", 19th USENIX Symposium on Networked Systems Design and Implementation ([NSDI'22](https://www.usenix.org/conference/nsdi22){:target="_blank"}), April 4–6, 2022, Renton, WA, USA. (Paper available on [ArXiv](https://arxiv.org/abs/2009.02353){:target="_blank"}) 
 
