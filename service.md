@@ -8,7 +8,7 @@ permalink: /service/
 
 ## Current Community Engagements (Program/Organising Committee)
 
-*   IEEE Secure Development Conference 2020 ([SecDev2022](https://secdev.ieee.org/2022/home/){:target="_blank"})
+*   IEEE Secure Development Conference 2022 ([SecDev2022](https://secdev.ieee.org/2022/home/){:target="_blank"})
 
 *   The 20th USENIX Symposium on Networked Systems Design and Implementation ([NSDI 2023](https://www.usenix.org/conference/nsdi23/){:target="_blank"}) 
 
