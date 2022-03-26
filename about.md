@@ -21,6 +21,8 @@ At the [Systems and Algorithms Laboratory (SysAL)](https://www.imperial.ac.uk/sy
 
 ### News
 
+March 2022: We have been awarded an InnovateUK grant, supporting our efforts to accelerate IoT Security. More details soon!  
+
 January 2022: We have been awarded a grant as part of the PETRAS' ISPEF funding call. [Project PRISM](https://petras-iot.org/project/privacy-preserving-iot-security-management-prism/){:target="_blank"} aims to provide a simple interface for monitoring and home care solutions in the the health sector. 
 
 December 2021: Our paper "Towards Battery-Free Machine Learning and Inference in Underwater Environments" with Yuchen Zhao, Sayed Saad Afzal, Waleed Akbar, Osvy Rodriguez, Fan Mo, David Boyle and Fadel Adib has been accepted to ([ACM HotMobile 2022](https://hotmobile.org/2022/){:target="_blank"}). Congrats both teams at MIT and Imperial.
