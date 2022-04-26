@@ -21,7 +21,9 @@ At the [Systems and Algorithms Laboratory (SysAL)](https://www.imperial.ac.uk/sy
 
 ### News
 
-March 2022: We have been awarded an InnovateUK grant, supporting our efforts to accelerate IoT Security. More details soon!  
+April 2022: We have been awarded an [Amazon Research Awards (ARA)](https://www.amazon.science/research-awards){:target="_blank"} for our work on Auditable Model Privacy using TEEs linked to my EPSRC Fellowship. This gift will be used towards hiring a PhD student. Ad will be coming out soon. 
+
+March 2022: We have been awarded an [InnovateUK Cyber Security Academic Startup Accelerator Programme (CyberASAP) grant](https://ktn-uk.org/news/cyber-security-academic-startup-accelerator-programme-cyberasap-reveals-2022-23-cohort/), supporting our efforts to accelerate IoT Security in IoTrim.   
 
 January 2022: We have been awarded a grant as part of the PETRAS' ISPEF funding call. [Project PRISM](https://petras-iot.org/project/privacy-preserving-iot-security-management-prism/){:target="_blank"} aims to provide a simple interface for monitoring and home care solutions in the the health sector. 
 
