@@ -110,40 +110,11 @@ Canada Foundation for Innovation
 
 ## Administration
 
-Deputy Director of Research, Dyson School of Design Engineering, Imperial College London  
-Member of admissions team, Dyson School of Design Engineering, Imperial College London 
+Director of Postgraduate Studies, Dyson School of Design Engineering, Imperial College London (2018-2022)
+Deputy Director of Research, Dyson School of Design Engineering, Imperial College London (2017-2019)
+Member of admissions team, Dyson School of Design Engineering, Imperial College London (2018-2022)
 
 
-## Extended Biography
-
-* Aug 2018- Aug 2021, Visiting Professor, [Brave Software](https://brave.com/)
-* July 2019 - Aug 2019: Visitor, [Foundation for Research and Technology - Hellas (FORTH)
-Institute of Computer Science](https://www.ics.forth.gr) 
-* Oct 2011 - Oct 2017: Lecturer and Senior Lecturer in Digital Media, [School of Electronic Engineering and Computer Science](http://www.eecs.qmul.ac.uk/), [Queen Mary University of London](http://www.qmul.ac.uk/) 
-* May 2014 - Dec 2015: Research Scientist, [Qatar Computing Research Institute](http://qcri.org/our-research/social-computing)  
-* Summers 2012 & 2013: Visiting researcher, [AT&T Research](http://www.research.att.com/), Floreham Park ([cycle route](http://www.youtube.com/watch?v=o_Tl7gbudaE))  
-* Jan 2010 - Sep 2011, postdoctoral researcher, [Royal Veterinary College](http://www.rvc.ac.uk/)/[University of Cambridge](http://www.phar.cam.ac.uk/research/morton/), [CHDI Project](http://www.rvc.ac.uk/SML/Projects/SheepHuntingtonsDisease.cfm)  
-* Jan 2009 - Dec 2009, Post-doctoral researcher, [Max Planck Institute for Software Systems](http://www.mpi-sws.org/),Germany  
-* Sep 2009 - Nov 2010, Visiting researcher, [Computer Laboratory, University of Cambridge](http://www.cl.cam.ac.uk/)  
-* Nov 2008 - Dec 2008, Research associate, [CISG Group](http://www.ee.ucl.ac.uk/research/comminfosys), University College London  
-* July 2007 - Nov 2008, Collaborating with [AT&T Research](http://www.research.att.com/) , Network Simulation and Emulation Tools Consultant  
-* March 2008 - May 2008, Visiting researcher, [School of Mathematical Sciences, University of Adelaide](http://www.trc.adelaide.edu.au/)  
-* Winter 2005, Intel Research Cambridge, Research Scientist, [CoMo Project](http://como.sourceforge.net/)  
-* Summer 2003, UCL EE/BT Research, Sensor Networks Operating System for [Senceive](http://www.senceive.com/)  
-* Summer 2002 and 2001, Sony Europe, Embedded Systems Hardware Group, [ARM](http://www.arm.com/) Compliancy Test-Harness  
-
-I studied for my PhD between Oct 2004-Oct 2008, investigating the [Topological Characteristics of IP Networks](https://haddadi.github.io/papers/thesis.pdf), which I successfully defended on 31st October 2008. My examiners were [George Pavlou](http://www.ee.ucl.ac.uk/%7Egpavlou/) and [Christos Gkantsidis](http://research.microsoft.com/en-us/people/chrisgk/). I carried out my thesis research jointly between two great labs, the [NetOS Group](http://www.cl.cam.ac.uk/research/srg/netos/), Computer Laboratory, Cambridge University (userid: hh318), and Networks and Services Research Laboratory Group, UCL (supervised by: [Miguel Rio](http://www.ee.ucl.ac.uk/%7Emrio/), [Andrew Moore](http://www.cl.cam.ac.uk/%7Eawm22/) , [Richard Mortier](http://mort.io))  
-
-I was also a scholar at [London Business School](http://www.london.edu/), under the UCL CSEL sponsorship programme, attending MBA electives.  
-
-My MPhil (transfer) Thesis investigated Network Traffic Inference Using Sampled Statistics [[pdf](https://haddadi.github.io/papers/mphil.pdf)].  
-In 2004 I completed the MSc in Telecommunication Engineering with distinction. I was sponsored by EPSRC, Project: kOS “kind of Operating System” ([report](https://haddadi.github.io/papers/MScThesis.pdf)). This work had contributions to technology spin-out [Senceive](http://www.senceive.com/).  
-
-Between 1999-2003 I studied for the BEng (Hons) Electronic & Electrical Engineering at UCL. My 2nd & final year were sponsored by Sony Europe. For my final year project I built a [stand-alone RDS Encoder (report)](https://haddadi.github.io/papers/RDSencoderHaddadi.pdf).  
-
-Before that, I studied for A-Levels at [William Morris Academy](http://www.wma.ac.uk/).  
-
-MISC: My Erdos Number is 3: Hamed Haddadi > Andrew G. Thomason -> Fan Chung -> Paul Erdos  
 
 ## Randoms:
 
