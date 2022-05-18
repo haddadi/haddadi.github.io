@@ -21,6 +21,8 @@ At the [Systems and Algorithms Laboratory (SysAL)](https://www.imperial.ac.uk/sy
 
 ### News
 
+I will be joining the [Department of Computing](https://www.imperial.ac.uk/computing){:target="_blank"} at Imperial College London, and the new [Imperial-X](https://ix.imperial.ac.uk/){:target="_blank"} Initiative, from July 2022. Looking forward to the new opportunities and collaborations ahead.
+
 May 2022: Our paper ["Blocked or Broken? Automatically Detecting When Privacy Interventions Break Websites”](https://arxiv.org/abs/2203.03528){:target="_blank"} has been conditionally accepted to [PETS 2022](https://petsymposium.org/2022/){:target="_blank"}.  
 
 April 2022: We have been awarded an [Amazon Research Awards (ARA)](https://www.amazon.science/research-awards){:target="_blank"} for our work on Auditable Model Privacy using TEEs linked to my EPSRC Fellowship. This gift will be used towards hiring a PhD student. Ad will be coming out soon. 
