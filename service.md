@@ -70,6 +70,7 @@ I am also a Fellow of the [Higher Education Academy](https://www.heacademy.ac.uk
 
 ## PhD examination
 
+Zahra Tarkhani, University of Cambridge, May 2022   
 Ecenaz Erdemir, Imperial College London, February 2022  
 Brij Mohan Lal Srivastava, Lille university and INRIA Lille, December 2021   
 Michael Andreas Haus, Technical University of Munich, January 2021     
