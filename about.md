@@ -21,7 +21,9 @@ At the [Systems and Algorithms Laboratory (SysAL)](https://www.imperial.ac.uk/sy
 
 ### News
 
-I will be joining the [Department of Computing](https://www.imperial.ac.uk/computing){:target="_blank"} at Imperial College London, and the new [Imperial-X](https://ix.imperial.ac.uk/){:target="_blank"} Initiative, from July 2022. Looking forward to the new opportunities and collaborations ahead.
+July 2022: I will be joining the [Department of Computing](https://www.imperial.ac.uk/computing){:target="_blank"} at Imperial College London, and the new [Imperial-X](https://ix.imperial.ac.uk/){:target="_blank"} Initiative, from July 2022. Looking forward to the new opportunities and collaborations ahead.
+
+June 2022: I am looking for two PhD students to join us at Imperial-X as PhD students alongside my EPSRC Fellowship and Amazon grant (open to all nationalities). Please see the full advert [here](https://www.jobs.ac.uk/job/CQB459/phd-studentship-in-user-centred-systems-security-privacy){:target="_blank"} and apply by looking at the details [here](https://www.imperial.ac.uk/computing/prospective-students/courses/phd/scholarships/){:target="_blank"} under "2 x PhD Studentships in User-Centred Systems’ Security/Privacy".
 
 May 2022: Our paper ["Blocked or Broken? Automatically Detecting When Privacy Interventions Break Websites”](https://arxiv.org/abs/2203.03528){:target="_blank"} has been conditionally accepted to [PETS 2022](https://petsymposium.org/2022/){:target="_blank"}.  
 
