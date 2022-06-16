@@ -70,6 +70,7 @@ I am also a Fellow of the [Higher Education Academy](https://www.heacademy.ac.uk
 
 ## PhD examination
 
+Jide Edu, Kings College London, June 2022  
 Zahra Tarkhani, University of Cambridge, May 2022   
 Ecenaz Erdemir, Imperial College London, February 2022  
 Brij Mohan Lal Srivastava, Lille university and INRIA Lille, December 2021   
