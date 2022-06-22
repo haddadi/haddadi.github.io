@@ -14,6 +14,8 @@ permalink: /publications/
 
 *   Michael Smith, Peter Snyder, Moritz Haller, Benjamin Livshits, Deian Stefan, Hamed Haddadi, "Blocked or Broken? Automatically Detecting When Privacy Interventions Break Websites”, [PETS 2022](https://petsymposium.org/2022/){:target="_blank"}, [Paper](https://arxiv.org/abs/2203.03528){:target="_blank"} available on ArXiv.  
 
+*   Alex Davidson, Peter Snyder, E. B. Quirk, Joseph Genereux, Hamed Haddadi, Benjamin Livshits, "STAR: Secret Sharing for Private Threshold Aggregation Reporting", [Paper]([https://arxiv.org/abs/2203.03528](https://arxiv.org/abs/2109.10074)){:target="_blank"} available on ArXiv.  
+
 *   Yuchen Zhao, Payam Barnaghi, Hamed Haddadi, "Multimodal Federated Learning on IoT Data", 7th ACM/IEEE Conference on Internet of Things Design and Implementation ([IoTDI'22](https://conferences.computer.org/iotDI/2022/){:target="_blank"}), May 3-6, 2022 — Milan, Italy. (Paper available on [ArXiv](https://arxiv.org/abs/2109.04833){:target="_blank"}, [Code](https://github.com/){:target="_blank"})  
 
 *  Yuting Zhan, Alex Kyllo, Afra Mashhadi, Hamed Haddadi, "Privacy-Aware Human Mobility Prediction via Adversarial Networks", in The Second IEEE International Workshop on Cyber-Physical-Human System Design and Implementation ([CPHS'22](https://cphs22.github.io/CPHS22/){:target="_blank"}), Virtual Event - Milan, Italy, May 2022. (Paper available on [ArXiv](https://arxiv.org/abs/2201.07519){:target="_blank"})  
