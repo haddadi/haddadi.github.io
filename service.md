@@ -8,6 +8,7 @@ permalink: /service/
 
 ## Current Community Engagements (Program/Organising Committee)
 
+*   The 29th ACM Annual International Conference on Mobile Computing and Networking ([ACM MobiCom 2023](https://sigmobile.org/mobicom/2023/){:target="_blank"}) 
 
 *   The 20th USENIX Symposium on Networked Systems Design and Implementation ([NSDI 2023](https://www.usenix.org/conference/nsdi23/){:target="_blank"})  
 
@@ -24,7 +25,6 @@ permalink: /service/
 *   IEEE Workshop on the Internet of [Safe Things 2022](https://safe-things-2022.github.io/){:target="_blank"} (Co-located with Oakland 2022)
 
 *   The 2022 ACM SIGMETRICS/IFIP Performance conference ([ACM SIGMETRICS/Performance 2022](https://www.sigmetrics.org/sigmetrics2022/){:target="_blank"})  
-
 *   The 28th ACM Annual International Conference on Mobile Computing and Networking ([ACM MobiCom 2022](https://sigmobile.org/mobicom/2022/){:target="_blank"}) 
 
 
