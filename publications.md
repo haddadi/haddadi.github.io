@@ -12,7 +12,7 @@ permalink: /publications/
 
 *   Ranya Aloufi, Andreas Nautsch, Hamed Haddadi, David Boyle, "Locally Authenticated Privacy-preserving Voice Input”, [Paper](http://arxiv.org/abs/2205.14026){:target="_blank"} available on ArXiv.  
 
-*   Michael Smith, Peter Snyder, Moritz Haller, Benjamin Livshits, Deian Stefan, Hamed Haddadi, "Blocked or Broken? Automatically Detecting When Privacy Interventions Break Websites”, [PETS 2022](https://petsymposium.org/2022/){:target="_blank"}, [Paper](https://arxiv.org/abs/2203.03528){:target="_blank"} available on ArXiv.  
+*   Michael Smith, Peter Snyder, Moritz Haller, Benjamin Livshits, Deian Stefan, Hamed Haddadi, "Blocked or Broken? Automatically Detecting When Privacy Interventions Break Websites”, 22nd Privacy Enhancing Technologies Symposium (PETS 2022), July 11–15, 2022, Sydney, Australia [PETS 2022](https://petsymposium.org/2022/){:target="_blank"}, [Paper](https://arxiv.org/abs/2203.03528){:target="_blank"} available on ArXiv.  
 
 *   Alex Davidson, Peter Snyder, E. B. Quirk, Joseph Genereux, Hamed Haddadi, Benjamin Livshits, "STAR: Secret Sharing for Private Threshold Aggregation Reporting", [Paper](https://arxiv.org/abs/2109.10074){:target="_blank"} available on ArXiv.  
 
