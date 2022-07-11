@@ -21,8 +21,9 @@ I also supoort exceptional candidates for EU [Individual Fellowships (IF)](https
 
 ### News
 
-July 2022: I will be joining the [Department of Computing](https://www.imperial.ac.uk/computing){:target="_blank"} at Imperial College London, and the new [Imperial-X](https://ix.imperial.ac.uk/){:target="_blank"} Initiative, from July 2022. Looking forward to the new opportunities and collaborations ahead.
-
+July 2022: Dr [Fan Mo](https://mofanv.github.io){:target="_blank"} has passed his PhD viva. Congrats Legend. 
+ 
+July 2022: I will be joining the [Department of Computing](https://www.imperial.ac.uk/computing){:target="_blank"} at Imperial College London, and the new [Imperial-X](https://ix.imperial.ac.uk/){:target="_blank"} Initiative, from July 2022. Looking forward to the new opportunities and collaborations ahead. 
 
 June 2022: We are looking for a postdoctoral researcher to join us for my EPSRC fellowship. Please see the job ad here [https://www.imperial.ac.uk/jobs/description/ENG02158/research-associate-user-centred-systems-securityprivacy](https://www.imperial.ac.uk/jobs/description/ENG02158/research-associate-user-centred-systems-securityprivacy){:target="_blank"}. Deadline : 30 June.
 
