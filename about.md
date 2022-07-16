@@ -21,6 +21,8 @@ I also supoort exceptional candidates for EU [Individual Fellowships (IF)](https
 
 ### News
 
+July 2022:Our paper "STAR: Secret Sharing for Private Threshold Aggregation Reporting" has been accepted to ACM Conference on Computer and Communications Security (ACM CCS 2022). 
+
 July 2022: Dr [Fan Mo](https://mofanv.github.io){:target="_blank"} has passed his PhD viva. Congrats Legend. 
  
 July 2022: I will be joining the [Department of Computing](https://www.imperial.ac.uk/computing){:target="_blank"} at Imperial College London, and the new [Imperial-X](https://ix.imperial.ac.uk/){:target="_blank"} Initiative, from July 2022. Looking forward to the new opportunities and collaborations ahead. 
