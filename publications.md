@@ -9,12 +9,11 @@ permalink: /publications/
 
 ### 2022: 
 
+*   Alex Davidson, Peter Snyder, E. B. Quirk, Joseph Genereux, Hamed Haddadi, Benjamin Livshits, "STAR: Secret Sharing for Private Threshold Aggregation Reporting", ACM Conference on Computer and Communications Security ([ACM CCS 2022](https://www.sigsac.org/ccs/CCS2022/){:target="_blank"}), November 7-11, 2022 Los Angeles, USA. [Paper](https://arxiv.org/abs/2109.10074){:target="_blank"} available on ArXiv.  
 
 *   Ranya Aloufi, Andreas Nautsch, Hamed Haddadi, David Boyle, "Locally Authenticated Privacy-preserving Voice Input”, [Paper](http://arxiv.org/abs/2205.14026){:target="_blank"} available on ArXiv.  
 
 *   Michael Smith, Peter Snyder, Moritz Haller, Benjamin Livshits, Deian Stefan, Hamed Haddadi, "Blocked or Broken? Automatically Detecting When Privacy Interventions Break Websites”, 22nd Privacy Enhancing Technologies Symposium ([PETS 2022](https://petsymposium.org/2022/){:target="_blank"}), July 11–15, 2022, Sydney, Australia. [Paper](https://arxiv.org/abs/2203.03528){:target="_blank"} available on ArXiv.  
-
-*   Alex Davidson, Peter Snyder, E. B. Quirk, Joseph Genereux, Hamed Haddadi, Benjamin Livshits, "STAR: Secret Sharing for Private Threshold Aggregation Reporting", ACM Conference on Computer and Communications Security ([ACM CCS 2022](https://www.sigsac.org/ccs/CCS2022/){:target="_blank"}), November 7-11, 2022 Los Angeles, USA. [Paper](https://arxiv.org/abs/2109.10074){:target="_blank"} available on ArXiv.  
 
 *   Yuchen Zhao, Payam Barnaghi, Hamed Haddadi, "Multimodal Federated Learning on IoT Data", 7th ACM/IEEE Conference on Internet of Things Design and Implementation ([IoTDI'22](https://conferences.computer.org/iotDI/2022/){:target="_blank"}), May 3-6, 2022 — Milan, Italy. (Paper available on [ArXiv](https://arxiv.org/abs/2109.04833){:target="_blank"}, [Code](https://github.com/){:target="_blank"})  
 
