@@ -21,7 +21,7 @@ I also supoort exceptional candidates for EU [Individual Fellowships (IF)](https
 
 ### News
 
-July 2022:Our paper "STAR: Secret Sharing for Private Threshold Aggregation Reporting" has been accepted to ACM Conference on Computer and Communications Security (ACM CCS 2022). 
+July 2022: Our paper "STAR: Secret Sharing for Private Threshold Aggregation Reporting" has been accepted to ACM Conference on Computer and Communications Security ([ACM CCS 2022](https://www.sigsac.org/ccs/CCS2022/){:target="_blank"}). 
 
 July 2022: Dr [Fan Mo](https://mofanv.github.io){:target="_blank"} has passed his PhD viva. Congrats Legend. 
  
