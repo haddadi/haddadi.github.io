@@ -4,7 +4,7 @@ title: Hamed Haddadi
 permalink: /about/
 ---
 
-I am a [Reader](https://en.wikipedia.org/wiki/Reader_(academic_rank)){:target="_blank"} in Human-Centred Systems at the [Department of Computing](https://www.imperial.ac.uk/computing){:target="_blank"} at [Imperial College London](https://www.imperial.ac.uk){:target="_blank"}. I also serve as a Security Science Fellow of the [Institute for Security Science and Technology](https://www.imperial.ac.uk/security-institute/about-us/institute-staff/){:target="_blank"}.  In my industrial role, I am the Chief Scientist at [Brave](https://brave.com/index/){:target="_blank"}. 
+I am a [Reader](https://en.wikipedia.org/wiki/Reader_(academic_rank)){:target="_blank"} in Human-Centred Systems at the [Department of Computing](https://www.imperial.ac.uk/computing){:target="_blank"} at [Imperial College London](https://www.imperial.ac.uk){:target="_blank"}. I also serve as a Security Science Fellow of the [Institute for Security Science and Technology](https://www.imperial.ac.uk/security-institute/about-us/institute-staff/){:target="_blank"}. In my industrial role, I am the Chief Scientist at [Brave](https://brave.com/index/){:target="_blank"}. 
 
 
 [Contact](https://www.imperial.ac.uk/people/h.haddadi){:target="_blank"}, [Bio](bio.txt){:target="_blank"}, [Calendar](https://www.google.com/calendar/embed?src=h.haddadi%40gmail.com){:target="_blank"}, [Code](https://github.com/haddadi){:target="_blank"}
