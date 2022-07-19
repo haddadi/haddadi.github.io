@@ -9,7 +9,7 @@ permalink: /publications/
 
 ### 2022: 
 
-*   Alex Davidson, Peter Snyder, E. B. Quirk, Joseph Genereux, Benjamin Livshits, Hamed Haddadi, "STAR: Secret Sharing for Private Threshold Aggregation Reporting", ACM Conference on Computer and Communications Security ([ACM CCS 2022](https://www.sigsac.org/ccs/CCS2022/){:target="_blank"}), November 7-11, 2022 Los Angeles, USA. [Paper](https://arxiv.org/abs/2109.10074){:target="_blank"} available on ArXiv.  
+*   Alex Davidson, Peter Snyder, E. B. Quirk, Joseph Genereux, Benjamin Livshits, Hamed Haddadi, "[STAR](https://brave.com/privacy-updates/19-star/): Secret Sharing for Private Threshold Aggregation Reporting", ACM Conference on Computer and Communications Security ([ACM CCS 2022](https://www.sigsac.org/ccs/CCS2022/){:target="_blank"}), November 7-11, 2022 Los Angeles, USA. [Paper](https://arxiv.org/abs/2109.10074){:target="_blank"} available on ArXiv.  
 
 *   Ranya Aloufi, Andreas Nautsch, Hamed Haddadi, David Boyle, "Locally Authenticated Privacy-preserving Voice Input”, [Paper](http://arxiv.org/abs/2205.14026){:target="_blank"} available on ArXiv.  
 
