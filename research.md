@@ -18,14 +18,14 @@ For project details, please visit the Systems and Algorithms Laboratory ([SysAL]
 *   EPSRC [PETRAS ISPEF Fund](https://petras-iot.org/funding-call/ispef/){:target="_blank"}, Privacy Preserving IoT Security Management ([PRISM](https://petras-iot.org/project/privacy-preserving-iot-security-management-prism/){:target="_blank"}), £100K, Starting April 2022 
 *   [MIT-Imperial Seed Fund](https://www.imperial.ac.uk/admin-services/international-relations/mit-imperial-seed-fund/){:target="_blank"} , $100K, Starting October 2021 
 *   [InnovateUK Cyber Security Academic Startup Accelerator Programme (CyberASAP) grant](https://ktn-uk.org/news/cyber-security-academic-startup-accelerator-programme-cyberasap-reveals-2022-23-cohort/), supporting our efforts to accelerate IoT Security via [IoTrim](https://iotrim.github.io){:target="_blank"}
-*   [UK DRI Care Research & Technology programme](https://www.imperial.ac.uk/dementia-research-institute/care-research--technology-centre/){:target="_blank"} (£20m starting June 2019)
+
 
 
 ## Current Research Staff
 
 *   [Dr YuanyingZhao](https://www.imperial.ac.uk/people/yuanying.zhao14) (ESRC Postdoctoral Fellow)
   
-*   [Dr Yuchen Zhao](https://www.imperial.ac.uk/people/yuchen.zhao19) (Postdoctoral Research Associate on the [UK DRI Care Research & Technology programme](https://www.imperial.ac.uk/news/190934/20m-centre-enable-people-with-dementia/){:target="_blank"} 
+*   [Dr Yuchen Zhao](https://www.imperial.ac.uk/people/yuchen.zhao19) (Postdoctoral Research Associate on the [UK DRI Care Research & Technology programme](https://www.imperial.ac.uk/uk-dri-care-research-technology){:target="_blank"} 
 
 *   [Dr Anna Maria Mandalari](https://www.imperial.ac.uk/people/anna-maria.mandalari) (Postdoctoral Research Associate on [IoTrim](http://iotrim.net/){:target="_blank"}) 
 
@@ -40,16 +40,13 @@ For project details, please visit the Systems and Algorithms Laboratory ([SysAL]
   
 *   [Ranya Aloufi](https://ranyajumah.github.io/publications/) (Privacy in Edge Compouting, funded by Saudi Arabian Cultural Bureau).
 
-*   [Fan Mo](https://mofanv.github.io) (Privacy-preserving trusted Mobile Computing, funded by CSC Scholarship).
-
-*   [Yuting Zhan](https://www.imperial.ac.uk/people/yuting.zhan18) (HDI, funded by [CSC Imperial Scholarship](https://www.imperial.ac.uk/study/pg/fees-and-funding/scholarships/international-scholarship-collaborations/csc/)).
-
 
 I am interested in hearing from potential PhD students in my areas of research interests. If you have interesting ideas and wish to discuss funding opportunities for next year, please send me an [email](mailto:h.haddadi@imperial.ac.uk) (no attachments please!)
 
 ## Past Projects/Grants
 
-*   EPSRC Impact Acceleration Award to develop [IoTrim](http://iotrim.net/){:target="_blank"}, £100K, April 2021-March 2022 
+*   [UK DRI Care Research & Technology programme](https://www.imperial.ac.uk/uk-dri-care-research-technology){:target="_blank"} (£20m starting June 2019)    
+*   EPSRC Impact Acceleration Award to develop [IoTrim](http://iotrim.net/){:target="_blank"}, £100K, April 2021-March 2022  
 
 *   [Human-Data Interaction](http://hdiresearch.org/), Legibility, Agency, Negotiability: EPSRC Network Plus grant ([EP/R045178/1](https://gtr.ukri.org/projects?ref=EP%2FR045178%2F1){:target="_blank"}, £1,040,837 starting September 2018)  
   
@@ -83,6 +80,11 @@ I am interested in hearing from potential PhD students in my areas of research i
 
 ## Past Visitors/Staff/Students
 
+
+[Dr Fan Mo](https://mofanv.github.io) (Privacy-preserving trusted Mobile Computing, funded by CSC Scholarship, graduated September 2022).
+
+[Dr Yuting Zhan](https://www.imperial.ac.uk/people/yuting.zhan18) (HDI, funded by [CSC Imperial Scholarship](https://www.imperial.ac.uk/study/pg/fees-and-funding/scholarships/international-scholarship-collaborations/csc/), graduated September 2022).   
+  
 [Dr Roman Kolcun](https://www.imperial.ac.uk/people/roman.kolcun) (Postdoctoral Research Associate on the [DADA Project](https://www.imperial.ac.uk/systems-algorithms-design-lab/research/dada-project/))
 
 [Dr Ali Shahin Shamsabadi](https://alishahin.github.io/) (Privacy-preserving Deep Learning, funded by QMUL [CIS](http://cis.eecs.qmul.ac.uk/) Scholarship) 
