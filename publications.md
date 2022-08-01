@@ -7,6 +7,11 @@ permalink: /publications/
 ## [GitHub code](https://github.com/haddadi/){:target="_blank"}
 
 
+### 2023: 
+
+*   Yuting Zhan, Hamed Haddadi, Afra Mashhadi, "Privacy-Aware Adversarial Network in Human Mobility Prediction", The 23nd Privacy Enhancing Technologies Symposium ([PETS 2023](https://petsymposium.org/2022/){:target="_blank"}), July 10–14, 2023, Lausanne, Switzerland. [Paper](https://arxiv.org/abs/){:target="_blank"} available on ArXiv.  
+*   
+
 ### 2022: 
 
 *   Alex Davidson, Peter Snyder, E. B. Quirk, Joseph Genereux, Benjamin Livshits, Hamed Haddadi, "[STAR](https://brave.com/privacy-updates/19-star/): Secret Sharing for Private Threshold Aggregation Reporting", ACM Conference on Computer and Communications Security ([ACM CCS 2022](https://www.sigsac.org/ccs/CCS2022/){:target="_blank"}), November 7-11, 2022 Los Angeles, USA. [Paper](https://arxiv.org/abs/2109.10074){:target="_blank"} available on ArXiv.  
