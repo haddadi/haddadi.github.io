@@ -10,7 +10,7 @@ permalink: /publications/
 ### 2023: 
 
 *   Yuting Zhan, Hamed Haddadi, Afra Mashhadi, "Privacy-Aware Adversarial Network in Human Mobility Prediction", The 23nd Privacy Enhancing Technologies Symposium ([PETS 2023](https://petsymposium.org/2022/){:target="_blank"}), July 10–14, 2023, Lausanne, Switzerland. [Paper](https://arxiv.org/abs/){:target="_blank"} available on ArXiv.  
-*   
+ 
 
 ### 2022: 
 
