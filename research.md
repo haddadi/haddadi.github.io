@@ -32,6 +32,8 @@ For project details, please visit the Systems and Algorithms Laboratory ([SysAL]
 
 ## Current Research Students
   
+*   [Syed M Danish Rizvi](https://www.imperial.ac.uk/people/d.rizvi21) (ML and Autonomous Controls, funded by Pakistan Higher Education Commission Overseas Scholarship).  
+  
 *   [Yushan Huang](https://www.imperial.ac.uk/people/yushan.huang21) (Machine Learning systems, funded by CSC Scholarship).
 
 *   [Mengjia Niu](https://www.imperial.ac.uk/people/m.niu21) (IoT and HDI, funded by [CSC Imperial Scholarship](https://www.imperial.ac.uk/study/pg/fees-and-funding/scholarships/international-scholarship-collaborations/csc/)).
@@ -40,7 +42,7 @@ For project details, please visit the Systems and Algorithms Laboratory ([SysAL]
   
 *   [Ranya Aloufi](https://ranyajumah.github.io/publications/) (Privacy in Edge Compouting, funded by Saudi Arabian Cultural Bureau).
 
-
+  
 I am interested in hearing from potential PhD students in my areas of research interests. If you have interesting ideas and wish to discuss funding opportunities for next year, please send me an [email](mailto:h.haddadi@imperial.ac.uk) (no attachments please!)
 
 ## Past Projects/Grants
