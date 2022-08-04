@@ -14,6 +14,8 @@ permalink: /service/
 
 *   IEEE Secure Development Conference 2022 ([SecDev2022](https://secdev.ieee.org/2022/home/){:target="_blank"}) 
 
+*   The ACM Data Economy workshop 2022, Co-Located with CoNext 2022 ([ACM DE 2022](https://sites.google.com/view/dataeconomy2022/call-for-papers){:target="_blank"})  
+
 *   The 18th International Conference on emerging Networking EXperiments and Technologies ([ACM CoNEXT 2022](https://conferences2.sigcomm.org/co-next/2022/){:target="_blank"})  
 
 *   ACM SIGCOMM Internet Measurement Conference 2022 ([IMC 2022](http://conferences.sigcomm.org/imc/2022/){:target="_blank"})  
