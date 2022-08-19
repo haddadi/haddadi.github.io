@@ -16,11 +16,13 @@ permalink: /publications/
 
 *   Alex Davidson, Peter Snyder, E. B. Quirk, Joseph Genereux, Benjamin Livshits, Hamed Haddadi, "[STAR](https://brave.com/privacy-updates/19-star/): Secret Sharing for Private Threshold Aggregation Reporting", ACM Conference on Computer and Communications Security ([ACM CCS 2022](https://www.sigsac.org/ccs/CCS2022/){:target="_blank"}), November 7-11, 2022 Los Angeles, USA. [Paper](https://arxiv.org/abs/2109.10074){:target="_blank"} available on ArXiv.  
 
+*   Yushan Huang, Yuchen Zhao, Payam Barnaghi, Hamed Haddadi, ``Using Entropy Measures For Monitoring the Evolution of Activity Patterns", IEEE 8th World Forum on Internet of Things ([WF-IOT 2022](https://wfiot2022.iot.ieee.org/){:target="_blank"}), 26 October–11 November 2022, Yokohama, Japan. (Paper available on [ArXiv](https://arxiv.org/abs/2109.04833){:target="_blank"}, [Code](https://github.com/){:target="_blank"})  
+
 *   Ranya Aloufi, Andreas Nautsch, Hamed Haddadi, David Boyle, "Locally Authenticated Privacy-preserving Voice Input”, [Paper](http://arxiv.org/abs/2205.14026){:target="_blank"} available on ArXiv.  
 
 *   Michael Smith, Peter Snyder, Moritz Haller, Benjamin Livshits, Deian Stefan, Hamed Haddadi, "Blocked or Broken? Automatically Detecting When Privacy Interventions Break Websites”, 22nd Privacy Enhancing Technologies Symposium ([PETS 2022](https://petsymposium.org/2022/){:target="_blank"}), July 11–15, 2022, Sydney, Australia. [Paper](https://arxiv.org/abs/2203.03528){:target="_blank"} available on ArXiv.  
 
-*   Yuchen Zhao, Payam Barnaghi, Hamed Haddadi, "Multimodal Federated Learning on IoT Data", 7th ACM/IEEE Conference on Internet of Things Design and Implementation ([IoTDI'22](https://conferences.computer.org/iotDI/2022/){:target="_blank"}), May 3-6, 2022 — Milan, Italy. (Paper available on [ArXiv](https://arxiv.org/abs/2109.04833){:target="_blank"}, [Code](https://github.com/){:target="_blank"})  
+*   Yuchen Zhao, Payam Barnaghi, Hamed Haddadi, "Multimodal Federated Learning on IoT Data", 7th ACM/IEEE Conference on Internet of Things Design and Implementation ([IoTDI'22](https://conferences.computer.org/iotDI/2022/){:target="_blank"}), May 3-6, 2022 — Milan, Italy. (Paper available on [ArXiv](https://arxiv.org/abs/2109.04833){:target="_blank"}, [Code](https://github.com/yuchenzhao/iotdi22-mmfl){:target="_blank"})  
 
 *  Yuting Zhan, Alex Kyllo, Afra Mashhadi, Hamed Haddadi, "Privacy-Aware Human Mobility Prediction via Adversarial Networks", in The Second IEEE International Workshop on Cyber-Physical-Human System Design and Implementation ([CPHS'22](https://cphs22.github.io/CPHS22/){:target="_blank"}), Virtual Event - Milan, Italy, May 2022. (Paper available on [ArXiv](https://arxiv.org/abs/2201.07519){:target="_blank"})  
 
