@@ -18,6 +18,8 @@ permalink: /publications/
 
 *   Yushan Huang, Yuchen Zhao, Payam Barnaghi, Hamed Haddadi, "Using Entropy Measures For Monitoring the Evolution of Activity Patterns", IEEE 8th World Forum on Internet of Things ([WF-IOT 2022](https://wfiot2022.iot.ieee.org/){:target="_blank"}), 26 October–11 November 2022, Yokohama, Japan. (Paper available on [ArXiv](https://arxiv.org/abs/2109.04833){:target="_blank"}, [Code](https://github.com/){:target="_blank"})  
 
+*   Fan Mo, Zahra Tarkhani, Hamed Haddadi, "SoK: Machine Learning with Confidential Computing”, [Paper](https://arxiv.org/abs/2208.10134){:target="_blank"} available on ArXiv. 
+
 *   Ranya Aloufi, Andreas Nautsch, Hamed Haddadi, David Boyle, "Locally Authenticated Privacy-preserving Voice Input”, [Paper](http://arxiv.org/abs/2205.14026){:target="_blank"} available on ArXiv.  
 
 *   Michael Smith, Peter Snyder, Moritz Haller, Benjamin Livshits, Deian Stefan, Hamed Haddadi, "Blocked or Broken? Automatically Detecting When Privacy Interventions Break Websites”, 22nd Privacy Enhancing Technologies Symposium ([PETS 2022](https://petsymposium.org/2022/){:target="_blank"}), July 11–15, 2022, Sydney, Australia. [Paper](https://arxiv.org/abs/2203.03528){:target="_blank"} available on ArXiv.  
