@@ -15,7 +15,6 @@ For project details, please visit the Systems and Algorithms Laboratory ([SysAL]
   
 
 *   EPSRC [Open Plus Fellowship](https://epsrc.ukri.org/skills/fellows/){:target="_blank"} ([EP/W005271/1: Securing the Next Billion Consumer Devices on the Edge](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/W005271/1){:target="_blank"}, £1,5m, 2022-2027) 
-*   EPSRC [PETRAS ISPEF Fund](https://petras-iot.org/funding-call/ispef/){:target="_blank"}, Privacy Preserving IoT Security Management ([PRISM](https://petras-iot.org/project/privacy-preserving-iot-security-management-prism/){:target="_blank"}), £100K, Starting April 2022 
 *   [MIT-Imperial Seed Fund](https://www.imperial.ac.uk/admin-services/international-relations/mit-imperial-seed-fund/){:target="_blank"} , $100K, Starting October 2021 
 *   [InnovateUK Cyber Security Academic Startup Accelerator Programme (CyberASAP) grant](https://ktn-uk.org/news/cyber-security-academic-startup-accelerator-programme-cyberasap-reveals-2022-23-cohort/), supporting our efforts to accelerate IoT Security via [IoTrim](https://iotrim.github.io){:target="_blank"}
 
@@ -44,6 +43,8 @@ I am interested in hearing from potential PhD students in my areas of research i
 ## Past Projects/Grants
 
 *   [UK DRI Care Research & Technology programme](https://www.imperial.ac.uk/uk-dri-care-research-technology){:target="_blank"} (£20m starting June 2019)    
+*   EPSRC [PETRAS ISPEF Fund](https://petras-iot.org/funding-call/ispef/){:target="_blank"}, Privacy Preserving IoT Security Management ([PRISM](https://petras-iot.org/project/privacy-preserving-iot-security-management-prism/){:target="_blank"}), £100K, Starting April 2022 
+
 *   EPSRC Impact Acceleration Award to develop [IoTrim](http://iotrim.net/){:target="_blank"}, £100K, April 2021-March 2022  
 
 *   [Human-Data Interaction](http://hdiresearch.org/), Legibility, Agency, Negotiability: EPSRC Network Plus grant ([EP/R045178/1](https://gtr.ukri.org/projects?ref=EP%2FR045178%2F1){:target="_blank"}, £1,040,837 starting September 2018)  
