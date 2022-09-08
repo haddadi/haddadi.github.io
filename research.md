@@ -23,11 +23,7 @@ For project details, please visit the Systems and Algorithms Laboratory ([SysAL]
 
 ## Current Research Staff
 
-*   [Dr YuanyingZhao](https://www.imperial.ac.uk/people/yuanying.zhao14) (ESRC Postdoctoral Fellow)
-  
-*   [Dr Yuchen Zhao](https://www.imperial.ac.uk/people/yuchen.zhao19) (Postdoctoral Research Associate on the [UK DRI Care Research & Technology programme](https://www.imperial.ac.uk/uk-dri-care-research-technology){:target="_blank"} 
 
-*   [Dr Anna Maria Mandalari](https://www.imperial.ac.uk/people/anna-maria.mandalari) (Postdoctoral Research Associate on [IoTrim](http://iotrim.net/){:target="_blank"}) 
 
 
 ## Current Research Students
@@ -82,6 +78,12 @@ I am interested in hearing from potential PhD students in my areas of research i
 
 ## Past Visitors/Staff/Students
 
+
+[Dr YuanyingZhao](https://www.imperial.ac.uk/people/yuanying.zhao14) (ESRC Postdoctoral Fellow)
+  
+[Dr Yuchen Zhao](https://www.imperial.ac.uk/people/yuchen.zhao19) (Postdoctoral Research Associate on the [UK DRI Care Research & Technology programme](https://www.imperial.ac.uk/uk-dri-care-research-technology){:target="_blank"} 
+
+[Dr Anna Maria Mandalari](https://www.imperial.ac.uk/people/anna-maria.mandalari) (Postdoctoral Research Associate on [IoTrim](http://iotrim.net/){:target="_blank"}) 
 
 [Dr Fan Mo](https://mofanv.github.io) (Privacy-preserving trusted Mobile Computing, funded by CSC Scholarship, graduated September 2022).
 
