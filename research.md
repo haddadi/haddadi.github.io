@@ -82,7 +82,7 @@ I am interested in hearing from potential PhD students in my areas of research i
 
 [Dr YuanyingZhao](https://www.imperial.ac.uk/people/yuanying.zhao14) (ESRC Postdoctoral Fellow)
   
-[Dr Yuchen Zhao](https://www.imperial.ac.uk/people/yuchen.zhao19) (Postdoctoral Research Associate on the [UK DRI Care Research & Technology programme](https://www.imperial.ac.uk/uk-dri-care-research-technology){:target="_blank"} 
+[Dr Yuchen Zhao](https://yuchenzhao.github.io) (Postdoctoral Research Associate on the [UK DRI Care Research & Technology programme](https://www.imperial.ac.uk/uk-dri-care-research-technology){:target="_blank"} 
 
 [Dr Anna Maria Mandalari](https://www.imperial.ac.uk/people/anna-maria.mandalari) (Postdoctoral Research Associate on [IoTrim](http://iotrim.net/){:target="_blank"}) 
 
