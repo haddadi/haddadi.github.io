@@ -72,6 +72,7 @@ I am also a Fellow of the [Higher Education Academy](https://www.heacademy.ac.uk
 
 ## PhD examination
 
+Julien Gamba, IMDEA Networks Institute, September 2022  
 Jide Edu, Kings College London, June 2022  
 Zahra Tarkhani, University of Cambridge, May 2022   
 Ecenaz Erdemir, Imperial College London, February 2022  
