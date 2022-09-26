@@ -6,7 +6,7 @@ permalink: /research/
 
 (Better strategy [1](http://www.cs.virginia.edu/%7Erobins/YouAndYourResearch.html), [2](http://www.cl.cam.ac.uk/%7Ejac22/zen-lab.txt) & [3](http://greatresearch.org/))
 
-For project details, please visit the Systems and Algorithms Laboratory ([SysAL](https://www.imperial.ac.uk/sysal){:target="_blank"} ) pages.
+For project details, please visit the [Imperial-X](https://ix.imperial.ac.uk/){:target="_blank"} Networks and Systems Laboratory ([NetSys]([https://www.imperial.ac.uk/sysal](https://netsys.doc.ic.ac.uk/)){:target="_blank"} ) pages.
 
 <a href="https://www.imperial.ac.uk/sysal/"><img src="https://raw.githubusercontent.com/haddadi/haddadi.github.io/master/images/SysALLogo.jpg" width="200"/>
 
@@ -22,7 +22,7 @@ For project details, please visit the Systems and Algorithms Laboratory ([SysAL]
 
 ## Current Research Staff
 
-
+*   Vadim Safronov, Research Assistant on the [InnovateUK Cyber Security Academic Startup Accelerator Programme (CyberASAP) grant](https://ktn-uk.org/news/cyber-security-academic-startup-accelerator-programme-cyberasap-reveals-2022-23-cohort/)
 
 
 ## Current Research Students
