@@ -14,6 +14,8 @@ permalink: /publications/
 
 ### 2022: 
 
+*   Ranya Aloufi, Hamed Haddadi, David Boyle, "Paralinguistic Privacy Protection at the Edge", ACM Transactions on Privacy and Security [TOPS] 2022. [Paper](https://arxiv.org/abs/2011.02930){:target="_blank"} available on ArXiv
+
 *   Alex Davidson, Matthias Frei, Marten Gartner, Hamed Haddadi, Jordi Subira Nieto, Adrian Perrig, Philipp Winter, François Wirz, "Tango or Square Dance? How Tightly Should we Integrate Network Functionality in Browsers?", Twenty-First ACM Workshop on Hot Topics in Networks ([ACM HotNets 2022](https://conferences.sigcomm.org/hotnets/2022/){:target="_blank"}), November 14-15, 2022 — Austin, Texas, USA. [Paper](https://arxiv.org/){:target="_blank"} available on ArXiv.  
 
 *   Alex Davidson, Peter Snyder, E. B. Quirk, Joseph Genereux, Benjamin Livshits, Hamed Haddadi, "[STAR](https://brave.com/privacy-updates/19-star/): Secret Sharing for Private Threshold Aggregation Reporting", ACM Conference on Computer and Communications Security ([ACM CCS 2022](https://www.sigsac.org/ccs/CCS2022/){:target="_blank"}), November 7-11, 2022 Los Angeles, USA. [Paper](https://arxiv.org/abs/2109.10074){:target="_blank"} available on ArXiv.  
@@ -48,7 +50,6 @@ permalink: /publications/
 *   Zahra Pooranian, Mauro Conti, Hamed Haddadi, Rahim Tafazolli, "Online Advertising Security: Issues, Taxonomy, and Future Directions", IEEE Communications Surveys and Tutorials, 2021. (Paper available on [ArXiv](https://arxiv.org/abs/2006.03986){:target="_blank"}) 
 
 *   Ranya Aloufi, Hamed Haddadi, David Boyle, "A Tandem Framework Balancing Privacy and Security for Voice User Interfaces", July 2021. (Paper available on [ArXiv](https://arxiv.org/abs/2107.10045){:target="_blank"}, [Code](https://github.com/RanyaJumah/EDGY){:target="_blank"})  
-
 
 *   Mohammad Malekzadeh, Richard G. Clegg, Andrea Cavallaro, Hamed Haddadi, "DANA: Dimension-Adaptive Neural Architecture for Multivariate Sensor Data
 ", Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies ([IMWUT/UBICOMP 2021](https://dl.acm.org/journal/imwut){:target="_blank"}), September 2021. (Paper available on [ArXiv](https://arxiv.org/abs/2008.02397){:target="_blank"}, [Code](https://github.com/mmalekzadeh/dana){:target="_blank"}, [Tutorial](https://colab.research.google.com/github/mmalekzadeh/dana/blob/master/experiment/DANA_a_tutorial.ipynb){:target="_blank"}) 
