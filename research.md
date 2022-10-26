@@ -28,7 +28,7 @@ For project details, please visit the [Imperial-X](https://ix.imperial.ac.uk/){:
 
 ## Current Research Students
   
-*   [Hugo Dugdale](https://www.imperial.ac.uk/) (Privacy and Security for Smart Health Devices, funded by [UKRI CDT in AI for Healthcare](https://ai4health.io/){:target="_blank"}).  
+*   [Hugo Dugdale](https://www.imperial.ac.uk/people/hugo.dugdale19) (Privacy and Security for Smart Health Devices, funded by [UKRI CDT in AI for Healthcare](https://ai4health.io/){:target="_blank"}).  
   
 *   [Syed M Danish Rizvi](https://www.imperial.ac.uk/people/d.rizvi21) (ML and Autonomous Controls, funded by Pakistan Higher Education Commission Overseas Scholarship).  
   
