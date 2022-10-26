@@ -4,19 +4,19 @@ title: Hamed Haddadi
 permalink: /about/
 ---
 
-I am a [Reader](https://en.wikipedia.org/wiki/Reader_(academic_rank)){:target="_blank"} in Human-Centred Systems at the [Department of Computing](https://www.imperial.ac.uk/computing){:target="_blank"} at [Imperial College London](https://www.imperial.ac.uk){:target="_blank"}. I also serve as a Security Science Fellow of the [Institute for Security Science and Technology](https://www.imperial.ac.uk/security-institute/about-us/institute-staff/){:target="_blank"}. In my industrial role, I am the Chief Scientist at [Brave](https://brave.com/index/){:target="_blank"}. 
+I am a [Reader](https://en.wikipedia.org/wiki/Reader_(academic_rank)){:target="_blank"} in Human-Centred Systems at the [Department of Computing](https://www.imperial.ac.uk/computing){:target="_blank"} at [Imperial College London](https://www.imperial.ac.uk){:target="_blank"}. I am part of [Imperial-X (I-X)](https://ix.imperial.ac.uk/){:target="_blank"} where I lead the [Privacy and Security Research Area](https://ix.imperial.ac.uk/research-area/privacy-and-security-for-ai-systems/){:target="_blank"}. I also serve as a Security Science Fellow of the [Institute for Security Science and Technology](https://www.imperial.ac.uk/security-institute/about-us/institute-staff/){:target="_blank"}. In my industrial role, I am the Chief Scientist at [Brave](https://brave.com/index/){:target="_blank"}. 
 
 
 [Contact](https://www.imperial.ac.uk/people/h.haddadi){:target="_blank"}, [Bio](bio.txt){:target="_blank"}, [Calendar](https://www.google.com/calendar/embed?src=h.haddadi%40gmail.com){:target="_blank"}, [Code](https://github.com/haddadi){:target="_blank"}
 
 
-My research interests are in User-Centred Systems, IoT, Applied Machine Learning, Privacy, and [Human-Data Interaction](http://hdiresearch.org){:target="_blank"}. At Imperial College, I am part of [Imperial-X (I-X)](https://ix.imperial.ac.uk/){:target="_blank"} where I lead the [Privacy and Security Research Area](https://ix.imperial.ac.uk/research-area/privacy-and-security-for-ai-systems/){:target="_blank"}. I am a Core member of the [Machine Learning Initiative at Imperial](https://www.imperial.ac.uk/machine-learning/){:target="_blank"}, an Academic Fellow of the [Data Science Institute](https://www.imperial.ac.uk/data-science/){:target="_blank"} and an Associate member of the [Academic Centre of Excellence in Cyber Security Research](https://www.imperial.ac.uk/cyber-security/){:target="_blank"}.
+My research interests are in User-Centred Systems, IoT, Applied Machine Learning, Privacy, and [Human-Data Interaction](http://hdiresearch.org){:target="_blank"}. I am a Core member of the [Machine Learning Initiative at Imperial](https://www.imperial.ac.uk/machine-learning/){:target="_blank"}, an Academic Fellow of the [Data Science Institute](https://www.imperial.ac.uk/data-science/){:target="_blank"} and an Associate member of the [Academic Centre of Excellence in Cyber Security Research](https://www.imperial.ac.uk/cyber-security/){:target="_blank"}.
 
 I am keen to hear from strong students interested in doing their masters project or PhD research with me, or postdoctoral fellows interested in being hosted at Imperial College London. Please get in touch! 
 
 We are always keen to support exceptional candidates for the [Imperial College Research Fellowships](https://www.imperial.ac.uk/research-fellowships){:target="_blank"}, the Imperial [President's PhD Scholarships](https://www.imperial.ac.uk/study/pg/fees-and-funding/scholarships/presidents-phd-scholarships/){:target="_blank"}, [China Scholarship Council](https://www.imperial.ac.uk/study/pg/fees-and-funding/scholarships/international-scholarship-collaborations/csc/){:target="_blank"}, the [Islamic Development Bank – Imperial College Scholarship](https://www.imperial.ac.uk/study/pg/fees-and-funding/scholarships/international-scholarship-collaborations/islamic-development-bank--imperial-college-scholarship/){:target="_blank"}, UKRI [AI for Healthcare CDT](https://ai4health.io){:target="_blank"}, the London Interdisciplinary Social Science Doctoral Training Partnership ([LISS DTP](https://liss-dtp.ac.uk/){:target="_blank"}),  and various other UK and International [Scholarships](https://www.imperial.ac.uk/computing/prospective-students/courses/phd/scholarships/){:target="_blank"} and Centres for Doctoral Training in Imperial College London.
 
-I also supoort exceptional candidates for EU [Individual Fellowships (IF)](https://ec.europa.eu/research/mariecurieactions/actions/individual-fellowships_en){:target="_blank"} and UKRI [EPSRC Postdoctoral and Open Fellowships](https://epsrc.ukri.org/skills/fellows/){:target="_blank"}. Please get in touch to discuss these, sending me any relevant material, information, and a potential proposal idea. 
+We also supoort exceptional candidates for EU [Individual Fellowships (IF)](https://ec.europa.eu/research/mariecurieactions/actions/individual-fellowships_en){:target="_blank"} and UKRI [EPSRC Postdoctoral and Open Fellowships](https://epsrc.ukri.org/skills/fellows/){:target="_blank"}. Please get in touch to discuss these, sending me any relevant material, information, and a potential proposal idea. 
 
 
 ### News
@@ -92,7 +92,7 @@ MISC: My Erdos Number is 3: Hamed Haddadi > Andrew G. Thomason -> Fan Chung -> P
 [h.haddadi@imperial.ac.uk](mailto:h.haddadi@imperial.ac.uk)
 
 <p align="center">
-<a href="https://www.imperial.ac.uk/sysal/"><img src="https://raw.githubusercontent.com/haddadi/haddadi.github.io/master/images/SysALLogo.jpg" width="200"/>
+<a href="https://www.imperial.ac.uk/sysal/"><img src="https://raw.githubusercontent.com/haddadi/haddadi.github.io/master/images/NetSysLogo.jpg" width="200"/>
 <p align="center">
-<a href="https://www.imperial.ac.uk"><img src="http://www.imperial.ac.uk/ImageCropToolT4/imageTool/uploaded-images/Blue-on-white--tojpeg_1495792235526_x1.jpg" width="200"/>
+<a href="https://www.imperial.ac.uk"><img src="https://pxl-imperialacuk.terminalfour.net/fit-in/448x293/prod01/channel_2/media/migration/staff/Blue-on-white--tojpeg_1495792235526_x4.jpg" width="200"/>
 
