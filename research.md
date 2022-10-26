@@ -8,7 +8,7 @@ permalink: /research/
 
 For project details, please visit the [Imperial-X](https://ix.imperial.ac.uk/){:target="_blank"} and the Networks and Systems Laboratory ([NetSys](https://netsys.doc.ic.ac.uk/){:target="_blank"} ) pages.
 
-<a href="https://www.imperial.ac.uk/sysal/"><img src="https://raw.githubusercontent.com/haddadi/haddadi.github.io/master/images/SysALLogo.jpg" width="200"/>
+<a href="https://www.imperial.ac.uk/sysal/"><img src="https://github.com/haddadi/haddadi.github.io/blob/master/images/NetSys%20social%20logo%203.png?raw=true" width="200"/>
 
   
 ## Current Projects and Grants
