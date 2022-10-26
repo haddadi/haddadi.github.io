@@ -95,7 +95,7 @@ MISC: My Erdos Number is 3: Hamed Haddadi > Andrew G. Thomason -> Fan Chung -> P
 <p align="center">
 <a href="https://ix.imperial.ac.uk"><img src="https://ix.imperial.ac.uk/wp-content/uploads/sites/9/2021/12/logo-300x300.png" width="200"/>
 <p align="center">
-<a href="https://netsys.doc.ic.ac.uk/"><img src="https://github.com/haddadi/haddadi.github.io/blob/3d652c5dc8a3421beb0b74bd94e3d7a57139d4a6/images/NetSys%20social%20logo%203.png" width="200"/>
+<a href="https://netsys.doc.ic.ac.uk/"><img src="https://github.com/haddadi/haddadi.github.io/blob/master/images/NetSys%20social%20logo%203.png?raw=true" width="200"/>
 <p align="center">
 <a href="https://www.imperial.ac.uk"><img src="https://pxl-imperialacuk.terminalfour.net/fit-in/448x293/prod01/channel_2/media/migration/staff/Blue-on-white--tojpeg_1495792235526_x4.jpg" width="200"/>
 
