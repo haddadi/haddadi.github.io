@@ -23,7 +23,7 @@ We also supoort exceptional candidates for EU [Individual Fellowships (IF)](http
 
 December 2022: Our paper “[Paralinguistic Privacy Protection at the Edge](https://arxiv.org/abs/2011.02930)” has been accepted to the ACM Transactions on Privacy and Security [TOPS] 2022. Congrats Ranya Aloufi.
 
-October 2022: Vadim Safranov joins us as a Research Assistant on the .
+October 2022: Vadim Safranov joins us as a Research Assistant on [Project PRISM](https://petras-iot.org/project/privacy-preserving-iot-security-management-prism/){:target="_blank"}.
 
 October 2022: Our paper “[Tango or Square Dance? How Tightly Should we Integrate Network Functionality in Browsers?](https://arxiv.org/abs/2210.04791)”, with Alex Davidson, Matthias Frei, Marten Gartner, Jordi Subira Nieto, Adrian Perrig, Philipp Winter, François Wirz, has been accepted to ACM HotNets 2022. 
 
