@@ -9,6 +9,8 @@ permalink: /publications/
 
 ### 2023: 
 
+*   Peter Snyder, Soroush Karami, Arthur Edelstein, Benjamin Livshits, Hamed Haddadi, “[Pool-Party: Exploiting Browser Resource Pools as Side-Channels for Web Tracking](https://arxiv.org/abs/2112.06324){:target="_blank"}” the 32nd USENIX Security Symposium [USENIX Security '23](https://www.usenix.org/conference/usenixsecurity23){:target="_blank"}, AUGUST 9–11, 2023, Anaheim, CA, USA.
+
 *   Yuting Zhan, Hamed Haddadi, Afra Mashhadi, "Privacy-Aware Adversarial Network in Human Mobility Prediction", The 23nd Privacy Enhancing Technologies Symposium ([PETS 2023](https://petsymposium.org/2022/){:target="_blank"}), July 10–14, 2023, Lausanne, Switzerland. [Paper](http://arxiv.org/abs/2208.05009){:target="_blank"} available on ArXiv.  
 
 *   Savvas Hadjixenophontos, Anna Maria Mandalari, Yuchen Zhao, Hamed Haddadi, "PRISM: Privacy Preserving Internet of Things Security Management", 2023, [Paper](http://arxiv.org/abs/2212.14736){:target="_blank"} available on ArXiv. 
@@ -42,8 +44,6 @@ permalink: /publications/
 
 
 ### 2021: 
-
-*   Peter Snyder, Soroush Karami, Benjamin Livshits, Hamed Haddadi, "Pool-Party: Exploiting Browser Resource Pools as Side-Channels for Web Tracking", December 2021. (Paper available on [ArXiv](https://arxiv.org/abs/2112.06324){:target="_blank"})  
 
 *   Oliver Thompson, Anna Maria Mandalari, Hamed Haddadi, "Rapid IoT Device Identification at the Edge", 2nd Workshop on Distributed Machine Learning ([DistributedML 2021](https://distributedml.org/){:target="_blank"}), co-located with ACM CoNEXT 2021, December 7-10, 2021, Munich, Germany. (Paper available on [ArXiv](https://arxiv.org/abs/2110.13941){:target="_blank"}) 
 
