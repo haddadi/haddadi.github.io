@@ -21,7 +21,9 @@ We also supoort exceptional candidates for EU [Individual Fellowships (IF)](http
 
 ### News
 
-December 2022: Our paper “[Paralinguistic Privacy Protection at the Edge](https://arxiv.org/abs/2011.02930)” has been accepted to the ACM Transactions on Privacy and Security [TOPS] 2022. Congrats Ranya Aloufi.
+January 2023: Our paper “[Pool-Party: Exploiting Browser Resource Pools as Side-Channels for Web Tracking](https://arxiv.org/abs/2112.06324){:target="_blank"}” has been accepted to the 32nd USENIX Security Symposium [USENIX Security '23](https://www.usenix.org/conference/usenixsecurity23){:target="_blank"}. 
+
+December 2022: Our paper “[Paralinguistic Privacy Protection at the Edge](https://arxiv.org/abs/2011.02930){:target="_blank"}” has been accepted to the ACM Transactions on Privacy and Security [TOPS] 2022. Congrats Ranya Aloufi.
 
 October 2022: Vadim Safranov joins us as a Research Assistant on [Project PRISM](https://petras-iot.org/project/privacy-preserving-iot-security-management-prism/){:target="_blank"}.
 
