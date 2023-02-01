@@ -21,6 +21,8 @@ We also supoort exceptional candidates for EU [Individual Fellowships (IF)](http
 
 ### News
 
+February 2023: Dr [Sandra Siby](https://sandrasiby.github.io/){:target="_blank"}, joins our lab as a Postdoctoral Research Associate on the EPSRC [Open Plus Fellowship](https://epsrc.ukri.org/skills/fellows/){:target="_blank"} ([EP/W005271/1: Securing the Next Billion Consumer Devices on the Edge](https://netsys.doc.ic.ac.uk/research.html#fellowship){:target="_blank"}.
+
 January 2023: Our paper “[Pool-Party: Exploiting Browser Resource Pools as Side-Channels for Web Tracking](https://arxiv.org/abs/2112.06324){:target="_blank"}” has been accepted to the 32nd USENIX Security Symposium [USENIX Security '23](https://www.usenix.org/conference/usenixsecurity23){:target="_blank"}. 
 
 December 2022: Our paper “[Paralinguistic Privacy Protection at the Edge](https://arxiv.org/abs/2011.02930){:target="_blank"}” has been accepted to the ACM Transactions on Privacy and Security [TOPS] 2022. Congrats Ranya Aloufi.
