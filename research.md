@@ -22,7 +22,7 @@ For project details, please visit the [Imperial-X](https://ix.imperial.ac.uk/){:
 
 ## Current Research Staff
 
-*   Dr [Sandra Siby](https://sandrasiby.github.io/){:target="_blank"}, Postdoctoral Research Associate on the EPSRC [Open Plus Fellowship](https://epsrc.ukri.org/skills/fellows/){:target="_blank"} ([EP/W005271/1: Securing the Next Billion Consumer Devices on the Edge](https://netsys.doc.ic.ac.uk/research.html#fellowship){:target="_blank"})
+*   Dr [Sandra Siby](https://sandrasiby.github.io/){:target="_blank"}, Postdoctoral Research Associate on the EPSRC [Open Plus Fellowship](https://epsrc.ukri.org/skills/fellows/){:target="_blank"} ([Securing the Next Billion Consumer Devices on the Edge](https://netsys.doc.ic.ac.uk/research.html#fellowship){:target="_blank"}) 
 
 *   Vadim Safronov, Research Assistant on the [InnovateUK Cyber Security Academic Startup Accelerator Programme (CyberASAP) grant](https://ktn-uk.org/news/cyber-security-academic-startup-accelerator-programme-cyberasap-reveals-2022-23-cohort/){:target="_blank"}
 
