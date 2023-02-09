@@ -31,8 +31,6 @@ For project details, please visit the [Imperial-X](https://ix.imperial.ac.uk/){:
   
 *   [Hugo Dugdale](https://www.imperial.ac.uk/people/hugo.dugdale19){:target="_blank"} (Privacy and Security for Smart Health Devices, funded by [UKRI CDT in AI for Healthcare](https://ai4health.io/){:target="_blank"}).  
   
-*   [Syed M Danish Rizvi](https://www.imperial.ac.uk/people/d.rizvi21){:target="_blank"} (ML and Autonomous Controls, funded by Pakistan Higher Education Commission Overseas Scholarship).  
-  
 *   [Yushan Huang](https://www.imperial.ac.uk/people/yushan.huang21){:target="_blank"} (Machine Learning systems, funded by CSC Scholarship).
 
 *   [Mengjia Niu](https://www.imperial.ac.uk/people/m.niu21){:target="_blank"} (IoT and HDI, funded by [CSC Imperial Scholarship](https://www.imperial.ac.uk/study/pg/fees-and-funding/scholarships/international-scholarship-collaborations/csc/)).
