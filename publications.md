@@ -13,6 +13,8 @@ permalink: /publications/
 
 *   Yuting Zhan, Hamed Haddadi, Afra Mashhadi, "Privacy-Aware Adversarial Network in Human Mobility Prediction", The 23nd Privacy Enhancing Technologies Symposium ([PETS 2023](https://petsymposium.org/2022/){:target="_blank"}), July 10–14, 2023, Lausanne, Switzerland. [Paper](http://arxiv.org/abs/2208.05009){:target="_blank"} available on ArXiv.  
 
+*   Yushan Huang, Yuchen Zhao, Alexander Capstick, Francesca Palermo, Hamed Haddadi, Payam Barnaghi, "Information Theory Inspired Pattern Analysis for Time-series Data", 2023, [Paper](https://arxiv.org/abs/2302.11654){:target="_blank"} available on ArXiv. 
+
 *   Savvas Hadjixenophontos, Anna Maria Mandalari, Yuchen Zhao, Hamed Haddadi, "PRISM: Privacy Preserving Internet of Things Security Management", 2023, [Paper](http://arxiv.org/abs/2212.14736){:target="_blank"} available on ArXiv. 
 
 
