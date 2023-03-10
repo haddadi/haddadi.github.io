@@ -21,6 +21,8 @@ We also supoort exceptional candidates for EU [Individual Fellowships (IF)](http
 
 ### News
 
+March 2023: Our paper "Protected or Porous: A Comparative Analysis of Threat Detection Capability of IoT Safeguards" with Anna Maria Mandalari, Daniel J. Dubois, and David Choffnes, has been accepted to the 44th IEEE Symposium on Security and Privacy ([Oakland 2023](https://sp2023.ieee-security.org){:target="_blank"}). Congrats to Team [IoTrim](https://iotrim.github.io/){:target="_blank"}!. (Paper available on [ArXiv](https://arxiv.org/){:target="_blank"}, [Code and Data](https://github.com/){:target="_blank"})
+
 February 2023: Dr [Sandra Siby](https://sandrasiby.github.io/){:target="_blank"}, joins our lab as a Postdoctoral Research Associate on the EPSRC [Open Plus Fellowship](https://epsrc.ukri.org/skills/fellows/){:target="_blank"} [Securing the Next Billion Consumer Devices on the Edge](https://netsys.doc.ic.ac.uk/research.html#fellowship){:target="_blank"}. 
 
 January 2023: Our paper “[Pool-Party: Exploiting Browser Resource Pools as Side-Channels for Web Tracking](https://arxiv.org/abs/2112.06324){:target="_blank"}” has been accepted to the 32nd USENIX Security Symposium [USENIX Security '23](https://www.usenix.org/conference/usenixsecurity23){:target="_blank"}. 
