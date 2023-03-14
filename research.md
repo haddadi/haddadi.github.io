@@ -37,8 +37,6 @@ For project details, please visit the [Imperial-X](https://ix.imperial.ac.uk/){:
   
 *   [Xavier Cadet](https://www.imperial.ac.uk/people/xavier.cadet17){:target="_blank"} (Artificial Intelligence for Health, funded by [UKRI CDT in AI for Healthcare](https://ai4health.io/){:target="_blank"}).  
   
-*   [Ranya Aloufi](https://ranyajumah.github.io){:target="_blank"} (Privacy in Edge Computing, funded by Saudi Arabian Cultural Bureau).
-
   
 I am interested in hearing from potential PhD students in my areas of research interests. If you have interesting ideas and wish to discuss funding opportunities for next year, please send me an [email](mailto:h.haddadi@imperial.ac.uk) (no attachments please!)
 
@@ -83,7 +81,8 @@ I am interested in hearing from potential PhD students in my areas of research i
 
 ## Past Visitors/Staff/Students
 
-
+[Dr Ranya Aloufi](https://ranyajumah.github.io){:target="_blank"} (Privacy in Edge Computing, funded by Saudi Arabian Cultural Bureau)
+  
 [Dr YuanyingZhao](https://www.imperial.ac.uk/people/yuanying.zhao14) (ESRC Postdoctoral Fellow)
   
 [Dr Yuchen Zhao](https://yuchenzhao.github.io) (Postdoctoral Research Associate on the [UK DRI Care Research & Technology programme](https://www.imperial.ac.uk/uk-dri-care-research-technology){:target="_blank"} 
