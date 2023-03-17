@@ -8,7 +8,9 @@ permalink: /service/
 
 ## Current Community Engagements (Program/Organising Committee)
 
-*   ACM SIGCOMM Internet Measurement Conference 2023 ([IMC 2023](http://conferences.sigcomm.org/imc/2023/){:target="_blank"})  
+*   The Eighth ACM/IEEE Symposium on Edge Computing ([SEC 2023](http://acm-ieee-sec.org/2023/){:target="_blank"})  
+
+*   ACM SIGCOMM Internet Measurement Conference 2023 ([IMC 2023](https://conferences.sigcomm.org/imc/2023/){:target="_blank"})  
 
 *   The 21st ACM International Conference on Mobile Systems, Applications, and Services ([ACM MobiSys 2023](https://www.sigmobile.org/mobisys/2023/index.html){:target="_blank"}) 
 
