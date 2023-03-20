@@ -8,7 +8,9 @@ permalink: /service/
 
 ## Current Community Engagements (Program/Organising Committee)
 
-*   The Eighth ACM/IEEE Symposium on Edge Computing ([SEC 2023](http://acm-ieee-sec.org/2023/){:target="_blank"})  
+*   The 41st IFIP International Symposium on Computer Performance, Modeling, Measurements and Evaluation ([Performance 2023](https://performance2023.sciencesconf.org/){:target="_blank"})  
+
+*   The Eighth ACM/IEEE Symposium on Edge Computing ([SEC 2023](https://acm-ieee-sec.org/2023/){:target="_blank"})  
 
 *   ACM SIGCOMM Internet Measurement Conference 2023 ([IMC 2023](https://conferences.sigcomm.org/imc/2023/){:target="_blank"})  
 
