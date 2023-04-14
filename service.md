@@ -12,7 +12,9 @@ permalink: /service/
 
 *   The Eighth ACM/IEEE Symposium on Edge Computing ([SEC 2023](https://acm-ieee-sec.org/2023/){:target="_blank"})  
 
-*   ACM SIGCOMM Internet Measurement Conference 2023 ([IMC 2023](https://conferences.sigcomm.org/imc/2023/){:target="_blank"})  
+*   ACM SIGCOMM Internet Measurement Conference 2023 ([IMC 2023](https://conferences.sigcomm.org/imc/2023/){:target="_blank"})
+
+*   ICML 2023 Workshop on Federated Learning and Analytics in Practice ([FL @ ICML 2023](https://fl-icml2023.github.io/){:target="_blank"})
 
 *   The 21st ACM International Conference on Mobile Systems, Applications, and Services ([ACM MobiSys 2023](https://www.sigmobile.org/mobisys/2023/index.html){:target="_blank"}) 
 
