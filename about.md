@@ -21,6 +21,8 @@ We also supoort exceptional candidates for EU [Individual Fellowships (IF)](http
 
 ### News
 
+April 2023: *   [Sina Abdollahi](https://www.imperial.ac.uk/people/s.abdollahi22){:target="_blank"} and [Mohamad Maheri](https://www.imperial.ac.uk/people/m.maheri23){:target="_blank"} have joined the Networks and Systems Laboratory ([NetSys](https://netsys.doc.ic.ac.uk/){:target="_blank"}) and [Imperial-X (I-X)](https://ix.imperial.ac.uk/){:target="_blank"} as new PhD students. Welcome to I-X!  
+
 March 2023: Our paper "Protected or Porous: A Comparative Analysis of Threat Detection Capability of IoT Safeguards" with Anna Maria Mandalari, Daniel J. Dubois, and David Choffnes, has been accepted to the 44th IEEE Symposium on Security and Privacy ([Oakland 2023](https://sp2023.ieee-security.org){:target="_blank"}). Congrats to Team [IoTrim](https://iotrim.github.io/){:target="_blank"}! (Paper available on [ArXiv](https://arxiv.org/){:target="_blank"}, [Code and Data](https://github.com/){:target="_blank"})
 
 February 2023: Dr [Sandra Siby](https://sandrasiby.github.io/){:target="_blank"}, joins our lab as a Postdoctoral Research Associate on the EPSRC [Open Plus Fellowship](https://epsrc.ukri.org/skills/fellows/){:target="_blank"} [Securing the Next Billion Consumer Devices on the Edge](https://netsys.doc.ic.ac.uk/research.html#fellowship){:target="_blank"}. 
