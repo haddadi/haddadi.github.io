@@ -29,6 +29,10 @@ For project details, please visit the [Imperial-X](https://ix.imperial.ac.uk/){:
 
 ## Current Research Students
   
+*   [Sina Abdollahi](https://www.imperial.ac.uk/people/s.abdollahi22){:target="_blank"} (Trusted Edge Computing, funded by the [Department of Computing Scholarship](https://www.imperial.ac.uk/computing/prospective-students/courses/phd/scholarships/){:target="_blank"}).  
+  
+*   [Mohamad Maheri](https://www.imperial.ac.uk/people/m.maheri23){:target="_blank"} (Trusted Machine Learning, funded by the [Department of Computing Scholarship](https://www.imperial.ac.uk/computing/prospective-students/courses/phd/scholarships/){:target="_blank"}).  
+  
 *   [Hugo Dugdale](https://www.imperial.ac.uk/people/hugo.dugdale19){:target="_blank"} (Privacy and Security for Smart Health Devices, funded by [UKRI CDT in AI for Healthcare](https://ai4health.io/){:target="_blank"}).  
   
 *   [Yushan Huang](https://yushan-huang.github.io/){:target="_blank"} (Machine Learning systems, funded by CSC Scholarship).
