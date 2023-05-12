@@ -29,7 +29,7 @@ For project details, please visit the [Imperial-X](https://ix.imperial.ac.uk/){:
 
 ## Current Research Students
   
-*   [Sina Abdollahi](https://www.imperial.ac.uk/people/s.abdollahi22){:target="_blank"} (Trusted Edge Computing, funded by Amazon Research Awared and the [Department of Computing Scholarship](https://www.imperial.ac.uk/computing/prospective-students/courses/phd/scholarships/){:target="_blank"}).  
+*   [Sina Abdollahi](https://www.imperial.ac.uk/people/s.abdollahi22){:target="_blank"} (Trusted Edge Computing, funded by Amazon Research Award and the [Department of Computing Scholarship](https://www.imperial.ac.uk/computing/prospective-students/courses/phd/scholarships/){:target="_blank"}).  
   
 *   [Mohamad Maheri](https://www.imperial.ac.uk/people/m.maheri23){:target="_blank"} (Trusted Machine Learning, funded by the [Department of Computing Scholarship](https://www.imperial.ac.uk/computing/prospective-students/courses/phd/scholarships/){:target="_blank"}).  
   
