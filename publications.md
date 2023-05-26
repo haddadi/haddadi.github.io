@@ -21,8 +21,6 @@ permalink: /publications/
 
 *   Yushan Huang, Yuchen Zhao, Alexander Capstick, Francesca Palermo, Hamed Haddadi, Payam Barnaghi, "Information Theory Inspired Pattern Analysis for Time-series Data", 2023, [Paper](https://arxiv.org/abs/2302.11654){:target="_blank"} available on ArXiv. 
 
-*   Savvas Hadjixenophontos, Anna Maria Mandalari, Yuchen Zhao, Hamed Haddadi, "PRISM: Privacy Preserving Internet of Things Security Management", 2023, [Paper](http://arxiv.org/abs/2212.14736){:target="_blank"} available on ArXiv. 
-
 
 ### 2022: 
 
