@@ -17,6 +17,8 @@ permalink: /publications/
 
 *   Savvas Hadjixenophontos and Anna Maria Mandalari and Yuchen Zhao, Hamed Haddadi, “PRISM: Privacy Preserving Healthcare Internet of Things Security Management”, 3rd IEEE International Conference on ICT Solutions for eHealth ([ICTS4eHealth 2023](https://icts4ehealth.icar.cnr.it/){:target="_blank"}), in conjunction with the 28th IEEE Symposium on Computers and Communications ([ISCC](https://2023.ieee-iscc.org/){:target="_blank"}) 9 -12 July, 2023 - Tunis, Tunisia. [Paper](https://arxiv.org/abs/2212.14736){:target="_blank"} available on ArXiv. 
 
+*   Yushan Huang, Hamed Haddadi, "Poster: Towards Battery-Free Machine Learning Inference and Model Personalization on MCUs", The 21st ACM International Conference on Mobile Systems, Applications, and Services ([MobiSys 2023](https://www.sigmobile.org/mobisys/2023/){:target="_blank"}), June 18 - June 22, 2023, Helsinki, Finland. [Paper](https://arxiv.org/abs/2305.18954){:target="_blank"} available on ArXiv. 
+
 *   Anna Maria Mandalari, Hamed Haddadi, Daniel J. Dubois, David Choffnes, "Protected or Porous: A Comparative Analysis of Threat Detection Capability of IoT Safeguards", 44th IEEE Symposium on Security and Privacy ([Oakland 2023](https://sp2023.ieee-security.org){:target="_blank"}), May 22-25, 2023, San Francisco, CA, & Online. (Paper available on [ArXiv](https://arxiv.org/){:target="_blank"}, [Code and Data](https://iotrim.github.io/safeguards.html){:target="_blank"})   
 
 *   Yushan Huang, Yuchen Zhao, Alexander Capstick, Francesca Palermo, Hamed Haddadi, Payam Barnaghi, "Information Theory Inspired Pattern Analysis for Time-series Data", 2023, [Paper](https://arxiv.org/abs/2302.11654){:target="_blank"} available on ArXiv. 
