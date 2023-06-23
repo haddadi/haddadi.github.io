@@ -11,7 +11,7 @@ permalink: /publications/
 
 *   Peter Snyder, Soroush Karami, Arthur Edelstein, Benjamin Livshits, Hamed Haddadi, “[Pool-Party: Exploiting Browser Resource Pools as Side-Channels for Web Tracking](https://arxiv.org/abs/2112.06324){:target="_blank"}” the 32nd USENIX Security Symposium [USENIX Security '23](https://www.usenix.org/conference/usenixsecurity23){:target="_blank"}, AUGUST 9–11, 2023, Anaheim, CA, USA.
 
-*   Omid Tavallaie, Seid Miad Zandavi, Hamed Haddadi, Albert Y. Zomaya, "GT-TSCH: Game-Theoretic Distributed TSCH Scheduler for Low-Power IoT Networks", 43rd IEEE International Conference on Distributed Computing Systems ([ICDCS 2023](https://icdcs2023.icdcs.org/){:target="_blank"}), 18 July – 21 July, 2023, Hong Kong, China. [Paper]([http://arxiv.org/](https://arxiv.org/abs/2306.13039)){:target="_blank"} available on ArXiv.  
+*   Omid Tavallaie, Seid Miad Zandavi, Hamed Haddadi, Albert Y. Zomaya, "GT-TSCH: Game-Theoretic Distributed TSCH Scheduler for Low-Power IoT Networks", 43rd IEEE International Conference on Distributed Computing Systems ([ICDCS 2023](https://icdcs2023.icdcs.org/){:target="_blank"}), 18 July – 21 July, 2023, Hong Kong, China. [Paper](https://arxiv.org/abs/2306.13039){:target="_blank"} available on ArXiv.  
 
 *   Yuting Zhan, Hamed Haddadi, Afra Mashhadi, "Privacy-Aware Adversarial Network in Human Mobility Prediction", The 23nd Privacy Enhancing Technologies Symposium ([PETS 2023](https://petsymposium.org/2022/){:target="_blank"}), July 10–14, 2023, Lausanne, Switzerland. [Paper](http://arxiv.org/abs/2208.05009){:target="_blank"} available on ArXiv. 
 
