@@ -17,7 +17,7 @@ permalink: /publications/
 
 *   Savvas Hadjixenophontos and Anna Maria Mandalari and Yuchen Zhao, Hamed Haddadi, “PRISM: Privacy Preserving Healthcare Internet of Things Security Management”, 3rd IEEE International Conference on ICT Solutions for eHealth ([ICTS4eHealth 2023](https://icts4ehealth.icar.cnr.it/){:target="_blank"}), in conjunction with the 28th IEEE Symposium on Computers and Communications ([ISCC](https://2023.ieee-iscc.org/){:target="_blank"}) 9 -12 July, 2023 - Tunis, Tunisia. [Paper](https://arxiv.org/abs/2212.14736){:target="_blank"} available on ArXiv. 
 
-*   Aurélien Buchet, Peter Snyder, Hamed Haddadi, Cristel Pelsser, "Protecting against IP Tracking using NAT Interfaces", IFIP/IEEE Network Traffic Measurement and Analysis Conference ([TMA 2023](https://tma.ifip.org/2023/){:target="_blank"}), June 26 - June 29, 2023, Napoli, Italy. [Paper](https://tma.ifip.org/2023/accepted-papers/){:target="_blank"}. 
+*   Aurélien Buchet, Peter Snyder, Hamed Haddadi, Cristel Pelsser, "Protecting against IP Tracking using NAT Interfaces", IFIP/IEEE Network Traffic Measurement and Analysis Conference ([TMA 2023](https://tma.ifip.org/2023/){:target="_blank"}), June 26 - June 29, 2023, Napoli, Italy. [Paper](https://tma.ifip.org/2023/wp-content/uploads/sites/12/2023/06/tma2023poster-final4.pdf){:target="_blank"}. 
 
 *   Yushan Huang, Hamed Haddadi, "Poster: Towards Battery-Free Machine Learning Inference and Model Personalization on MCUs", The 21st ACM International Conference on Mobile Systems, Applications, and Services ([MobiSys 2023](https://www.sigmobile.org/mobisys/2023/){:target="_blank"}), June 18 - June 22, 2023, Helsinki, Finland. [Paper](https://arxiv.org/abs/2305.18954){:target="_blank"} available on ArXiv. 
 
