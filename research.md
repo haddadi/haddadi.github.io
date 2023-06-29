@@ -15,9 +15,8 @@ For project details, please visit the [Imperial-X](https://ix.imperial.ac.uk/){:
   
 
 *   EPSRC [Open Plus Fellowship](https://epsrc.ukri.org/skills/fellows/){:target="_blank"} ([EP/W005271/1: Securing the Next Billion Consumer Devices on the Edge](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/W005271/1){:target="_blank"}, £1,5m, 2022-2027) 
-*   [SPRITE+2 HUB](https://spritehub.org/), The Security, Privacy, Identity and Trust Engagement Networkplus (phase 2).: EPSRC Network Plus grant ([EP/W020408/1](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/W020408/1){:target="_blank"}, £2,652,185 starting September 2023)  
+*   [SPRITE+2 HUB](https://spritehub.org/){:target="_blank"}, The Security, Privacy, Identity and Trust Engagement Networkplus (phase 2): EPSRC Network Plus grant ([EP/W020408/1](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/W020408/1){:target="_blank"}, £2,652,185 starting September 2023)  
 *   [Amazon Research Awared 2022-2023, "Auditable Model Privacy using TEEs"](https://www.amazon.science/research-awards/recipients/hamed-haddadi-fall-2021){:target="_blank"}
-
 
 
 ## Current Research Staff
