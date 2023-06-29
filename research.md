@@ -24,8 +24,6 @@ For project details, please visit the [Imperial-X](https://ix.imperial.ac.uk/){:
 
 *   Dr [Sandra Siby](https://sandrasiby.github.io/){:target="_blank"}, Postdoctoral Research Associate on the EPSRC [Open Plus Fellowship](https://epsrc.ukri.org/skills/fellows/){:target="_blank"} ([Securing the Next Billion Consumer Devices on the Edge](https://netsys.doc.ic.ac.uk/research.html#fellowship){:target="_blank"}) 
 
-*   Vadim Safronov, Research Assistant on the [InnovateUK Cyber Security Academic Startup Accelerator Programme (CyberASAP) grant](https://ktn-uk.org/news/cyber-security-academic-startup-accelerator-programme-cyberasap-reveals-2022-23-cohort/){:target="_blank"}
-
 
 ## Current Research Students
   
@@ -86,6 +84,9 @@ I am interested in hearing from potential PhD students in my areas of research i
 *   Self-Organising Collegiate Sensor Networks (MSc student, [DTI SECOAS Project](http://www.lancaster.ac.uk/staff/marshai2/secoas/secoas.htm))
 
 ## Past Visitors/Staff/Students
+
+
+Vadim Safronov, Research Assistant on the [InnovateUK Cyber Security Academic Startup Accelerator Programme (CyberASAP) grant](https://ktn-uk.org/news/cyber-security-academic-startup-accelerator-programme-cyberasap-reveals-2022-23-cohort/){:target="_blank"} 
 
 [Dr Ranya Aloufi](https://ranyajumah.github.io){:target="_blank"} (Privacy in Edge Computing, funded by Saudi Arabian Cultural Bureau)
   
