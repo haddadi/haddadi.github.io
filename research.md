@@ -15,7 +15,7 @@ For project details, please visit the [Imperial-X](https://ix.imperial.ac.uk/){:
   
 
 *   EPSRC [Open Plus Fellowship](https://epsrc.ukri.org/skills/fellows/){:target="_blank"} ([EP/W005271/1: Securing the Next Billion Consumer Devices on the Edge](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/W005271/1){:target="_blank"}, £1,5m, 2022-2027) 
-*   [InnovateUK Cyber Security Academic Startup Accelerator Programme (CyberASAP) grant](https://ktn-uk.org/news/cyber-security-academic-startup-accelerator-programme-cyberasap-reveals-2022-23-cohort/), supporting our efforts to accelerate IoT Security via [IoTrim](https://iotrim.github.io){:target="_blank"}
+*   [SPRITE+2 HUB](https://spritehub.org/), The Security, Privacy, Identity and Trust Engagement Networkplus (phase 2).: EPSRC Network Plus grant ([EP/W020408/1](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/W020408/1){:target="_blank"}, £2,652,185 starting September 2023)  
 *   [Amazon Research Awared 2022-2023, "Auditable Model Privacy using TEEs"](https://www.amazon.science/research-awards/recipients/hamed-haddadi-fall-2021){:target="_blank"}
 
 
@@ -45,6 +45,8 @@ For project details, please visit the [Imperial-X](https://ix.imperial.ac.uk/){:
 I am interested in hearing from potential PhD students in my areas of research interests. If you have interesting ideas and wish to discuss funding opportunities for next year, please send me an [email](mailto:h.haddadi@imperial.ac.uk) (no attachments please!)
 
 ## Past Projects/Grants
+
+*   [InnovateUK Cyber Security Academic Startup Accelerator Programme (CyberASAP) grant](https://ktn-uk.org/news/cyber-security-academic-startup-accelerator-programme-cyberasap-reveals-2022-23-cohort/), supporting our efforts to accelerate IoT Security via [IoTrim](https://iotrim.github.io){:target="_blank"}
 
 *   [MIT-Imperial Seed Fund](https://www.imperial.ac.uk/admin-services/international-relations/mit-imperial-seed-fund/){:target="_blank"} , $100K, 2021-2022 
 
