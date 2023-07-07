@@ -67,6 +67,7 @@ I am also a Fellow of the [Higher Education Academy](https://www.heacademy.ac.uk
 
 ## PhD examination
 
+Ismael Castell Uroz, Universitat Politècnica de Catalunya, July 2023
 Pelayo vallina Rodríguez , IMDEA Networks Institute, January 2023  
 Julien Gamba, IMDEA Networks Institute, September 2022  
 Jide Edu, Kings College London, June 2022  
