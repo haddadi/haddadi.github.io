@@ -9,6 +9,9 @@ permalink: /publications/
 
 ### 2023: 
 
+
+*   Yuting Zhan, Hamed Haddadi, Afra Mashhadi, "Analysing Fairness of Privacy-Utility Mobility Models", UbiComp/ISWC Workshop on Fairness and Robustness in Machine Learning for Ubiquitous Computing ([FairComp 2023](https://faircomp-workshop.github.io/2023/index.html){:target="_blank"}), October 9, 2023, Cancún, Mexico. [Paper](https://arxiv.org/abs/2304.06469){:target="_blank"} available on ArXiv. 
+
 *   Peter Snyder, Soroush Karami, Arthur Edelstein, Benjamin Livshits, Hamed Haddadi, “[Pool-Party: Exploiting Browser Resource Pools as Side-Channels for Web Tracking](https://arxiv.org/abs/2112.06324){:target="_blank"}” the 32nd USENIX Security Symposium [USENIX Security '23](https://www.usenix.org/conference/usenixsecurity23){:target="_blank"}, AUGUST 9–11, 2023, Anaheim, CA, USA.
 
 *   Omid Tavallaie, Seid Miad Zandavi, Hamed Haddadi, Albert Y. Zomaya, "GT-TSCH: Game-Theoretic Distributed TSCH Scheduler for Low-Power IoT Networks", 43rd IEEE International Conference on Distributed Computing Systems ([ICDCS 2023](https://icdcs2023.icdcs.org/){:target="_blank"}), 18 July – 21 July, 2023, Hong Kong, China. [Paper](https://arxiv.org/abs/2306.13039){:target="_blank"} available on ArXiv.  
