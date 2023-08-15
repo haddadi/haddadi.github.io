@@ -9,6 +9,7 @@ permalink: /publications/
 
 ### 2023: 
 
+*   Siqi Li, Pinyan Liu, Gustavo G. Nascimento, Xinru Wang, Fabio Renato Manzolli Leite, Bibhas Chakraborty, Chuan Hong, Yilin Ning, Feng Xie, Zhen Ling Teo, Daniel Shu Wei Ting, Hamed Haddadi, Marcus Eng Hock Ong, Marco Aurélio Peres, Nan Liu, "Federated and Distributed Learning Applications for Electronic Health Records and Structured Medical Data: A Scoping Review", Journal of the American Medical Informatics Association, 2023. [Paper](https://arxiv.org/abs/2304.07310){:target="_blank"} available on ArXiv. 
 
 *   Yuting Zhan, Hamed Haddadi, Afra Mashhadi, "Analysing Fairness of Privacy-Utility Mobility Models", UbiComp/ISWC Workshop on Fairness and Robustness in Machine Learning for Ubiquitous Computing ([FairComp 2023](https://faircomp-workshop.github.io/2023/index.html){:target="_blank"}), October 9, 2023, Cancún, Mexico. [Paper](https://arxiv.org/abs/2304.06469){:target="_blank"} available on ArXiv. 
 
