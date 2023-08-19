@@ -9,6 +9,11 @@ permalink: /publications/
 
 ### 2023: 
 
+*   Stephen McQuistin, Pete Snyder, Colin Perkins, Hamed Haddadi, Gareth Tyson, "A First Look at the Privacy Harms of the Public Suffix List", in [ACM Internet Measurement Conference 2023](https://conferences.sigcomm.org/imc/2023/){:target="_blank"}, October 2023, Montreal, Canada. 
+
+*   Salim Chouaki, Oana Goga, Hamed Haddadi, Peter Snyder, "Understanding the Privacy Risks of Popular Search Engine Advertising Systems", in [ACM Internet Measurement Conference 2023](https://conferences.sigcomm.org/imc/2023/){:target="_blank"}, October 2023, Montreal, Canada. 
+
+
 *   Siqi Li, Pinyan Liu, Gustavo G. Nascimento, Xinru Wang, Fabio Renato Manzolli Leite, Bibhas Chakraborty, Chuan Hong, Yilin Ning, Feng Xie, Zhen Ling Teo, Daniel Shu Wei Ting, Hamed Haddadi, Marcus Eng Hock Ong, Marco Aurélio Peres, Nan Liu, "Federated and Distributed Learning Applications for Electronic Health Records and Structured Medical Data: A Scoping Review", Journal of the American Medical Informatics Association, 2023. [Paper](https://arxiv.org/abs/2304.07310){:target="_blank"} available on ArXiv. 
 
 *   Yuting Zhan, Hamed Haddadi, Afra Mashhadi, "Analysing Fairness of Privacy-Utility Mobility Models", UbiComp/ISWC Workshop on Fairness and Robustness in Machine Learning for Ubiquitous Computing ([FairComp 2023](https://faircomp-workshop.github.io/2023/index.html){:target="_blank"}), October 9, 2023, Cancún, Mexico. [Paper](https://arxiv.org/abs/2304.06469){:target="_blank"} available on ArXiv. 
@@ -67,8 +72,7 @@ permalink: /publications/
 
 *   Ranya Aloufi, Hamed Haddadi, David Boyle, "A Tandem Framework Balancing Privacy and Security for Voice User Interfaces", July 2021. (Paper available on [ArXiv](https://arxiv.org/abs/2107.10045){:target="_blank"}, [Code](https://github.com/RanyaJumah/EDGY){:target="_blank"})  
 
-*   Mohammad Malekzadeh, Richard G. Clegg, Andrea Cavallaro, Hamed Haddadi, "DANA: Dimension-Adaptive Neural Architecture for Multivariate Sensor Data
-", Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies ([IMWUT/UBICOMP 2021](https://dl.acm.org/journal/imwut){:target="_blank"}), September 2021. (Paper available on [ArXiv](https://arxiv.org/abs/2008.02397){:target="_blank"}, [Code](https://github.com/mmalekzadeh/dana){:target="_blank"}, [Tutorial](https://colab.research.google.com/github/mmalekzadeh/dana/blob/master/experiment/DANA_a_tutorial.ipynb){:target="_blank"}) 
+*   Mohammad Malekzadeh, Richard G. Clegg, Andrea Cavallaro, Hamed Haddadi, "DANA: Dimension-Adaptive Neural Architecture for Multivariate Sensor Data", Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies ([IMWUT/UBICOMP 2021](https://dl.acm.org/journal/imwut){:target="_blank"}), September 2021. (Paper available on [ArXiv](https://arxiv.org/abs/2008.02397){:target="_blank"}, [Code](https://github.com/mmalekzadeh/dana){:target="_blank"}, [Tutorial](https://colab.research.google.com/github/mmalekzadeh/dana/blob/master/experiment/DANA_a_tutorial.ipynb){:target="_blank"}) 
 
 *  Lorenzo Minto, Moritz Haller, Hamed Haddadi, Benjamin Livshits, "Stronger Privacy for Federated Collaborative Filtering with Implicit Feedback", in 15th ACM Conference on Recommender Systems ([RecSys 2021](https://recsys.acm.org/recsys21/){:target="_blank"}), Amsterdam, Netherlands, 27th September-1st October 2021. (Paper available on [ArXiv](https://arxiv.org/abs/2105.03941){:target="_blank"})  
 
