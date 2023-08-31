@@ -11,7 +11,7 @@ permalink: /publications/
 
 *   Stephen McQuistin, Pete Snyder, Colin Perkins, Hamed Haddadi, Gareth Tyson, "A First Look at the Privacy Harms of the Public Suffix List", in [ACM Internet Measurement Conference 2023](https://conferences.sigcomm.org/imc/2023/){:target="_blank"}, October 2023, Montreal, Canada. 
 
-*   Salim Chouaki, Oana Goga, Hamed Haddadi, Peter Snyder, "Understanding the Privacy Risks of Popular Search Engine Advertising Systems", in [ACM Internet Measurement Conference 2023](https://conferences.sigcomm.org/imc/2023/){:target="_blank"}, October 2023, Montreal, Canada. 
+*   Salim Chouaki, Oana Goga, Hamed Haddadi, Peter Snyder, "Understanding the Privacy Risks of Popular Search Engine Advertising Systems", in [ACM Internet Measurement Conference 2023](https://conferences.sigcomm.org/imc/2023/){:target="_blank"}, October 2023, Montreal, Canada. [Paper](https://arxiv.org/abs/2308.15309){:target="_blank"} available on ArXiv. 
 
 
 *   Siqi Li, Pinyan Liu, Gustavo G. Nascimento, Xinru Wang, Fabio Renato Manzolli Leite, Bibhas Chakraborty, Chuan Hong, Yilin Ning, Feng Xie, Zhen Ling Teo, Daniel Shu Wei Ting, Hamed Haddadi, Marcus Eng Hock Ong, Marco Aurélio Peres, Nan Liu, "Federated and Distributed Learning Applications for Electronic Health Records and Structured Medical Data: A Scoping Review", Journal of the American Medical Informatics Association, 2023. [Paper](https://arxiv.org/abs/2304.07310){:target="_blank"} available on ArXiv. 
