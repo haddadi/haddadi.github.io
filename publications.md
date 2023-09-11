@@ -9,7 +9,7 @@ permalink: /publications/
 
 ### 2023: 
 
-*   Stephen McQuistin, Pete Snyder, Colin Perkins, Hamed Haddadi, Gareth Tyson, "A First Look at the Privacy Harms of the Public Suffix List", in [ACM Internet Measurement Conference 2023](https://conferences.sigcomm.org/imc/2023/){:target="_blank"}, October 2023, Montreal, Canada. 
+*   Stephen McQuistin, Pete Snyder, Colin Perkins, Hamed Haddadi, Gareth Tyson, "A First Look at the Privacy Harms of the Public Suffix List", in [ACM Internet Measurement Conference 2023](https://conferences.sigcomm.org/imc/2023/){:target="_blank"}, October 2023, Montreal, Canada. [Paper](https://eprints.gla.ac.uk/305977/){:target="_blank"} available. 
 
 *   Salim Chouaki, Oana Goga, Hamed Haddadi, Peter Snyder, "Understanding the Privacy Risks of Popular Search Engine Advertising Systems", in [ACM Internet Measurement Conference 2023](https://conferences.sigcomm.org/imc/2023/){:target="_blank"}, October 2023, Montreal, Canada. [Paper](https://arxiv.org/abs/2308.15309){:target="_blank"} available on ArXiv. 
 
