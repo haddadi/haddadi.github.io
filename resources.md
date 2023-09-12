@@ -42,11 +42,11 @@ How to write a [killer cover letter](https://www.asbmb.org/asbmbtoday/asbmbtoday
 
 Two examples from the computer science review and publication process [Blog post by David Anderson](https://da-data.blogspot.co.uk/2013/01/two-examples-from-computer-science.html)
 
-[How to Write a Grad School Personal Statement](http://www.pl-enthusiast.net/2022/10/03/how-to-write-a-grad-school-personal-statement/) and some [examples](https://cs-sop.org/)
-
-"[A personal note on mental health](https://thrish.org/for-phd-students-a-personal-note-on-mental-health)" (by [Thrish](https://thrish.org/research-team/thrish))
+[How to Write a Grad School Personal Statement](http://www.pl-enthusiast.net/2022/10/03/how-to-write-a-grad-school-personal-statement/) and some [examples](https://cs-sop.org/) 
 
 [Ten Simple Rules to becoming a principal investigator](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007448)
+
+How to run a [paper mill](https://haddadi.github.io/papers/how-to-run-a-paper-mill.pdf)
 
 ## Datasets & Tool
 
