@@ -8,6 +8,8 @@ permalink: /service/
 
 ## Current Community Engagements (Program/Organising Committee)
 
+*   The 22nd ACM International Conference on Mobile Systems, Applications, and Services ([ACM MobiSys 2024](https://sigmobile.org/mobisys/2024/){:target="_blank"}) 
+
 *   The 30th ACM Annual International Conference on Mobile Computing and Networking ([ACM MobiCom 2024](https://sigmobile.org/mobicom/2024/){:target="_blank"}) 
 
 *   The 41st IFIP International Symposium on Computer Performance, Modeling, Measurements and Evaluation ([Performance 2023](https://performance2023.sciencesconf.org/){:target="_blank"})  
