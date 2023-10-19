@@ -71,7 +71,8 @@ I am also a Fellow of the [Higher Education Academy](https://www.heacademy.ac.uk
 
 ## PhD examination
 
-Afroditi Papadaki, UCL EEE, Octonber 2023      
+Abhishek Mishra, INRIA Saclay, October 2023       
+Afroditi Papadaki, UCL EEE, October 2023      
 Sina Sajadmanesh, EPFL, August 2023    
 Ismael Castell Uroz, Universitat Politècnica de Catalunya, July 2023   
 Pelayo vallina Rodríguez , IMDEA Networks Institute, January 2023  
