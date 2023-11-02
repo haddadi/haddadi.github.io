@@ -21,46 +21,6 @@ We also supoort exceptional candidates for EU [Individual Fellowships (IF)](http
 
 ### News
 
-April 2023: *   [Sina Abdollahi](https://www.imperial.ac.uk/people/s.abdollahi22){:target="_blank"} and [Mohamad Maheri](https://www.imperial.ac.uk/people/m.maheri23){:target="_blank"} have joined the Networks and Systems Laboratory ([NetSys](https://netsys.doc.ic.ac.uk/){:target="_blank"}) and [Imperial-X (I-X)](https://ix.imperial.ac.uk/){:target="_blank"} as new PhD students. Welcome to I-X!  
-
-March 2023: Our paper "Protected or Porous: A Comparative Analysis of Threat Detection Capability of IoT Safeguards" with Anna Maria Mandalari, Daniel J. Dubois, and David Choffnes, has been accepted to the 44th IEEE Symposium on Security and Privacy ([Oakland 2023](https://sp2023.ieee-security.org){:target="_blank"}). Congrats to Team [IoTrim](https://iotrim.github.io/){:target="_blank"}! (Paper available on [ArXiv](https://arxiv.org/){:target="_blank"}, [Code and Data](https://github.com/){:target="_blank"})
-
-February 2023: Dr [Sandra Siby](https://sandrasiby.github.io/){:target="_blank"}, joins our lab as a Postdoctoral Research Associate on the EPSRC [Open Plus Fellowship](https://epsrc.ukri.org/skills/fellows/){:target="_blank"} [Securing the Next Billion Consumer Devices on the Edge](https://netsys.doc.ic.ac.uk/research.html#fellowship){:target="_blank"}. 
-
-January 2023: Our paper “[Pool-Party: Exploiting Browser Resource Pools as Side-Channels for Web Tracking](https://arxiv.org/abs/2112.06324){:target="_blank"}” has been accepted to the 32nd USENIX Security Symposium [USENIX Security '23](https://www.usenix.org/conference/usenixsecurity23){:target="_blank"}. 
-
-December 2022: Our paper “[Paralinguistic Privacy Protection at the Edge](https://arxiv.org/abs/2011.02930){:target="_blank"}” has been accepted to the ACM Transactions on Privacy and Security [TOPS] 2022. Congrats Ranya Aloufi.
-
-October 2022: Vadim Safranov joins us as a Research Assistant on [Project PRISM](https://petras-iot.org/project/privacy-preserving-iot-security-management-prism/){:target="_blank"}.
-
-October 2022: Our paper “[Tango or Square Dance? How Tightly Should we Integrate Network Functionality in Browsers?](https://arxiv.org/abs/2210.04791)”, with Alex Davidson, Matthias Frei, Marten Gartner, Jordi Subira Nieto, Adrian Perrig, Philipp Winter, François Wirz, has been accepted to ACM HotNets 2022. 
-
-October 2022: [Hugo Dugdale](https://www.imperial.ac.uk/people/hugo.dugdale19) joins us to start his PhD on Privacy and Security for Smart Health Devices, funded by [UKRI CDT in AI for Healthcare](https://ai4health.io/).
-
-September 2022: IoTrim has been awarded an £80K Grant as prt of the [InnovateUK Cyber Security Academic Startup Accelerator Programme (CyberASAP) grant](https://ktn-uk.org/news/cyber-security-academic-startup-accelerator-programme-cyberasap-reveals-2022-23-cohort/)
-
-September 2022: Our paper “[Privacy-Aware Adversarial Network in Human Mobility Prediction](http://arxiv.org/abs/2208.05009)” has been sccepted to PETS 2023. Congrats Yuting.
-
-August 2022: Dr [Yuting Zhan](https://www.imperial.ac.uk/people/yuting.zhan18){:target="_blank"} has passed her PhD viva. Congrats Yuting. 
-
-July 2022: Our paper "STAR: Secret Sharing for Private Threshold Aggregation Reporting" has been accepted to ACM Conference on Computer and Communications Security ([ACM CCS 2022](https://www.sigsac.org/ccs/CCS2022/){:target="_blank"}). 
-
-July 2022: Dr [Fan Mo](https://mofanv.github.io){:target="_blank"} has passed his PhD viva. Congrats Legend. 
- 
-July 2022: I will be joining the [Department of Computing](https://www.imperial.ac.uk/computing){:target="_blank"} at Imperial College London, and the new [Imperial-X](https://ix.imperial.ac.uk/){:target="_blank"} Initiative, from July 2022. Looking forward to the new opportunities and collaborations ahead. 
-
-June 2022: We are looking for a postdoctoral researcher to join us for my EPSRC fellowship. Please see the job ad here [https://www.imperial.ac.uk/jobs/description/ENG02158/research-associate-user-centred-systems-securityprivacy](https://www.imperial.ac.uk/jobs/description/ENG02158/research-associate-user-centred-systems-securityprivacy){:target="_blank"}. Deadline : 30 June.
-
-June 2022: I am looking for two PhD students to join us at Imperial-X as PhD students alongside my EPSRC Fellowship and Amazon grant (open to all nationalities). Please see the full advert [here](https://www.jobs.ac.uk/job/CQB459/phd-studentship-in-user-centred-systems-security-privacy){:target="_blank"} and apply by looking at the details [here](https://www.imperial.ac.uk/computing/prospective-students/courses/phd/scholarships/){:target="_blank"} under "2 x PhD Studentships in User-Centred Systems’ Security/Privacy".
-
-May 2022: Our paper ["Blocked or Broken? Automatically Detecting When Privacy Interventions Break Websites”](https://arxiv.org/abs/2203.03528){:target="_blank"} has been conditionally accepted to [PETS 2022](https://petsymposium.org/2022/){:target="_blank"}.  
-
-April 2022: We have been awarded an [Amazon Research Awards (ARA)](https://www.amazon.science/research-awards){:target="_blank"} for our work on Auditable Model Privacy using TEEs linked to my EPSRC Fellowship. This gift will be used towards hiring a PhD student. Ad will be coming out soon. 
-
-March 2022: We have been awarded an [InnovateUK Cyber Security Academic Startup Accelerator Programme (CyberASAP) grant](https://ktn-uk.org/news/cyber-security-academic-startup-accelerator-programme-cyberasap-reveals-2022-23-cohort/), supporting our efforts to accelerate IoT Security in IoTrim.   
-
-January 2022: We have been awarded a grant as part of the PETRAS' ISPEF funding call. [Project PRISM](https://petras-iot.org/project/privacy-preserving-iot-security-management-prism/){:target="_blank"} aims to provide a simple interface for monitoring and home care solutions in the the health sector. 
-
 
 ## Extended Biography
 
