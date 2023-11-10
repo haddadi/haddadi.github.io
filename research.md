@@ -15,9 +15,9 @@ For project details, please visit the [Imperial-X](https://ix.imperial.ac.uk/){:
   
 
 *   EPSRC [Open Plus Fellowship](https://epsrc.ukri.org/skills/fellows/){:target="_blank"} ([EP/W005271/1: Securing the Next Billion Consumer Devices on the Edge](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/W005271/1){:target="_blank"}, £1,5m, 2022-2027)
+*   EU [CHIST-ERA](https://www.chistera.eu/call-2022-announcement){:target="_blank"} ([GNNs for Network Security (and Privacy) GRAPHS4SEC](){:target="_blank"}, €1,2m, 2024-2027)
 *   UKRI AI Centre for Doctoral Training in Digital Healthcare ([AI4Health](https://ai4health.io/){:target="_blank"}), ([EP/Y030974/1](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/Y030974/1){:target="_blank"}, £8,832,326 starting September 2024)  
 *   [SPRITE+2 HUB](https://spritehub.org/){:target="_blank"}, The Security, Privacy, Identity and Trust Engagement Networkplus (phase 2): EPSRC Network Plus grant ([EP/W020408/1](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/W020408/1){:target="_blank"}, £2,652,185 starting September 2023)  
-*   [Amazon Research Awared 2022-2023, "Auditable Model Privacy using TEEs"](https://www.amazon.science/research-awards/recipients/hamed-haddadi-fall-2021){:target="_blank"}
 
 
 ## Current Research Staff
@@ -42,6 +42,7 @@ I am interested in hearing from potential PhD students in my areas of research i
 
 ## Past Projects/Grants
 
+*   [Amazon Research Awared 2022-2023, "Auditable Model Privacy using TEEs"](https://www.amazon.science/research-awards/recipients/hamed-haddadi-fall-2021){:target="_blank"} 
 *   [InnovateUK Cyber Security Academic Startup Accelerator Programme (CyberASAP) grant](https://ktn-uk.org/news/cyber-security-academic-startup-accelerator-programme-cyberasap-reveals-2022-23-cohort/), supporting our efforts to accelerate IoT Security via [IoTrim](https://iotrim.github.io){:target="_blank"}
 
 *   [MIT-Imperial Seed Fund](https://www.imperial.ac.uk/admin-services/international-relations/mit-imperial-seed-fund/){:target="_blank"} , $100K, 2021-2022 
