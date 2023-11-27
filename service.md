@@ -14,22 +14,7 @@ permalink: /service/
 
 *   The 22nd ACM International Conference on Mobile Systems, Applications, and Services ([ACM MobiSys 2024](https://sigmobile.org/mobisys/2024/){:target="_blank"}) 
 
-*   The 30th ACM Annual International Conference on Mobile Computing and Networking ([ACM MobiCom 2024](https://sigmobile.org/mobicom/2024/){:target="_blank"}) 
-
-*   The 41st IFIP International Symposium on Computer Performance, Modeling, Measurements and Evaluation ([Performance 2023](https://performance2023.sciencesconf.org/){:target="_blank"})  
-
-*   The Eighth ACM/IEEE Symposium on Edge Computing ([SEC 2023](https://acm-ieee-sec.org/2023/){:target="_blank"})  
-
-*   ACM SIGCOMM Internet Measurement Conference 2023 ([IMC 2023](https://conferences.sigcomm.org/imc/2023/){:target="_blank"})
-
-*   ICML 2023 Workshop on Federated Learning and Analytics in Practice ([FL @ ICML 2023](https://fl-icml2023.github.io/){:target="_blank"})
-
-*   The 21st ACM International Conference on Mobile Systems, Applications, and Services ([ACM MobiSys 2023](https://www.sigmobile.org/mobisys/2023/index.html){:target="_blank"}) 
-
-*   The 29th ACM Annual International Conference on Mobile Computing and Networking ([ACM MobiCom 2023](https://sigmobile.org/mobicom/2023/){:target="_blank"}) 
-
-*   The 20th USENIX Symposium on Networked Systems Design and Implementation ([NSDI 2023](https://www.usenix.org/conference/nsdi23/){:target="_blank"})  
-
+*   The 30th ACM Annual International Conference on Mobile Computing and Networking ([ACM MobiCom 2024](https://sigmobile.org/mobicom/2024/){:target="_blank"})  
 
 ## Consultancy
 
@@ -138,6 +123,21 @@ Former President/Committee member, UCL Electrical Engineering Society ([Fleming]
 This list got too big to be useful, we have too many conferences and workshops (though many of them are pretty good!).
 
 External Reviewer for ACM CSCW2015, IEEE WiMob (2011), IEEE/ACM MASCOTS,ACM SIGCOMM, IEEE INFOCOMM, IEEE/ACM ToN, USENIX NSDI, BCS HCI, ACM IMC, ACM UBICOMP, ACM ISWC  
+
+
+*   The 41st IFIP International Symposium on Computer Performance, Modeling, Measurements and Evaluation ([Performance 2023](https://performance2023.sciencesconf.org/){:target="_blank"})  
+
+*   The Eighth ACM/IEEE Symposium on Edge Computing ([SEC 2023](https://acm-ieee-sec.org/2023/){:target="_blank"})  
+
+*   ACM SIGCOMM Internet Measurement Conference 2023 ([IMC 2023](https://conferences.sigcomm.org/imc/2023/){:target="_blank"})
+
+*   ICML 2023 Workshop on Federated Learning and Analytics in Practice ([FL @ ICML 2023](https://fl-icml2023.github.io/){:target="_blank"})
+
+*   The 21st ACM International Conference on Mobile Systems, Applications, and Services ([ACM MobiSys 2023](https://www.sigmobile.org/mobisys/2023/index.html){:target="_blank"}) 
+
+*   The 29th ACM Annual International Conference on Mobile Computing and Networking ([ACM MobiCom 2023](https://sigmobile.org/mobicom/2023/){:target="_blank"}) 
+
+*   The 20th USENIX Symposium on Networked Systems Design and Implementation ([NSDI 2023](https://www.usenix.org/conference/nsdi23/){:target="_blank"})
 
 *   IEEE Secure Development Conference 2022 ([SecDev2022](https://secdev.ieee.org/2022/home/){:target="_blank"}) 
 
