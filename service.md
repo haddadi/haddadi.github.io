@@ -8,6 +8,8 @@ permalink: /service/
 
 ## Current Community Engagements (Program/Organising Committee)
 
+*   The 22nd USENIX Symposium on Networked Systems Design and Implementation ([NSDI 2025](https://www.usenix.org/conference/nsdi25/){:target="_blank"})
+
 *   ACM SIGCOMM Internet Measurement Conference 2024 ([IMC 2024](https://conferences.sigcomm.org/imc/2024/){:target="_blank"}) 
 
 *   The 2024 ACM Special Interest Group on Data Communication([ACM SIGCOMM 2024](https://conferences.sigcomm.org/sigcomm/2024/){:target="_blank"})   
@@ -22,7 +24,7 @@ I offer consultancy services on research project and patent disputes, privacy, o
 
 ## External examination
 
-* Taught Programme External Examiner for the [MSc in Computer Science programme at Trinity College Dublin](http://www.scss.tcd.ie/postgraduate/msc-cs) (2021-)
+* Taught Programme External Examiner for the [MSc in Computer Science programme at Trinity College Dublin](http://www.scss.tcd.ie/postgraduate/msc-cs) (2020-2023)
 * Taught Programme External Examiner for the [UCL Telecommunications MSc](https://www.ucl.ac.uk/prospective-students/graduate/taught/degrees/telecommunications-msc) Programmes Board of Examiners (2017-2021)
 
 ## Journals (Editorial Board)
