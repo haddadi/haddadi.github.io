@@ -7,6 +7,10 @@ permalink: /publications/
 ## [GitHub code](https://github.com/haddadi/){:target="_blank"}
 
 
+### 2024: 
+
+*   Vadim Safronov,  Anna Maria Mandalari, Daniel J. Dubois, , David Choffnes, Hamed Haddadi, "SunBlock: Cloudless Protection for IoT Systems", in Passive and Active Measurement Conference 2024 [PAM 2024](https://pam2024.cs.northwestern.edu){:target="_blank"}, March 2024, Virtual. [Paper](https://iotrim.net){:target="_blank"} available. 
+
 ### 2023: 
 
 *   Stephen McQuistin, Pete Snyder, Colin Perkins, Hamed Haddadi, Gareth Tyson, "A First Look at the Privacy Harms of the Public Suffix List", in [ACM Internet Measurement Conference 2023](https://conferences.sigcomm.org/imc/2023/){:target="_blank"}, October 2023, Montreal, Canada. [Paper](https://eprints.gla.ac.uk/305977/){:target="_blank"} available. 
