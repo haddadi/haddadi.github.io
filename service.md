@@ -18,6 +18,9 @@ permalink: /service/
 
 *   The 30th ACM Annual International Conference on Mobile Computing and Networking ([ACM MobiCom 2024](https://sigmobile.org/mobicom/2024/){:target="_blank"})  
 
+*   The 4th Workshop on Machine Learning and Systems ([EuroMLSys'24](https://www.euromlsys.eu/){:target="_blank"}) 
+
+
 ## Consultancy
 
 I offer consultancy services on research project and patent disputes, privacy, online advertising, and systems approach to related areas. Please contact me for informal discussions about your requirements and projects.
