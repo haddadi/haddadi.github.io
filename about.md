@@ -22,9 +22,7 @@ We also supoort exceptional candidates for EU [Individual Fellowships (IF)](http
 ### News
 
 * **RA Position**: We are looking to hire a Research Assistant (pre-doctoral) to work on the newly funded EU CHIST_ERA project GRAPHS4SEC (Graph Neural Networks for Robust AI/ML-driven Network Security Applications) at the Department of Computing at Imperial College London. The goal of GRAPHS4SEC is to leverage graph data representations and modern GNN technology to conceive a new breed of robust GNN-based network security methods. The Project partners include...
-
-Job listing information https://www.imperial.ac.uk/jobs/description/ENG02891/research-assistant-privacy-and-security-gnns
-
+Job listing information [here](https://www.imperial.ac.uk/jobs/description/ENG02891/research-assistant-privacy-and-security-gnns)
 Closing date 15 January 2024
 
 ## Extended Biography
