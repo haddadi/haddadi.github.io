@@ -14,7 +14,7 @@ permalink: /publications/
 
 ### 2023: 
 
-*   Ralph Ankele, Hamed Haddadi "The Boomerang protocol: A Decentralised Privacy-Preserving Verifiable Incentive Protocol", December 2023, [Paper](https://arxiv.org/abs/2401.01353){:target="_blank"} available on ArXiv. 
+*   Ralph Ankele, Hamed Haddadi, "The Boomerang protocol: A Decentralised Privacy-Preserving Verifiable Incentive Protocol", December 2023, [Paper](https://arxiv.org/abs/2401.01353){:target="_blank"} available on ArXiv. 
 
 *   Stephen McQuistin, Pete Snyder, Colin Perkins, Hamed Haddadi, Gareth Tyson, "A First Look at the Privacy Harms of the Public Suffix List", in [ACM Internet Measurement Conference 2023](https://conferences.sigcomm.org/imc/2023/){:target="_blank"}, October 2023, Montreal, Canada. [Paper](https://eprints.gla.ac.uk/305977/){:target="_blank"} available. 
 
