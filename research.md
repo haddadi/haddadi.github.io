@@ -27,6 +27,8 @@ For project details, please visit the [Imperial-X](https://ix.imperial.ac.uk/){:
 
 ## Current Research Students
   
+*   [Josh Millar](https://j0shmillar.github.io/){:target="_blank"} (Energy-aware ML, funded by Taylor Donation PhD Scholarship). 
+
 *   [Sina Abdollahi](https://www.imperial.ac.uk/people/s.abdollahi22){:target="_blank"} (Trusted Edge Computing, funded by Amazon Research Award and the [Department of Computing Scholarship](https://www.imperial.ac.uk/computing/prospective-students/courses/phd/scholarships/){:target="_blank"}).  
   
 *   [Mohamad Maheri](https://www.imperial.ac.uk/people/m.maheri23){:target="_blank"} (Trusted Machine Learning, funded by the [Department of Computing Scholarship](https://www.imperial.ac.uk/computing/prospective-students/courses/phd/scholarships/){:target="_blank"}). 
