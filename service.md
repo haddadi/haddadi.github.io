@@ -63,6 +63,7 @@ I am also a Fellow of the [Higher Education Academy](https://www.heacademy.ac.uk
 
 ## PhD examination
 
+Kaihua Qin, Imperial College London, January 2024  
 Abhishek Mishra, INRIA Saclay, October 2023       
 Afroditi Papadaki, UCL EEE, October 2023      
 Sina Sajadmanesh, EPFL, August 2023    
