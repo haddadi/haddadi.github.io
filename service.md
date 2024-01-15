@@ -18,6 +18,8 @@ permalink: /service/
 
 *   The 30th ACM Annual International Conference on Mobile Computing and Networking ([ACM MobiCom 2024](https://sigmobile.org/mobicom/2024/){:target="_blank"})  
 
+*   IEEE/ACM Workshop on the Internet of Safe Things ([SafeThings'24](https://safe-things-2024.github.io){:target="_blank"}) 
+
 *   The 4th Workshop on Machine Learning and Systems ([EuroMLSys'24](https://www.euromlsys.eu/){:target="_blank"}) 
 
 
