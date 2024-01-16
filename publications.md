@@ -9,6 +9,8 @@ permalink: /publications/
 
 ### 2024: 
 
+*   Ali Shahin Shamsabadi, Gefei Tan, Tudor Ioan Cebere, Aurélien Bellet, Hamed Haddadi, Nicolas Papernot, Xiao Wang, Adrian Weller, "Confidential-DPproof: Confidential Proof of Differentially Private Training", in The Twelfth International Conference on Learning Representations 2024 [ICLR 2024](https://iclr.cc/Conferences/2024){:target="_blank"}, May 2024, Vienna, Austria. Spotlight [Paper](https://openreview.net/forum?id=PQY2v6VtGe){:target="_blank"} available.
+
 *   Vadim Safronov,  Anna Maria Mandalari, Daniel J. Dubois, , David Choffnes, Hamed Haddadi, "SunBlock: Cloudless Protection for IoT Systems", in Passive and Active Measurement Conference 2024 [PAM 2024](https://pam2024.cs.northwestern.edu){:target="_blank"}, March 2024, Virtual. [Paper](https://iotrim.net){:target="_blank"} available.
 
 
