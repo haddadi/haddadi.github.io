@@ -17,9 +17,9 @@ I am keen to hear from strong students interested in doing their masters project
 We are always keen to support exceptional candidates for the [Imperial College Research Fellowships](https://www.imperial.ac.uk/research-fellowships){:target="_blank"}, the Imperial [President's PhD Scholarships](https://www.imperial.ac.uk/study/pg/fees-and-funding/scholarships/presidents-phd-scholarships/){:target="_blank"}, [China Scholarship Council](https://www.imperial.ac.uk/study/pg/fees-and-funding/scholarships/international-scholarship-collaborations/csc/){:target="_blank"}, the [Islamic Development Bank – Imperial College Scholarship](https://www.imperial.ac.uk/study/pg/fees-and-funding/scholarships/international-scholarship-collaborations/islamic-development-bank--imperial-college-scholarship/){:target="_blank"}, UKRI [AI for Healthcare CDT](https://ai4health.io){:target="_blank"}, the London Interdisciplinary Social Science Doctoral Training Partnership ([LISS DTP](https://liss-dtp.ac.uk/){:target="_blank"}),  and various other UK and International [Scholarships](https://www.imperial.ac.uk/computing/prospective-students/courses/phd/scholarships/){:target="_blank"} and Centres for Doctoral Training in Imperial College London. We also supoort exceptional candidates for EU [Individual Fellowships (IF)](https://ec.europa.eu/research/mariecurieactions/actions/individual-fellowships_en){:target="_blank"} and UKRI [EPSRC Postdoctoral and Open Fellowships](https://epsrc.ukri.org/skills/fellows/){:target="_blank"}. Please get in touch to discuss these, sending me any relevant material, information, and a potential proposal idea. 
 
 
-### News
+### Job Openings
 
-* **RA Position**: We are looking to hire a Research Assistant (pre-doctoral) to work on the newly funded EU CHIST_ERA project GRAPHS4SEC (Graph Neural Networks for Robust AI/ML-driven Network Security Applications) at the Department of Computing at Imperial College London. The goal of GRAPHS4SEC is to leverage graph data representations and modern GNN technology to conceive a new breed of robust GNN-based network security methods. Job listing information [here](https://www.imperial.ac.uk/jobs/description/ENG02891/research-assistant-privacy-and-security-gnns), Closing date 15 January 2024.
+* 
 
 ## Extended Biography
 
