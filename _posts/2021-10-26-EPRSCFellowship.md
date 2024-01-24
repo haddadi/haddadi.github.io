@@ -3,7 +3,7 @@ layout: post
 title: URKI EPSRC Open Plus Fellowship on Securing the Next Billion Consumer Devices on the Edge
 ---
 
-June 2022: We are looking for a postdoctoral researcher to join us for my EPSRC fellowship. Please see the job ad here [https://www.imperial.ac.uk/jobs/description/ENG02158/research-associate-user-centred-systems-securityprivacy](https://www.imperial.ac.uk/jobs/description/ENG02158/research-associate-user-centred-systems-securityprivacy){:target="_blank"}. Deadline : 30 June.
+June 2022: We are looking for a postdoctoral researcher to join us for my EPSRC fellowship. Please see the job ad here [https://www.imperial.ac.uk/jobs/description/ENG02969/research-associate-user-centred-systems’-securityprivacy](https://www.imperial.ac.uk/jobs/description/ENG02969/research-associate-user-centred-systems’-securityprivacy){:target="_blank"}. Deadline : 30 Apr.
 
 I am really excited to announce that I have been selected for an [EPSRC Open Fellowship (Plus)](https://www.ukri.org/opportunity/epsrc-open-fellowship/) 2022-2027 with a funding of around £2m from the UKRI, the industry, and Imperial College London. Throughout the next 5-years, I'll be working on providing better security and privacy for edge devices (IoT & Browser), all the way from the on-device TEE to analytics done at the ISP end. The industrial supporters of the fellowship are : [Arm Research](https://www.arm.com/resources/research), [Telefonica I+D](https://www.telefonica.com/en/web/innovation/core-innovation), [Samsung AI](https://research.samsung.com/aicenter_cambridge), and [CISCO](https://research.cisco.com/).
 
