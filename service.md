@@ -20,6 +20,8 @@ permalink: /service/
 
 *   IEEE/ACM Workshop on the Internet of Safe Things ([SafeThings'24](https://safe-things-2024.github.io){:target="_blank"}) 
 
+*   Privacy Regulation and Protection in Machine Learning Workshop at ICLR 2024 ([PRIVATE ML'24](https://pml-workshop.github.io/iclr24/){:target="_blank"}) 
+
 *   The 4th Workshop on Machine Learning and Systems ([EuroMLSys'24](https://www.euromlsys.eu/){:target="_blank"}) 
 
 
