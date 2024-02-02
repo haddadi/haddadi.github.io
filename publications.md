@@ -9,7 +9,7 @@ permalink: /publications/
 
 ### 2024: 
 
-*   Peter Snyder, Soroush Karami, Arthur Edelstein, Benjamin Livshits, Hamed Haddadi, “[DiStefano: Decentralized Infrastructure for Sharing Trusted Encrypted Facts and Nothing More](https://eprint.iacr.org/2023/1063){:target="_blank"}” the 33rd USENIX Security Symposium [USENIX Security '24](https://www.usenix.org/conference/usenixsecurity24){:target="_blank"}, AUGUST 14–16, 2024, PHILADELPHIA, PA, USA.
+*   Sofía Celi, Alex Davidson, Joe Rowell, Gonçalo Pestana, Hamed Haddadi, “[DiStefano: Decentralized Infrastructure for Sharing Trusted Encrypted Facts and Nothing More](https://eprint.iacr.org/2023/1063){:target="_blank"}” the 33rd USENIX Security Symposium [USENIX Security '24](https://www.usenix.org/conference/usenixsecurity24){:target="_blank"}, AUGUST 14–16, 2024, PHILADELPHIA, PA, USA.
 
 *   Ali Shahin Shamsabadi, Gefei Tan, Tudor Ioan Cebere, Aurélien Bellet, Hamed Haddadi, Nicolas Papernot, Xiao Wang, Adrian Weller, "Confidential-DPproof: Confidential Proof of Differentially Private Training", in The Twelfth International Conference on Learning Representations [ICLR 2024](https://iclr.cc/Conferences/2024){:target="_blank"}, May 2024, Vienna, Austria. **Spotlight** [Paper](https://openreview.net/forum?id=PQY2v6VtGe){:target="_blank"} available on OpenReview.
 
