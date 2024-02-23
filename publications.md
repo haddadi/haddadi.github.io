@@ -15,6 +15,9 @@ permalink: /publications/
 
 *   Xavier Cadet, Ranya Aloufi, Sara Ahmadi-Abhari, Hamed Haddadi,"A Study on the Impact of Self-Supervised Learning on Automatic Dysarthric Speech Assessment", [IEEE ICASSP](https://2024.ieeeicassp.org){:target="_blank"} 2024 workshop Self-supervision in Audio, Speech and Beyond [SASB 2024](https://sites.google.com/view/icasspsasb2024){:target="_blank"},Seoul, Korea, 14~19 April 2024, [Paper](https://arxiv.org/abs/){:target="_blank"} available on ArXiv.
 
+*   Yushan Huang, Yuchen Zhao, Alexander Capstick, Francesca Palermo, Hamed Haddadi, Payam Barnaghi, "Analyzing entropy features in time-series data for pattern recognition in neurological conditions", Artificial Intelligence in Medicine, 2024,102821, ISSN 0933-3657, [https://doi.org/10.1016/j.artmed.2024.102821](https://www.sciencedirect.com/science/article/pii/S0933365724000630){:target="_blank"}
+
+
 *   Vadim Safronov,  Anna Maria Mandalari, Daniel J. Dubois, , David Choffnes, Hamed Haddadi, "SunBlock: Cloudless Protection for IoT Systems", in Passive and Active Measurement Conference [PAM 2024](https://pam2024.cs.northwestern.edu){:target="_blank"}, March 2024, Virtual. [Paper](https://arxiv.org/abs/2401.14332){:target="_blank"} available on ArXiv.
 
 
