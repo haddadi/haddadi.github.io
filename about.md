@@ -19,7 +19,7 @@ We are always keen to support exceptional candidates for the [Imperial College R
 
 ### Job Openings
 
-* June 2022: We are looking for a postdoctoral researcher to join us for my EPSRC fellowship. Please see the job ad here [https://www.imperial.ac.uk/jobs/description/ENG02969/research-associate-user-centred-systems’-securityprivacy](https://www.imperial.ac.uk/jobs/description/ENG02969/research-associate-user-centred-systems’-securityprivacy){:target="_blank"}. Deadline : 30 Apr.
+* June 2022: We are looking for a postdoctoral researcher to join us for my EPSRC fellowship. Please see the job ad here [https://www.imperial.ac.uk/jobs/search-jobs/description/index.php?jobId=17610&jobTitle=Research+Associate+in+User-Centred+Systems’+Security%2FPrivacy](https://www.imperial.ac.uk/jobs/search-jobs/description/index.php?jobId=17610&jobTitle=Research+Associate+in+User-Centred+Systems’+Security%2FPrivacy)  {:target="_blank"}. Deadline : 30 Apr.
 
 ## Extended Biography
 
