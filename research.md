@@ -125,7 +125,7 @@ Vadim Safronov, Research Assistant on the [InnovateUK Cyber Security Academic St
 
 [Ms Nanda Khaorapapong](http://www.nandadoes.com/) (Research Assistant on the [Connected Seeds and Sensors](http://www.connectedseeds.org/) project, 2016)
 
-[Dr Kuan Hon](http://www.kuan0.com/) (Regulatory aspects of data privacy in Cloud Computing, at [QUML CCLS](http://www.ccls.qmul.ac.uk/), co-advised with [Chris Reed](http://www.law.qmul.ac.uk/staff/reed.html), Graduated 2015, now a legal consultant with Microsoft Research)
+[Dr Kuan Hon](http://www.kuan0.com/) (Regulatory aspects of data privacy in Cloud Computing, at [QUML CCLS](http://www.ccls.qmul.ac.uk/), co-advised with [Chris Reed](http://www.law.qmul.ac.uk/staff/reed.html), Graduated 2015, now Of Counsel with law firm Dentons)
 
 [Dr Marjan Falahrastegar](http://www.eecs.qmul.ac.uk/%7Emarjan/) (2012, RA on Privacy Value, then PhD student at QMUL)
 
