@@ -9,6 +9,8 @@ permalink: /publications/
 
 ### 2024: 
 
+*   Fan Mo, Zahra Tarkhani, Hamed Haddadi, "Machine Learning with Confidential Computing: A Systematization of Knowledge”, in [ACM Computing Surveys](https://dl.acm.org/journal/csur){:target="_blank"}, 2024. [Paper](https://arxiv.org/abs/2208.10134){:target="_blank"} available on ArXiv. 
+
 *   Ali Shahin Shamsabadi, Gefei Tan, Tudor Ioan Cebere, Aurélien Bellet, Hamed Haddadi, Nicolas Papernot, Xiao Wang, Adrian Weller, "Confidential-DPproof: Confidential Proof of Differentially Private Training", in The Twelfth International Conference on Learning Representations [ICLR 2024](https://iclr.cc/Conferences/2024){:target="_blank"}, May 2024, Vienna, Austria. **Spotlight** [Paper](https://openreview.net/forum?id=PQY2v6VtGe){:target="_blank"} available on OpenReview.
 
 *   Sandra Siby, Sina Abdollahi, Mohammad Maheri, Marios Kogias, Hamed Hadaddi, "GuaranTEE: Towards Attestable and private ML with CCA", The 4th Workshop on Machine Learning and Systems [EuroMLSys 2024](https://euromlsys.eu/){:target="_blank"}, co-located with EuroSys'24, April 22nd 2024, Athens, Greece, [Paper](https://arxiv.org/abs/2404.00190){:target="_blank"} available on ArXiv, [Code](https://github.com/comet-cc/GuaranTEE){:target="_blank"}).
@@ -31,7 +33,6 @@ permalink: /publications/
 *   Stephen McQuistin, Pete Snyder, Colin Perkins, Hamed Haddadi, Gareth Tyson, "A First Look at the Privacy Harms of the Public Suffix List", in [ACM Internet Measurement Conference 2023](https://conferences.sigcomm.org/imc/2023/){:target="_blank"}, October 2023, Montreal, Canada. [Paper](https://eprints.gla.ac.uk/305977/){:target="_blank"} available. 
 
 *   Salim Chouaki, Oana Goga, Hamed Haddadi, Peter Snyder, "Understanding the Privacy Risks of Popular Search Engine Advertising Systems", in [ACM Internet Measurement Conference 2023](https://conferences.sigcomm.org/imc/2023/){:target="_blank"}, October 2023, Montreal, Canada. [Paper](https://arxiv.org/abs/2308.15309){:target="_blank"} available on ArXiv. 
-
 
 *   Siqi Li, Pinyan Liu, Gustavo G. Nascimento, Xinru Wang, Fabio Renato Manzolli Leite, Bibhas Chakraborty, Chuan Hong, Yilin Ning, Feng Xie, Zhen Ling Teo, Daniel Shu Wei Ting, Hamed Haddadi, Marcus Eng Hock Ong, Marco Aurélio Peres, Nan Liu, "Federated and Distributed Learning Applications for Electronic Health Records and Structured Medical Data: A Scoping Review", Journal of the American Medical Informatics Association, 2023. [Paper](https://arxiv.org/abs/2304.07310){:target="_blank"} available on ArXiv. 
 
@@ -63,8 +64,6 @@ permalink: /publications/
 *   Alex Davidson, Peter Snyder, E. B. Quirk, Joseph Genereux, Benjamin Livshits, Hamed Haddadi, "[STAR](https://brave.com/privacy-updates/19-star/): Secret Sharing for Private Threshold Aggregation Reporting", ACM Conference on Computer and Communications Security ([ACM CCS 2022](https://www.sigsac.org/ccs/CCS2022/){:target="_blank"}), November 7-11, 2022 Los Angeles, USA. **Distinguished Paper Award** ,  [Paper](https://arxiv.org/abs/2109.10074){:target="_blank"} available on ArXiv.  
 
 *   Yushan Huang, Yuchen Zhao, Payam Barnaghi, Hamed Haddadi, "Using Entropy Measures For Monitoring the Evolution of Activity Patterns", IEEE 8th World Forum on Internet of Things ([WF-IOT 2022](https://wfiot2022.iot.ieee.org/){:target="_blank"}), 26 October–11 November 2022, Yokohama, Japan. (Paper available on [ArXiv](https://arxiv.org/abs/2210.01736){:target="_blank"}, [Code](https://github.com/){:target="_blank"})  
-
-*   Fan Mo, Zahra Tarkhani, Hamed Haddadi, "Machine Learning with Confidential Computing: A Systematization of Knowledge”, [Paper](https://arxiv.org/abs/2208.10134){:target="_blank"} available on ArXiv. 
 
 *   Ranya Aloufi, Andreas Nautsch, Hamed Haddadi, David Boyle, "Locally Authenticated Privacy-preserving Voice Input”, [Paper](http://arxiv.org/abs/2205.14026){:target="_blank"} available on ArXiv.  
 
