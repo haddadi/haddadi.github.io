@@ -9,6 +9,8 @@ permalink: /publications/
 
 ### 2024: 
 
+*   Mengjia Niu, Hao Li, Jie Shi, Hamed Haddadi, Fan Mo, "Mitigating Hallucinations in Large Language Models via Self-Refinement-Enhanced Knowledge Retrieval”, in The Second Workshop on Generative Information Retrieval [Gen-IR@SIGIR24](https://coda.io/@sigir/gen-ir-24){:target="_blank"}, July 18, 2024 - Washington DC, USA. [Paper](https://arxiv.org/abs/2405.06545){:target="_blank"} available on ArXiv. 
+
 *   Fan Mo, Zahra Tarkhani, Hamed Haddadi, "Machine Learning with Confidential Computing: A Systematization of Knowledge”, in [ACM Computing Surveys](https://dl.acm.org/journal/csur){:target="_blank"}, 2024. [Paper](https://arxiv.org/abs/2208.10134){:target="_blank"} available on ArXiv. 
 
 *   Ali Shahin Shamsabadi, Gefei Tan, Tudor Ioan Cebere, Aurélien Bellet, Hamed Haddadi, Nicolas Papernot, Xiao Wang, Adrian Weller, "Confidential-DPproof: Confidential Proof of Differentially Private Training", in The Twelfth International Conference on Learning Representations [ICLR 2024](https://iclr.cc/Conferences/2024){:target="_blank"}, May 2024, Vienna, Austria. **Spotlight** [Paper](https://openreview.net/forum?id=PQY2v6VtGe){:target="_blank"} available on OpenReview.
