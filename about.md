@@ -19,7 +19,8 @@ We are always keen to support exceptional candidates for the [Imperial College R
 
 ### Job Openings
 
-* 
+* Research Associate in User-Centred Systems’ Security/Privacy, Deadline 7th August 2024. [Link](https://www.imperial.ac.uk/jobs/search-jobs/description/index.php?jobId=19328&jobTitle=Research+Associate+in+User-Centred+Systems%E2%80%99+Security%2FPrivacy)
+
 
 ## Extended Biography
 
