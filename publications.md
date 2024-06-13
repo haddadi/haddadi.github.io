@@ -9,9 +9,9 @@ permalink: /publications/
 
 ### 2024: 
 
-*   Stefanos Laskaridis, Kleomenis Katevas, Lorenzo Minto, Hamed Haddadi, "MELTing point: Mobile Evaluation of Language Transformers”, in The 30th Annual International Conference On Mobile Computing And Networking [MobiCom 24](https://www.sigmobile.org/mobicom/2024/){:target="_blank"}, Nov. 18-22, 2024, Washington, D.C., USA. [Paper](https://arxiv.org/abs/2403.12844){:target="_blank"} available on ArXiv. 
+*   Stefanos Laskaridis, Kleomenis Katevas, Lorenzo Minto, Hamed Haddadi, "MELTing point: Mobile Evaluation of Language Transformers”, in The 30th ACM Annual International Conference On Mobile Computing And Networking ([MobiCom 24](https://www.sigmobile.org/mobicom/2024/){:target="_blank"}), Nov. 18-22, 2024, Washington, D.C., USA. [Paper](https://arxiv.org/abs/2403.12844){:target="_blank"} available on ArXiv. 
 
-*   Mengjia Niu, Hao Li, Jie Shi, Hamed Haddadi, Fan Mo, "Mitigating Hallucinations in Large Language Models via Self-Refinement-Enhanced Knowledge Retrieval”, in The Second Workshop on Generative Information Retrieval [Gen-IR@SIGIR24](https://coda.io/@sigir/gen-ir-24){:target="_blank"}, July 18, 2024 - Washington DC, USA. [Paper](https://arxiv.org/abs/2405.06545){:target="_blank"} available on ArXiv. 
+*   Mengjia Niu, Hao Li, Jie Shi, Hamed Haddadi, Fan Mo, "Mitigating Hallucinations in Large Language Models via Self-Refinement-Enhanced Knowledge Retrieval”, in The Second Workshop on Generative Information Retrieval ([Gen-IR@SIGIR24](https://coda.io/@sigir/gen-ir-24){:target="_blank"}), July 18, 2024 - Washington DC, USA. [Paper](https://arxiv.org/abs/2405.06545){:target="_blank"} available on ArXiv. 
 
 *   Fan Mo, Zahra Tarkhani, Hamed Haddadi, "Machine Learning with Confidential Computing: A Systematization of Knowledge”, in [ACM Computing Surveys](https://dl.acm.org/journal/csur){:target="_blank"}, 2024. [Paper](https://arxiv.org/abs/2208.10134){:target="_blank"} available on ArXiv. 
 
