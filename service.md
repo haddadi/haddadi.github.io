@@ -8,6 +8,8 @@ permalink: /service/
 
 ## Current Community Engagements (Program/Organising Committee)
 
+*   The 10th IEEE European Symposium on Security and Privacy ([EURO S&P 2025](https://www.ieee-security.org/TC/EuroSP2025/){:target="_blank"})
+
 *   The 22nd USENIX Symposium on Networked Systems Design and Implementation ([NSDI 2025](https://www.usenix.org/conference/nsdi25/){:target="_blank"})
 
 *   ACM SIGCOMM Internet Measurement Conference 2024 ([IMC 2024](https://conferences.sigcomm.org/imc/2024/){:target="_blank"}) 
