@@ -48,6 +48,8 @@ Two examples from the computer science review and publication process [Blog post
 
 How to run a [paper mill](https://haddadi.github.io/papers/how-to-run-a-paper-mill.pdf)
 
+Research [Advice](https://www.cs.dartmouth.edu/~dfk/advice/index.html) from David Kotz 
+
 ## Datasets & Tool
 
 The Koblenz Network Collection [http://konect.uni-koblenz.de/](http://konect.uni-koblenz.de/)
