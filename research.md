@@ -22,7 +22,7 @@ For project details, please visit the [Imperial-X](https://ix.imperial.ac.uk/){:
 
 ## Current Research Staff
 
-*   [Zhonghao Zhan](https://){:target="_blank"}, Research Assistant on the Graph Neural Networks (GNNs) for Robust AI/ML-driven Network Security Applications EU project [Graphs4Sec](https://www.chistera.eu/projects/graphs4sec)){:target="_blank"} 
+*   [Zhonghao Zhan](https://){:target="_blank"}, Research Assistant on the Graph Neural Networks (GNNs) for Robust AI/ML-driven Network Security Applications EU project [Graphs4Sec](https://www.chistera.eu/projects/graphs4sec){:target="_blank"} 
 
 
 ## Current Research Students
