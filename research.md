@@ -15,14 +15,14 @@ For project details, please visit the [Imperial-X](https://ix.imperial.ac.uk/){:
   
 
 *   EPSRC [Open Plus Fellowship](https://epsrc.ukri.org/skills/fellows/){:target="_blank"} ([EP/W005271/1: Securing the Next Billion Consumer Devices on the Edge](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/W005271/1){:target="_blank"}, £1,5m, 2022-2027)
-*   EU [CHIST-ERA](https://www.chistera.eu/projects/graphs4sec){:target="_blank"} ([GNNs for Network Security (and Privacy) GRAPHS4SEC](https://gow.chistera.eu/projects/graphs4sec){:target="_blank"}, €1,2m, 2024-2027)
+*   EU [CHIST-ERA](https://www.chistera.eu/projects/graphs4sec){:target="_blank"} ([GNNs for Network Security (and Privacy) GRAPHS4SEC](https://chistera.eu/projects/graphs4sec){:target="_blank"}, €1,2m, 2024-2027)
 *   UKRI AI Centre for Doctoral Training in Digital Healthcare ([AI4Health](https://ai4health.io/){:target="_blank"}), ([EP/Y030974/1](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/Y030974/1){:target="_blank"}, £9.2M,  September 2024- March 2033)  
 *   [SPRITE+2 HUB](https://spritehub.org/){:target="_blank"}, The Security, Privacy, Identity and Trust Engagement Networkplus (phase 2): EPSRC Network Plus grant ([EP/W020408/1](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/W020408/1){:target="_blank"}, £2,652,185 , September 2023- August 2027)  
 
 
 ## Current Research Staff
 
-*   Dr [Sandra Siby](https://sandrasiby.github.io/){:target="_blank"}, Postdoctoral Research Associate on the EPSRC [Open Plus Fellowship](https://epsrc.ukri.org/skills/fellows/){:target="_blank"} ([Securing the Next Billion Consumer Devices on the Edge](https://netsys.doc.ic.ac.uk/research.html#fellowship){:target="_blank"}) 
+*   [Zhonghao Zhan](https://){:target="_blank"}, Research Assistant on the Graph Neural Networks (GNNs) for Robust AI/ML-driven Network Security Applications EU project [Graphs4Sec](https://www.chistera.eu/projects/graphs4sec)){:target="_blank"} 
 
 
 ## Current Research Students
@@ -86,6 +86,8 @@ I am interested in hearing from potential PhD students in my areas of research i
 
 ## Past Visitors/Staff/Students
 
+
+*   Dr [Sandra Siby](https://sandrasiby.github.io/){:target="_blank"}, Postdoctoral Research Associate on the EPSRC [Open Plus Fellowship](https://epsrc.ukri.org/skills/fellows/){:target="_blank"} ([Securing the Next Billion Consumer Devices on the Edge](https://netsys.doc.ic.ac.uk/research.html#fellowship){:target="_blank"}) 
 
 Vadim Safronov, Research Assistant on the [InnovateUK Cyber Security Academic Startup Accelerator Programme (CyberASAP) grant](https://ktn-uk.org/news/cyber-security-academic-startup-accelerator-programme-cyberasap-reveals-2022-23-cohort/){:target="_blank"} 
 
