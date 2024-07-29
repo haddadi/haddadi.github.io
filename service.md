@@ -8,6 +8,8 @@ permalink: /service/
 
 ## Current Community Engagements (Program/Organising Committee)
 
+*   The 34th USENIX Security Symposium ([USENIX Security 2025](https://www.usenix.org/conference/usenixsecurity25/){:target="_blank"})
+
 *   The 10th IEEE European Symposium on Security and Privacy ([EURO S&P 2025](https://www.ieee-security.org/TC/EuroSP2025/){:target="_blank"})
 
 *   The 22nd USENIX Symposium on Networked Systems Design and Implementation ([NSDI 2025](https://www.usenix.org/conference/nsdi25/){:target="_blank"})
