@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Educational and Community Activities
+title: Community Activities
 permalink: /service/
 ---
 ## Current External affiliations
