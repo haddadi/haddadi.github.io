@@ -7,7 +7,14 @@ permalink: /publications/
 ## [GitHub code](https://github.com/haddadi/){:target="_blank"}
 
 
+### 2025:  
+
+*   Sofía Celi, Alex Davidson, Joe Rowell, Gonçalo Pestana, Hamed Haddadi, "DiStefano: Decentralized Infrastructure for Sharing Trusted Encrypted Facts and Nothing More", in [The Network and Distributed System Security (NDSS) Symposium 2025](https://www.ndss-symposium.org/ndss2025/){:target="_blank"}, 23–28 February 2025, San Diego, California. [Paper](https://eprint.iacr.org/2023/1063){:target="_blank"} available.  
+
+
 ### 2024:  
+
+*   Yushan Huang, Ranya Aloufi, Xavier Cadet, Yuchen Zhao, Payam Barnaghi, Hamed Haddadi, "Low-Energy On-Device Personalization for MCUs", in [The 9th ACM/IEEE Symposium on Edge Computing (SEC 2024)](https://acm-ieee-sec.org/2024/index.php){:target="_blank"}, December 4-7, 2024  Rome, Italy. [Paper](https://arxiv.org/abs/2403.08040){:target="_blank"} available.  
 
 *   Stephen McQuistin, Pete Snyder, Hamed Haddadi, Gareth Tyson, "A First Look at Related Website Sets", in [ACM Internet Measurement Conference 2024](https://conferences.sigcomm.org/imc/2024/){:target="_blank"}, November 2024, Madrid, Spain. [Paper](https://arxiv.org/abs/2408.07495){:target="_blank"} available. 
 
@@ -30,7 +37,6 @@ permalink: /publications/
 *   Yushan Huang, Yuchen Zhao, Alexander Capstick, Francesca Palermo, Hamed Haddadi, Payam Barnaghi, "Analyzing entropy features in time-series data for pattern recognition in neurological conditions", Artificial Intelligence in Medicine, 2024,102821, ISSN 0933-3657, [https://doi.org/10.1016/j.artmed.2024.102821](https://www.sciencedirect.com/science/article/pii/S0933365724000630){:target="_blank"}
 
 *   Vadim Safronov,  Anna Maria Mandalari, Daniel J. Dubois, , David Choffnes, Hamed Haddadi, "SunBlock: Cloudless Protection for IoT Systems", in Passive and Active Measurement Conference [PAM 2024](https://pam2024.cs.northwestern.edu){:target="_blank"}, March 2024, Virtual. [Paper](https://arxiv.org/abs/2401.14332){:target="_blank"} available on ArXiv.
-
 
 ### 2023: 
 
