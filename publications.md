@@ -124,7 +124,7 @@ permalink: /publications/
 
 *  Yuting Zhan, Hamed Haddadi, "MoSen: Activity Modelling in Multiple-Occupancy Smart Homes", in 19th IEEE International Conference on Pervasive Computing and Communications ([PerCom 2021](http://www.percom.org/)), Kassel, Germany, March 2021. (Work in Progress session, full Paper available on [ArXiv](http://arxiv.org/abs/2101.00235){:target="_blank"})  
 
-*   Kleomenis Katevas, Eugene Bagdasaryan, Jason Waterman, Mohamad Mounir Safadieh, Hamed Haddadi, Deborah Estrin, "Policy-Based Federated Learning", (Paper available on [ArXiv](https://arxiv.org/abs/2003.06612){:target="_blank"}, [Code](https://github.com/minoskt/PoliFL){:target="_blank"}) 
+*   Kleomenis Katevas, Eugene Bagdasaryan, Jason Waterman, Mohamad Mounir Safadieh, Eleanor Birrell, Hamed Haddadi, Deborah Estrin, "Policy-Based Federated Learning", (Paper available on [ArXiv](https://arxiv.org/abs/2003.06612){:target="_blank"}, [Code](https://github.com/minoskt/PoliFL){:target="_blank"}) 
 
 
 ### 2020: 
