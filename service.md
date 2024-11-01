@@ -73,6 +73,7 @@ I am also a Fellow of the [Higher Education Academy](https://www.heacademy.ac.uk
 
 ## PhD examination
 
+Yanke Sun, UCL EEE, October 2024   
 Reza Nasirigerdeh, Technische Universität München, July 2024        
 Mohammad Naseri, UCL CS, July 2024         
 Kaihua Qin, Imperial College London, January 2024              
