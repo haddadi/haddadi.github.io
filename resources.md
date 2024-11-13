@@ -14,7 +14,7 @@ How to do a systems PhD: [advice from Steven Hand](http://www.cl.cam.ac.uk/resea
 
 How to Have a Bad Career in Research/Academia ([Patterson](http://www.cs.berkeley.edu/%7Epattrsn/talks/BadCareer.pdf) , [Kozyrakis](http://csl.stanford.edu/%7Echristos/publications/BadCareer.pdf) )
 
-How to read papers ([1](http://www.cs.columbia.edu/%7Ehgs/netbib/efficientReading.pdf) , [2](http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf)) and how to [review them](http://www.icir.org/mallman/pubs/All08a/All08a.pdf)
+How to read papers ([1](http://www.cs.columbia.edu/%7Ehgs/netbib/efficientReading.pdf) , [2](http://dl.acm.org/doi/10.1145/1273445.1273458)) and how to [review them](http://www.icir.org/mallman/pubs/All08a/All08a.pdf)
 
 Advice on Research and Writing, [Jon's Collection](http://www.cl.cam.ac.uk/%7Ejac22/advice.html) , and [a referee's plea](http://www.icir.org/mallman/plea.txt)
 
