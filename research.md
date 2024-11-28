@@ -35,9 +35,7 @@ For project details, please visit the [Imperial-X](https://ix.imperial.ac.uk/){:
     
 *   [Yushan Huang](https://yushan-huang.github.io/){:target="_blank"} (Machine Learning systems, funded by CSC Scholarship).
 
-*   [Mengjia Niu](https://www.imperial.ac.uk/people/m.niu21){:target="_blank"} (IoT and HDI, funded by [CSC Imperial Scholarship](https://www.imperial.ac.uk/study/pg/fees-and-funding/scholarships/international-scholarship-collaborations/csc/)).
-  
-*   [Xavier Cadet](https://www.imperial.ac.uk/people/xavier.cadet17){:target="_blank"} (Artificial Intelligence for Health, funded by [UKRI CDT in AI for Healthcare](https://ai4health.io/){:target="_blank"}).  
+*   [Mengjia Niu](https://www.imperial.ac.uk/people/m.niu21){:target="_blank"} (IoT and HDI, funded by [CSC Imperial Scholarship](https://www.imperial.ac.uk/study/pg/fees-and-funding/scholarships/international-scholarship-collaborations/csc/)). 
   
   
 I am interested in hearing from potential PhD students in my areas of research interests. If you have interesting ideas and wish to discuss funding opportunities for next year, please send me an [email](mailto:h.haddadi@imperial.ac.uk) (no attachments please!)
@@ -86,8 +84,9 @@ I am interested in hearing from potential PhD students in my areas of research i
 
 ## Past Visitors/Staff/Students
 
+Dr [Xavier Cadet](https://www.imperial.ac.uk/people/xavier.cadet17){:target="_blank"} (Artificial Intelligence for Health, funded by [UKRI CDT in AI for Healthcare](https://ai4health.io/){:target="_blank"}) 
 
-*   Dr [Sandra Siby](https://sandrasiby.github.io/){:target="_blank"}, Postdoctoral Research Associate on the EPSRC [Open Plus Fellowship](https://epsrc.ukri.org/skills/fellows/){:target="_blank"} ([Securing the Next Billion Consumer Devices on the Edge](https://netsys.doc.ic.ac.uk/research.html#fellowship){:target="_blank"}) 
+Dr [Sandra Siby](https://sandrasiby.github.io/){:target="_blank"}, Postdoctoral Research Associate on the EPSRC [Open Plus Fellowship](https://epsrc.ukri.org/skills/fellows/){:target="_blank"} ([Securing the Next Billion Consumer Devices on the Edge](https://netsys.doc.ic.ac.uk/research.html#fellowship){:target="_blank"}) 
 
 Vadim Safronov, Research Assistant on the [InnovateUK Cyber Security Academic Startup Accelerator Programme (CyberASAP) grant](https://ktn-uk.org/news/cyber-security-academic-startup-accelerator-programme-cyberasap-reveals-2022-23-cohort/){:target="_blank"} 
 
