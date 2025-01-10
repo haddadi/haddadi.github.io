@@ -11,15 +11,15 @@ permalink: /service/
 
 *   The 23rd USENIX Symposium on Networked Systems Design and Implementation ([NSDI 2026](https://www.usenix.org/conference/nsdi26/){:target="_blank"}) 
 
-*   The 31st ACM Annual International Conference on Mobile Computing and Networking ([ACM MobiCom 2025](https://sigmobile.org/mobicom/2025/){:target="_blank"})  
+*   The 31st ACM Annual International Conference on Mobile Computing and Networking ([ACM MobiCom 2025](https://sigmobile.org/mobicom/2025/){:target="_blank"}) 
+
+*   The 32nd ACM Conference on Computer and Communications Security ([ACM CCS 2025](https://https://www.sigsac.org/ccs/CCS2025/){:target="_blank"}) 
 
 *   The 34th USENIX Security Symposium ([USENIX Security 2025](https://www.usenix.org/conference/usenixsecurity25/){:target="_blank"})
 
 *   The 10th IEEE European Symposium on Security and Privacy ([EURO S&P 2025](https://www.ieee-security.org/TC/EuroSP2025/){:target="_blank"})
 
 *   The 22nd USENIX Symposium on Networked Systems Design and Implementation ([NSDI 2025](https://www.usenix.org/conference/nsdi25/){:target="_blank"})
-
-
 
 
 ## Consultancy
