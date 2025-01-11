@@ -22,6 +22,10 @@ For project details, please visit the [Imperial-X](https://ix.imperial.ac.uk/){:
 
 ## Current Research Staff
 
+Dr [Javad Forough](https://javad-forough.github.io/){:target="_blank"}, Postdoctoral Research Associate on the EPSRC [Open Plus Fellowship](https://epsrc.ukri.org/skills/fellows/){:target="_blank"} ([Securing the Next Billion Consumer Devices on the Edge](https://netsys.doc.ic.ac.uk/research.html#fellowship){:target="_blank"}) 
+
+Dr [Amir Al Sadi](https://alsadiamir.github.io/){:target="_blank"}, Postdoctoral Research Associate on the EPSRC [Open Plus Fellowship](https://epsrc.ukri.org/skills/fellows/){:target="_blank"} ([Securing the Next Billion Consumer Devices on the Edge](https://netsys.doc.ic.ac.uk/research.html#fellowship){:target="_blank"}) 
+
 *   [Zhonghao Zhan](https://zhonghaozhan.github.io/){:target="_blank"}, Research Assistant on the Graph Neural Networks (GNNs) for Robust AI/ML-driven Network Security Applications EU project [Graphs4Sec](https://www.chistera.eu/projects/graphs4sec){:target="_blank"} 
 
 
