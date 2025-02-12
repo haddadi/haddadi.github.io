@@ -11,6 +11,9 @@ permalink: /publications/
 
 *   Florian Hantke, Peter Snyder, Hamed Haddadi, Ben Stock, "Web Execution Bundles: Reproducible, Accurate, and Archivable Web Measurements", in [34th USENIX Security Symposium](https://www.usenix.org/conference/usenixsecurity25){:target="_blank"}, August 13–15, 2025, Seattle, WA, USA. [Paper](https://swag.cispa.saarland/papers/hantke2025webrec.pdf){:target="_blank"} available.  
 
+*   Xavier F. Cadet, Anastasia Borovykh, Mohammad Malekzadeh, Sara Ahmadi-Abhari, Hamed Haddadi, "Deep Unlearn: Benchmarking Machine Unlearning for Image Classification", in [10th IEEE European Symposium on Security and Privacy](https://www.eurosp2025.ieee-security.org){:target="_blank"}, Venice, Italy, June 30 - July 4, 2025. [Paper](https://arxiv.org/abs/2410.01276/){:target="_blank"} available.  
+
+
 *   Sofía Celi, Alex Davidson, Joe Rowell, Gonçalo Pestana, Hamed Haddadi, "DiStefano: Decentralized Infrastructure for Sharing Trusted Encrypted Facts and Nothing More", in [The Network and Distributed System Security (NDSS) Symposium 2025](https://www.ndss-symposium.org/ndss2025/){:target="_blank"}, 23–28 February 2025, San Diego, California. [Paper](https://eprint.iacr.org/2023/1063){:target="_blank"} and [Code](https://github.com/brave-experiments/distefano){:target="_blank"} available.  
 
 
