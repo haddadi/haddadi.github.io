@@ -11,7 +11,9 @@ permalink: /service/
 
 *   The 21st ACM European Conference on Computer Systems ([EuroSys 2026](https://2026.eurosys.org/index.html){:target="_blank"}) 
 
-*   The 23rd USENIX Symposium on Networked Systems Design and Implementation ([NSDI 2026](https://www.usenix.org/conference/nsdi26/){:target="_blank"}) 
+*   The 23rd USENIX Symposium on Networked Systems Design and Implementation ([NSDI 2026](https://www.usenix.org/conference/nsdi26/){:target="_blank"})
+
+*   The Second [Manchester Prize](https://manchesterprize.org/judging-panel/){:target="_blank"} 2025
 
 *   The 31st ACM Annual International Conference on Mobile Computing and Networking ([ACM MobiCom 2025](https://sigmobile.org/mobicom/2025/){:target="_blank"}) 
 
