@@ -14,7 +14,7 @@ For project details, please visit the [Imperial-X](https://ix.imperial.ac.uk/){:
 ## Current Projects and Grants
   
 
-*   UK [AISI](https://www.aisi.gov.uk){:target="_blank"} Systemic AI Safety grants, £200k, 2025-2026 
+*   UK [AISI](https://www.aisi.gov.uk){:target="_blank"} Systemic AI Safety grants "C3Infer: A Framework for Compartmentalized, Confidential, and Certified AI Inference ", £200k, 2025-2026 
 
 *   EPSRC [Open Plus Fellowship](https://epsrc.ukri.org/skills/fellows/){:target="_blank"} ([EP/W005271/1: Securing the Next Billion Consumer Devices on the Edge](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/W005271/1){:target="_blank"}, £1,5m, 2022-2027)
 *   EU [CHIST-ERA](https://www.chistera.eu/projects/graphs4sec){:target="_blank"} ([GNNs for Network Security (and Privacy) GRAPHS4SEC](https://chistera.eu/projects/graphs4sec){:target="_blank"}, €1,2m, 2024-2027)
