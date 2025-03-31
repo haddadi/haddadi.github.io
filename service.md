@@ -11,6 +11,8 @@ permalink: /service/
 
 *   The 21st ACM European Conference on Computer Systems ([EuroSys 2026](https://2026.eurosys.org/index.html){:target="_blank"}) 
 
+*   The Network and Distributed System Security ([NDSS 2026](https://www.ndss-symposium.org/ndss2026/){:target="_blank"})
+
 *   The 23rd USENIX Symposium on Networked Systems Design and Implementation ([NSDI 2026](https://www.usenix.org/conference/nsdi26/){:target="_blank"})
 
 *   The Second [Manchester Prize](https://manchesterprize.org/judging-panel/){:target="_blank"} 2025
