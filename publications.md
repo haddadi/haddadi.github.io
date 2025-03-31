@@ -9,6 +9,9 @@ permalink: /publications/
 
 ### 2025:  
 
+*   Ali Shahin Shamsabadi, Peter Snyder, Ralph Giles, Aurélien Bellet, Hamed Haddadi, "Nebula: Efficient, Private and Accurate Histogram Estimation", in [32nd ACM Conference on Computer and Communications Security (CCS)](https://sigsac.org/ccs/CCS2025/){:target="_blank"}, October 13-17, 2025, Taipei, Taiwan. [Paper](https://arxiv.org/abs/2409.09676){:target="_blank"} available. 
+
+
 *   Florian Hantke, Peter Snyder, Hamed Haddadi, Ben Stock, "Web Execution Bundles: Reproducible, Accurate, and Archivable Web Measurements", in [34th USENIX Security Symposium](https://www.usenix.org/conference/usenixsecurity25){:target="_blank"}, August 13–15, 2025, Seattle, WA, USA. [Paper](https://swag.cispa.saarland/papers/hantke2025webrec.pdf){:target="_blank"} available.
 
 *   Rob Romijnders, Stefanos Laskaridis, Ali Shahin Shamsabadi, Hamed Haddadi, "NoEsis: A Modular LLM with Differentially Private Knowledge Transfer", ICLR 2025 Workshop on Modularity for Collaborative, Decentralized, and Continual Deep Learning ([MCDC ICLR 2025](https://sites.google.com/view/mcdc2025/home){:target="_blank"}), Singapore, Apr 27 2025. [Paper](https://openreview.net/forum?id=UIzvc5u2Eu){:target="_blank"}
