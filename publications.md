@@ -11,13 +11,15 @@ permalink: /publications/
 
 *   Ali Shahin Shamsabadi, Peter Snyder, Ralph Giles, Aurélien Bellet, Hamed Haddadi, "Nebula: Efficient, Private and Accurate Histogram Estimation", in [32nd ACM Conference on Computer and Communications Security (CCS)](https://sigsac.org/ccs/CCS2025/){:target="_blank"}, October 13-17, 2025, Taipei, Taiwan. [Paper](https://arxiv.org/abs/2409.09676){:target="_blank"} available. 
 
+*   Florian Hantke, Peter Snyder, Hamed Haddadi, Ben Stock, "Web Execution Bundles: Reproducible, Accurate, and Archivable Web Measurements", in [34th USENIX Security Symposium](https://www.usenix.org/conference/usenixsecurity25){:target="_blank"}, August 13–15, 2025, Seattle, WA, USA. [Paper](https://swag.cispa.saarland/papers/hantke2025webrec.pdf){:target="_blank"} available. 
 
-*   Florian Hantke, Peter Snyder, Hamed Haddadi, Ben Stock, "Web Execution Bundles: Reproducible, Accurate, and Archivable Web Measurements", in [34th USENIX Security Symposium](https://www.usenix.org/conference/usenixsecurity25){:target="_blank"}, August 13–15, 2025, Seattle, WA, USA. [Paper](https://swag.cispa.saarland/papers/hantke2025webrec.pdf){:target="_blank"} available.
-
-*   Rob Romijnders, Stefanos Laskaridis, Ali Shahin Shamsabadi, Hamed Haddadi, "NoEsis: A Modular LLM with Differentially Private Knowledge Transfer", ICLR 2025 Workshop on Modularity for Collaborative, Decentralized, and Continual Deep Learning ([MCDC ICLR 2025](https://sites.google.com/view/mcdc2025/home){:target="_blank"}), Singapore, Apr 27 2025. [Paper](https://openreview.net/forum?id=UIzvc5u2Eu){:target="_blank"}
+*   Mohammadmahdi Maheri, Hamed Haddadi, Alex Davidson, "TeleSparse: Practical Privacy-Preserving Verification of Deep Neural Networks", in 25th Privacy Enhancing Technologies Symposium [PETS 2025](https://petsymposium.org/){:target="_blank"}, July 14–19, 2025Washington, DC and Online. [Paper](https://arxiv.org/abs/){:target="_blank"} available.  
 
 *   Xavier F. Cadet, Anastasia Borovykh, Mohammad Malekzadeh, Sara Ahmadi-Abhari, Hamed Haddadi, "Deep Unlearn: Benchmarking Machine Unlearning for Image Classification", in [10th IEEE European Symposium on Security and Privacy](https://www.eurosp2025.ieee-security.org){:target="_blank"}, Venice, Italy, June 30 - July 4, 2025. [Paper](https://arxiv.org/abs/2410.01276/){:target="_blank"} available.  
 
+*   Sina Abdollahi, Mohammad Maheri, Sandra Siby, Marios Kogias, Hamed Haddadi, "An Early Experience with Confidential Computing Architecture for On-Device Model Protection", in 8th Workshop on System Software for Trusted Execution [SysTEX](https://systex-workshop.github.io/2025/){:target="_blank"}, Venice, Italy, July 4, 2025. [Paper](https://arxiv.org/abs/){:target="_blank"} available.  
+
+*   Rob Romijnders, Stefanos Laskaridis, Ali Shahin Shamsabadi, Hamed Haddadi, "NoEsis: A Modular LLM with Differentially Private Knowledge Transfer", ICLR 2025 Workshop on Modularity for Collaborative, Decentralized, and Continual Deep Learning ([MCDC ICLR 2025](https://sites.google.com/view/mcdc2025/home){:target="_blank"}), Singapore, Apr 27 2025. [Paper](https://openreview.net/forum?id=UIzvc5u2Eu){:target="_blank"} 
 
 *   Sofía Celi, Alex Davidson, Joe Rowell, Gonçalo Pestana, Hamed Haddadi, "DiStefano: Decentralized Infrastructure for Sharing Trusted Encrypted Facts and Nothing More", in [The Network and Distributed System Security (NDSS) Symposium 2025](https://www.ndss-symposium.org/ndss2025/){:target="_blank"}, 23–28 February 2025, San Diego, California. **Distinguished Paper Award** [Paper](https://eprint.iacr.org/2023/1063){:target="_blank"} and [Code](https://github.com/brave-experiments/distefano){:target="_blank"} available.  
 
