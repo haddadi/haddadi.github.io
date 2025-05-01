@@ -13,7 +13,10 @@ permalink: /publications/
 
 *   Florian Hantke, Peter Snyder, Hamed Haddadi, Ben Stock, "Web Execution Bundles: Reproducible, Accurate, and Archivable Web Measurements", in [34th USENIX Security Symposium](https://www.usenix.org/conference/usenixsecurity25){:target="_blank"}, August 13–15, 2025, Seattle, WA, USA. [Paper](https://swag.cispa.saarland/papers/hantke2025webrec.pdf){:target="_blank"} available. 
 
-*   Mohammadmahdi Maheri, Hamed Haddadi, Alex Davidson, "TeleSparse: Practical Privacy-Preserving Verification of Deep Neural Networks", in 25th Privacy Enhancing Technologies Symposium [PETS 2025](https://petsymposium.org/){:target="_blank"}, July 14–19, 2025Washington, DC and Online. [Paper](https://arxiv.org/abs/){:target="_blank"} available.  
+*   Mohammadmahdi Maheri, Hamed Haddadi, Alex Davidson, "TeleSparse: Practical Privacy-Preserving Verification of Deep Neural Networks", in 25th Privacy Enhancing Technologies Symposium [PETS 2025](https://petsymposium.org/){:target="_blank"}, July 14–19, 2025, Washington, DC and Online. [Paper](https://arxiv.org/abs/2504.19274){:target="_blank"} available.  
+
+*   Jiahui HE, Pete Snyder, Hamed Haddadi, Fabian E. Bustamante, Gareth Tyson, "Measuring the Accuracy and Effectiveness of PII Removal Services", in 25th Privacy Enhancing Technologies Symposium [PETS 2025](https://petsymposium.org/){:target="_blank"}, July 14–19, 2025, Washington, DC and Online. [Paper](https://arxiv.org/abs/){:target="_blank"} available.  
+
 
 *   Xavier F. Cadet, Anastasia Borovykh, Mohammad Malekzadeh, Sara Ahmadi-Abhari, Hamed Haddadi, "Deep Unlearn: Benchmarking Machine Unlearning for Image Classification", in [10th IEEE European Symposium on Security and Privacy](https://www.eurosp2025.ieee-security.org){:target="_blank"}, Venice, Italy, June 30 - July 4, 2025. [Paper](https://arxiv.org/abs/2410.01276/){:target="_blank"} available.  
 
