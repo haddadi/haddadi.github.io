@@ -15,7 +15,7 @@ permalink: /publications/
 
 *   Mohammadmahdi Maheri, Hamed Haddadi, Alex Davidson, "TeleSparse: Practical Privacy-Preserving Verification of Deep Neural Networks", in 25th Privacy Enhancing Technologies Symposium [PETS 2025](https://petsymposium.org/){:target="_blank"}, July 14–19, 2025, Washington, DC and Online. [Paper](https://arxiv.org/abs/2504.19274){:target="_blank"} available.  
 
-*   Jiahui HE, Pete Snyder, Hamed Haddadi, Fabian E. Bustamante, Gareth Tyson, "Measuring the Accuracy and Effectiveness of PII Removal Services", in 25th Privacy Enhancing Technologies Symposium [PETS 2025](https://petsymposium.org/){:target="_blank"}, July 14–19, 2025, Washington, DC and Online. [Paper](https://arxiv.org/abs/){:target="_blank"} available.  
+*   Jiahui HE, Pete Snyder, Hamed Haddadi, Fabian E. Bustamante, Gareth Tyson, "Measuring the Accuracy and Effectiveness of PII Removal Services", in 25th Privacy Enhancing Technologies Symposium [PETS 2025](https://petsymposium.org/){:target="_blank"}, July 14–19, 2025, Washington, DC and Online. [Paper](https://arxiv.org/abs/2505.06989){:target="_blank"} available.  
 
 
 *   Xavier F. Cadet, Anastasia Borovykh, Mohammad Malekzadeh, Sara Ahmadi-Abhari, Hamed Haddadi, "Deep Unlearn: Benchmarking Machine Unlearning for Image Classification", in [10th IEEE European Symposium on Security and Privacy](https://www.eurosp2025.ieee-security.org){:target="_blank"}, Venice, Italy, June 30 - July 4, 2025. [Paper](https://arxiv.org/abs/2410.01276/){:target="_blank"} available.  
