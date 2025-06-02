@@ -48,6 +48,8 @@ How to run a [paper mill](https://haddadi.github.io/papers/how-to-run-a-paper-mi
 
 Research [Advice](https://www.cs.dartmouth.edu/~dfk/advice/index.html) from David Kotz 
 
+[Life Lessons from the First Half-Century of My Career](https://cacm.acm.org/opinion/life-lessons-from-the-first-half-century-of-my-career/) from David A. Patterson
+
 ## Datasets & Tool
 
 The Koblenz Network Collection [http://konect.uni-koblenz.de/](http://konect.uni-koblenz.de/)
