@@ -20,10 +20,11 @@ permalink: /publications/
 
 *   Jiahui HE, Pete Snyder, Hamed Haddadi, Fabian E. Bustamante, Gareth Tyson, "Measuring the Accuracy and Effectiveness of PII Removal Services", in 25th Privacy Enhancing Technologies Symposium [PETS 2025](https://petsymposium.org/){:target="_blank"}, July 14–19, 2025, Washington, DC and Online. [Paper](https://arxiv.org/abs/2505.06989){:target="_blank"} available.  
 
-
 *   Xavier F. Cadet, Anastasia Borovykh, Mohammad Malekzadeh, Sara Ahmadi-Abhari, Hamed Haddadi, "Deep Unlearn: Benchmarking Machine Unlearning for Image Classification", in [10th IEEE European Symposium on Security and Privacy](https://www.eurosp2025.ieee-security.org){:target="_blank"}, Venice, Italy, June 30 - July 4, 2025. [Paper](https://arxiv.org/abs/2410.01276/){:target="_blank"} available.  
 
-*   Sina Abdollahi, Mohammad Maheri, Sandra Siby, Marios Kogias, Hamed Haddadi, "An Early Experience with Confidential Computing Architecture for On-Device Model Protection", in 8th Workshop on System Software for Trusted Execution [SysTEX](https://systex-workshop.github.io/2025/){:target="_blank"}, Venice, Italy, July 4, 2025. [Paper](https://arxiv.org/abs/2504.08508){:target="_blank"} and [Code](https://github.com/comet-cc/CCA-Evaluation){:target="_blank"} available.  
+*   Sina Abdollahi, Mohammad Maheri, Sandra Siby, Marios Kogias, Hamed Haddadi, "An Early Experience with Confidential Computing Architecture for On-Device Model Protection", in 8th Workshop on System Software for Trusted Execution [SysTEX](https://systex-workshop.github.io/2025/){:target="_blank"}, Venice, Italy, June 30, 2025. [Paper](https://arxiv.org/abs/2504.08508){:target="_blank"} and [Code](https://github.com/comet-cc/CCA-Evaluation){:target="_blank"} available.  
+
+*   Fabio Palmese, Anna Maria Mandalari, Hamed Haddadi, Alessandro Enrico Cesare Redondi, "Intelligent Detection of Non-Essential IoT Traffic on the Home Gateway", in 10th International Workshop on Traffic Measurements for Cybersecurity [WTMC 2025](https://wtmc.info/index.html){:target="_blank"}, Venice, Italy, July 4, 2025. [Paper](https://arxiv.org/abs/2504.18571){:target="_blank"} available.  
 
 *   Niousha Nazemi, Omid Tavallaie, Shuaijun Chen, Anna Maria Mandalari, Kanchana Thilakarathna, Ralph Holz, Hamed Haddadi and Albert Y. Zomaya, "ACCESS-FL: Agile Communication and Computation for Efficient Secure Aggregation in Stable Networks for FLaaS", IEEE International Conference on Web Services  ([ICWS 2025](https://services.conferences.computer.org/2025/icws-2025/){:target="_blank"}), July 7-12, Helsinki, Finland. [Paper](https://arxiv.org/abs/2409.01722){:target="_blank"}
 
