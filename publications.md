@@ -11,7 +11,7 @@ permalink: /publications/
 
 *   Ali Shahin Shamsabadi, Peter Snyder, Ralph Giles, Aurélien Bellet, Hamed Haddadi, "Nebula: Efficient, Private and Accurate Histogram Estimation", in [32nd ACM Conference on Computer and Communications Security (CCS)](https://sigsac.org/ccs/CCS2025/){:target="_blank"}, October 13-17, 2025, Taipei, Taiwan. [Paper](https://arxiv.org/abs/2409.09676){:target="_blank"} available. 
 
-*   Alisha Ukani, Hamed Haddadi, Alex C. Snoeren, Pete Snyder, "Local Frames: Exploiting Inherited Origins to Bypass Content Blockers", in [32nd ACM Conference on Computer and Communications Security (CCS)](https://sigsac.org/ccs/CCS2025/){:target="_blank"}, October 13-17, 2025, Taipei, Taiwan. [Paper](https://arxiv.org/abs/){:target="_blank"} available. 
+*   Alisha Ukani, Hamed Haddadi, Alex C. Snoeren, Pete Snyder, "Local Frames: Exploiting Inherited Origins to Bypass Content Blockers", in [32nd ACM Conference on Computer and Communications Security (CCS)](https://sigsac.org/ccs/CCS2025/){:target="_blank"}, October 13-17, 2025, Taipei, Taiwan. [Paper](https://arxiv.org/abs/2506.00317){:target="_blank"} available. 
 
 
 *   Florian Hantke, Peter Snyder, Hamed Haddadi, Ben Stock, "Web Execution Bundles: Reproducible, Accurate, and Archivable Web Measurements", in [34th USENIX Security Symposium](https://www.usenix.org/conference/usenixsecurity25){:target="_blank"}, August 13–15, 2025, Seattle, WA, USA. [Paper](https://swag.cispa.saarland/papers/hantke2025webrec.pdf){:target="_blank"} available. 
