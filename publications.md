@@ -13,6 +13,8 @@ permalink: /publications/
 
 *   Alisha Ukani, Hamed Haddadi, Alex C. Snoeren, Pete Snyder, "Local Frames: Exploiting Inherited Origins to Bypass Content Blockers", in [32nd ACM Conference on Computer and Communications Security (CCS)](https://sigsac.org/ccs/CCS2025/){:target="_blank"}, October 13-17, 2025, Taipei, Taiwan. [Paper](https://arxiv.org/abs/2506.00317){:target="_blank"} available. 
 
+*   Anil Madhavapeddy, Sam Reynolds, Alec P. Christie, David A. Coomes, Michael W. Dales, Patrick Ferris, Ryan Gibb, Hamed Haddadi, Sadiq Jaffer, Josh Millar, Cyrus Omar, William J. Sutherland, Jon Crowcroft, "Steps towards an Ecology for the Internet", in [sixth decennial Aarhus conference (Aarhus 2025)](https://aarhus2025.org){:target="_blank"}, 18-22 August 2025
+Aarhus, Denmark. [Paper](https://arxiv.org/abs/2506.06469){:target="_blank"} available. 
 
 *   Florian Hantke, Peter Snyder, Hamed Haddadi, Ben Stock, "Web Execution Bundles: Reproducible, Accurate, and Archivable Web Measurements", in [34th USENIX Security Symposium](https://www.usenix.org/conference/usenixsecurity25){:target="_blank"}, August 13–15, 2025, Seattle, WA, USA. [Paper](https://swag.cispa.saarland/papers/hantke2025webrec.pdf){:target="_blank"} available. 
 
