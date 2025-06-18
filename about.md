@@ -4,13 +4,9 @@ title: Hamed Haddadi
 permalink: /about/
 ---
 
-I am the Professor of Human-Centred Systems at the [Department of Computing](https://www.imperial.ac.uk/computing){:target="_blank"} at [Imperial College London](https://www.imperial.ac.uk){:target="_blank"}. I am part of the Networks and Systems Laboratory ([NetSys](https://netsys.doc.ic.ac.uk/){:target="_blank"}) and [Imperial-X (I-X)](https://ix.imperial.ac.uk/){:target="_blank"} where I lead the [Privacy and Security Research Area](https://ix.imperial.ac.uk/research-area/privacy-and-security-for-ai-systems/){:target="_blank"}. I also serve as a Security Science Fellow of the [Institute for Security Science and Technology](https://www.imperial.ac.uk/security-institute/about-us/institute-staff/){:target="_blank"}. In my industrial role, I am the Chief Scientist at [Brave](https://brave.com/index/){:target="_blank"}. 
-
+I am the Professor of Human-Centred Systems at the [Department of Computing](https://www.imperial.ac.uk/computing){:target="_blank"} at [Imperial College London](https://www.imperial.ac.uk){:target="_blank"}. I am part of the Networks and Systems Laboratory ([NetSys](https://netsys.doc.ic.ac.uk/){:target="_blank"}). In my industrial role, I am the Chief Scientist at [Brave](https://brave.com/index/){:target="_blank"}. 
 
 [Contact](https://www.imperial.ac.uk/people/h.haddadi){:target="_blank"}, [Bio](bio.txt){:target="_blank"}, [Code](https://github.com/haddadi){:target="_blank"}
-
-
-My research interests are in User-Centred Systems, IoT, Applied Machine Learning, Privacy, and [Human-Data Interaction](http://hdiresearch.org){:target="_blank"}. I am a Core member of the [Machine Learning Initiative at Imperial](https://www.imperial.ac.uk/machine-learning/){:target="_blank"}, an Academic Fellow of the [Data Science Institute](https://www.imperial.ac.uk/data-science/){:target="_blank"} and an Associate member of the [Academic Centre of Excellence in Cyber Security Research](https://www.imperial.ac.uk/cyber-security/){:target="_blank"}.
 
 I am keen to hear from strong students interested in doing their masters project or PhD research with me, or postdoctoral fellows interested in being hosted at Imperial College London. Please get in touch! Unfortunately I am unable to host summer interns other than through [Imperial College UROP scheme](https://www.imperial.ac.uk/urop/){:target="_blank"}.
 
@@ -60,8 +56,6 @@ MISC: My Erdos Number is 3: Hamed Haddadi > Andrew G. Thomason -> Fan Chung -> P
 [h.haddadi@imperial.ac.uk](mailto:h.haddadi@imperial.ac.uk)
 
 
-<p align="center">
-<a href="https://ix.imperial.ac.uk"><img src="https://ix.imperial.ac.uk/wp-content/uploads/sites/9/2021/12/logo-300x300.png" width="200"/>
 <p align="center">
 <a href="https://netsys.doc.ic.ac.uk/"><img src="https://github.com/haddadi/haddadi.github.io/blob/master/images/NetSys%20social%20logo%203.png?raw=true" width="200"/>
 <p align="center">
