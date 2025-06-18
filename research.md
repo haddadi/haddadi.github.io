@@ -6,7 +6,7 @@ permalink: /research/
 
 (Better strategy [1](http://www.cs.virginia.edu/%7Erobins/YouAndYourResearch.html), [2](http://www.cl.cam.ac.uk/%7Ejac22/zen-lab.txt) & [3](http://greatresearch.org/))
 
-For project details, please visit the [Imperial-X](https://ix.imperial.ac.uk/){:target="_blank"} and the Networks and Systems Laboratory ([NetSys](https://netsys.doc.ic.ac.uk/){:target="_blank"} ) pages.
+For project details, please visit the Networks and Systems Laboratory ([NetSys](https://netsys.doc.ic.ac.uk/){:target="_blank"} ) pages.
 
 <a href="https://netsys.doc.ic.ac.uk/"><img src="https://github.com/haddadi/haddadi.github.io/blob/master/images/NetSys%20social%20logo%203.png?raw=true" width="200"/>
 
