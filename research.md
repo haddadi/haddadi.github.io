@@ -38,8 +38,6 @@ For project details, please visit the Networks and Systems Laboratory ([NetSys](
 *   [Sina Abdollahi](https://www.imperial.ac.uk/people/s.abdollahi22){:target="_blank"} (Trusted Edge Computing, funded by Amazon Research Award and the [Department of Computing Scholarship](https://www.imperial.ac.uk/computing/prospective-students/courses/phd/scholarships/){:target="_blank"}).  
   
 *   [Mohamad Maheri](https://www.imperial.ac.uk/people/m.maheri23){:target="_blank"} (Trusted Machine Learning, funded by the [Department of Computing Scholarship](https://www.imperial.ac.uk/computing/prospective-students/courses/phd/scholarships/){:target="_blank"}). 
-    
-*   [Yushan Huang](https://yushan-huang.github.io/){:target="_blank"} (Machine Learning systems, funded by CSC Scholarship).
 
 *   [Mengjia Niu](https://www.imperial.ac.uk/people/m.niu21){:target="_blank"} (IoT and HDI, funded by [CSC Imperial Scholarship](https://www.imperial.ac.uk/study/pg/fees-and-funding/scholarships/international-scholarship-collaborations/csc/)). 
   
@@ -89,6 +87,8 @@ I am interested in hearing from potential PhD students in my areas of research i
 *   Self-Organising Collegiate Sensor Networks (MSc student, [DTI SECOAS Project](http://www.lancaster.ac.uk/staff/marshai2/secoas/secoas.htm))
 
 ## Past Visitors/Staff/Students
+
+Dr [Yushan Huang](https://yushan-huang.github.io/){:target="_blank"} (On-device Machine Learning systems, funded by CSC Scholarship).
 
 Dr [Xavier Cadet](https://www.imperial.ac.uk/people/xavier.cadet17){:target="_blank"} (Artificial Intelligence for Health, funded by [UKRI CDT in AI for Healthcare](https://ai4health.io/){:target="_blank"}) 
 
