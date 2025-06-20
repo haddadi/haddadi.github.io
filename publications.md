@@ -9,6 +9,9 @@ permalink: /publications/
 
 ### 2025:  
 
+
+*   Josh Millar, Yushan Huang, Sarab Sethi, Hamed Haddadi, Anil Madhavapeddy, "Benchmarking Ultra-Low-Power $\Mu$ NPUs”, in The 31st ACM Annual International Conference On Mobile Computing And Networking ([MobiCom 25](https://www.sigmobile.org/mobicom/2025/){:target="_blank"}), Nov. 4-8, 2025, Hong Kong, China. [Paper](https://arxiv.org/abs/2503.22567){:target="_blank"} available on ArXiv. 
+
 *   Ali Shahin Shamsabadi, Peter Snyder, Ralph Giles, Aurélien Bellet, Hamed Haddadi, "Nebula: Efficient, Private and Accurate Histogram Estimation", in [32nd ACM Conference on Computer and Communications Security (CCS)](https://sigsac.org/ccs/CCS2025/){:target="_blank"}, October 13-17, 2025, Taipei, Taiwan. [Paper](https://arxiv.org/abs/2409.09676){:target="_blank"} available. 
 
 *   Alisha Ukani, Hamed Haddadi, Alex C. Snoeren, Pete Snyder, "Local Frames: Exploiting Inherited Origins to Bypass Content Blockers", in [32nd ACM Conference on Computer and Communications Security (CCS)](https://sigsac.org/ccs/CCS2025/){:target="_blank"}, October 13-17, 2025, Taipei, Taiwan. [Paper](https://arxiv.org/abs/2506.00317){:target="_blank"} available. 
