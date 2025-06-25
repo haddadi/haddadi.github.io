@@ -21,7 +21,7 @@ Aarhus, Denmark. [Paper](https://arxiv.org/abs/2506.06469){:target="_blank"} ava
 
 *   Florian Hantke, Peter Snyder, Hamed Haddadi, Ben Stock, "Web Execution Bundles: Reproducible, Accurate, and Archivable Web Measurements", in [34th USENIX Security Symposium](https://www.usenix.org/conference/usenixsecurity25){:target="_blank"}, August 13–15, 2025, Seattle, WA, USA. [Paper](https://swag.cispa.saarland/papers/hantke2025webrec.pdf){:target="_blank"} available. 
 
-*   Mohammadmahdi Maheri, Hamed Haddadi, Alex Davidson, "TeleSparse: Practical Privacy-Preserving Verification of Deep Neural Networks", in 25th Privacy Enhancing Technologies Symposium ([PETS 2025](https://petsymposium.org/){:target="_blank"}), July 14–19, 2025, Washington, DC and Online. [Paper](https://arxiv.org/abs/2504.19274){:target="_blank"} available.  
+*   Mohammadmahdi Maheri, Hamed Haddadi, Alex Davidson, "TeleSparse: Practical Privacy-Preserving Verification of Deep Neural Networks", in 25th Privacy Enhancing Technologies Symposium ([PETS 2025](https://petsymposium.org/){:target="_blank"}), July 14–19, 2025, Washington, DC and Online. [Paper](https://arxiv.org/abs/2504.19274){:target="_blank"} and [Code](https://github.com/mammadmaheri7/TeleSparseRepo){:target="_blank"} available.  
 
 *   Jiahui HE, Pete Snyder, Hamed Haddadi, Fabian E. Bustamante, Gareth Tyson, "Measuring the Accuracy and Effectiveness of PII Removal Services", in 25th Privacy Enhancing Technologies Symposium [PETS 2025](https://petsymposium.org/){:target="_blank"}, July 14–19, 2025, Washington, DC and Online. [Paper](https://arxiv.org/abs/2505.06989){:target="_blank"} available.  
 
