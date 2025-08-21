@@ -10,6 +10,10 @@ permalink: /publications/
 ### 2025:  
 
 
+*   Ziqi Zhang, Ali Shahin Shamsabadi, Hanxiao Lu, Yifeng Cai, Hamed Haddadi, "Membership and Memorization in LLM Knowledge Distillation", in [The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP)](https://2025.emnlp.org){:target="_blank"}, November 5–9 2025, Suzhou, China. [Paper](https://arxiv.org/abs/2508.07054){:target="_blank"} available.
+
+*   Hongyan Chang, Ali Shahin Shamsabadi, Kleomenis Katevas, Hamed Haddadi, Reza Shokri, "Context-Aware Membership Inference Attacks against Pre-trained Large Language Models", in [The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP)](https://2025.emnlp.org){:target="_blank"}, November 5–9 2025, Suzhou, China. [Paper](https://arxiv.org/abs/2409.13745){:target="_blank"} available. 
+
 *   Josh Millar, Yushan Huang, Sarab Sethi, Hamed Haddadi, Anil Madhavapeddy, "Benchmarking Ultra-Low-Power μ NPUs”, in The 31st ACM Annual International Conference On Mobile Computing And Networking ([MobiCom 25](https://www.sigmobile.org/mobicom/2025/){:target="_blank"}), Nov. 4-8, 2025, Hong Kong, China. [Paper](https://arxiv.org/abs/2503.22567){:target="_blank"} available on ArXiv. 
 
 *   Ali Shahin Shamsabadi, Peter Snyder, Ralph Giles, Aurélien Bellet, Hamed Haddadi, "Nebula: Efficient, Private and Accurate Histogram Estimation", in [32nd ACM Conference on Computer and Communications Security (CCS)](https://sigsac.org/ccs/CCS2025/){:target="_blank"}, October 13-17, 2025, Taipei, Taiwan. [Paper](https://arxiv.org/abs/2409.09676){:target="_blank"} available. 
