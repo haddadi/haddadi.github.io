@@ -9,8 +9,11 @@ permalink: /publications/
 
 ### 2025:  
 
+*   Gefei Tan, Ali Shahin Shamsabadi, Ellen Kolesnikova, Hamed Haddadi, Xiao Wang, "Pin the Tail on the Model: Blindfolded Repair of User-Flagged Failures in Text-to-Image Services", in [The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS)](https://neurips.cc){:target="_blank"}, December 2–7 2025, San Diego, USA. [Paper](https://){:target="_blank"} available. 
 
-*   Mengjia Niu, Hamed Haddadi, Guansong Pang "Robust Hallucination Detection in LLMs via Adaptive Token Selection", in [The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS)](https://neurips.cc){:target="_blank"}, December 2–7 2025, San Diego, USA. [Paper](https://arxiv.org/abs/2504.07863){:target="_blank"} available.
+*   Olive Franzese, Ali Shahin Shamsabadi, Carter Luck, Hamed Haddadi, "Secure and Confidential Certificates of Online Fairness", in [The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS)](https://neurips.cc){:target="_blank"}, December 2–7 2025, San Diego, USA. [Paper](https://arxiv.org/abs/2504.07863){:target="_blank"} available.
+ 
+*   Mengjia Niu, Hamed Haddadi, Guansong Pang, "Robust Hallucination Detection in LLMs via Adaptive Token Selection", in [The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS)](https://neurips.cc){:target="_blank"}, December 2–7 2025, San Diego, USA. [Paper](https://arxiv.org/abs/2504.07863){:target="_blank"} available.
 
 *   Ziqi Zhang, Ali Shahin Shamsabadi, Hanxiao Lu, Yifeng Cai, Hamed Haddadi, "Membership and Memorization in LLM Knowledge Distillation", in [The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP)](https://2025.emnlp.org){:target="_blank"}, November 5–9 2025, Suzhou, China. [Paper](https://arxiv.org/abs/2508.07054){:target="_blank"} available.
 
