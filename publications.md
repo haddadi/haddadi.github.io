@@ -15,7 +15,7 @@ permalink: /publications/
  
 *   Mengjia Niu, Hamed Haddadi, Guansong Pang, "Robust Hallucination Detection in LLMs via Adaptive Token Selection", in [The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS)](https://neurips.cc){:target="_blank"}, December 2–7 2025, San Diego, USA. [Paper](https://arxiv.org/abs/2504.07863){:target="_blank"} available.
 
-*   Mohammad Mahdi Maheri, Denys Herasymuk, Hamed Haddadi, "Client Clustering Meets Knowledge Sharing: Enhancing Privacy and Robustness in Personalized Peer-to-Peer Learning", in [IEEE Annual Congress on Artificial Intelligence of Things (AIoT 2025)](https://www.ieee-aiot.org){:target="_blank"}, 3-5 Dec 2025, Osaka, Japan. [Paper](https://arxiv.org/abs/2506.20413){:target="_blank"} available. 
+*   Mohammad Mahdi Maheri, Denys Herasymuk, Hamed Haddadi, "Client Clustering Meets Knowledge Sharing: Enhancing Privacy and Robustness in Personalized Peer-to-Peer Learning", in [IEEE Annual Congress on Artificial Intelligence of Things (AIoT 2025)](https://www.ieee-aiot.org/2025/){:target="_blank"}, 3-5 Dec 2025, Osaka, Japan. [Paper](https://arxiv.org/abs/2506.20413){:target="_blank"} available. 
 
 *   Ziqi Zhang, Ali Shahin Shamsabadi, Hanxiao Lu, Yifeng Cai, Hamed Haddadi, "Membership and Memorization in LLM Knowledge Distillation", in [The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP)](https://2025.emnlp.org){:target="_blank"}, November 5–9 2025, Suzhou, China. [Paper](https://arxiv.org/abs/2508.07054){:target="_blank"} available.
 
