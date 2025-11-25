@@ -7,9 +7,14 @@ permalink: /publications/
 ## [GitHub code](https://github.com/haddadi/){:target="_blank"}
 
 
+### 2026:  
+
+*   Huichi Zhou, Kin-Hei Lee, Zhonghao Zhan, Yue Chen, Zhenhao Li, Zhaoyang Wang, Hamed Haddadi, Emine Yilmaz, "TrustRAG: Enhancing Robustness and Trustworthiness in Retrieval-Augmented Generation", in AAAI 2026 Workshop on Trust and Control in Agentic AI [(TrustAgent)](https://trustagenticai.github.io/AAAI2026/){:target="_blank"}, January 27, 2026, Singapore. [Paper](https://arxiv.org/abs/2501.00879){:target="_blank"} available. 
+
+
 ### 2025:  
 
-*   Gefei Tan, Ali Shahin Shamsabadi, Ellen Kolesnikova, Hamed Haddadi, Xiao Wang, "Pin the Tail on the Model: Blindfolded Repair of User-Flagged Failures in Text-to-Image Services", in [The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS)](https://neurips.cc){:target="_blank"}, December 2–7 2025, San Diego, USA. [Paper](https://){:target="_blank"} available. 
+*   Gefei Tan, Ali Shahin Shamsabadi, Ellen Kolesnikova, Hamed Haddadi, Xiao Wang, "Pin the Tail on the Model: Blindfolded Repair of User-Flagged Failures in Text-to-Image Services", in [The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS)](https://neurips.cc){:target="_blank"}, December 2–7 2025, San Diego, USA. [Paper](https://openreview.net/forum?id=lg2rP98oTf){:target="_blank"} available. 
 
 *   Olive Franzese, Ali Shahin Shamsabadi, Carter Luck, Hamed Haddadi, "Secure and Confidential Certificates of Online Fairness", in [The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS)](https://neurips.cc){:target="_blank"}, December 2–7 2025, San Diego, USA. [Paper](https://arxiv.org/abs/2504.07863){:target="_blank"} available.
  
