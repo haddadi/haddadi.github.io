@@ -16,7 +16,7 @@ permalink: /publications/
 
 *   Gefei Tan, Ali Shahin Shamsabadi, Ellen Kolesnikova, Hamed Haddadi, Xiao Wang, "Pin the Tail on the Model: Blindfolded Repair of User-Flagged Failures in Text-to-Image Services", in [The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS)](https://neurips.cc){:target="_blank"}, December 2–7 2025, San Diego, USA. [Paper](https://openreview.net/forum?id=lg2rP98oTf){:target="_blank"} available. 
 
-*   Olive Franzese, Ali Shahin Shamsabadi, Carter Luck, Hamed Haddadi, "Secure and Confidential Certificates of Online Fairness", in [The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS)](https://neurips.cc){:target="_blank"}, December 2–7 2025, San Diego, USA. [Paper](https://arxiv.org/abs/2504.07863){:target="_blank"} available.
+*   Olive Franzese, Ali Shahin Shamsabadi, Carter Luck, Hamed Haddadi, "Secure and Confidential Certificates of Online Fairness", in [The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS)](https://neurips.cc){:target="_blank"}, December 2–7 2025, San Diego, USA. [Paper](https://arxiv.org/abs/2410.02777){:target="_blank"} available.
  
 *   Mengjia Niu, Hamed Haddadi, Guansong Pang, "Robust Hallucination Detection in LLMs via Adaptive Token Selection", in [The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS)](https://neurips.cc){:target="_blank"}, December 2–7 2025, San Diego, USA. [Paper](https://arxiv.org/abs/2504.07863){:target="_blank"} available.
 
