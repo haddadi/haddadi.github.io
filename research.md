@@ -13,13 +13,14 @@ For project details, please visit the Networks and Systems Laboratory ([NetSys](
   
 ## Current Projects and Grants
   
+*   UK  Advanced Research + Invention Agency [ARIA](https://www.aria.org.uk/){:target="_blank"} Trust Everything Everywhere Opportunity Space grants "AgentMatrix: Towards Automated Benchmarking and Securing of AI Agent Interactions", 2026 
 
 *   UK [AISI](https://www.aisi.gov.uk){:target="_blank"} Systemic AI Safety grants "C3Infer: A Framework for Compartmentalized, Confidential, and Certified AI Inference ", £200k, 2025-2026 
 
 *   EPSRC [Open Plus Fellowship](https://epsrc.ukri.org/skills/fellows/){:target="_blank"} ([EP/W005271/1: Securing the Next Billion Consumer Devices on the Edge](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/W005271/1){:target="_blank"}, £1,5m, 2022-2027)
 *   EU [CHIST-ERA](https://www.chistera.eu/projects/graphs4sec){:target="_blank"} ([GNNs for Network Security (and Privacy) GRAPHS4SEC](https://chistera.eu/projects/graphs4sec){:target="_blank"}, €1,2m, 2024-2027)
 *   UKRI AI Centre for Doctoral Training in Digital Healthcare ([AI4Health](https://ai4health.io/){:target="_blank"}), ([EP/Y030974/1](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/Y030974/1){:target="_blank"}, £9.2M,  September 2024- March 2033)  
-*   [SPRITE+2 HUB](https://spritehub.org/){:target="_blank"}, The Security, Privacy, Identity and Trust Engagement Networkplus (phase 2): EPSRC Network Plus grant ([EP/W020408/1](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/W020408/1){:target="_blank"}, £2,652,185 , September 2023- August 2027)  
+
 
 
 ## Current Research Staff
@@ -45,7 +46,8 @@ For project details, please visit the Networks and Systems Laboratory ([NetSys](
 I am interested in hearing from potential PhD students in my areas of research interests. If you have interesting ideas and wish to discuss funding opportunities for next year, please send me an [email](mailto:h.haddadi@imperial.ac.uk) (no attachments please!)
 
 ## Past Projects/Grants
-
+*   [SPRITE+2 HUB](https://spritehub.org/){:target="_blank"}, The Security, Privacy, Identity and Trust Engagement Networkplus (phase 2): EPSRC Network Plus grant ([EP/W020408/1](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/W020408/1){:target="_blank"}, £2,652,185 , September 2023- August 2027)
+*   
 *   [Amazon Research Awared 2022-2023, "Auditable Model Privacy using TEEs"](https://www.amazon.science/research-awards/recipients/hamed-haddadi-fall-2021){:target="_blank"} 
 *   [InnovateUK Cyber Security Academic Startup Accelerator Programme (CyberASAP) grant](https://ktn-uk.org/news/cyber-security-academic-startup-accelerator-programme-cyberasap-reveals-2022-23-cohort/), supporting our efforts to accelerate IoT Security via [IoTrim](https://iotrim.github.io){:target="_blank"}
 
