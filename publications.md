@@ -9,6 +9,8 @@ permalink: /publications/
 
 ### 2026:  
 
+*   Mohammad mahdi Maheri, Xavier Cadet, Peter Chin, Hamed Haddadi, "WARP: Weight Teleportation for Attack-Resilient Unlearning Protocols", in [The Fourteenth International Conference on Learning Representations (ICLR 2026)](https://iclr.cc/Conferences/2026){:target="_blank"}, April 23-27, 2026, Rio de Janeiro, Brazil. [Paper](https://arxiv.org/abs/2512.00272){:target="_blank"} available. 
+
 *   Huichi Zhou, Kin-Hei Lee, Zhonghao Zhan, Yue Chen, Zhenhao Li, Zhaoyang Wang, Hamed Haddadi, Emine Yilmaz, "TrustRAG: Enhancing Robustness and Trustworthiness in Retrieval-Augmented Generation", in AAAI 2026 Workshop on Trust and Control in Agentic AI [(TrustAgent)](https://trustagenticai.github.io/AAAI2026/){:target="_blank"}, January 27, 2026, Singapore. [Paper](https://arxiv.org/abs/2501.00879){:target="_blank"} available. 
 
 
