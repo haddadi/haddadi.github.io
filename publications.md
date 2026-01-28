@@ -11,7 +11,7 @@ permalink: /publications/
 
 *   Mohammad M Maheri, Sunil Cotterill, Alex Davidson, Hamed Haddadi "ZK-APEX: Zero-Knowledge Approximate Personalized Unlearning with Executable Proofs", in [Ninth Annual Conference on Machine Learning and Systems (MLSys 2026)](https://mlsys.org/Conferences/2026){:target="_blank"}, May 17th - 22nd, 2026, Bellevue, WA, USA. [Paper](https://arxiv.org/abs/2512.09953){:target="_blank"} available.
 
-*   Mohammad mahdi Maheri, Xavier Cadet, Peter Chin, Hamed Haddadi, "WARP: Weight Teleportation for Attack-Resilient Unlearning Protocols", in [The Fourteenth International Conference on Learning Representations (ICLR 2026)](https://iclr.cc/Conferences/2026){:target="_blank"}, April 23-27, 2026, Rio de Janeiro, Brazil. [Paper](https://arxiv.org/abs/2512.00272){:target="_blank"} available. 
+*   Mohammad M Maheri, Xavier Cadet, Peter Chin, Hamed Haddadi, "WARP: Weight Teleportation for Attack-Resilient Unlearning Protocols", in [The Fourteenth International Conference on Learning Representations (ICLR 2026)](https://iclr.cc/Conferences/2026){:target="_blank"}, April 23-27, 2026, Rio de Janeiro, Brazil. [Paper](https://arxiv.org/abs/2512.00272){:target="_blank"} available. 
 
 *   Huichi Zhou, Kin-Hei Lee, Zhonghao Zhan, Yue Chen, Zhenhao Li, Zhaoyang Wang, Hamed Haddadi, Emine Yilmaz, "TrustRAG: Enhancing Robustness and Trustworthiness in Retrieval-Augmented Generation", in AAAI 2026 Workshop on Trust and Control in Agentic AI [(TrustAgent)](https://trustagenticai.github.io/AAAI2026/){:target="_blank"}, January 27, 2026, Singapore. [Paper](https://arxiv.org/abs/2501.00879){:target="_blank"} available. 
 
@@ -41,7 +41,7 @@ Aarhus, Denmark. [Paper](https://arxiv.org/abs/2506.06469){:target="_blank"} ava
 
 *   Florian Hantke, Peter Snyder, Hamed Haddadi, Ben Stock, "Web Execution Bundles: Reproducible, Accurate, and Archivable Web Measurements", in [34th USENIX Security Symposium](https://www.usenix.org/conference/usenixsecurity25){:target="_blank"}, August 13–15, 2025, Seattle, WA, USA. [Paper](https://swag.cispa.saarland/papers/hantke2025webrec.pdf){:target="_blank"} available. 
 
-*   Mohammadmahdi Maheri, Hamed Haddadi, Alex Davidson, "TeleSparse: Practical Privacy-Preserving Verification of Deep Neural Networks", in 25th Privacy Enhancing Technologies Symposium ([PETS 2025](https://petsymposium.org/){:target="_blank"}), July 14–19, 2025, Washington, DC and Online. [Paper](https://arxiv.org/abs/2504.19274){:target="_blank"} and [Code](https://github.com/mammadmaheri7/TeleSparseRepo){:target="_blank"} available.  
+*   Mohammad M Maheri, Hamed Haddadi, Alex Davidson, "TeleSparse: Practical Privacy-Preserving Verification of Deep Neural Networks", in 25th Privacy Enhancing Technologies Symposium ([PETS 2025](https://petsymposium.org/){:target="_blank"}), July 14–19, 2025, Washington, DC and Online. [Paper](https://arxiv.org/abs/2504.19274){:target="_blank"} and [Code](https://github.com/mammadmaheri7/TeleSparseRepo){:target="_blank"} available.  
 
 *   Jiahui HE, Pete Snyder, Hamed Haddadi, Fabian E. Bustamante, Gareth Tyson, "Measuring the Accuracy and Effectiveness of PII Removal Services", in 25th Privacy Enhancing Technologies Symposium [PETS 2025](https://petsymposium.org/){:target="_blank"}, July 14–19, 2025, Washington, DC and Online. [Paper](https://arxiv.org/abs/2505.06989){:target="_blank"} available.  
 
