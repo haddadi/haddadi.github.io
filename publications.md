@@ -9,6 +9,9 @@ permalink: /publications/
 
 ### 2026:  
 
+
+*   Josh Millar, Ashok Samraj Thangarajan, Soumyajit Chatterjee, Hamed Haddadi "PhysioLite: Towards Real-Time Physiological Monitoring on Constrained Wearable μNPUs", in [ACM/IEEE International Conference on Embedded Artificial Intelligence and Sensing Systems (SenSys 2026)](https://sensys.acm.org/2026/){:target="_blank"}, May 11-14, 2026 Saint-Malo, France. [Paper](https://arxiv.org/abs/){:target="_blank"} available.
+
 *   Mohammad M Maheri, Sunil Cotterill, Alex Davidson, Hamed Haddadi "ZK-APEX: Zero-Knowledge Approximate Personalized Unlearning with Executable Proofs", in [Ninth Annual Conference on Machine Learning and Systems (MLSys 2026)](https://mlsys.org/Conferences/2026){:target="_blank"}, May 17th - 22nd, 2026, Bellevue, WA, USA. [Paper](https://arxiv.org/abs/2512.09953){:target="_blank"} available.
 
 *   Mohammad M Maheri, Xavier Cadet, Peter Chin, Hamed Haddadi, "WARP: Weight Teleportation for Attack-Resilient Unlearning Protocols", in [The Fourteenth International Conference on Learning Representations (ICLR 2026)](https://iclr.cc/Conferences/2026){:target="_blank"}, April 23-27, 2026, Rio de Janeiro, Brazil. [Paper](https://arxiv.org/abs/2512.00272){:target="_blank"} available. 
