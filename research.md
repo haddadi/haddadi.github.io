@@ -45,8 +45,7 @@ For project details, please visit the Networks and Systems Laboratory ([NetSys](
 I am interested in hearing from potential PhD students in my areas of research interests. If you have interesting ideas and wish to discuss funding opportunities for next year, please send me an [email](mailto:h.haddadi@imperial.ac.uk) (no attachments please!)
 
 ## Past Projects/Grants
-*   [SPRITE+2 HUB](https://spritehub.org/){:target="_blank"}, The Security, Privacy, Identity and Trust Engagement Networkplus (phase 2): EPSRC Network Plus grant ([EP/W020408/1](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/W020408/1){:target="_blank"}, £2,652,185 , September 2023- August 2027)
-*   
+*   [SPRITE+2 HUB](https://spritehub.org/){:target="_blank"}, The Security, Privacy, Identity and Trust Engagement Networkplus (phase 2): EPSRC Network Plus grant ([EP/W020408/1](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/W020408/1){:target="_blank"}, £2,652,185 , September 2023- August 2027) 
 *   [Amazon Research Awared 2022-2023, "Auditable Model Privacy using TEEs"](https://www.amazon.science/research-awards/recipients/hamed-haddadi-fall-2021){:target="_blank"} 
 *   [InnovateUK Cyber Security Academic Startup Accelerator Programme (CyberASAP) grant](https://ktn-uk.org/news/cyber-security-academic-startup-accelerator-programme-cyberasap-reveals-2022-23-cohort/), supporting our efforts to accelerate IoT Security via [IoTrim](https://iotrim.github.io){:target="_blank"}
 
