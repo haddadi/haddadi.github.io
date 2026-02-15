@@ -13,6 +13,7 @@ For project details, please visit the Networks and Systems Laboratory ([NetSys](
   
 ## Current Projects and Grants
   
+*   Marie Skłodowska-Curie Actions (MSCA), "Advanced User-centric, Trustworthy and Privacy-preserving AI-powered Search Engine", (€276K, 2026-2028) 
 *   UK  Advanced Research + Invention Agency [ARIA](https://www.aria.org.uk/){:target="_blank"} [Trust Everything Everywhere](https://www.aria.org.uk/programme-development-scaling-trust/){:target="_blank"} Opportunity Space grants "AgentMatrix: Towards Automated Benchmarking and Securing of AI Agent Interactions", 2026 
 
 *   UK [AISI](https://www.aisi.gov.uk){:target="_blank"} Systemic AI Safety grants "C3Infer: A Framework for Compartmentalized, Confidential, and Certified AI Inference ", £200k, 2025-2026 
