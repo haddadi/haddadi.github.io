@@ -10,6 +10,8 @@ permalink: /publications/
 ### 2026:  
 
 
+*   Javad Forough, Hamed Haddadi "Dynamic Probabilistic Noise Injection for Membership Inference Defense", in [The 26th Privacy Enhancing Technologies Symposium (PETS 2026)](https://petsymposium.org/2026/){:target="_blank"}, July 20–25, 2026, Calgary, Canada. [Paper](https://arxiv.org/abs/2505.13362){:target="_blank"} available.
+
 *   Josh Millar, Ashok Samraj Thangarajan, Soumyajit Chatterjee, Hamed Haddadi "PhysioLite: Towards Real-Time Physiological Monitoring on Constrained Wearable μNPUs", in [ACM/IEEE International Conference on Embedded Artificial Intelligence and Sensing Systems (SenSys 2026)](https://sensys.acm.org/2026/){:target="_blank"}, May 11-14, 2026 Saint-Malo, France. [Paper](https://arxiv.org/abs/){:target="_blank"} available.
 
 *   Mohammad M Maheri, Sunil Cotterill, Alex Davidson, Hamed Haddadi, "ZK-APEX: Zero-Knowledge Approximate Personalized Unlearning with Executable Proofs", in [Ninth Annual Conference on Machine Learning and Systems (MLSys 2026)](https://mlsys.org/Conferences/2026){:target="_blank"}, May 17th - 22nd, 2026, Bellevue, WA, USA. [Paper](https://arxiv.org/abs/2512.09953){:target="_blank"} available.
