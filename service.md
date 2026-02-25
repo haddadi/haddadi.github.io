@@ -5,6 +5,7 @@ permalink: /service/
 ---
 ## Current External affiliations
 * Chief Scientist, [Brave Software](https://brave.com/) (2021-)
+* Co-Founder and Chief Security Office, [Mulini SRL](https://mulini.eu/) (2025-)
 
 ## Current Community Engagements (Program/Organising Committee)
 
@@ -14,18 +15,6 @@ permalink: /service/
 *   The Network and Distributed System Security ([NDSS 2026](https://www.ndss-symposium.org/ndss2026/){:target="_blank"})
 
 *   The 23rd USENIX Symposium on Networked Systems Design and Implementation ([NSDI 2026](https://www.usenix.org/conference/nsdi26/){:target="_blank"})
-
-*   The Second [Manchester Prize](https://manchesterprize.org/judging-panel/){:target="_blank"} 2025
-
-*   The 31st ACM Annual International Conference on Mobile Computing and Networking ([ACM MobiCom 2025](https://sigmobile.org/mobicom/2025/){:target="_blank"}) 
-
-*   The 32nd ACM Conference on Computer and Communications Security ([ACM CCS 2025](https://https://www.sigsac.org/ccs/CCS2025/){:target="_blank"}) 
-
-*   The 34th USENIX Security Symposium ([USENIX Security 2025](https://www.usenix.org/conference/usenixsecurity25/){:target="_blank"})
-
-*   The 10th IEEE European Symposium on Security and Privacy ([EURO S&P 2025](https://www.ieee-security.org/TC/EuroSP2025/){:target="_blank"})
-
-*   The 22nd USENIX Symposium on Networked Systems Design and Implementation ([NSDI 2025](https://www.usenix.org/conference/nsdi25/){:target="_blank"})
 
 
 ## Consultancy
@@ -53,7 +42,8 @@ IEEE Signal Processing Magazine, ACM Transactions on the Web (TWEB), ACM SIGCOMM
 
 ## Teaching
 
-2018-2020: Imperial College Sensing & IoT (UG)  
+2021-2026: Imperial College, Internet of Things and Applications (IX MSc)
+2018-2020: Imperial College, Sensing & IoT (UG)  
 2015-2017: QMUL Digital Media and Social Networks (PG-UG)  
 2015-2017: QMUL 21st Century Networks with Steve Uhlig  
 2013-2014: QMUL Digital Media and Social Networks (PG-UG)  
@@ -68,66 +58,6 @@ Cambridge University Computer Laboratory on MPhil course with Jon Crowcroft, Net
 
 I am also a Fellow of the [Higher Education Academy](https://www.heacademy.ac.uk/).
 
-## PhD examination
-
-Dominika Woszczyk, Imperial College London, December 2024   
-Yanke Sun, UCL EEE, October 2024   
-Reza Nasirigerdeh, Technische Universität München, July 2024        
-Mohammad Naseri, UCL CS, July 2024         
-Kaihua Qin, Imperial College London, January 2024              
-Abhishek Mishra, INRIA Saclay, October 2023       
-Afroditi Papadaki, UCL EEE, October 2023      
-Sina Sajadmanesh, EPFL, August 2023    
-Ismael Castell Uroz, Universitat Politècnica de Catalunya, July 2023   
-Pelayo vallina Rodríguez , IMDEA Networks Institute, January 2023  
-Julien Gamba, IMDEA Networks Institute, September 2022  
-Jide Edu, Kings College London, June 2022  
-Zahra Tarkhani, University of Cambridge, May 2022   
-Ecenaz Erdemir, Imperial College London, February 2022  
-Brij Mohan Lal Srivastava, Lille university and INRIA Lille, December 2021   
-Michael Andreas Haus, Technical University of Munich, January 2021     
-Mohammed Ayyoob Ahamed Hamza, UNSW Sydney, November 2020    
-Anders Tungeland Gjerdrum, UiT The Arctic University of Norway, November 2020       
-Yifan Du, INRIA, France, July 2020                          
-Liuqing Chen, Imperial College London, January 2020    
-William Wilkinson, Queen Mary University London, September 2019  
-Athanasios Andreou, EURECOM & UPMC, June 2019    
-Costas Iordanou, Technische Universität Berlin, February 2019    
-Feng She, Imperial College London, October 2018  
-Luca Melis, UCL, July 2018   
-Luca Vassio, Politecnico di Torino, March 2018     
-Yang Liu, University of Oxford, February 2018     
-Valerio Ciotti, Queen Mary University London, October 2017     
-Gregory Tsipenyuk, University of Cambridge, September 2017  
-Liam Turner, Cardiff University, July 2017  
-Sultan Alanazi, University of Nottingham, May 2017  
-Noradila Nordin, University College London, May 2017  
-Valentin Radu, University of Edinburgh, March 2017  
-Antonio Lima, University of Birmingham, June 2016  
-Dong Wang, Chinese Academy of Sciences(CAS), October 2015  
-Suranga Seneviratne, University of New South Wales/NICTA, August 2015  
-Tulio de Souza, University of Oxford, July 2015  
-Danny Matthews, University of Sussex, December 2014  
-Vasileios Giotsas, UCL, September 2014  
-Jiefeng Chen, The University of New South Wales, April 2014  
-Antonio Davoli, Sapienza University of Rome, November 2013  
-Anastasios Noulas, Computer Laboratory, University of Cambridge, October 2013
-
-## Funding body reviews
-
-Engineering and Physical Sciences Research Council [Peer Review Associate College](https://epsrc.ukri.org/funding/assessmentprocess/college/){:target="_blank"}  
-Swiss National Science Foundation (SNSF)  
-Indo Swiss Joint Research Programme (ISJRP)  
-Natural Sciences and Engineering Research Council of Canada  
-Canada Foundation for Innovation  
-
-## Administration
-
-Director of Postgraduate Studies, Dyson School of Design Engineering, Imperial College London (2018-2022)
-Deputy Director of Research, Dyson School of Design Engineering, Imperial College London (2017-2019)
-Member of admissions team, Dyson School of Design Engineering, Imperial College London (2018-2022)
-
-
 
 ## Randoms:
 
@@ -140,6 +70,19 @@ Former President/Committee member, UCL Electrical Engineering Society ([Fleming]
 This list got too big to be useful, we have too many conferences and workshops (though many of them are pretty good!).
 
 External Reviewer for ACM CSCW2015, IEEE WiMob (2011), IEEE/ACM MASCOTS,ACM SIGCOMM, IEEE INFOCOMM, IEEE/ACM ToN, USENIX NSDI, BCS HCI, ACM IMC, ACM UBICOMP, ACM ISWC  
+
+
+*   The Second [Manchester Prize](https://manchesterprize.org/judging-panel/){:target="_blank"} 2025
+
+*   The 31st ACM Annual International Conference on Mobile Computing and Networking ([ACM MobiCom 2025](https://sigmobile.org/mobicom/2025/){:target="_blank"}) 
+
+*   The 32nd ACM Conference on Computer and Communications Security ([ACM CCS 2025](https://https://www.sigsac.org/ccs/CCS2025/){:target="_blank"}) 
+
+*   The 34th USENIX Security Symposium ([USENIX Security 2025](https://www.usenix.org/conference/usenixsecurity25/){:target="_blank"})
+
+*   The 10th IEEE European Symposium on Security and Privacy ([EURO S&P 2025](https://www.ieee-security.org/TC/EuroSP2025/){:target="_blank"})
+
+*   The 22nd USENIX Symposium on Networked Systems Design and Implementation ([NSDI 2025](https://www.usenix.org/conference/nsdi25/){:target="_blank"})
 
 *   ACM SIGCOMM Internet Measurement Conference 2024 ([IMC 2024](https://conferences.sigcomm.org/imc/2024/){:target="_blank"}) 
 
