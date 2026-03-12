@@ -4,7 +4,7 @@ title: Hamed Haddadi
 permalink: /about/
 ---
 
-I am the Professor of Human-Centred Systems at the [Department of Computing](https://www.imperial.ac.uk/computing){:target="_blank"} at [Imperial College London](https://www.imperial.ac.uk){:target="_blank"}. I am part of the Networks and Systems Laboratory ([NetSys](https://netsys.doc.ic.ac.uk/){:target="_blank"}). In my industrial role, I am the Chief Scientist at [Brave](https://brave.com/index/){:target="_blank"}. 
+I am the Professor of Human-Centred Systems at the [Department of Computing](https://www.imperial.ac.uk/computing){:target="_blank"} at [Imperial College London](https://www.imperial.ac.uk){:target="_blank"}. I am part of the Networks and Systems Laboratory ([NetSys](https://netsys.doc.ic.ac.uk/){:target="_blank"}). In my industrial capacity, I am the Chief Scientific Advisor at [Brave](https://brave.com/){:target="_blank"}. 
 
 [Contact](https://www.imperial.ac.uk/people/h.haddadi){:target="_blank"}, [Bio](bio.txt){:target="_blank"}, [Code](https://github.com/haddadi){:target="_blank"}
 
@@ -21,8 +21,7 @@ We are always keen to support exceptional candidates for the [Imperial College R
 ## Extended Biography
 
 * Aug 2018- Aug 2021, Visiting Professor, [Brave Software](https://brave.com/)
-* July 2019 - Aug 2019: Visitor, [Foundation for Research and Technology - Hellas (FORTH)
-Institute of Computer Science](https://www.ics.forth.gr) 
+* July 2019 - Aug 2019: Visitor, [Foundation for Research and Technology - Hellas (FORTH) Institute of Computer Science](https://www.ics.forth.gr) 
 * Oct 2011 - Oct 2017: Lecturer and Senior Lecturer in Digital Media, [School of Electronic Engineering and Computer Science](http://www.eecs.qmul.ac.uk/), [Queen Mary University of London](http://www.qmul.ac.uk/) 
 * May 2014 - Dec 2015: Research Scientist, [Qatar Computing Research Institute](http://qcri.org/our-research/social-computing)  
 * Summers 2012 & 2013: Visiting researcher, [AT&T Research](http://www.research.att.com/), Floreham Park ([cycle route](http://www.youtube.com/watch?v=o_Tl7gbudaE))  
@@ -36,7 +35,7 @@ Institute of Computer Science](https://www.ics.forth.gr)
 * Summer 2003, UCL EE/BT Research, Sensor Networks Operating System for [Senceive](http://www.senceive.com/)  
 * Summer 2002 and 2001, Sony Europe, Embedded Systems Hardware Group, [ARM](http://www.arm.com/) Compliancy Test-Harness  
 
-I studied for my PhD between Oct 2004-Oct 2008, investigating the [Topological Characteristics of IP Networks](https://haddadi.github.io/papers/thesis.pdf), which I successfully defended on 31st October 2008. My examiners were [George Pavlou](http://www.ee.ucl.ac.uk/%7Egpavlou/) and [Christos Gkantsidis](http://research.microsoft.com/en-us/people/chrisgk/). I carried out my thesis research jointly between two great labs, the [NetOS Group](http://www.cl.cam.ac.uk/research/srg/netos/), Computer Laboratory, Cambridge University (userid: hh318), and Networks and Services Research Laboratory Group, UCL (supervised by: [Miguel Rio](http://www.ee.ucl.ac.uk/%7Emrio/), [Andrew Moore](http://www.cl.cam.ac.uk/%7Eawm22/) , [Richard Mortier](http://mort.io))  
+I studied for my PhD between Oct 2004-Oct 2008, investigating the [Topological Characteristics of IP Networks](https://haddadi.github.io/papers/thesis.pdf), which I successfully defended on 31st October 2008. My examiners were [George Pavlou](http://www.ee.ucl.ac.uk/%7Egpavlou/) and [Christos Gkantsidis](http://research.microsoft.com/en-us/people/chrisgk/). I carried out my thesis research jointly between two great labs, the [NetOS Group](http://www.cl.cam.ac.uk/research/srg/netos/), Computer Laboratory, Cambridge University, and Networks and Services Research Laboratory Group, UCL (supervised by: [Miguel Rio](http://www.ee.ucl.ac.uk/%7Emrio/), [Andrew Moore](http://www.cl.cam.ac.uk/%7Eawm22/) , [Richard Mortier](http://mort.io))  
 
 I was also a scholar at [London Business School](http://www.london.edu/), under the UCL CSEL sponsorship programme, attending MBA electives.  
 
