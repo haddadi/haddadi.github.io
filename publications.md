@@ -9,9 +9,9 @@ permalink: /publications/
 
 ### 2026:  
 
-*   Sina Abdollahi, Amir Al Sadi, Marios Kogias, David Kotz, Hamed Haddadi "CAEC: Confidential, Attestable, and Efficient Inter‑CVM Communication with Arm CCA", in [11th IEEE European Symposium on Security and Privacy (EuroS&P 2026)](https://eurosp2026.ieee-security.org){:target="_blank"}, Lisbon, July 6 - 10, 2026. [Paper](https://arxiv.org/abs/2512.01594){:target="_blank"} available.
-
 *   Javad Forough, Hamed Haddadi "Dynamic Probabilistic Noise Injection for Membership Inference Defense", in [The 26th Privacy Enhancing Technologies Symposium (PETS 2026)](https://petsymposium.org/2026/){:target="_blank"}, July 20–25, 2026, Calgary, Canada. [Paper](https://arxiv.org/abs/2505.13362){:target="_blank"} available.
+   
+*   Sina Abdollahi, Amir Al Sadi, Marios Kogias, David Kotz, Hamed Haddadi "CAEC: Confidential, Attestable, and Efficient Inter‑CVM Communication with Arm CCA", in [11th IEEE European Symposium on Security and Privacy (EuroS&P 2026)](https://eurosp2026.ieee-security.org){:target="_blank"}, Lisbon, July 6 - 10, 2026. [Paper](https://arxiv.org/abs/2512.01594){:target="_blank"} available.
 
 *   Josh Millar, Ashok Samraj Thangarajan, Soumyajit Chatterjee, Hamed Haddadi "PhysioLite: Towards Real-Time Physiological Monitoring on Constrained Wearable μNPUs", in [ACM/IEEE International Conference on Embedded Artificial Intelligence and Sensing Systems (SenSys 2026)](https://sensys.acm.org/2026/){:target="_blank"}, May 11-14, 2026 Saint-Malo, France. [Paper](https://arxiv.org/abs/){:target="_blank"} available.
 
