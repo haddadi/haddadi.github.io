@@ -11,13 +11,19 @@ permalink: /publications/
 
 *   Javad Forough, Hamed Haddadi "Dynamic Probabilistic Noise Injection for Membership Inference Defense", in [The 26th Privacy Enhancing Technologies Symposium (PETS 2026)](https://petsymposium.org/2026/){:target="_blank"}, July 20–25, 2026, Calgary, Canada. [Paper](https://arxiv.org/abs/2505.13362){:target="_blank"} available.
    
-*   Sina Abdollahi, Amir Al Sadi, Marios Kogias, David Kotz, Hamed Haddadi "CAEC: Confidential, Attestable, and Efficient Inter‑CVM Communication with Arm CCA", in [11th IEEE European Symposium on Security and Privacy (EuroS&P 2026)](https://eurosp2026.ieee-security.org){:target="_blank"}, Lisbon, July 6 - 10, 2026. [Paper](https://arxiv.org/abs/2512.01594){:target="_blank"} available.
+*   Sina Abdollahi, Amir Al Sadi, Marios Kogias, David Kotz, Hamed Haddadi, "CAEC: Confidential, Attestable, and Efficient Inter‑CVM Communication with Arm CCA", in [11th IEEE European Symposium on Security and Privacy (EuroS&P 2026)](https://eurosp2026.ieee-security.org){:target="_blank"}, Lisbon, July 6 - 10, 2026. [Paper](https://arxiv.org/abs/2512.01594){:target="_blank"} available.
 
 *   Josh Millar, Ashok Samraj Thangarajan, Soumyajit Chatterjee, Hamed Haddadi "PhysioLite: Towards Real-Time Physiological Monitoring on Constrained Wearable μNPUs", in [ACM/IEEE International Conference on Embedded Artificial Intelligence and Sensing Systems (SenSys 2026)](https://sensys.acm.org/2026/){:target="_blank"}, May 11-14, 2026 Saint-Malo, France. [Paper](https://arxiv.org/abs/){:target="_blank"} available.
 
 *   Mohammad M Maheri, Sunil Cotterill, Alex Davidson, Hamed Haddadi, "ZK-APEX: Zero-Knowledge Approximate Personalized Unlearning with Executable Proofs", in [Ninth Annual Conference on Machine Learning and Systems (MLSys 2026)](https://mlsys.org/Conferences/2026){:target="_blank"}, May 17th - 22nd, 2026, Bellevue, WA, USA. [Paper](https://arxiv.org/abs/2512.09953){:target="_blank"} available.
 
-*   Mohammad M Maheri, Xavier Cadet, Peter Chin, Hamed Haddadi, "WARP: Weight Teleportation for Attack-Resilient Unlearning Protocols", in [The Fourteenth International Conference on Learning Representations (ICLR 2026)](https://iclr.cc/Conferences/2026){:target="_blank"}, April 23-27, 2026, Rio de Janeiro, Brazil. [Paper](https://arxiv.org/abs/2512.00272){:target="_blank"} available. 
+*   Mohammad M Maheri, Xavier Cadet, Peter Chin, Hamed Haddadi, "WARP: Weight Teleportation for Attack-Resilient Unlearning Protocols", in [The Fourteenth International Conference on Learning Representations (ICLR 2026)](https://iclr.cc/Conferences/2026){:target="_blank"}, April 23-27, 2026, Rio de Janeiro, Brazil. [Paper](https://arxiv.org/abs/2512.00272){:target="_blank"} available.
+
+*   Javad Forough, Mohammad M Maheri, Hamed Haddadi, "Towards Graph-Based Detection of Jailbreak and Prompt-Leakage Attacks in LLMs", in [The 6th Workshop on Machine Learning and Systems (EuroMLSys 2026)](https://euromlsys.eu/#){:target="_blank"}, April 27, 2026, Edinburgh, United Kingdom. [Paper](https://arxiv.org/abs/){:target="_blank"} available.
+
+*   Zhonghao Zhan, Krinos Li, Yefan Zhang, Hamed Haddadi, "Systems-Level Attack Surface of Edge Agent Deployments on IoT", in [The 6th Workshop on Machine Learning and Systems (EuroMLSys 2026)](https://euromlsys.eu/#){:target="_blank"}, April 27, 2026, Edinburgh, United Kingdom. [Paper](https://arxiv.org/abs/2602.22525){:target="_blank"} available.
+
+*   Sina Abdollahi, Mohammad M Maheri, Javad Forough, Amir Al Sadi, Josh Millar, David Kotz, Marios Kogias, Hamed Haddadi, "AgenTEE: Confidential LLM Agent Execution on Edge Devices", in [The 6th Workshop on Machine Learning and Systems (EuroMLSys 2026)](https://euromlsys.eu/#){:target="_blank"}, April 27, 2026, Edinburgh, United Kingdom. [Paper](https://arxiv.org/abs/){:target="_blank"} available.
 
 *   Huichi Zhou, Kin-Hei Lee, Zhonghao Zhan, Yue Chen, Zhenhao Li, Zhaoyang Wang, Hamed Haddadi, Emine Yilmaz, "TrustRAG: Enhancing Robustness and Trustworthiness in Retrieval-Augmented Generation", in AAAI 2026 Workshop on Trust and Control in Agentic AI [(TrustAgent)](https://trustagenticai.github.io/AAAI2026/){:target="_blank"}, January 27, 2026, Singapore. [Paper](https://arxiv.org/abs/2501.00879){:target="_blank"} available. 
 
