@@ -13,6 +13,8 @@ permalink: /publications/
    
 *   Sina Abdollahi, Amir Al Sadi, Marios Kogias, David Kotz, Hamed Haddadi, "CAEC: Confidential, Attestable, and Efficient Inter‑CVM Communication with Arm CCA", in [11th IEEE European Symposium on Security and Privacy (EuroS&P 2026)](https://eurosp2026.ieee-security.org){:target="_blank"}, Lisbon, July 6 - 10, 2026. [Paper](https://arxiv.org/abs/2512.01594){:target="_blank"} available.
 
+*   Zhonghao Zhan, Huichi Zhou, Zhenhao Li, Peiyuan Jing, Krinos Li, Hamed Haddadi, "How Adversarial Environments Mislead Agentic AI?", in [The 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026)](https://2026.aclweb.org){:target="_blank"}, San Diego, California, United States, July 2–7, 2026. [Paper](https://openreview.net/forum?id=ZVhwqgyRo0){:target="_blank"} available.
+
 *   Josh Millar, Ashok Samraj Thangarajan, Soumyajit Chatterjee, Hamed Haddadi "PhysioLite: Towards Real-Time Physiological Monitoring on Constrained Wearable μNPUs", in [ACM/IEEE International Conference on Embedded Artificial Intelligence and Sensing Systems (SenSys 2026)](https://sensys.acm.org/2026/){:target="_blank"}, May 11-14, 2026 Saint-Malo, France. [Paper](https://arxiv.org/abs/){:target="_blank"} available.
 
 *   Mohammad M Maheri, Sunil Cotterill, Alex Davidson, Hamed Haddadi, "ZK-APEX: Zero-Knowledge Approximate Personalized Unlearning with Executable Proofs", in [Ninth Annual Conference on Machine Learning and Systems (MLSys 2026)](https://mlsys.org/Conferences/2026){:target="_blank"}, May 17th - 22nd, 2026, Bellevue, WA, USA. [Paper](https://arxiv.org/abs/2512.09953){:target="_blank"} available.
