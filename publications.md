@@ -25,7 +25,7 @@ permalink: /publications/
 
 *   Zhonghao Zhan, Krinos Li, Yefan Zhang, Hamed Haddadi, "Systems-Level Attack Surface of Edge Agent Deployments on IoT", in [The 6th Workshop on Machine Learning and Systems (EuroMLSys 2026)](https://euromlsys.eu/#){:target="_blank"}, April 27, 2026, Edinburgh, United Kingdom. [Paper](https://arxiv.org/abs/2602.22525){:target="_blank"} available.
 
-*   Sina Abdollahi, Mohammad M Maheri, Javad Forough, Amir Al Sadi, Josh Millar, David Kotz, Marios Kogias, Hamed Haddadi, "AgenTEE: Confidential LLM Agent Execution on Edge Devices", in [The 6th Workshop on Machine Learning and Systems (EuroMLSys 2026)](https://euromlsys.eu/#){:target="_blank"}, April 27, 2026, Edinburgh, United Kingdom. [Paper](https://arxiv.org/abs/){:target="_blank"} available.
+*   Sina Abdollahi, Mohammad M Maheri, Javad Forough, Amir Al Sadi, Josh Millar, David Kotz, Marios Kogias, Hamed Haddadi, "AgenTEE: Confidential LLM Agent Execution on Edge Devices", in [The 6th Workshop on Machine Learning and Systems (EuroMLSys 2026)](https://euromlsys.eu/#){:target="_blank"}, April 27, 2026, Edinburgh, United Kingdom. [Paper](https://arxiv.org/abs/2604.18231){:target="_blank"} available.
 
 *   Huichi Zhou, Kin-Hei Lee, Zhonghao Zhan, Yue Chen, Zhenhao Li, Zhaoyang Wang, Hamed Haddadi, Emine Yilmaz, "TrustRAG: Enhancing Robustness and Trustworthiness in Retrieval-Augmented Generation", in AAAI 2026 Workshop on Trust and Control in Agentic AI [(TrustAgent)](https://trustagenticai.github.io/AAAI2026/){:target="_blank"}, January 27, 2026, Singapore. [Paper](https://arxiv.org/abs/2501.00879){:target="_blank"} available. 
 
