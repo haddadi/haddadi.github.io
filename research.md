@@ -14,8 +14,8 @@ For project details, please visit the Networks and Systems Laboratory ([NetSys](
 ## Current Projects and Grants
   
 *   Marie Skłodowska-Curie Actions (MSCA), "Advanced User-centric, Trustworthy and Privacy-preserving AI-powered Search Engine", (€276K, 2026-2028) 
-*   EPSRC [Open Plus Fellowship](https://epsrc.ukri.org/skills/fellows/){:target="_blank"} ([EP/W005271/1: Securing the Next Billion Consumer Devices on the Edge](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/W005271/1){:target="_blank"}, £1,5m, 2022-2027) 
-*   EU [CHIST-ERA](https://www.chistera.eu/projects/graphs4sec){:target="_blank"} ([GNNs for Network Security (and Privacy) GRAPHS4SEC](https://chistera.eu/projects/graphs4sec){:target="_blank"}, €1,2m, 2024-2027) 
+*   EPSRC [Open Plus Fellowship](https://epsrc.ukri.org/skills/fellows/){:target="_blank"} ([EP/W005271/1: Securing the Next Billion Consumer Devices on the Edge](https://gtr.ukri.org/projects?ref=EP%2FW005271%2F1){:target="_blank"}, £1,5m, 2022-2027) 
+*   EU [CHIST-ERA](https://www.chistera.eu/projects/graphs4sec){:target="_blank"} ([GNNs for Network Security (and Privacy) GRAPHS4SEC](https://gtr.ukri.org/projects?ref=EP%2FY036050%2F1){:target="_blank"}, €1,2m, 2024-2027) 
 *   UKRI AI Centre for Doctoral Training in Digital Healthcare ([AI4Health](https://ai4health.io/){:target="_blank"}), ([EP/Y030974/1](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/Y030974/1){:target="_blank"}, £9.2M,  September 2024- March 2033)  
 
 
