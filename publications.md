@@ -13,7 +13,7 @@ permalink: /publications/
    
 *   Sina Abdollahi, Amir Al Sadi, Marios Kogias, David Kotz, Hamed Haddadi, "CAEC: Confidential, Attestable, and Efficient Inter‑CVM Communication with Arm CCA", in [11th IEEE European Symposium on Security and Privacy (EuroS&P 2026)](https://eurosp2026.ieee-security.org){:target="_blank"}, Lisbon, July 6 - 10, 2026. [Paper](https://arxiv.org/abs/2512.01594){:target="_blank"} available.
 
-*   Zhonghao Zhan, Huichi Zhou, Zhenhao Li, Peiyuan Jing, Krinos Li, Hamed Haddadi, "How Adversarial Environments Mislead Agentic AI?", in [The 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026)](https://2026.aclweb.org){:target="_blank"}, San Diego, California, United States, July 2–7, 2026. [Paper](https://openreview.net/forum?id=ZVhwqgyRo0){:target="_blank"} available. [Paper](https://arxiv.org/abs/){:target="_blank"} available.
+*   Zhonghao Zhan, Huichi Zhou, Zhenhao Li, Peiyuan Jing, Krinos Li, Hamed Haddadi, "How Adversarial Environments Mislead Agentic AI?", in [The 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026)](https://2026.aclweb.org){:target="_blank"}, San Diego, California, United States, July 2–7, 2026. [Paper](https://openreview.net/forum?id=ZVhwqgyRo0){:target="_blank"} available. [Paper](https://arxiv.org/abs/2604.18874){:target="_blank"} available.
 
 *   Dzung Pham, Kleomenis Katevas, Ali Shahin Shamsabadi, Hamed Haddadi, "AgentStop: Terminating Local AI Agents Early to Save Energy in Consumer Devices", in ACM Conference on AI and Agentic Systems ([CAIS 2026](https://www.caisconf.org/){:target="_blank"}), San Jose, California, May 26–29, 2026. [Paper](https://arxiv.org/abs/){:target="_blank"} available.
 
