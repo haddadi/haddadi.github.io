@@ -4,7 +4,7 @@ title: Hamed Haddadi
 permalink: /about/
 ---
 
-I am the Professor of Human-Centred Systems at the [Department of Computing](https://www.imperial.ac.uk/computing){:target="_blank"} at [Imperial College London](https://www.imperial.ac.uk){:target="_blank"}. I am part of the Networks and Systems Laboratory ([NetSys](https://netsys.doc.ic.ac.uk/){:target="_blank"}). In my industrial capacity, I am the Chief Scientific Advisor at [Brave](https://brave.com/){:target="_blank"}. 
+I am the Professor of Human-Centred Systems at the [Department of Computing](https://www.imperial.ac.uk/computing){:target="_blank"} at [Imperial College London](https://www.imperial.ac.uk){:target="_blank"}. I am part of the Networks and Systems Laboratory ([NetSys](https://netsys.doc.ic.ac.uk/){:target="_blank"}). In my industrial capacity, I am the Chief Scientific Advisor at [Brave](https://brave.com/){:target="_blank"} and the Co-Founder of [Mulini](https://mulini.eu/). 
 
 [Contact](https://www.imperial.ac.uk/people/h.haddadi){:target="_blank"}, [Bio](bio.txt){:target="_blank"}, [Code](https://github.com/haddadi){:target="_blank"}
 
