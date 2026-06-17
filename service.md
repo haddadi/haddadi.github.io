@@ -7,38 +7,9 @@ permalink: /service/
 * Chief Scientist, [Brave Software](https://brave.com/) (2021-)
 * Co-Founder and Chief Security Office, [Mulini SRL](https://mulini.eu/) (2025-)
 
-## Current Community Engagements (Program/Organising Committee)
-
-
-*   The 21st ACM European Conference on Computer Systems ([EuroSys 2026](https://2026.eurosys.org/index.html){:target="_blank"}) 
-
-*   The Network and Distributed System Security ([NDSS 2026](https://www.ndss-symposium.org/ndss2026/){:target="_blank"})
-
-*   The 23rd USENIX Symposium on Networked Systems Design and Implementation ([NSDI 2026](https://www.usenix.org/conference/nsdi26/){:target="_blank"})
-
-
 ## Consultancy
 
 I offer consultancy services on research project and patent disputes, privacy, online advertising, and systems approach to related areas. Please contact me for informal discussions about your requirements and projects.
-
-## External examination
-
-* Taught Programme External Examiner for the [MSc in Computer Science programme at Trinity College Dublin](http://www.scss.tcd.ie/postgraduate/msc-cs) (2020-2023)
-* Taught Programme External Examiner for the [UCL Telecommunications MSc](https://www.ucl.ac.uk/prospective-students/graduate/taught/degrees/telecommunications-msc) Programmes Board of Examiners (2017-2021)
-
-## Journals (Editorial Board)
-
-*   [Royal Society Open Science](http://rsos.royalsocietypublishing.org/) [Editorial Board](http://rsos.royalsocietypublishing.org/editorial-board) (Computer Sciences section, March 2017 until December 2019)
-
-*   ACM SIGCOMM [Computer Communication Review](https://ccronline.sigcomm.org){:target="_blank"} (Nov 2017- Dec 2020)
-
-
-## Journals (Reviewer)
-
-**I no longer perform reviews for commercial journals not supporting Open Access, or those (like Elsevier) taking part in political sanctions against any country.**
-
-IEEE Signal Processing Magazine, ACM Transactions on the Web (TWEB), ACM SIGCOMM Computer Communications Review (CCR), PLOS ONE, Computers in Human Behavior, Transactions on Database Systems, IEEE JSAC Special issue on Measuring and Troubleshooting the Internet, IEEE Transactions on Parallel and Distributed Systems, IEEE Transactions on Mobile Computing, IEEE Internet Computing, IEEE Transactions on Knowledge and Data Engineering, IEEE Communications Letters, IEEE JSAC on Network Science, IEEE Network, IET Networks, World Wide Web Journal, International Journal of Human-Computer Studies, MDPI Entropy, Springer World Wide Web Journal, Elsevier COMNET, Elsevier Social Networks, Elsevier Computer Communications, Wiley's handbook on Computer Networks, Computer Communications Journal, Springer Journal of the Network and Systems Management, Springer book 'Cloud Computing for Enterprise Architectures', Kunstliche Intelligenz (Artificial Intelligence), China Communications, IEEE Signal Processing Magazine, Wireless Networks (WINET), Springer Social Network Analysis and Mining (SNAM), New Media & Society
-
 
 ## Teaching
 
@@ -58,11 +29,16 @@ Cambridge University Computer Laboratory on MPhil course with Jon Crowcroft, Net
 
 I am also a Fellow of the [Higher Education Academy](https://www.heacademy.ac.uk/).
 
-
 ## Randoms:
 
 Fitness Instructor (part time), UCL Union Bloomsbury Fitness, June 2006-Jan 2009  
 Former President/Committee member, UCL Electrical Engineering Society ([Fleming](http://www.ee.ucl.ac.uk/about/history/fleming)o Society), ULU [Canoe Polo Club](https://www.studentcentral.london/organisation/CanoePolo/) , Kensington Wrestling Club , University of London Lifesaving club, UCL Union Persian society
+
+## Journals (Reviewer)
+
+**I no longer perform reviews for commercial journals not supporting Open Access, or those (like Elsevier) taking part in political sanctions against any country.**
+
+IEEE Signal Processing Magazine, ACM Transactions on the Web (TWEB), ACM SIGCOMM Computer Communications Review (CCR), PLOS ONE, Computers in Human Behavior, Transactions on Database Systems, IEEE JSAC Special issue on Measuring and Troubleshooting the Internet, IEEE Transactions on Parallel and Distributed Systems, IEEE Transactions on Mobile Computing, IEEE Internet Computing, IEEE Transactions on Knowledge and Data Engineering, IEEE Communications Letters, IEEE JSAC on Network Science, IEEE Network, IET Networks, World Wide Web Journal, International Journal of Human-Computer Studies, MDPI Entropy, Springer World Wide Web Journal, Elsevier COMNET, Elsevier Social Networks, Elsevier Computer Communications, Wiley's handbook on Computer Networks, Computer Communications Journal, Springer Journal of the Network and Systems Management, Springer book 'Cloud Computing for Enterprise Architectures', Kunstliche Intelligenz (Artificial Intelligence), China Communications, IEEE Signal Processing Magazine, Wireless Networks (WINET), Springer Social Network Analysis and Mining (SNAM), New Media & Society
 
 
 ## Past events & associations (and is there a [cure](http://www.usenix.org/event/wowcs08/tech/full_papers/crowcroft/crowcroft.pdf)?)
@@ -72,6 +48,16 @@ This list got too big to be useful, we have too many conferences and workshops (
 External Reviewer for ACM CSCW2015, IEEE WiMob (2011), IEEE/ACM MASCOTS,ACM SIGCOMM, IEEE INFOCOMM, IEEE/ACM ToN, USENIX NSDI, BCS HCI, ACM IMC, ACM UBICOMP, ACM ISWC  
 
 
+*   [Royal Society Open Science](http://rsos.royalsocietypublishing.org/) [Editorial Board](http://rsos.royalsocietypublishing.org/editorial-board) (Computer Sciences section, March 2017 until December 2019)
+
+*   ACM SIGCOMM [Computer Communication Review](https://ccronline.sigcomm.org){:target="_blank"} (Nov 2017- Dec 2020)
+
+*   The 21st ACM European Conference on Computer Systems ([EuroSys 2026](https://2026.eurosys.org/index.html){:target="_blank"})  
+
+*   The Network and Distributed System Security ([NDSS 2026](https://www.ndss-symposium.org/ndss2026/){:target="_blank"}) 
+
+*   The 23rd USENIX Symposium on Networked Systems Design and Implementation ([NSDI 2026](https://www.usenix.org/conference/nsdi26/){:target="_blank"}) 
+   
 *   The Second [Manchester Prize](https://manchesterprize.org/judging-panel/){:target="_blank"} 2025
 
 *   The 31st ACM Annual International Conference on Mobile Computing and Networking ([ACM MobiCom 2025](https://sigmobile.org/mobicom/2025/){:target="_blank"}) 
