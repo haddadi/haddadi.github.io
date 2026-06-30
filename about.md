@@ -4,7 +4,14 @@ title: Hamed Haddadi
 permalink: /about/
 ---
 
-I am the Professor of Human-Centred Systems at the [Department of Computing](https://www.imperial.ac.uk/computing){:target="_blank"} at [Imperial College London](https://www.imperial.ac.uk){:target="_blank"}. I am part of the Networks and Systems Laboratory ([NetSys](https://netsys.doc.ic.ac.uk/){:target="_blank"}). In my industrial capacity, I am the Chief Scientific Advisor at [Brave](https://brave.com/){:target="_blank"} and the Co-Founder of [Mulini](https://mulini.eu/). 
+### New role: 
+* From 1st October 2026, I will be joining the [Department of Computer Science](https://www.cs.ox.ac.uk){:target="_blank"} at [The University of Oxford](https://www.imperial.ac.uk){:target="_blank"}, alongside being an Official Fellow of [Kellogg College](https://www.kellogg.ox.ac.uk){:target="_blank"}.
+
+### Job Openings:
+* I will be looking for new DPhil students at Oxford to start from 2027 year., Please see the [DPhil in Computer Science](https://www.ox.ac.uk/admissions/graduate/courses/dphil-computer-science){:target="_blank"} pages on deadlines and application procedures. 
+
+
+I am the Professor of Human-Centred Systems at the [Department of Computing](https://www.imperial.ac.uk/computing){:target="_blank"} at [Imperial College London](https://www.ox.ac.uk){:target="_blank"}. I am part of the Networks and Systems Laboratory ([NetSys](https://netsys.doc.ic.ac.uk/){:target="_blank"}). In my industrial capacity, I am the Chief Scientific Advisor at [Brave](https://brave.com/){:target="_blank"} and the Co-Founder of [Mulini](https://mulini.eu/). 
 
 [Contact](https://www.imperial.ac.uk/people/h.haddadi){:target="_blank"}, [Bio](bio.txt){:target="_blank"}, [Code](https://github.com/haddadi){:target="_blank"}
 
