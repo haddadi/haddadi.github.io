@@ -12,6 +12,7 @@ I am the Professor of Human-Centred Systems at the [Department of Computing](htt
 ### News: 
 * From 1st October 2026, I will be joining the [Department of Computer Science](https://www.cs.ox.ac.uk){:target="_blank"} at [The University of Oxford](https://www.imperial.ac.uk){:target="_blank"}, alongside being an Official Fellow of [Kellogg College](https://www.kellogg.ox.ac.uk){:target="_blank"}. I will be looking for new DPhil students at Oxford to start from 2027 year., Please see the [DPhil in Computer Science](https://www.ox.ac.uk/admissions/graduate/courses/dphil-computer-science){:target="_blank"} pages on deadlines and application procedures. 
 
+* Aug 2026: Joined [MLSys 2027](https://mlsys.org/Conferences/2027/CallForResearchPapers) and [ICLR 2027](https://iclr.cc/Conferences/2027/CallForPapers) TPC.  
 * Jul 2026: Presented [AgenTEE](https://comet-cc.github.io) at Remote Attestation Challenges for AI Agents session at [IETF 126](https://sidemeetings.ietf.org/).
 * Jul 2026: Joined [ACM Mobicom 2027](https://www.sigmobile.org/mobicom/2027/) TPC.  
 * Jul 2026: Joined [ACM HotNets 2026](https://www.conferences.sigcomm.org/hotnets/2026/) TPC.  
