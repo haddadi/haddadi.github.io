@@ -15,7 +15,7 @@ I am the Professor of Human-Centred Systems at the [Department of Computing](htt
 * Aug 2026: Joined [MLSys 2027](https://mlsys.org/Conferences/2027/CallForResearchPapers), [AAAI 2027](https://aaai.org/conference/aaai/aaai-27/aia-call/) and [ICLR 2027](https://iclr.cc/Conferences/2027/CallForPapers) TPC.  
 * Jul 2026: Presented [AgenTEE](https://comet-cc.github.io) at Remote Attestation Challenges for AI Agents session at [IETF 126](https://sidemeetings.ietf.org/).
 * Jul 2026: Joined [ACM Mobicom 2027](https://www.sigmobile.org/mobicom/2027/) TPC.  
-* Jul 2026: Joined [ACM HotNets 2026](https://www.conferences.sigcomm.org/hotnets/2026/) TPC.  
+* Jul 2026: Joined [ACM HotNets 2026](https://conferences.sigcomm.org/hotnets/2026/) TPC.  
 * Jul 2026: Deliverd [IFIP TMA 2026](https://tma.ifip.org/2026/) Keynote on private and attestable telemtry in large-scale systems.  
 * Apr 2026: Joined [NDSS Symposium 2027](https://www.ndss-symposium.org/ndss2027/) TPC. 
 
