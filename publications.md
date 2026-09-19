@@ -9,7 +9,7 @@ permalink: /publications/
 
 ### 2026:  
 
-*   Amir Al Sadi, Sina Abdollahi, Adrien Ghosn, Hamed Haddadi, Marios Kogias "Sharing is caring: Attestable and Trusted Cloud Pipelines out of Distrustful Components", in [The 2026 ACM SIGOPS Annual Technical Conference (ATC 2026)](https://sigops.org/s/conferences/atc/2026/){:target="_blank"}, November 15-18, 2026 · Hyatt Hotel, Shatin, Hong Kong. [Paper](https://arxiv.org/abs/2603.03403){:target="_blank"} available.
+*   Amir Al Sadi, Sina Abdollahi, Adrien Ghosn, Hamed Haddadi, Marios Kogias "Sharing is caring: Attestable and Trusted Cloud Pipelines out of Distrustful Components", in [The 2026 ACM SIGOPS Annual Technical Conference (ATC 2026)](https://sigops.org/s/conferences/atc/2026/){:target="_blank"}, November 15-18, 2026, Shatin, Hong Kong. [Paper](https://arxiv.org/abs/2603.03403){:target="_blank"} available.
 
 *   Evangelos Lempesis, Fabio Palmese, Hamed Haddadi, Anna Maria Mandalari, "CERTIoT-6G: Continuous Cybersecurity Certification for IoT Devices in 5G/6G Networks", in [IEEE Conference on Standards for Communications and Networking 2026 (CSCN 2026)](https://www.comsoc.org/conferences-events/ieee-conference-standards-communications-and-networking-2026){:target="_blank"}, 7 - 9 September 2026, London, United Kingdom. [Paper](https://arxiv.org/abs/2608.23339){:target="_blank"} available.  
 
