@@ -4,13 +4,18 @@ title: Hamed Haddadi
 permalink: /about/
 ---
 
-I am the Professor of Human-Centred Systems at the [Department of Computing](https://www.imperial.ac.uk/computing){:target="_blank"} at [Imperial College London](https://www.ox.ac.uk){:target="_blank"}. I am part of the Networks and Systems Laboratory ([NetSys](https://netsys.doc.ic.ac.uk/){:target="_blank"}). In my industrial capacity, I am the Chief Scientific Advisor at [Brave](https://brave.com/){:target="_blank"} and the Co-Founder of [Mulini](https://mulini.eu/). 
+I am the Professor of Human-Centred Systems at the [Department of Computer Science](https://www.cs.ox.ac.uk){:target="_blank"} at [The University of Oxford](https://www.imperial.ac.uk){:target="_blank"}, alongside being an Official Fellow of [Kellogg College](https://www.kellogg.ox.ac.uk){:target="_blank"}. In my industrial capacity, I am the Chief Scientific Advisor at [Brave](https://brave.com/){:target="_blank"} and the Co-Founder of [Mulini](https://mulini.eu/). 
 
 [Contact](mailto:hamed.haddadi@cs.ox.ac.uk){:target="_blank"}, [Bio](bio.txt){:target="_blank"}, [Code](https://github.com/haddadi){:target="_blank"}
 
+### Job Openings
+
+ I will be looking for new DPhil students at Oxford to start from 2027 year. Please see the [DPhil in Computer Science](https://www.ox.ac.uk/admissions/graduate/courses/dphil-computer-science){:target="_blank"} pages on deadlines and application procedures. 
+
+ <!--- * Research Associate in User-Centred Systems’ Security/Privacy, Deadline 7th August 2024. [Link](https://www.imperial.ac.uk/jobs/search-jobs/description/index.php?jobId=19328&jobTitle=Research+Associate+in+User-Centred+Systems%E2%80%99+Security%2FPrivacy) --->
+
 
 ### News: 
-* From 1st October 2026, I will be joining the [Department of Computer Science](https://www.cs.ox.ac.uk){:target="_blank"} at [The University of Oxford](https://www.imperial.ac.uk){:target="_blank"}, alongside being an Official Fellow of [Kellogg College](https://www.kellogg.ox.ac.uk){:target="_blank"}. I will be looking for new DPhil students at Oxford to start from 2027 year., Please see the [DPhil in Computer Science](https://www.ox.ac.uk/admissions/graduate/courses/dphil-computer-science){:target="_blank"} pages on deadlines and application procedures. 
 
 * Sep 2026: Joined IEEE European Symposium on Security and Privacy 2027 TPC.
 * Aug 2026: Joined [MLSys 2027](https://mlsys.org/Conferences/2027/CallForResearchPapers), [AAAI 2027](https://aaai.org/conference/aaai/aaai-27/aia-call/) and [ICLR 2027](https://iclr.cc/Conferences/2027/CallForPapers) TPC.  
@@ -21,14 +26,10 @@ I am the Professor of Human-Centred Systems at the [Department of Computing](htt
 * Apr 2026: Joined [NDSS Symposium 2027](https://www.ndss-symposium.org/ndss2027/) TPC. 
 
 
-<!---### Job Openings
-
- * Research Associate in User-Centred Systems’ Security/Privacy, Deadline 7th August 2024. [Link](https://www.imperial.ac.uk/jobs/search-jobs/description/index.php?jobId=19328&jobTitle=Research+Associate+in+User-Centred+Systems%E2%80%99+Security%2FPrivacy) --->
-
-
 ## Extended Biography
 
-* Aug 2018- Aug 2021, Visiting Professor, [Brave Software](https://brave.com/)
+* Nov 2017 - Sep 2026, Professor of Human-Centred Systems at the [Department of Computing](https://www.imperial.ac.uk/computing){:target="_blank"} at [Imperial College London](https://www.ox.ac.uk){:target="_blank"}
+* Aug 2018 - Aug 2021, Visiting Professor, [Brave Software](https://brave.com/)
 * July 2019 - Aug 2019: Visitor, [Foundation for Research and Technology - Hellas (FORTH) Institute of Computer Science](https://www.ics.forth.gr) 
 * Oct 2011 - Oct 2017: Lecturer and Senior Lecturer in Digital Media, [School of Electronic Engineering and Computer Science](http://www.eecs.qmul.ac.uk/), [Queen Mary University of London](http://www.qmul.ac.uk/) 
 * May 2014 - Dec 2015: Research Scientist, [Qatar Computing Research Institute](http://qcri.org/our-research/social-computing)  
