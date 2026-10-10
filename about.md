@@ -10,7 +10,7 @@ I am the Professor of Human-Centred Systems at the [Department of Computer Scien
 
 ### Job Openings
 
- I will be looking for new DPhil students at Oxford to start from 2027 year. Please see the [DPhil in Computer Science](https://www.ox.ac.uk/admissions/graduate/courses/dphil-computer-science){:target="_blank"} pages on deadlines and application procedures. 
+ I am accepting new DPhil students at Oxford to start from Autumn 2027. Please see the [DPhil in Computer Science](https://www.ox.ac.uk/admissions/graduate/courses/dphil-computer-science){:target="_blank"} pages on deadlines and application procedures. There are several scholarships and sources of funding available, including [Departmental Scholarships](https://www.cs.ox.ac.uk/admissions/graduate/researchstudentshipsandscholarships.html){:target="_blank"}, [University's Graduate Funding](http://www.ox.ac.uk/students/fees-funding){:target="_blank"}, Colleges' own Scholarships, [Oxford-Max-Planck Doctoral Programme](https://omp.mpi-sws.org/){:target="_blank"}, [EIT Scholarships](https://eit.org/education-and-scholarships){:target="_blank"}, [China Oxford Scholarship Fund](https://chinaoxford.org), [The Rhodes Scholarships for Hong Kong](https://www.rhodeshouse.ox.ac.uk/scholarships/applications/hong-kong-sar/){:target="_blank"}, [Clarendon Fund](https://www.ox.ac.uk/admissions/graduate/fees-and-funding/funding/clarendon){:target="_blank"}, and many more options.  
 
  <!--- * Research Associate in User-Centred Systems’ Security/Privacy, Deadline 7th August 2024. [Link](https://www.imperial.ac.uk/jobs/search-jobs/description/index.php?jobId=19328&jobTitle=Research+Associate+in+User-Centred+Systems%E2%80%99+Security%2FPrivacy) --->
 
