@@ -6,9 +6,7 @@ permalink: /research/
 
 (Better strategy [1](http://www.cs.virginia.edu/%7Erobins/YouAndYourResearch.html), [2](http://www.cl.cam.ac.uk/%7Ejac22/zen-lab.txt) & [3](http://greatresearch.org/))
 
-For project details, please visit the Networks and Systems Laboratory ([NetSys](https://netsys.doc.ic.ac.uk/){:target="_blank"} ) pages.
-
-<a href="https://netsys.doc.ic.ac.uk/"><img src="https://github.com/haddadi/haddadi.github.io/blob/master/images/NetSys%20social%20logo%203.png?raw=true" width="200"/>
+For project details, please visit the Oxford CS [Security](https://www.cs.ox.ac.uk/activities/security/){:target="_blank"} and [Systems](https://www.cs.ox.ac.uk/research/cyberphysical/index.html){:target="_blank"} pages.
 
   
 ## Current Projects and Grants
@@ -39,7 +37,7 @@ For project details, please visit the Networks and Systems Laboratory ([NetSys](
 
 
   
-I am interested in hearing from potential PhD students in my areas of research interests. If you have interesting ideas and wish to discuss funding opportunities for next year, please send me an [email](mailto:h.haddadi@imperial.ac.uk) (no attachments please!)
+I am interested in hearing from potential DPhil (PhD) students in my areas of research interests. If you have interesting ideas and wish to discuss funding opportunities for next year, please send me an [email](mailto:hamed.haddadi@cs.ox.ac.uk) (no attachments please!)
 
 ## Past Projects/Grants
 *   UK  Advanced Research + Invention Agency [ARIA](https://www.aria.org.uk/){:target="_blank"} [Trust Everything Everywhere](https://www.aria.org.uk/programme-development-scaling-trust/){:target="_blank"} Opportunity Space grants "AgentMatrix: Towards Automated Benchmarking and Securing of AI Agent Interactions", 2026 
