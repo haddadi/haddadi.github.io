@@ -17,7 +17,8 @@ I am the Professor of Human-Centred Systems at the [Department of Computer Scien
 
 ### News: 
 
-* Sep 2026: Joined IEEE European Symposium on Security and Privacy 2027 TPC.
+* Nov 2027: Joined USENIX Conference on Secure Agentic-AI Systems ([SAIS '27](https://www.usenix.org/conference/sais27/call-for-papers){:target="_blank"}) TPC.
+* Sep 2026: Joined IEEE European Symposium on Security and Privacy 2027 ([EuroS&P'27](https://eurosp2027.ieee-security.org/){:target="_blank"}) TPC.
 * Aug 2026: Joined [MLSys 2027](https://mlsys.org/Conferences/2027/CallForResearchPapers), [AAAI 2027](https://aaai.org/conference/aaai/aaai-27/aia-call/) and [ICLR 2027](https://iclr.cc/Conferences/2027/CallForPapers) TPC.  
 * Jul 2026: Presented [AgenTEE](https://comet-cc.github.io) at Remote Attestation Challenges for AI Agents session at [IETF 126](https://sidemeetings.ietf.org/).
 * Jul 2026: Joined [ACM Mobicom 2027](https://www.sigmobile.org/mobicom/2027/) TPC.  
