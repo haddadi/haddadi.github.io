@@ -20,6 +20,8 @@ For project details, please visit the Oxford CS [Security](https://www.cs.ox.ac.
 
 ## Current Research Staff
 
+*   Dr [Ying Yuan](https://yingyuansec.github.io/){:target="_blank"}, Postdoctoral Research Associate on the EU Marie Skłodowska-Curie Actions (MSCA) grant (Advanced User-centric, Trustworthy and Privacy-preserving AI-powered Search Engine)
+
 *   Dr [Javad Forough](https://javad-forough.github.io/){:target="_blank"}, Postdoctoral Research Associate on the EPSRC [Open Plus Fellowship](https://epsrc.ukri.org/skills/fellows/){:target="_blank"} ([Securing the Next Billion Consumer Devices on the Edge](https://netsys.doc.ic.ac.uk/research.html#fellowship){:target="_blank"}) 
 
 *   Dr [Amir Al Sadi](https://alsadiamir.github.io/){:target="_blank"}, Postdoctoral Research Associate on the EPSRC [Open Plus Fellowship](https://epsrc.ukri.org/skills/fellows/){:target="_blank"} ([Securing the Next Billion Consumer Devices on the Edge](https://netsys.doc.ic.ac.uk/research.html#fellowship){:target="_blank"}) 
