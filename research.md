@@ -14,8 +14,6 @@ For project details, please visit the Oxford CS [Security](https://www.cs.ox.ac.
 *   Marie Skłodowska-Curie Actions (MSCA), "Advanced User-centric, Trustworthy and Privacy-preserving AI-powered Search Engine", (€276K, 2026-2028) 
 *   EPSRC [Open Plus Fellowship](https://epsrc.ukri.org/skills/fellows/){:target="_blank"} ([EP/W005271/1: Securing the Next Billion Consumer Devices on the Edge](https://gtr.ukri.org/projects?ref=EP%2FW005271%2F1){:target="_blank"}, £1,5m, 2022-2027) 
 *   EU [CHIST-ERA](https://www.chistera.eu/projects/graphs4sec){:target="_blank"} ([GNNs for Network Security (and Privacy) GRAPHS4SEC](https://gtr.ukri.org/projects?ref=EP%2FY036050%2F1){:target="_blank"}, €1,2m, 2024-2027) 
-*   UKRI AI Centre for Doctoral Training in Digital Healthcare ([AI4Health](https://ai4health.io/){:target="_blank"}), ([EP/Y030974/1](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/Y030974/1){:target="_blank"}, £9.2M,  September 2024- March 2033)  
-
 
 
 ## Current Research Staff
@@ -42,6 +40,8 @@ For project details, please visit the Oxford CS [Security](https://www.cs.ox.ac.
 I am interested in hearing from potential DPhil (PhD) students in my areas of research interests. If you have interesting ideas and wish to discuss funding opportunities for next year, please send me an [email](mailto:hamed.haddadi@cs.ox.ac.uk) (no attachments please!)
 
 ## Past Projects/Grants
+
+*   UKRI AI Centre for Doctoral Training in Digital Healthcare ([AI4Health](https://ai4health.io/){:target="_blank"}), ([EP/Y030974/1](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/Y030974/1){:target="_blank"}, £9.2M,  September 2024- March 2033)  
 *   UK  Advanced Research + Invention Agency [ARIA](https://www.aria.org.uk/){:target="_blank"} [Trust Everything Everywhere](https://www.aria.org.uk/programme-development-scaling-trust/){:target="_blank"} Opportunity Space grants "AgentMatrix: Towards Automated Benchmarking and Securing of AI Agent Interactions", 2026 
 *   UK [AISI](https://www.aisi.gov.uk){:target="_blank"} Systemic AI Safety grants "C3Infer: A Framework for Compartmentalized, Confidential, and Certified AI Inference ", £200k, 2025-2026 
 *   [SPRITE+2 HUB](https://spritehub.org/){:target="_blank"}, The Security, Privacy, Identity and Trust Engagement Networkplus (phase 2): EPSRC Network Plus grant ([EP/W020408/1](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/W020408/1){:target="_blank"}, £2,652,185 , September 2023- August 2027) 
